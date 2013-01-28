@@ -1,0 +1,128 @@
+s14-d43_1_1	The woman takes out two potatoes, a knife, and a slicer.	s14-d43	224	545	potatoes	553
+s14-d43_1_2	The woman then takes out two bowls.	s14-d43	551	884	potatoes	868
+s14-d43_1_3	Using the slicer, the woman peels off the skin of the potatoes.  She uses one of the bowls for the skins, and the other for the skinless potatoes.	s14-d43	906	2974	potatoes	2976
+s14-d43_1_4	She washes the potatoes in the bowl and gets rid of the excess water in the bowl.	s14-d43	3039	3185	potatoes	3192
+s14-d43_1_5	She discards the peels and washes the bowl.	s14-d43	3332	3651	potatoes	3655
+s14-d43_1_6	She cuts the potatoes into large chunks.	s14-d43	3739	4324	potatoes	4426
+s14-d43_2_1	She walked to the pantry, took out two potatoes, brought them to the counter, opened the drawer and took out a peeler, knife, and two bowls.	s14-d43	224	884	potatoes	866
+s14-d43_2_2	She peeled the first potato into the first bowl and placed the naked potato into the second bowl.	s14-d43	906	1877	potatoes	1870
+s14-d43_2_3	She peeled the second potato into the first bowl and placed the naked potato into the second bowl.	s14-d43	1902	2974	potatoes	2986
+s14-d43_2_4	She rinsed and drained the peeled potatoes.	s14-d43	3039	3185	potatoes	3224
+s14-d43_2_5	She threw out the potato scraps and rinsed out the bowl.	s14-d43	3332	3651	potatoes	3676
+s14-d43_2_6	She diced the potatoes in the bowl.	s14-d43	3739	4324	potatoes	4378
+s14-d43_2_7	She rinsed off the peeler and knife.	s14-d43	4413	4586	potatoes	4624
+s14-d43_3_1	person gets potatoes	s14-d43	224	386	potatoes	334
+s14-d43_3_2	person gets knife and peeler	s14-d43	393	545	potatoes	532
+s14-d43_3_3	person gets bowl	s14-d43	551	827	potatoes	828
+s14-d43_3_4	person peels potatoes	s14-d43	830	2974	potatoes	3000
+s14-d43_3_5	person washes potatoes	s14-d43	3039	3185	potatoes	3218
+s14-d43_3_6	person cuts potatoes	s14-d43	3332	4324	potatoes	4400
+s14-d43_4_1	The person gets out two potatoes.	s14-d43	224	386	potatoes	388
+s14-d43_4_2	The person gets out a knife and a vegetable peeler.	s14-d43	393	545	potatoes	526
+s14-d43_4_3	The person gets out two bowls.	s14-d43	551	827	potatoes	842
+s14-d43_4_4	The person peels the potatoes.	s14-d43	830	2974	potatoes	3000
+s14-d43_4_5	The person rinses the potatoes.	s14-d43	3039	3185	potatoes	3250
+s14-d43_4_6	The person throws away the peels.	s14-d43	3332	3552	potatoes	3586
+s14-d43_4_7	The person cuts up the potatoes.	s14-d43	3588	4324	potatoes	4378
+s14-d43_4_8	The person rinses the knife and peeler.	s14-d43	4413	4586	potatoes	4646
+s14-d43_5_1	 The person gets out two potatoes.	s14-d43	224	386	potatoes	396
+s14-d43_5_2	The person gets out a knife and a vegetable peeler.	s14-d43	393	545	potatoes	534
+s14-d43_5_3	The person gets out two bowls.	s14-d43	551	827	potatoes	838
+s14-d43_5_4	The person peels the potatoes.	s14-d43	830	2974	potatoes	3014
+s14-d43_5_5	The person rinses the potatoes.	s14-d43	3039	3185	potatoes	3240
+s14-d43_5_6	The person throws away the peel.	s14-d43	3332	3552	potatoes	3602
+s14-d43_5_7	The person cuts up the potatoes.	s14-d43	3588	4324	potatoes	4382
+s14-d43_5_8	The person rinses the knife and peeler.	s14-d43	4413	4586	potatoes	4610
+s14-d43_6_1	The person gets out two potatoes.	s14-d43	224	386	potatoes	382
+s14-d43_6_2	The person gets out a knife and vegetable peeler.	s14-d43	393	500	potatoes	518
+s14-d43_6_3	The person gets out two bowls.	s14-d43	500	827	potatoes	840
+s14-d43_6_4	The person peels the potatoes, putting the peels in one bowl and the potatoes in the other.	s14-d43	830	2974	potatoes	2970
+s14-d43_6_5	The person rinses the potatoes.	s14-d43	3039	3185	potatoes	3224
+s14-d43_6_6	The person throws away the peels.	s14-d43	3332	3552	potatoes	3552
+s14-d43_6_7	The person rinses the bowl the peels were in.	s14-d43	3588	3651	potatoes	3680
+s14-d43_6_8	The person cuts up the potatoes.	s14-d43	3739	4324	potatoes	4356
+s14-d43_6_9	The person rinses the knife and peeler.	s14-d43	4413	4586	potatoes	4590
+s14-d43_7_1	She gets two potatoes.	s14-d43	224	386	potatoes	410
+s14-d43_7_2	She gets out two bowls.	s14-d43	393	827	potatoes	826
+s14-d43_7_3	She starts skinning the potatoes.	s14-d43	830	884	potatoes	1036
+s14-d43_7_4	She starts skinning the second potato.	s14-d43	906	1877	potatoes	2124
+s14-d43_7_5	She washes the potatoes.	s14-d43	1902	2974	potatoes	3078
+s14-d43_7_6	She cuts the potatoes into small pieces.	s14-d43	3039	3945	potatoes	3948
+s14-d43_9_1	She gets two potatoes.	s14-d43	224	386	potatoes	414
+s14-d43_9_2	She gets a parer and a small knife.	s14-d43	393	545	potatoes	538
+s14-d43_9_3	She gets two bowls.	s14-d43	551	827	potatoes	852
+s14-d43_9_4	She starts skinning the first potato.	s14-d43	830	884	potatoes	1028
+s14-d43_9_5	She skins the second potato.	s14-d43	906	1877	potatoes	2124
+s14-d43_9_6	She washes the potatoes.	s14-d43	1902	3185	potatoes	3178
+s14-d43_9_7	She starts chopping the potatoes.	s14-d43	3332	3945	potatoes	3954
+s14-d43_9_8	She washes the tools.	s14-d43	4413	4586	potatoes	4646
+s14-d43_11_1	Peel the potato over a bowl	s14-d43	224	884	potatoes	1000
+s14-d43_11_2	Cut off anything that the peeler didn't get.	s14-d43	906	1848	potatoes	1792
+s14-d43_11_3	Place peeled potato into a separate bowl.	s14-d43	1848	1877	potatoes	1958
+s14-d43_11_4	Repeat steps 1-3 with other potatoes.	s14-d43	1902	2838	potatoes	2630
+s14-d43_11_5	Rinse off peeled potatoes.	s14-d43	2858	3185	potatoes	3120
+s14-d43_11_6	Throw away peels.	s14-d43	3332	3552	potatoes	3458
+s14-d43_11_7	Slice potatoes into chunks.	s14-d43	3996	4092	potatoes	4080
+s14-d43_12_1	the person gets 2 potatoes	s14-d43	224	386	potatoes	405
+s14-d43_12_2	the person gets a knife, peeler, and two small silver bowls.	s14-d43	393	827	potatoes	848
+s14-d43_12_3	the person peels the first potatoe	s14-d43	830	1877	potatoes	1875
+s14-d43_12_4	the person peels the second potatoe	s14-d43	1902	2974	potatoes	2978
+s14-d43_12_5	the person washes the peeled potatoes	s14-d43	3039	3185	potatoes	3225
+s14-d43_12_6	the person throws away the peels	s14-d43	3332	3552	potatoes	3591
+s14-d43_12_7	the person cuts the potatoes into small pieces.	s14-d43	4118	4324	potatoes	4392
+s14-d43_12_8	the person washes the peeler	s14-d43	4413	4586	potatoes	4665
+s14-d43_13_1	The person gets two medium potatoes out of the cupboard.	s14-d43	224	386	potatoes	404
+s14-d43_13_2	The person gets out a potato peeler and a knife.	s14-d43	393	545	potatoes	600
+s14-d43_13_3	The person gets out two small bowls.	s14-d43	551	884	potatoes	892
+s14-d43_13_4	The person peels the first potato with the peeler and uses the knife to cut out any bad spots and then puts the potato in a bowl.	s14-d43	906	1877	potatoes	1888
+s14-d43_13_5	The person peels the second potato, removes the bad spots and puts it in a bowl.	s14-d43	1902	2974	potatoes	3026
+s14-d43_13_6	The person rinses off both peeled potatoes in the bowl.	s14-d43	3039	3185	potatoes	3246
+s14-d43_13_7	The person throws away the potato peels.	s14-d43	3332	3552	potatoes	3588
+s14-d43_13_8	The person rinses out the potato peel bowl.	s14-d43	3588	3651	potatoes	3704
+s14-d43_13_9	The person cuts up the potatoes into chunks over the bowl.	s14-d43	3588	4324	potatoes	4386
+s14-d43_13_10	The person rinses off the knife and the potato peeler.	s14-d43	3996	4586	potatoes	4648
+s14-d43_14_1	She removes two potatoes from the cabinet and places them on the counter.	s14-d43	224	386	potatoes	394
+s14-d43_14_2	She removes utensils from the drawer.	s14-d43	393	545	potatoes	531
+s14-d43_14_3	She removes two bowls from the drawer and places them on the counter.	s14-d43	551	827	potatoes	852
+s14-d43_14_4	She peels and cores the first potato and places it into a bowl.	s14-d43	830	1877	potatoes	1870
+s14-d43_14_5	She peels and cores the second potato and places it into the bowl with the first potato.	s14-d43	1902	2974	potatoes	2970
+s14-d43_14_6	She rinses the bowl of potatoes with water and places it back on the counter.	s14-d43	3039	3185	potatoes	3229
+s14-d43_14_7	She discards the potato peelings into the recycling bin.	s14-d43	3332	3552	potatoes	3584
+s14-d43_14_8	She rinses the bowl and places it in the dish drain.	s14-d43	3588	3651	potatoes	3673
+s14-d43_14_9	She cuts the two potatoes into small pieces.	s14-d43	3588	4324	potatoes	4387
+s14-d43_14_10	She rinses the utensils she used and places them in the dish drain.	s14-d43	4413	4586	potatoes	4605
+s14-d43_15_1	The woman prepares her station by getting two potatoes, a peeler, a small knife, and a couple of bowls.	s14-d43	224	772	potatoes	801
+s14-d43_15_2	The woman peels and removes any remaining 'eyes' from both potatoes.	s14-d43	775	2974	potatoes	2965
+s14-d43_15_3	The woman rinses the potatoes with water and drains them.	s14-d43	3039	3185	potatoes	3159
+s14-d43_15_4	The woman throws away the excess peelings.	s14-d43	3332	3552	potatoes	3598
+s14-d43_15_5	The woman dices the potatoes into large pieces.	s14-d43	3739	4324	potatoes	4368
+s14-d43_15_6	The woman cleans her utensils.	s14-d43	4413	4586	potatoes	4568
+s14-d43_16_1	She took out potatoes	s14-d43	224	386	potatoes	359
+s14-d43_16_2	She took out peeler and knife	s14-d43	393	500	potatoes	506
+s14-d43_16_3	She took out bowl	s14-d43	500	772	potatoes	729
+s14-d43_16_4	She peeled first potato	s14-d43	775	1877	potatoes	1893
+s14-d43_16_5	She peeled second potato	s14-d43	1902	2974	potatoes	2969
+s14-d43_16_6	She washed potatoes	s14-d43	3039	3185	potatoes	3218
+s14-d43_16_7	She threw out peels	s14-d43	3332	3552	potatoes	3581
+s14-d43_16_8	She washed bowl	s14-d43	3588	3651	potatoes	3668
+s14-d43_17_1	The woman prepares her materials for the preparation of the potatoes: A knife, a peeler, two bowls, and one potato.	s14-d43	224	884	potatoes	930
+s14-d43_17_2	There are actually two potatoes, both of which she peels and places into one bowl.	s14-d43	906	2974	potatoes	2984
+s14-d43_17_3	She rinses off the peeled potatoes in the sink.	s14-d43	3039	3185	potatoes	3284
+s14-d43_17_4	She discards the potato skin and rinses out the bowl that they were in.	s14-d43	3332	3651	potatoes	3710
+s14-d43_17_5	She slices each potato down the middle vertically, then cuts it into smaller pieces horizontally.	s14-d43	3739	4324	potatoes	4415
+s14-d43_17_6	She rinses off the peeler in the sink.	s14-d43	4413	4586	potatoes	4665
+s14-d43_18_1	The person gets two potatoes, a knife, a vegetable peeler and two bowls.	s14-d43	224	827	potatoes	828
+s14-d43_18_2	The person uses the peeler to peel the skin off one of the potatoes.	s14-d43	830	1606	potatoes	1656
+s14-d43_18_3	The person uses the knife to trim off remaining skin, debris and eyes.	s14-d43	1625	1877	potatoes	1918
+s14-d43_18_4	The person repeats the previous two steps with second potato.	s14-d43	1902	2974	potatoes	3012
+s14-d43_18_5	The person puts the peeled potatoes in a bowl and rinses them off.	s14-d43	3039	3185	potatoes	3280
+s14-d43_18_6	The person discards skin and rinses that bowl.	s14-d43	3332	3651	potatoes	3712
+s14-d43_18_7	The person uses the knife to cut the potatoes in chunks one-half inch to one inch thick.	s14-d43	3588	4324	potatoes	4450
+s14-d43_18_8	The person rinses the utensils.	s14-d43	4413	4586	potatoes	4664
+s14-d43_19_1	She gathers supplies.	s14-d43	224	827	potatoes	850
+s14-d43_19_2	Woman peels potato.	s14-d43	830	1606	potatoes	1660
+s14-d43_19_3	Woman removes potato's eyes with knife.	s14-d43	1625	1848	potatoes	1862
+s14-d43_19_4	Woman peels the second potato.	s14-d43	1848	2838	potatoes	2882
+s14-d43_19_5	Woman removes eye from second potato.	s14-d43	2858	2974	potatoes	2980
+s14-d43_19_6	Woman continues by washing potatoes and throwing away the peels.	s14-d43	3039	3552	potatoes	3606
+s14-d43_19_7	Woman slices potatoes then rinses knife and peeler.	s14-d43	4413	4586	potatoes	4518

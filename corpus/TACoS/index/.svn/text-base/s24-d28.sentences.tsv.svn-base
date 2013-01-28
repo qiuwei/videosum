@@ -1,0 +1,108 @@
+s24-d28_1_1	She took out orange	s24-d28	246	947	orange	823
+s24-d28_1_2	She took out knife	s24-d28	963	1248	orange	1288
+s24-d28_1_3	She washed orange	s24-d28	1318	1648	orange	1659
+s24-d28_1_4	She took out plate	s24-d28	1648	2246	orange	2181
+s24-d28_1_5	She peeled orange	s24-d28	2292	5840	orange	5841
+s24-d28_1_6	She threw away peel	s24-d28	5882	6922	orange	6924
+s24-d28_1_7	She separated orange	s24-d28	6979	7124	orange	7157
+s24-d28_2_1	Get your oranges.	s24-d28	246	947	orange	884
+s24-d28_2_2	Grab a knife.	s24-d28	963	1248	orange	1240
+s24-d28_2_3	Wash your oranges first.	s24-d28	1318	1704	orange	1688
+s24-d28_2_4	Dry the oranges.	s24-d28	1704	1904	orange	1926
+s24-d28_2_5	Cut the top of the orange in a circle.	s24-d28	1972	2595	orange	2554
+s24-d28_2_6	Peel off the top.	s24-d28	2595	2746	orange	2758
+s24-d28_2_7	Slice the rest of the skin up and peel it off.	s24-d28	2917	4658	orange	4700
+s24-d28_2_8	Cut the orange in half.	s24-d28	4664	6176	orange	6264
+s24-d28_5_1	The person procures a bag of oranges from the fridge.	s24-d28	246	947	orange	952
+s24-d28_5_2	The person takes out a knife from the drawer and cuts the bag open.	s24-d28	963	1400	orange	1414
+s24-d28_5_3	The person washes the orange in the sink.	s24-d28	1400	1704	orange	1714
+s24-d28_5_4	The person procures a plate from the cabinet.	s24-d28	1704	2246	orange	2248
+s24-d28_5_5	The person peels the orange with the knife.	s24-d28	2292	5799	orange	5738
+s24-d28_5_6	The person throws the peels into the wastebin.	s24-d28	6776	6922	orange	6906
+s24-d28_6_1	The person gets out a bag of oranges.	s24-d28	246	947	orange	948
+s24-d28_6_2	The person gets out a knife.	s24-d28	963	1248	orange	1242
+s24-d28_6_3	The person takes one orange from the bag and rinses it.	s24-d28	1318	1704	orange	1714
+s24-d28_6_4	The person gets out a plate.	s24-d28	1704	2246	orange	2238
+s24-d28_6_5	The person peels the orange.	s24-d28	2292	5840	orange	5856
+s24-d28_6_6	The person breaks the orange in half.	s24-d28	5882	6090	orange	6084
+s24-d28_6_7	The person throws away the orange peel.	s24-d28	5799	6922	orange	6922
+s24-d28_6_8	The person breaks the orange in quarters.	s24-d28	6979	7124	orange	7126
+s24-d28_7_1	The person gets an orange from the refrigerator.	s24-d28	246	947	orange	802
+s24-d28_7_2	The person washes the orange in the sink.	s24-d28	963	1648	orange	1646
+s24-d28_7_3	The person makes a cut in the peel of the orange and then takes the peel off the orange.	s24-d28	1648	4658	orange	4532
+s24-d28_7_4	The person removes any excess skin off the orange using a knife.	s24-d28	4664	5840	orange	5876
+s24-d28_7_5	The person pries the orange open using her fingers.	s24-d28	5882	6090	orange	6088
+s24-d28_7_6	The person discards the orange peels and opens the orange into fourths.	s24-d28	6979	7124	orange	7128
+s24-d28_8_1	She took out oranges	s24-d28	246	947	orange	794
+s24-d28_8_2	She took out knife	s24-d28	963	1248	orange	1262
+s24-d28_8_3	She washed orange	s24-d28	1318	1648	orange	1656
+s24-d28_8_4	She dried orange	s24-d28	1648	1904	orange	1912
+s24-d28_8_5	She took out plate	s24-d28	1972	2246	orange	2136
+s24-d28_8_6	She peeled orange	s24-d28	2292	4658	orange	4718
+s24-d28_8_7	She broke orange in half	s24-d28	4664	6176	orange	6472
+s24-d28_8_8	She threw away peels	s24-d28	6130	6922	orange	6856
+s24-d28_8_9	She separated orange	s24-d28	6130	7124	orange	7224
+s24-d28_9_1	She gets oranges.	s24-d28	246	947	orange	994
+s24-d28_9_2	She washes an orange.	s24-d28	963	1648	orange	1620
+s24-d28_9_3	She cut off the end of the orange.	s24-d28	1648	2746	orange	3022
+s24-d28_9_4	She peels the skin of the orange.	s24-d28	2917	4658	orange	4304
+s24-d28_9_5	She splits the orange in half.	s24-d28	4664	6090	orange	6008
+s24-d28_9_6	She throws away the peel.	s24-d28	6130	6176	orange	6798
+s24-d28_10_1	She goes to the refrigerator and takes out a bag of oranges and places them on the counter.	s24-d28	246	947	orange	946
+s24-d28_10_2	She goes to the drawer and takes out a knife and cuts the bag open.	s24-d28	963	1507	orange	1486
+s24-d28_10_3	She takes out one orange and goes to the sink and washes and then dries the orange.	s24-d28	1514	1904	orange	1916
+s24-d28_10_4	She goes to the cupboard and takes out a plate and places it on the counter.	s24-d28	1972	2246	orange	2270
+s24-d28_10_5	She cuts and peels the orange with the knife.	s24-d28	2292	5840	orange	5890
+s24-d28_10_6	She then pries the orange apart into two pieces.	s24-d28	5882	6176	orange	6208
+s24-d28_10_7	She picks up the rinds and throws them away in the trash.	s24-d28	6776	6922	orange	6934
+s24-d28_10_8	She picks up the orange again and pries it apart some more.	s24-d28	6979	7124	orange	7226
+s24-d28_11_1	The person gets out a bag of oranges.	s24-d28	246	947	orange	958
+s24-d28_11_2	The person gets out a knife.	s24-d28	963	1248	orange	1288
+s24-d28_11_3	The person takes out one orange and rinses it.	s24-d28	1318	1904	orange	1918
+s24-d28_11_4	The person gets out a plate.	s24-d28	1972	2246	orange	2270
+s24-d28_11_5	The person peels the orange.	s24-d28	2292	5840	orange	5844
+s24-d28_11_6	The person breaks the orange in half.	s24-d28	5882	6090	orange	6102
+s24-d28_11_7	The person throws away the orange peel.	s24-d28	6776	6922	orange	6934
+s24-d28_11_8	The person breaks the orange into quarters.	s24-d28	6979	7124	orange	7188
+s24-d28_13_1	The person takes out a knife.	s24-d28	246	1248	orange	1348
+s24-d28_13_2	The person takes out an orange.	s24-d28	1318	1543	orange	1530
+s24-d28_13_3	The person takes out a plate.	s24-d28	1560	2246	orange	2254
+s24-d28_13_4	Using the knife for help, the person peels the orange.	s24-d28	2292	5840	orange	5894
+s24-d28_13_5	Using her hands, the person splits the orange into quarters.	6979	7124
+s24-d28_13_6	The person is done.	6979	7124
+s24-d28_14_1	She takes out a bag of oranges and a knife.	s24-d28	246	1248	orange	1317
+s24-d28_14_2	She washes and dries one of the oranges.	s24-d28	1318	1904	orange	1911
+s24-d28_14_3	She takes out a plate.	s24-d28	1972	2246	orange	2284
+s24-d28_14_4	She cuts a circle in the top of the skin of the orange, and then removes the circle.	s24-d28	2292	2746	orange	2768
+s24-d28_14_5	She slides the knife around the gap between skin and flesh of the orange.	2917	3717
+s24-d28_14_6	She makes cuts along the orange forming wedges in the skin.	2917	3717
+s24-d28_14_7	She peels the wedges of skin from the orange.	s24-d28	3741	4658	orange	4686
+s24-d28_14_8	Using the knife, she scrapes off much of the inner skin.	s24-d28	4664	5840	orange	5890
+s24-d28_14_9	She throws away the skin of the orange.	s24-d28	6130	6922	orange	6937
+s24-d28_14_10	She breaks the skinned orange into wedges.	s24-d28	6776	7124	orange	7162
+s24-d28_15_1	She took out orange	s24-d28	246	947	orange	939
+s24-d28_15_2	She washed orange	s24-d28	963	1704	orange	1705
+s24-d28_15_3	She took out plate	s24-d28	1704	2246	orange	2175
+s24-d28_15_4	She peeled orange	s24-d28	2292	5840	orange	5880
+s24-d28_15_5	She broke orange in half	s24-d28	5882	6090	orange	6081
+s24-d28_15_6	She threw away peel	s24-d28	5882	6922	orange	6871
+s24-d28_16_1	The person gets out a bag of oranges.	s24-d28	246	947	orange	965
+s24-d28_16_2	The person gets out a knife.	s24-d28	963	1248	orange	1283
+s24-d28_16_3	The person opens the bag.	s24-d28	1318	1507	orange	1488
+s24-d28_16_4	The person takes out an orange and rinses it.	s24-d28	1514	1904	orange	1912
+s24-d28_16_5	The person gets out a plate.	s24-d28	1972	2246	orange	2247
+s24-d28_16_6	The person peels the orange.	s24-d28	2292	5840	orange	5876
+s24-d28_16_7	The person tears the orange in half.	s24-d28	5882	6090	orange	6094
+s24-d28_16_8	The person throws away the peel.	s24-d28	5882	6922	orange	6932
+s24-d28_16_9	The person tears the orange halves into quarters.	s24-d28	6979	7124	orange	7150
+s24-d28_18_1	The Woman opens the fridge door.	246	947
+s24-d28_18_2	She removes some oranges from the fridge.	246	947
+s24-d28_18_3	She closes the fridge door and walks to the counter.	246	947
+s24-d28_18_4	The woman opens a drawer and removes a knife, then closes the drawer.	s24-d28	963	1248	orange	1288
+s24-d28_18_5	She opens the package of oranges and removes one from the bag.	s24-d28	1318	1543	orange	1542
+s24-d28_18_6	The women then washes and dries the orange.	s24-d28	1560	1904	orange	1902
+s24-d28_18_7	She walks to a cupboard and opens the door and removes one plate, then closes the door.	s24-d28	1972	2246	orange	2188
+s24-d28_18_8	She brings the plate to the counter, picks up the knife and begins peeling the orange.	s24-d28	2292	2489	orange	2484
+s24-d28_18_9	When she finishes peeling the orange she spends time cutting away the pulp from the outer orange.	s24-d28	2489	5661	orange	5676
+s24-d28_18_10	She breaks apart part of the orange and removes additional pulp with her hands.	s24-d28	5667	6176	orange	6372
+s24-d28_18_11	She picks up the peelings and throws it in the garbage.	s24-d28	6130	6922	orange	6914

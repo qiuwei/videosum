@@ -1,0 +1,900 @@
+1	s24-d34_14_5	She peeled ginger	ginger	1226	2291	s33-d54_18_3	The woman peels the mango.	mango	1573	3613	3	4	3	3.3333
+2	s24-d34_16_7	The piece is peeled.	ginger	1489	2291	s36-d27_5_4	He peeled the Onion	onion	925	1107	3	4	3	3.3333
+3	s24-d34_12_5	She peeled the ginger	ginger	1226	2291	s22-d46_16_11	She peeled skin off pineapple	pineapple	4702	9315	3	5	3	3.6667
+4	s24-d34_3_6	The person peels the ginger.	ginger	1489	2291	s34-d28_3_3	He peels the orange.	orange	1537	2613	3	4	3	3.3333
+5	s24-d34_16_7	The piece is peeled.	ginger	1489	2291	s24-d23_5_3	The person peels the carrots over the sink.	carrot	1405	2454	3	5	4	4.0000
+6	s24-d34_6_5	She peels that chunk of ginger.	ginger	1226	2291	s37-d21_13_8	He peels one half of the cucumber.	cucumber	3064	3931	3	4	3	3.3333
+7	s24-d34_4_6	The person peels the ginger.	ginger	1489	2291	s36-d31_14_11	The man peels the garlic again	garlic	4538	5355	2	3	3	2.6667
+8	s24-d34_14_5	She peeled ginger	ginger	1226	2291	s24-d53_16_5	The person peels the avocado.	avocado	1434	2934	3	4	4	3.6667
+9	s23-d54_5_3	He peels the mango.	mango	1412	4110	s36-d27_14_3	He peels the skin off the onion.	onion	925	1107	2	4	4	3.3333
+10	s33-d54_4_5	She peeled mango	mango	1573	3613	s22-d46_16_11	She peeled skin off pineapple	pineapple	4702	9315	2	4	3	3.0000
+11	s33-d54_12_5	She peeled mango	mango	1573	3613	s13-d28_6_4	The man then peels the orange with a knife.	orange	2271	2950	5	4	3	4.0000
+12	s13-d54_14_5	He peeled mango	mango	2309	3349	s24-d23_18_3	She peels the carrots.	carrot	1405	2454	2	4	3	3.0000
+13	s23-d54_13_10	The person uses the peeler to peel the mango.	mango	2909	4110	s37-d21_8_9	He uses the peeler to peel the cucumber halve.	cucumber	3064	3931	5	4	3	4.0000
+14	s33-d54_9_5	The mango is peeled over a plate.	mango	1573	3613	s13-d31_9_6	He peeled garlic	garlic	1887	3384	2	3	3	2.6667
+15	s23-d54_16_6	He peels the mango	mango	2909	4110	s22-d53_16_6	The person peeled the skin off the avocado.	avocado	2100	4595	5	4	4	4.3333
+16	s22-d46_16_11	She peeled skin off pineapple	pineapple	4702	9315	s28-d27_10_3	person peels the outside of the onion	onion	1071	2050	2	4	3	3.0000
+17	s14-d46_14_12	She cut skin off of pineapple	pineapple	3023	3523	s21-d28_3_5	She cuts away the last bits of rind.	orange	2211	2581	3	3	4	3.3333
+18	s22-d46_16_11	She peeled skin off pineapple	pineapple	4702	9315	s26-d23_13_5	He peeled the entire carrot with the vegetable peeler.	carrot	1491	2164	2	3	3	2.6667
+19	s22-d46_16_11	She peeled skin off pineapple	pineapple	4702	9315	s37-d21_13_8	He peels one half of the cucumber.	cucumber	3064	3931	3	3	3	3.0000
+20	s22-d46_16_11	She peeled skin off pineapple	pineapple	4702	9315	s36-d31_4_8	The person peels the garlic.	garlic	4538	5355	2	4	3	3.0000
+21	s22-d46_16_11	She peeled skin off pineapple	pineapple	4702	9315	s24-d53_3_6	She peels the half that still has the pit in.	avocado	2297	2934	2	2	3	2.3333
+22	s13-d28_15_6	He peels the orange in a circular motion with a knife.	orange	2271	2950	s28-d27_19_5	He peeled onion	onion	1071	2050	2	4	3	3.0000
+23	s34-d28_8_3	He peels the orange.	orange	1007	2613	s24-d23_4_3	She peels the carrots.	carrot	1405	2454	2	4	3	3.0000
+24	s13-d28_15_6	He peels the orange in a circular motion with a knife.	orange	2271	2950	s37-d21_3_8	He peeled cucumber	cucumber	2737	3931	2	3	3	2.6667
+25	s13-d28_2_6	The person peels the orange with the knife.	orange	1902	2950	s36-d31_9_9	The person peels the garlic.	garlic	4538	5355	2	3	3	2.6667
+26	s34-d28_14_5	He peeled orange	orange	1537	2613	s17-d53_6_5	He peels the avocado.	avocado	1124	2390	5	5	3	4.3333
+27	s36-d31_6_8	Person peels garlic	garlic	4538	5355	s36-d27_14_3	He peels the skin off the onion.	onion	925	1107	3	4	4	3.6667
+28	s13-d31_4_6	The man peels the skin off of 3 cloves.	garlic	1887	3384	s26-d23_5_5	He peels the carrot.	carrot	1382	2164	3	4	3	3.3333
+29	s36-d31_11_10	The person peels the garlic.	garlic	4538	5355	s21-d21_19_7	The person peels the cucumber.	cucumber	1488	2646	2	4	3	3.0000
+30	s13-d31_9_6	He peeled garlic	garlic	1887	3384	s30-d53_3_5	person peels avocado with knife	avocado	1421	2370	3	3	3	3.0000
+31	s21-d21_1_8	She peeled cucumbers	cucumber	1488	2646	s28-d27_10_3	person peels the outside of the onion	onion	1071	2050	2	4	3	3.0000
+32	s37-d21_10_7	He peeled cucumber	cucumber	3064	3931	s24-d23_19_3	The person peels both carrots in the sink.	carrot	1405	2454	5	4	4	4.3333
+33	s21-d21_1_8	She peeled cucumbers	cucumber	1488	2646	s17-d53_18_5	person peels avocado	avocado	1124	2390	2	4	3	3.0000
+34	s36-d27_12_5	The person peels some skin off the onion.	onion	925	1107	s24-d23_9_3	The carrots are peeled.	carrot	1405	2454	2	3	3	2.6667
+35	s14-d27_17_5	The person peels the onion, cutting off the skin.	onion	834	3508	s24-d53_16_5	The person peels the avocado.	avocado	1434	2934	3	4	4	3.6667
+36	s26-d23_13_5	He peeled the entire carrot with the vegetable peeler.	carrot	1491	2164	s30-d53_19_6	She peeled avocado	avocado	1520	2370	2	4	3	3.0000
+37	s24-d34_16_7	The piece is peeled.	ginger	1489	2291	s33-d54_12_5	She peeled mango	mango	1573	3613	3	4	3	3.3333
+38	s24-d34_4_6	The person peels the ginger.	ginger	1489	2291	s36-d27_19_5	He peeled onion	onion	925	1107	2	4	3	3.0000
+39	s24-d34_15_6	The person peels one half of the ginger.	ginger	1489	2291	s22-d46_16_11	She peeled skin off pineapple	pineapple	4702	9315	3	4	3	3.3333
+40	s24-d34_16_7	The piece is peeled.	ginger	1489	2291	s34-d28_6_4	The man peels the orange with his finger.	orange	1537	2613	3	4	3	3.3333
+41	s24-d34_8_7	The person peels the ginger.	ginger	1489	2291	s26-d23_16_6	The person peels the carrot.	carrot	1491	2164	4	5	3	4.0000
+42	s24-d34_3_6	The person peels the ginger.	ginger	1489	2291	s37-d21_3_8	He peeled cucumber	cucumber	2737	3931	3	4	4	3.6667
+43	s24-d34_16_7	The piece is peeled.	ginger	1489	2291	s36-d31_16_10	The person peels the skin off the garlic by hand.	garlic	4538	5355	2	3	3	2.6667
+44	s24-d34_8_7	The person peels the ginger.	ginger	1489	2291	s17-d53_4_5	The avocado is peeled.	avocado	1124	2390	3	3	3	3.0000
+45	s13-d54_14_5	He peeled mango	mango	2309	3349	s28-d27_15_5	peels skin off onion	onion	1071	2050	2	4	3	3.0000
+46	s33-d54_16_5	The person peeled the mango with the knife.	mango	1573	3613	s22-d46_16_11	She peeled skin off pineapple	pineapple	4702	9315	2	4	4	3.3333
+47	s33-d54_9_5	The mango is peeled over a plate.	mango	1573	3613	s13-d28_12_7	He peeled orange	orange	2271	2950	5	4	4	4.3333
+48	s33-d54_11_6	The person peels the mango.	mango	1573	3613	s24-d23_14_3	She peeled carrots	carrot	1405	2454	2	4	3	3.0000
+49	s33-d54_16_5	The person peeled the mango with the knife.	mango	1573	3613	s21-d21_17_3	The person peels the cucumber using a peeler.	cucumber	1330	2646	4	4	3	3.6667
+50	s23-d54_14_5	The person peels the mango.	mango	2909	4110	s13-d31_1_6	He peeled garlic	garlic	1887	3384	2	4	3	3.0000
+51	s23-d54_19_8	He peeled mango	mango	2909	4110	s24-d53_2_6	The person peels the second avocado half with her hands.	avocado	2297	2934	5	3	3	3.6667
+52	s22-d46_8_9	She cut off skin of pineapple	pineapple	4702	9315	s28-d27_17_3	Using the knife, the person cuts off both ends of the onion then removes the onion skin.	onion	1071	2050	2	4	3	3.0000
+53	s22-d46_16_11	She peeled skin off pineapple	pineapple	4702	9315	s21-d28_16_7	The woman peels the orange a little more with the knife	orange	2211	2581	3	3	3	3.0000
+54	s22-d46_16_11	She peeled skin off pineapple	pineapple	4702	9315	s26-d23_5_5	He peels the carrot.	carrot	1382	2164	2	4	3	3.0000
+55	s22-d46_16_11	She peeled skin off pineapple	pineapple	4702	9315	s37-d21_13_8	He peels one half of the cucumber.	cucumber	3064	3931	3	3	3	3.0000
+56	s22-d46_16_11	She peeled skin off pineapple	pineapple	4702	9315	s36-d31_8_10	The clove is peeled.	garlic	4538	5355	2	4	3	3.0000
+57	s22-d46_16_11	She peeled skin off pineapple	pineapple	4702	9315	s30-d53_9_5	She peels the avocado.	avocado	1520	2370	2	3	3	2.6667
+58	s34-d28_3_3	He peels the orange.	orange	1537	2613	s28-d27_10_3	person peels the outside of the onion	onion	1071	2050	2	4	3	3.0000
+59	s21-d28_5_4	The person peels the orange a bit more.	orange	2211	2581	s26-d23_10_7	The person peels the carrot.	carrot	1382	2164	2	3	3	2.6667
+60	s21-d28_7_4	The person peels the orange over the sink with the knife.	orange	959	2581	s37-d21_19_10	The man peels one half of the cucumber.	cucumber	3064	3931	2	3	3	2.6667
+61	s21-d28_5_4	The person peels the orange a bit more.	orange	2211	2581	s13-d31_4_6	The man peels the skin off of 3 cloves.	garlic	1887	3384	2	3	3	2.6667
+62	s13-d28_2_6	The person peels the orange with the knife.	orange	1902	2950	s30-d53_13_4	She peels the avocado.	avocado	1520	2370	5	4	3	4.0000
+63	s13-d31_9_6	He peeled garlic	garlic	1887	3384	s28-d27_10_3	person peels the outside of the onion	onion	1071	2050	3	4	4	3.6667
+64	s13-d31_15_6	He peeled garlic	garlic	1887	3384	s24-d23_5_3	The person peels the carrots over the sink.	carrot	1405	2454	2	3	3	2.6667
+65	s36-d31_14_11	The man peels the garlic again	garlic	4538	5355	s37-d21_9_7	He peels the cucumber.	cucumber	3064	3931	3	4	3	3.3333
+66	s36-d31_5_10	The clove is peeled.	garlic	4417	5355	s17-d53_15_5	He peels the avocado.	avocado	1124	2390	2	4	3	3.0000
+67	s37-d21_9_7	He peels the cucumber.	cucumber	3064	3931	s28-d27_10_3	person peels the outside of the onion	onion	1071	2050	2	4	4	3.3333
+68	s21-d21_8_7	The woman peels the cucumber.	cucumber	1488	2646	s26-d23_7_6	The person peels the carrot.	carrot	1491	2164	5	5	4	4.6667
+69	s21-d21_1_8	She peeled cucumbers	cucumber	1488	2646	s17-d53_6_5	He peels the avocado.	avocado	1124	2390	2	4	3	3.0000
+70	s28-d27_10_3	person peels the outside of the onion	onion	1071	2050	s24-d23_12_3	She peeled carrots	carrot	1405	2454	2	4	3	3.0000
+71	s21-d45_12_1	Girl is washing a yellow bell pepper.	pepper	200	570	s27-d54_16_3	He washed mango	mango	1246	1418	5	4	4	4.3333
+72	s23-d45_14_3	Rinse the pepper.	pepper	1718	2298	s13-d48_1_4	Person rinses the chili.	chilli	1667	1809	5	5	4	4.6667
+73	s23-d45_14_3	Rinse the pepper.	pepper	1718	2298	s14-d27_12_6	Gently rinse the onion.	onion	3618	3728	5	5	4	4.6667
+74	s23-d45_1_7	Guy washes pepper	pepper	1718	2298	s15-d35_9_4	She also washes the second plum.	plum	1551	1708	5	3	4	4.0000
+75	s21-d45_17_2	The pepper is washed.	pepper	465	570	s21-d21_17_1	The person washes the cucumber with water.	cucumber	273	592	5	5	4	4.6667
+76	s13-d45_15_6	He washed pepper	pepper	2056	2490	s24-d28_8_3	She washed orange	orange	1318	1648	5	5	4	4.6667
+77	s13-d45_15_6	He washed pepper	pepper	2056	2490	s35-d40_17_2	She washed lime	lime	716	956	5	5	4	4.6667
+78	s23-d45_12_7	The person washes the two pepper halves.	pepper	2044	2298	s28-d51_4_5	He washed beans	beans	1439	1678	5	3	3	3.6667
+79	s21-d45_17_2	The pepper is washed.	pepper	465	570	s30-d41_8_3	She washed pomegranate	pomegranate	654	1015	5	5	4	4.6667
+80	s13-d45_12_8	Rinse inside of pepper thoroughly.	pepper	2188	2490	s25-d23_6_4	He rinses the carrot from the faucet.	carrot	743	911	5	3	4	4.0000
+81	s13-d45_15_6	He washed pepper	pepper	2056	2490	s34-d34_12_5	The person washes the ginger.	ginger	1698	2953	5	4	4	4.3333
+82	s23-d45_4_4	Rinse the pepper under water.	pepper	1718	2298	s29-d39_15_4	He rinses the leeks in the sink	leek	941	1237	5	3	4	4.0000
+83	s21-d45_1_2	She washed pepper	pepper	465	570	s22-d26_13_12	The cauliflower is washed.	cauliflower	8879	9293	5	4	4	4.3333
+84	s21-d45_1_2	She washed pepper	pepper	465	570	s23-d42_10_5	He washed broccoli	broccoli	1441	2947	5	4	4	4.3333
+85	s23-d45_14_3	Rinse the pepper.	pepper	1718	2298	s17-d53_6_3	He rinses the avocado.	avocado	469	799	5	5	4	4.6667
+86	s14-d27_16_6	She washed onion	onion	3618	3728	s22-d48_15_3	Washes and drys pepper	chilli	655	713	5	3	3	3.6667
+87	s14-d27_16_6	She washed onion	onion	3618	3728	s25-d35_3_3	He washed plum	plum	611	715	5	5	4	4.6667
+88	s14-d27_12_6	Gently rinse the onion.	onion	3618	3728	s24-d40_2_2	The person rinses a lime.	lime	441	661	5	4	4	4.3333
+89	s14-d27_16_6	She washed onion	onion	3618	3728	s28-d51_8_1	The person washes the sweet peas.	beans	207	1678	5	4	3	4.0000
+90	s14-d27_16_6	She washed onion	onion	3618	3728	s30-d41_18_3	The person washes the pomegranate.	pomegranate	654	1015	5	4	4	4.3333
+91	s14-d27_12_6	Gently rinse the onion.	onion	3618	3728	s23-d39_18_8	The person rinses the leek again.	leek	1582	1961	5	4	4	4.3333
+92	s14-d27_12_6	Gently rinse the onion.	onion	3618	3728	s22-d26_15_12	The person rinses the cauliflower.	cauliflower	8879	9293	5	4	4	4.3333
+93	s14-d27_12_6	Gently rinse the onion.	onion	3618	3728	s23-d42_6_4	He rinses the broccoli.	broccoli	1035	2947	5	4	4	4.3333
+94	s14-d27_16_6	She washed onion	onion	3618	3728	s17-d53_8_1	The person washed the avocado.	avocado	169	799	5	5	4	4.6667
+95	s23-d39_2_7	The person washes the leeks in the sink.	leek	1632	1961	s27-d54_4_3	He washed mango	mango	1246	1418	5	3	3	3.6667
+96	s23-d39_6_8	The man rinses the leek again.	leek	1632	1961	s22-d48_1_1	Person rinsed a pepper.	chilli	241	713	5	4	4	4.3333
+97	s37-d39_10_4	He washed leeks	leek	840	1111	s15-d35_16_3	The person washes the plums.	plum	1396	1708	5	4	4	4.3333
+98	s29-d39_1_4	He washed leek	leek	941	1237	s13-d21_9_5	The person washes the cucumber in the sink.	cucumber	1366	1594	5	4	4	4.3333
+99	s37-d39_11_4	The person rinses the leek.	leek	840	1111	s13-d28_8_4	He rinses the orange.	orange	1338	1800	5	3	4	4.0000
+100	s37-d39_10_4	He washed leeks	leek	840	1111	s24-d40_1_2	She washed lime	lime	441	661	5	4	4	4.3333
+101	s37-d39_5_3	He washes the leeks.	leek	840	1111	s28-d51_7_5	He washed beans	beans	1439	1678	5	4	3	4.0000
+102	s23-d39_16_8	The person rinses the leek.	leek	1582	1961	s30-d41_6_3	She rinses the pomegranate.	pomegranate	654	1015	5	4	3	4.0000
+103	s37-d39_1_4	Person washes leeks.	leek	840	1111	s36-d23_17_3	The man washes the carrots	carrot	896	1137	5	4	4	4.3333
+104	s28-d39_13_6	The person cuts the leek, from the middle to the top, then washes it.	leek	1298	2350	s23-d34_1_8	He washed ginger	ginger	1586	1999	5	2	3	3.3333
+105	s23-d39_2_7	The person washes the leeks in the sink.	leek	1632	1961	s30-d26_9_6	She washed cauliflower	cauliflower	2277	2962	5	4	4	4.3333
+106	s37-d39_5_3	He washes the leeks.	leek	840	1111	s23-d42_10_5	He washed broccoli	broccoli	1441	2947	5	4	4	4.3333
+107	s37-d39_13_4	The man rinses the leek.	leek	840	1111	s30-d53_7_4	She rinses the avocado.	avocado	1215	1414	5	4	4	4.3333
+108	s25-d51_1_3	The person washes the beans in the sink.	beans	615	912	s27-d54_4_3	He washed mango	mango	1246	1418	5	3	3	3.6667
+109	s14-d51_16_4	She washed the beans.	beans	1622	2427	s17-d48_5_3	person wash chilli pepper under water	chilli	873	1050	5	4	3	4.0000
+110	s28-d51_4_5	He washed beans	beans	1439	1678	s15-d35_16_3	The person washes the plums.	plum	1396	1708	5	4	3	4.0000
+111	s14-d51_8_8	She washed beans	beans	2078	2427	s37-d21_3_5	He washed cucumber	cucumber	1394	2505	5	4	3	4.0000
+112	s28-d51_13_4	The person washes the broad beans in the sink.	beans	1439	1678	s13-d28_15_3	He washes the orange.	orange	1666	1800	5	3	3	3.6667
+113	s28-d51_13_4	The person washes the broad beans in the sink.	beans	1439	1678	s24-d40_1_2	She washed lime	lime	441	661	5	3	3	3.6667
+114	s28-d51_4_5	He washed beans	beans	1439	1678	s30-d41_8_3	She washed pomegranate	pomegranate	654	1015	5	4	3	4.0000
+115	s28-d51_5_4	He washed beans	beans	887	1678	s36-d23_7_5	He washed carrots	carrot	896	1137	5	4	3	4.0000
+116	s25-d51_16_4	The person washes the broad beans.	beans	750	912	s23-d34_4_4	Washes the item.	ginger	1373	1999	5	3	3	3.6667
+117	s28-d51_13_4	The person washes the broad beans in the sink.	beans	1439	1678	s22-d26_13_12	The cauliflower is washed.	cauliflower	8879	9293	5	3	3	3.6667
+118	s14-d51_7_5	She rinses the beans.	beans	1855	2427	s17-d42_6_4	The person rinses the broccoli.	broccoli	1892	2602	5	4	3	4.0000
+119	s14-d51_8_8	She washed beans	beans	2078	2427	s30-d53_3_4	person washes avocado	avocado	588	1414	5	4	3	4.0000
+120	s34-d34_1_5	The person rinses the ginger.	ginger	1698	2953	s22-d48_17_3	The person rinses the chili pepper in the sink.	chilli	655	713	5	4	4	4.3333
+121	s23-d34_4_4	Washes the item.	ginger	1373	1999	s21-d35_6_2	She washes the plum.	plum	491	603	5	4	4	4.3333
+122	s23-d34_16_8	The man washes the ginger, scrubbing it well.	ginger	1586	1999	s35-d40_17_2	She washed lime	lime	716	956	5	4	4	4.3333
+123	s23-d34_4_4	Washes the item.	ginger	1373	1999	s30-d41_14_2	She washes the fruit	pomegranate	513	1015	5	4	4	4.3333
+124	s23-d34_4_4	Washes the item.	ginger	1373	1999	s22-d26_1_9	She washed cauliflower	cauliflower	8879	9293	5	4	4	4.3333
+125	s34-d34_12_5	The person washes the ginger.	ginger	1698	2953	s21-d42_11_9	She washed broccoli	broccoli	2353	3078	5	4	4	4.3333
+126	s30-d53_7_4	She rinses the avocado.	avocado	1215	1414	s13-d48_17_5	The person rinses the chilli with water.	chilli	1667	1809	5	4	4	4.3333
+127	s30-d53_3_4	person washes avocado	avocado	588	1414	s25-d35_2_3	The person washes the plum in the sink.	plum	611	715	5	4	4	4.3333
+128	s30-d53_7_4	She rinses the avocado.	avocado	1215	1414	s24-d40_13_2	She rinses the lime.	lime	564	661	5	5	4	4.6667
+129	s17-d53_1_3	He washed avocado	avocado	469	799	s30-d41_8_3	She washed pomegranate	pomegranate	654	1015	5	5	4	4.6667
+130	s30-d53_3_4	person washes avocado	avocado	588	1414	s25-d23_12_4	He washes carrot	carrot	743	911	5	4	4	4.3333
+131	s17-d53_3_2	He washed avocado	avocado	469	799	s22-d26_1_9	She washed cauliflower	cauliflower	8879	9293	5	4	4	4.3333
+132	s17-d53_6_3	He rinses the avocado.	avocado	469	799	s23-d42_13_5	The person rinses the broccoli.	broccoli	1441	2947	5	4	4	4.3333
+133	s35-d40_17_2	She washed lime	lime	716	956	s27-d54_4_3	He washed mango	mango	1246	1418	5	5	4	4.6667
+134	s35-d40_17_2	She washed lime	lime	716	956	s22-d48_15_3	Washes and drys pepper	chilli	655	713	5	3	3	3.6667
+135	s24-d40_13_2	She rinses the lime.	lime	564	661	s21-d35_4_2	The person rinses the plum.	plum	491	603	5	5	4	4.6667
+136	s30-d40_16_4	she rinses the lime	lime	616	819	s37-d21_2_6	The person rinses the cucumber.	cucumber	2256	2505	5	5	4	4.6667
+137	s35-d40_17_2	She washed lime	lime	716	956	s13-d28_15_3	He washes the orange.	orange	1666	1800	5	5	4	4.6667
+138	s24-d40_2_2	The person rinses a lime.	lime	441	661	s30-d41_6_3	She rinses the pomegranate.	pomegranate	654	1015	5	5	4	4.6667
+139	s35-d40_17_2	She washed lime	lime	716	956	s25-d23_14_2	The man washes the carrot.	carrot	743	911	5	4	4	4.3333
+140	s24-d40_1_2	She washed lime	lime	441	661	s22-d26_13_12	The cauliflower is washed.	cauliflower	8879	9293	5	4	4	4.3333
+141	s28-d39_18_2	The person removes the unusable/spoiled parts from the leeks first to discard.	leek	970	1441	s29-d31_2_4	The man removes one clove of garlic from the bulb.	garlic	1038	1153	1	2	1	1.3333
+142	s13-d31_5_2	He cuts open the bunch.	garlic	1887	2205	s22-d26_15_7	The person cuts the cauliflower into chunks, trimming pieces of leaves occasionally.	cauliflower	4870	8107	1	3	3	2.3333
+143	s36-d31_5_9	Another garlic clove is removed from a cabinet.	garlic	4171	4410	s23-d45_3_4	He removes the insides of the pepper.	pepper	1268	1698	1	1	1	1.0000
+144	s13-d31_5_2	He cuts open the bunch.	garlic	1887	2205	s14-d35_12_6	She cut plum in half	plum	1346	1551	1	3	3	2.3333
+145	s13-d31_5_2	He cuts open the bunch.	garlic	1887	2205	s30-d40_3_6	The lime is cut in half.	lime	1055	1193	1	3	3	2.3333
+146	s13-d31_5_2	He cuts open the bunch.	garlic	1887	2205	s30-d41_15_7	The person cuts one of the halves into quarters.	pomegranate	2429	2784	1	3	3	2.3333
+147	s22-d26_12_7	The person cuts the cauliflower into pieces, trimming off bits of leaves as she finds them.	cauliflower	4870	8107	s27-d54_18_5	The person cuts the mango in halves.	mango	1826	2163	2	3	3	2.6667
+148	s22-d26_12_7	The person cuts the cauliflower into pieces, trimming off bits of leaves as she finds them.	cauliflower	4870	8107	s14-d35_12_6	She cut plum in half	plum	1346	1551	2	2	3	2.3333
+149	s22-d26_12_7	The person cuts the cauliflower into pieces, trimming off bits of leaves as she finds them.	cauliflower	4870	8107	s24-d41_13_5	She cuts the pomegranate into wedges.	pomegranate	2221	3033	3	3	3	3.0000
+150	s24-d28_6_6	The person breaks the orange in half.	orange	5882	6090	s21-d35_19_6	Break the plum apart.	plum	1117	1191	2	4	4	3.3333
+151	s21-d28_13_6	Using her hands, the woman splits the orange in hald over the saucer.	orange	2211	2767	s24-d41_11_5	She splits the pomegranate.	pomegranate	1326	3033	5	3	3	3.6667
+152	s21-d35_14_4	The woman cuts the plum in half, around the seed.	plum	1031	1191	s27-d54_1_5	He cut mango in half	mango	1826	2163	4	3	4	3.6667
+153	s21-d35_14_4	The woman cuts the plum in half, around the seed.	plum	1031	1191	s35-d41_18_6	The person cuts the pomegranate in half.	pomegranate	3607	4265	3	4	4	3.6667
+154	s27-d54_18_5	The person cuts the mango in halves.	mango	1826	2163	s30-d41_6_5	She cuts the pomegranate.	pomegranate	2056	2784	3	4	3	3.3333
+155	s28-d39_6_4	The person cuts off the leaves of the leeks.	leek	970	1441	s32-d27_14_3	She cuts off the top with a knife.	onion	1904	2585	3	4	3	3.3333
+156	s28-d39_18_2	The person removes the unusable/spoiled parts from the leeks first to discard.	leek	970	1441	s23-d45_3_4	He removes the insides of the pepper.	pepper	1268	1698	1	3	3	2.3333
+157	s28-d39_18_2	The person removes the unusable/spoiled parts from the leeks first to discard.	leek	970	1441	s27-d54_5_5	The person removes half of the mango's outside.	mango	1826	2163	1	2	3	2.0000
+158	s28-d39_18_2	The person removes the unusable/spoiled parts from the leeks first to discard.	leek	970	1441	s31-d28_13_8	Next, he removes the remaining peeling of the orange with his hands.	orange	3384	3552	1	3	3	2.3333
+159	s28-d39_6_4	The person cuts off the leaves of the leeks.	leek	970	1441	s21-d42_8_9	She cut off stem	broccoli	2353	2751	3	3	3	3.0000
+160	s28-d39_18_2	The person removes the unusable/spoiled parts from the leeks first to discard.	leek	970	1441	s23-d31_19_2	The person removes two cloves from the head of garlic.	garlic	918	1045	1	2	2	1.6667
+161	s13-d31_5_2	He cuts open the bunch.	garlic	1887	2205	s22-d26_12_7	The person cuts the cauliflower into pieces, trimming off bits of leaves as she finds them.	cauliflower	4870	8107	1	2	3	2.0000
+162	s13-d31_5_2	He cuts open the bunch.	garlic	1887	2205	s22-d53_3_3	She cuts the avocado in half.	avocado	1461	1902	1	3	3	2.3333
+163	s36-d31_5_9	Another garlic clove is removed from a cabinet.	garlic	4171	4410	s13-d45_17_3	Remove top and core of pepper.	pepper	1601	1977	1	1	1	1.0000
+164	s13-d31_5_2	He cuts open the bunch.	garlic	1887	2205	s27-d54_18_5	The person cuts the mango in halves.	mango	1826	2163	1	3	3	2.3333
+165	s13-d31_5_2	He cuts open the bunch.	garlic	1887	2205	s14-d35_12_6	She cut plum in half	plum	1346	1551	1	3	3	2.3333
+166	s23-d31_7_2	He separates a small amount of garlic from the rest of the clove.	garlic	918	1045	s34-d28_8_5	He separates the slices.	orange	3570	3864	3	3	3	3.0000
+167	s13-d31_5_2	He cuts open the bunch.	garlic	1887	2205	s30-d40_3_6	The lime is cut in half.	lime	1055	1193	1	3	3	2.3333
+168	s13-d31_5_2	He cuts open the bunch.	garlic	1887	2205	s30-d41_15_7	The person cuts one of the halves into quarters.	pomegranate	2429	2784	1	3	3	2.3333
+169	s21-d42_8_9	She cut off stem	broccoli	2353	2751	s32-d27_14_3	She cuts off the top with a knife.	onion	1904	2585	3	3	3	3.0000
+170	s30-d40_4_6	The person cuts the lime in half.	lime	1055	1193	s22-d26_6_8	The person cuts the cauliflower into smaller pieces.	cauliflower	5596	8107	3	3	3	3.0000
+171	s30-d40_4_6	The person cuts the lime in half.	lime	1055	1193	s22-d53_3_3	She cuts the avocado in half.	avocado	1461	1902	3	4	4	3.6667
+172	s30-d40_10_5	She then cuts the lime in half.	lime	1055	1193	s21-d45_5_7	The person cuts the pepper into thin slices.	pepper	1664	2021	3	3	3	3.0000
+173	s30-d40_5_5	The person cuts the lime in half.	lime	1055	1193	s27-d54_10_5	The mango is cut in half.	mango	1826	2163	3	4	4	3.6667
+174	s30-d40_14_3	Using a knife she cuts the lime into two equal peices.	lime	819	1193	s14-d35_12_6	She cut plum in half	plum	1346	1551	3	4	4	3.6667
+175	s30-d40_4_6	The person cuts the lime in half.	lime	1055	1193	s35-d41_4_5	She cuts it in half.	pomegranate	3016	4265	4	4	4	4.0000
+176	s21-d45_17_9	The pepper is cut into strips.	pepper	1664	2021	s22-d26_12_7	The person cuts the cauliflower into pieces, trimming off bits of leaves as she finds them.	cauliflower	4870	8107	2	2	3	2.3333
+177	s21-d45_5_7	The person cuts the pepper into thin slices.	pepper	1664	2021	s24-d53_9_4	The person cuts the avocado in half.	avocado	975	1317	2	3	3	2.6667
+178	s21-d45_17_9	The pepper is cut into strips.	pepper	1664	2021	s27-d54_18_5	The person cuts the mango in halves.	mango	1826	2163	2	3	3	2.6667
+179	s21-d45_1_7	She sliced the pepper	pepper	1502	2021	s14-d35_11_5	The person slices the plum in two.	plum	1346	1551	3	3	3	3.0000
+180	s13-d45_17_3	Remove top and core of pepper.	pepper	1601	1977	s31-d28_13_8	Next, he removes the remaining peeling of the orange with his hands.	orange	3384	3552	1	2	2	1.6667
+181	s21-d45_17_9	The pepper is cut into strips.	pepper	1664	2021	s30-d41_1_7	The person cuts one of the pomegranate halves in half.	pomegranate	2429	2784	3	2	3	2.6667
+182	s22-d53_19_4	She cut avocado in half	avocado	1392	1902	s22-d26_15_7	The person cuts the cauliflower into chunks, trimming pieces of leaves occasionally.	cauliflower	4870	8107	2	2	3	2.3333
+183	s24-d53_5_3	She cuts it in half.	avocado	1254	1317	s27-d54_18_5	The person cuts the mango in halves.	mango	1826	2163	5	5	4	4.6667
+184	s22-d53_19_4	She cut avocado in half	avocado	1392	1902	s14-d35_8_6	She cut plum in half	plum	1346	1551	3	4	4	3.6667
+185	s22-d53_1_4	She cut the avocado in half	avocado	1392	1902	s35-d41_18_6	The person cuts the pomegranate in half.	pomegranate	3607	4265	4	4	3	3.6667
+186	s22-d26_15_7	The person cuts the cauliflower into chunks, trimming pieces of leaves occasionally.	cauliflower	4870	8107	s27-d54_1_5	He cut mango in half	mango	1826	2163	2	3	3	2.6667
+187	s22-d26_6_8	The person cuts the cauliflower into smaller pieces.	cauliflower	5596	8107	s14-d35_14_5	The person cuts the plum in half.	plum	1346	1551	2	3	3	2.6667
+188	s22-d26_15_7	The person cuts the cauliflower into chunks, trimming pieces of leaves occasionally.	cauliflower	4870	8107	s30-d41_6_5	She cuts the pomegranate.	pomegranate	2056	2784	2	3	3	2.6667
+189	s31-d28_13_8	Next, he removes the remaining peeling of the orange with his hands.	orange	3384	3552	s27-d54_5_5	The person removes half of the mango's outside.	mango	1826	2163	5	3	3	3.6667
+190	s24-d28_11_6	The person breaks the orange in half.	orange	5882	6090	s21-d35_19_6	Break the plum apart.	plum	1117	1191	2	4	3	3.0000
+191	s24-d28_9_5	She splits the orange in half.	orange	4664	6090	s24-d41_2_3	She splits the pomegranate.	pomegranate	1326	3033	5	4	4	4.3333
+192	s14-d35_14_5	The person cuts the plum in half.	plum	1346	1551	s27-d54_10_5	The mango is cut in half.	mango	1826	2163	4	5	4	4.3333
+193	s21-d35_14_4	The woman cuts the plum in half, around the seed.	plum	1031	1191	s35-d41_13_3	She cuts the pomegranate in half.	pomegranate	2419	4265	3	3	3	3.0000
+194	s27-d54_19_5	He cut mango in half	mango	1826	2163	s30-d41_11_5	She cuts the pomegranate into quarters.	pomegranate	2056	2784	2	3	4	3.0000
+195	s28-d39_6_4	The person cuts off the leaves of the leeks.	leek	970	1441	s32-d27_14_3	She cuts off the top with a knife.	onion	1904	2585	2	3	3	2.6667
+196	s28-d39_18_2	The person removes the unusable/spoiled parts from the leeks first to discard.	leek	970	1441	s23-d45_3_4	He removes the insides of the pepper.	pepper	1268	1698	1	3	3	2.3333
+197	s28-d39_18_2	The person removes the unusable/spoiled parts from the leeks first to discard.	leek	970	1441	s27-d54_5_5	The person removes half of the mango's outside.	mango	1826	2163	1	3	3	2.3333
+198	s28-d39_18_2	The person removes the unusable/spoiled parts from the leeks first to discard.	leek	970	1441	s31-d28_13_8	Next, he removes the remaining peeling of the orange with his hands.	orange	3384	3552	1	3	3	2.3333
+199	s28-d39_6_4	The person cuts off the leaves of the leeks.	leek	970	1441	s21-d42_8_9	She cut off stem	broccoli	2353	2751	3	2	3	2.6667
+200	s28-d39_18_2	The person removes the unusable/spoiled parts from the leeks first to discard.	leek	970	1441	s23-d31_19_2	The person removes two cloves from the head of garlic.	garlic	918	1045	1	2	2	1.6667
+201	s13-d31_5_2	He cuts open the bunch.	garlic	1887	2205	s22-d26_15_7	The person cuts the cauliflower into chunks, trimming pieces of leaves occasionally.	cauliflower	4870	8107	1	2	3	2.0000
+202	s13-d31_5_2	He cuts open the bunch.	garlic	1887	2205	s24-d53_19_4	She cut avocado in half	avocado	975	1317	1	3	3	2.3333
+203	s29-d31_11_4	He removes a clove.	garlic	1038	1153	s23-d45_3_4	He removes the insides of the pepper.	pepper	1268	1698	1	3	2	2.0000
+204	s13-d31_5_2	He cuts open the bunch.	garlic	1887	2205	s27-d54_1_5	He cut mango in half	mango	1826	2163	1	3	4	2.6667
+205	s13-d31_8_3	Use the knife to begin the separation, then use your hands to break apart the bulb.	garlic	1887	2205	s14-d35_13_5	The person uses the knife to cut the plum down the middle then twists it in half.	plum	1346	1551	1	3	4	2.6667
+206	s23-d31_7_2	He separates a small amount of garlic from the rest of the clove.	garlic	918	1045	s34-d28_15_7	He separated orange	orange	3412	3864	3	3	3	3.0000
+207	s13-d31_5_2	He cuts open the bunch.	garlic	1887	2205	s30-d40_3_6	The lime is cut in half.	lime	1055	1193	1	3	3	2.3333
+208	s13-d31_5_2	He cuts open the bunch.	garlic	1887	2205	s35-d41_13_3	She cuts the pomegranate in half.	pomegranate	2419	4265	1	3	4	2.6667
+209	s21-d42_8_9	She cut off stem	broccoli	2353	2751	s32-d27_14_3	She cuts off the top with a knife.	onion	1904	2585	3	4	4	3.6667
+210	s30-d40_14_3	Using a knife she cuts the lime into two equal peices.	lime	819	1193	s22-d26_6_8	The person cuts the cauliflower into smaller pieces.	cauliflower	5596	8107	3	2	3	2.6667
+211	s22-d46_16_7	She cut pineapple in half	pineapple	2303	2622	s17-d53_1_7	He cut avocado in half	avocado	3739	3974	3	4	3	3.3333
+212	s37-d46_4_5	He cut off top of pineapple	pineapple	1272	2044	s23-d34_10_4	He cuts off a chunk of ginger.	ginger	784	1360	3	3	3	3.0000
+213	s22-d46_13_3	The person slices the pineapple in half axially.	pineapple	2196	2622	s37-d21_12_6	Slices the cucumber half down the middle	cucumber	4163	4253	4	4	4	4.0000
+214	s23-d46_1_3	He cuts the stem off of the pineapple.	pineapple	940	1020	s23-d42_19_7	The person cuts the stem from the broccoli.	broccoli	2947	3450	3	3	4	3.3333
+215	s37-d46_10_5	He cut off top of pineapple	pineapple	1272	2044	s22-d26_16_6	She cut off bottom of cauliflower	cauliflower	4458	4654	5	3	4	4.0000
+216	s23-d46_1_3	He cuts the stem off of the pineapple.	pineapple	940	1020	s17-d48_5_4	person cuts the end of pepper	chilli	1052	1284	3	4	4	3.6667
+217	s37-d46_8_3	The person cuts off the top of the pineapple.	pineapple	1939	2044	s28-d39_8_6	He cut off bottom of leek	leek	2356	2588	3	4	4	3.6667
+218	s22-d46_4_6	She cut the pineapple in half.	pineapple	2303	2622	s24-d40_1_5	She cut lime in half	lime	1101	1274	4	4	4	4.0000
+219	s22-d46_16_7	She cut pineapple in half	pineapple	2303	2622	s14-d35_15_5	The person cuts the plum into four quarters and a pit.	plum	1346	2055	3	3	4	3.3333
+220	s22-d46_4_6	She cut the pineapple in half.	pineapple	2303	2622	s31-d28_13_10	He cuts the orange into four pieces.	orange	3740	3994	4	3	3	3.3333
+221	s22-d46_8_6	She cut pineapple in half	pineapple	2196	2622	s33-d54_16_6	The person cut the flesh off the core.	mango	3658	5581	3	3	3	3.0000
+222	s23-d46_14_4	The person cuts off the tops leaves of the pineapple.	pineapple	940	1020	s31-d31_19_8	He cut off tip of garlic	garlic	1883	1997	2	3	3	2.6667
+223	s28-d46_1_4	The person cuts off the bottom of the pineapple.	pineapple	662	781	s14-d51_1_8	She cut off tips of beans	beans	2679	4458	1	3	3	2.3333
+224	s28-d46_14_4	He cut bottom of pineapple	pineapple	662	781	s21-d45_1_5	She cut pepper in half	pepper	821	902	3	3	4	3.3333
+225	s37-d46_8_3	The person cuts off the top of the pineapple.	pineapple	1939	2044	s35-d41_16_7	She cut off bottom of pomegranate	pomegranate	3313	3499	5	4	4	4.3333
+226	s28-d46_5_4	The person cuts off the bottom of the pineapple.	pineapple	662	781	s26-d23_12_4	person cuts off end of carrot	carrot	1382	1404	3	3	4	3.3333
+227	s28-d46_12_4	He cut off bottom of pineapple	pineapple	662	781	s36-d27_9_4	The person cuts off the top and bottom of the onion.	onion	757	876	4	3	3	3.3333
+228	s24-d40_2_5	The person cuts the lime in half.	lime	1101	1274	s17-d53_4_9	The avocado is cut in half.	avocado	3739	3974	3	4	4	3.6667
+229	s24-d40_6_5	The person cuts the lime in half.	lime	1101	1274	s27-d34_4_4	The person cuts a portion away from the ginger root.	ginger	1019	1116	2	3	4	3.0000
+230	s35-d40_19_5	She cuts the lime in half.	lime	1853	2971	s13-d21_16_7	The man cuts the ends off of the cucumber.	cucumber	1854	2036	4	2	3	3.0000
+231	s30-d40_3_8	Slits are cut into the other lime half.	lime	2812	3177	s17-d48_1_4	He cuts the stem off of the pepper.	chilli	1245	1284	1	3	3	2.3333
+232	s13-d40_2_2	He cuts the lime in two.	lime	1520	1621	s25-d35_8_5	He cut plum into pieces	plum	1059	3717	4	3	3	3.3333
+233	s24-d40_8_6	She cut lime in half	lime	1101	1274	s13-d28_17_3	The man cuts both ends off of the orange.	orange	2077	2248	3	3	4	3.3333
+234	s21-d40_6_5	The person cuts the lime in half.	lime	957	1023	s13-d54_16_3	boy cuts mango away from pitt	mango	2430	4685	3	3	3	3.0000
+235	s24-d40_13_4	She cuts the lime in half.	lime	1101	1274	s28-d51_16_3	He cuts the beans into smaller pieces.	beans	2860	3803	3	4	3	3.3333
+236	s30-d40_3_8	Slits are cut into the other lime half.	lime	2812	3177	s33-d45_4_3	She cuts the usable portion of the pepper away from the core.	pepper	1411	2040	1	3	3	2.3333
+237	s13-d40_9_5	He cuts the lime in half.	lime	1520	1621	s34-d41_1_6	He cut pomegranate into pieces	pomegranate	2038	2479	3	3	3	3.0000
+238	s21-d40_14_1	Cut the lime in half.	lime	243	1023	s21-d23_14_5	The person cuts the stem and tip off of a carrot.	carrot	1154	1312	4	3	3	3.3333
+239	s33-d54_11_7	The person cuts chunks off the mango.	mango	3658	5581	s30-d53_7_5	She cuts the pit away.	avocado	1421	3922	2	3	4	3.0000
+240	s33-d54_11_7	The person cuts chunks off the mango.	mango	3658	5581	s27-d34_4_4	The person cuts a portion away from the ginger root.	ginger	1019	1116	2	3	3	2.6667
+241	s33-d54_8_4	She cuts off the sides of the mango.	mango	3658	5581	s23-d21_15_5	The person cuts off the tips of the cucumber.	cucumber	1702	1803	3	3	3	3.0000
+242	s33-d54_8_4	She cuts off the sides of the mango.	mango	3658	5581	s22-d26_16_6	She cut off bottom of cauliflower	cauliflower	4458	4654	2	3	3	2.6667
+243	s13-d54_16_3	boy cuts mango away from pitt	mango	2430	4685	s17-d48_1_4	He cuts the stem off of the pepper.	chilli	1245	1284	2	3	3	2.6667
+244	s27-d54_5_8	The person cuts the rest of the mango off of the pit in large chunks.	mango	5239	5643	s21-d35_15_5	Fifth, cut plum.	plum	1193	1669	4	3	3	3.3333
+245	s33-d54_11_7	The person cuts chunks off the mango.	mango	3658	5581	s31-d28_12_8	The person cuts the halves into quarters.	orange	3740	3994	2	3	3	2.6667
+246	s33-d54_16_6	The person cut the flesh off the core.	mango	3658	5581	s28-d51_18_4	The person cuts the beans into one-inch segments.	beans	2860	3803	2	2	3	2.3333
+247	s33-d54_6_3	She cuts the good parts from the pit.	mango	3658	5581	s21-d45_1_5	She cut pepper in half	pepper	821	902	2	3	3	2.6667
+248	s33-d54_16_6	The person cut the flesh off the core.	mango	3658	5581	s30-d41_19_9	She cuts the pomegranate in half.	pomegranate	2056	2352	4	3	3	3.3333
+249	s33-d54_8_4	She cuts off the sides of the mango.	mango	3658	5581	s26-d23_12_4	person cuts off end of carrot	carrot	1382	1404	3	3	3	3.0000
+250	s33-d54_2_6	Cut the mango in pieces from around the seed.	mango	3658	5581	s28-d27_17_4	The person cuts the onion in half.	onion	2108	2189	3	2	3	2.6667
+251	s26-d23_13_4	He cut the green top off the carrot.	carrot	1382	1404	s30-d53_9_6	She cuts the avocado from the pit.	avocado	2409	3922	2	3	3	2.6667
+252	s26-d23_1_6	He cut off top of carrot	carrot	1291	1404	s23-d34_1_6	He cut off piece of ginger	ginger	1140	1360	3	4	4	3.6667
+253	s25-d23_1_5	He cut off ends of carrots	carrot	982	1090	s13-d21_5_6	The person cuts off the tips  of the cucumber.	cucumber	1665	2036	5	4	4	4.3333
+254	s25-d23_5_5	The person cuts the ends off of the carrot.	carrot	982	1090	s23-d42_19_7	The person cuts the stem from the broccoli.	broccoli	2947	3450	2	3	3	2.6667
+255	s24-d23_6_4	The woman cuts off the tips of the carrots.	carrot	3699	4133	s22-d26_16_6	She cut off bottom of cauliflower	cauliflower	4458	4654	3	3	3	3.0000
+256	s25-d23_6_5	He cuts off the two edges.	carrot	982	1090	s17-d48_15_5	This person cuts off the stem of the chilli.	chilli	1245	1284	4	3	3	3.3333
+257	s26-d23_8_6	The person cuts off the top of the carrot.	carrot	1382	1404	s23-d39_1_6	He cut off bottom of leek	leek	1071	1158	5	4	4	4.3333
+258	s24-d23_19_9	The person cuts the tops of the carrots off.	carrot	3961	4133	s14-d35_4_5	The person cuts the plum into four quarters and a pit.	plum	1346	2055	2	3	3	2.6667
+259	s26-d23_8_6	The person cuts off the top of the carrot.	carrot	1382	1404	s21-d28_4_2	With the knife, cut off the top of the orange peel.	orange	792	1081	3	4	4	3.6667
+260	s26-d23_14_6	He cut off top of carrot	carrot	1291	1404	s31-d31_16_3	The person cuts off the ends of the garlic.	garlic	1637	1997	3	4	4	3.6667
+261	s25-d23_5_5	The person cuts the ends off of the carrot.	carrot	982	1090	s28-d51_16_3	He cuts the beans into smaller pieces.	beans	2860	3803	3	3	3	3.0000
+262	s26-d23_15_6	The person cuts off the top of the carrot.	carrot	1382	1404	s27-d45_16_5	The person cuts off the top of the pepper.	pepper	1640	2115	3	5	4	4.0000
+263	s25-d23_5_5	The person cuts the ends off of the carrot.	carrot	982	1090	s34-d41_3_5	The person cuts the top and bottom of the pomegranate and then chops it in half.	pomegranate	2038	2479	2	3	3	2.6667
+264	s26-d23_13_4	He cut the green top off the carrot.	carrot	1382	1404	s32-d27_16_9	She cut slits in onion	onion	3810	4841	2	3	3	2.6667
+265	s21-d21_17_5	The person cuts the cucumber in half.	cucumber	3046	3089	s17-d53_9_10	The avocado is cut in half.	avocado	3739	3974	3	4	3	3.3333
+266	s13-d21_5_6	The person cuts off the tips  of the cucumber.	cucumber	1665	2036	s23-d34_13_7	The person cuts off a piece of the ginger.	ginger	1140	1360	4	4	3	3.6667
+267	s13-d21_9_6	The person cuts the ends off the cucumber.	cucumber	1665	2036	s36-d42_10_4	He cuts of the broccoli heads.	broccoli	2249	3908	3	3	4	3.3333
+268	s37-d21_12_6	Slices the cucumber half down the middle	cucumber	4163	4253	s22-d26_19_7	She slices the large stem off of the cauliflower.	cauliflower	4528	4654	3	3	3	3.0000
+269	s23-d21_7_5	The person cuts the ends off the cucumber.	cucumber	1702	1803	s35-d48_14_5	Cut off the top of the next pepper, and again discard that top piece.	chilli	5113	5254	4	3	4	3.6667
+270	s23-d21_1_5	He cut off ends of cucumbers	cucumber	1702	1803	s23-d39_5_6	The person cuts off the root of the leek.	leek	1120	1158	5	4	4	4.3333
+271	s13-d21_9_6	The person cuts the ends off the cucumber.	cucumber	1665	2036	s14-d35_15_5	The person cuts the plum into four quarters and a pit.	plum	1346	2055	2	2	3	2.3333
+272	s13-d21_9_6	The person cuts the ends off the cucumber.	cucumber	1665	2036	s31-d28_5_6	The person cuts the orange into quarters.	orange	3566	3994	3	3	3	3.0000
+273	s23-d21_15_5	The person cuts off the tips of the cucumber.	cucumber	1702	1803	s31-d31_1_6	He cut off tops of garlic	garlic	1883	1997	4	4	4	4.0000
+274	s23-d21_7_5	The person cuts the ends off the cucumber.	cucumber	1702	1803	s28-d51_18_4	The person cuts the beans into one-inch segments.	beans	2860	3803	3	2	3	2.6667
+275	s37-d21_17_5	He cuts the half into a smaller half.	cucumber	4163	4253	s21-d45_1_5	She cut pepper in half	pepper	821	902	4	3	4	3.6667
+276	s13-d21_4_6	The person cuts the tips off the cucumber.	cucumber	1665	2036	s30-d41_3_4	She cuts the pomegranate in half.	pomegranate	2056	2352	2	3	3	2.6667
+277	s23-d21_1_5	He cut off ends of cucumbers	cucumber	1702	1803	s36-d27_9_4	The person cuts off the top and bottom of the onion.	onion	757	876	5	4	4	4.3333
+278	s36-d31_5_6	A clove is peeled.	garlic	2301	3344	s34-d34_11_5	He peels the piece of ginger.	ginger	3021	8890	3	4	3	3.3333
+279	s31-d31_1_6	He cut off tops of garlic	garlic	1883	1997	s17-d48_16_5	The person cuts off the top of the chili.	chilli	1245	1284	3	4	4	3.6667
+280	s36-d31_11_5	The person chops the garlic on the cutting board.	garlic	2301	3344	s28-d51_12_4	He chops the beans.	beans	2860	3803	3	4	3	3.3333
+281	s13-d25_2_5	The boy slices a piece of bread.	bread	1560	1788	s24-d34_16_9	The ginger is sliced.	ginger	2829	3123	3	3	3	3.0000
+282	s37-d25_17_5	Cut slice of bread off the loaf.	bread	968	1304	s24-d53_19_9	She sliced avocado	avocado	3827	4839	3	3	3	3.0000
+283	s28-d25_3_5	The person cuts two slices of bread from the load with the knife.	bread	978	1537	s25-d23_10_5	Using a sharp knife, the person carefully cuts across the carrot creating thin, round slices.	carrot	2083	3696	3	4	3	3.3333
+284	s37-d25_6_5	The person uses the knife to slice a piece of bread from the loaf.	bread	968	1304	s13-d28_10_5	He uses the knife to slice the orange into pieces.	orange	3127	3461	3	3	3	3.0000
+285	s37-d25_7_5	the person slices the bread	bread	968	1304	s13-d45_8_7	He sliced pepper	pepper	2544	3807	3	3	3	3.0000
+286	s37-d25_17_5	Cut slice of bread off the loaf.	bread	968	1304	s21-d39_8_7	The leek is sliced.	leek	1717	2620	3	3	3	3.0000
+287	s28-d25_14_4	He slices the bread.	bread	911	1537	s14-d27_5_6	Rinse knife and slice onion.	onion	3960	4315	3	2	1	2.0000
+288	s22-d25_13_5	She cuts a slice off the loaf of bread.	bread	1155	1426	s13-d21_2_8	person then cuts cucumber in slices	cucumber	2099	2523	3	4	3	3.3333
+289	s37-d25_7_5	the person slices the bread	bread	968	1304	s29-d31_1_4	Whit your knife, thinly slice the garlic.	garlic	1488	2189	3	3	3	3.0000
+290	s21-d39_13_6	The person chops the leeks on the cutting board.	leek	1717	2620	s27-d34_6_5	The person chops the ginger on the cutting board.	ginger	1157	1715	3	5	3	3.6667
+291	s13-d28_4_7	He sliced orange	orange	3127	3461	s22-d34_18_5	She slices the vegetable into small crosswise pieces.	ginger	1053	2219	2	3	3	2.6667
+292	s13-d28_4_7	He sliced orange	orange	3127	3461	s24-d53_13_7	She slices the avocado.	avocado	3395	4839	2	4	3	3.0000
+293	s13-d28_4_7	He sliced orange	orange	3127	3461	s21-d45_18_6	She slices the peppers lengthwise.	pepper	1263	1996	3	4	3	3.3333
+294	s13-d28_4_7	He sliced orange	orange	3127	3461	s14-d27_5_6	Rinse knife and slice onion.	onion	3960	4315	3	2	3	2.6667
+295	s13-d45_9_7	The person slices the bell pepper on the cutting board.	pepper	2893	3807	s22-d34_3_5	She sliced ginger	ginger	1053	2219	3	3	3	3.0000
+296	s13-d45_15_7	He sliced pepper	pepper	2490	3807	s24-d53_17_6	The person has sliced the avocado into thin strips lengthwise.	avocado	3976	4839	2	3	4	3.0000
+297	s13-d45_15_7	He sliced pepper	pepper	2490	3807	s14-d27_5_6	Rinse knife and slice onion.	onion	3960	4315	4	3	3	3.3333
+298	s24-d53_17_6	The person has sliced the avocado into thin strips lengthwise.	avocado	3976	4839	s27-d34_4_5	The person slices the fragment of ginger on the cutting board.	ginger	1117	1715	4	3	3	3.3333
+299	s24-d53_3_10	She slices the avocado into thin strips for serving.	avocado	4176	4839	s14-d27_5_6	Rinse knife and slice onion.	onion	3960	4315	2	3	3	2.6667
+300	s22-d34_1_5	She cut up ginger	ginger	1053	2219	s28-d27_3_5	He cuts up the onion thinly.	onion	2108	2509	4	3	3	3.3333
+301	s37-d25_17_5	Cut slice of bread off the loaf.	bread	968	1304	s22-d34_3_5	She sliced ginger	ginger	1053	2219	3	4	3	3.3333
+302	s22-d25_11_5	She sliced bread	bread	1155	1426	s24-d53_2_9	The person slices the avocado length wise.	avocado	3976	4839	3	4	3	3.3333
+303	s37-d25_1_5	Person cuts a half inch piece from top of loaf down to cutting board.	bread	968	1304	s26-d23_15_8	The person cuts the carrot into slices.	carrot	2226	2712	3	3	3	3.0000
+304	s37-d25_8_6	The person uses the knife to slice a piece of bread from the loaf.	bread	968	1304	s13-d28_10_5	He uses the knife to slice the orange into pieces.	orange	3127	3461	3	3	3	3.0000
+305	s28-d25_3_5	The person cuts two slices of bread from the load with the knife.	bread	978	1537	s23-d45_18_5	Both halves of the pepper are cut into thin strips.	pepper	2398	2772	3	3	3	3.0000
+306	s28-d25_3_5	The person cuts two slices of bread from the load with the knife.	bread	978	1537	s21-d39_5_5	She then cuts the onion into very small pieces.	leek	1479	2620	3	3	3	3.0000
+307	s28-d25_9_4	Two slices are cut from the loaf.	bread	911	1537	s14-d27_2_9	The person cuts one half of the onion length-wise with the paring knife.	onion	4050	4315	3	3	3	3.0000
+308	s28-d25_9_4	Two slices are cut from the loaf.	bread	911	1537	s27-d21_15_6	The person cuts the cucumber into slices lengthwise.	cucumber	1884	2646	3	4	3	3.3333
+309	s22-d25_11_5	She sliced bread	bread	1155	1426	s29-d31_12_5	The person slices the garlic clove into thin pieces.	garlic	1488	2189	3	3	3	3.0000
+310	s21-d39_3_9	She sliced the leek	leek	1717	2620	s24-d34_16_9	The ginger is sliced.	ginger	2829	3123	3	3	3	3.0000
+311	s21-d39_8_7	The leek is sliced.	leek	1717	2620	s24-d53_7_10	She slices the avocado pieces lengthwise into strips.	avocado	3976	4839	2	3	3	2.6667
+312	s28-d39_6_6	The person chops the leeks on the cutting board.	leek	2532	4649	s36-d23_7_7	He chopped carrots	carrot	1647	3395	4	4	3	3.6667
+313	s21-d39_15_4	The woman slices the leek.	leek	1717	2620	s13-d28_4_7	He sliced orange	orange	3127	3461	2	4	3	3.0000
+314	s21-d39_8_7	The leek is sliced.	leek	1717	2620	s23-d45_6_8	The peppers are sliced.	pepper	2398	2772	4	4	3	3.6667
+315	s21-d39_16_3	Preparer has sliced middle of leek into small slices	leek	1717	2620	s14-d27_5_6	Rinse knife and slice onion.	onion	3960	4315	4	2	3	3.0000
+316	s21-d39_16_3	Preparer has sliced middle of leek into small slices	leek	1717	2620	s27-d21_6_5	The man then slices the other half.	cucumber	2341	2646	5	3	3	3.6667
+317	s21-d39_1_8	She sliced leek	leek	1717	2620	s31-d31_5_8	The cloves are sliced thinly.	garlic	2147	3292	3	4	4	3.6667
+318	s29-d31_12_5	The person slices the garlic clove into thin pieces.	garlic	1488	2189	s27-d34_3_5	The person slices the ginger into small slivers	ginger	1157	1715	5	4	4	4.3333
+319	s29-d31_1_4	Whit your knife, thinly slice the garlic.	garlic	1488	2189	s24-d53_7_10	She slices the avocado pieces lengthwise into strips.	avocado	3976	4839	3	4	3	3.3333
+320	s31-d31_5_8	The cloves are sliced thinly.	garlic	2147	3292	s25-d23_18_5	He slices the entire length of the carrot crosswise.	carrot	2083	3696	3	3	3	3.0000
+321	s29-d31_12_5	The person slices the garlic clove into thin pieces.	garlic	1488	2189	s13-d28_4_7	He sliced orange	orange	3127	3461	2	4	3	3.0000
+322	s29-d31_12_5	The person slices the garlic clove into thin pieces.	garlic	1488	2189	s21-d45_18_6	She slices the peppers lengthwise.	pepper	1263	1996	2	3	3	2.6667
+323	s29-d31_1_4	Whit your knife, thinly slice the garlic.	garlic	1488	2189	s14-d27_5_6	Rinse knife and slice onion.	onion	3960	4315	3	3	2	2.6667
+324	s29-d31_12_5	The person slices the garlic clove into thin pieces.	garlic	1488	2189	s13-d21_13_7	The person slices the cucumber on the cutting board.	cucumber	2099	2523	3	4	4	3.6667
+325	s13-d28_4_7	He sliced orange	orange	3127	3461	s27-d34_3_5	The person slices the ginger into small slivers	ginger	1157	1715	2	3	4	3.0000
+326	s13-d28_4_7	He sliced orange	orange	3127	3461	s24-d53_13_7	She slices the avocado.	avocado	3395	4839	2	4	4	3.3333
+327	s13-d28_4_7	He sliced orange	orange	3127	3461	s25-d23_18_5	He slices the entire length of the carrot crosswise.	carrot	2083	3696	2	3	3	2.6667
+328	s13-d28_4_7	He sliced orange	orange	3127	3461	s13-d45_15_7	He sliced pepper	pepper	2490	3807	3	4	3	3.3333
+329	s13-d28_4_7	He sliced orange	orange	3127	3461	s14-d27_5_6	Rinse knife and slice onion.	onion	3960	4315	3	2	3	2.6667
+330	s13-d28_4_7	He sliced orange	orange	3127	3461	s27-d21_19_5	The man slices the cucumber lengthwise into narrow slices.	cucumber	1884	2646	2	3	3	2.6667
+331	s13-d45_7_5	He chops the pepper.	pepper	2544	3807	s27-d34_9_5	He chops that piece.	ginger	1157	1715	4	4	3	3.6667
+332	s13-d45_8_7	He sliced pepper	pepper	2544	3807	s24-d53_13_7	She slices the avocado.	avocado	3395	4839	2	4	4	3.3333
+333	s23-d45_6_8	The peppers are sliced.	pepper	2398	2772	s25-d23_16_7	The person slices the carrot into round pieces.	carrot	2083	3696	3	4	3	3.3333
+334	s23-d45_6_8	The peppers are sliced.	pepper	2398	2772	s14-d27_5_6	Rinse knife and slice onion.	onion	3960	4315	4	2	4	3.3333
+335	s13-d45_8_7	He sliced pepper	pepper	2544	3807	s27-d21_13_5	Slices cucumber lengthwise	cucumber	1884	2646	3	4	4	3.6667
+336	s24-d53_13_7	She slices the avocado.	avocado	3395	4839	s22-d34_8_5	The person slices the ginger on the cutting board.	ginger	1053	2219	4	4	3	3.6667
+337	s24-d53_19_9	She sliced avocado	avocado	3827	4839	s25-d23_19_8	Use the knife to slice the carrot into thin disks no more than 1/4 inch thick.	carrot	2083	3696	4	3	3	3.3333
+338	s24-d53_3_10	She slices the avocado into thin strips for serving.	avocado	4176	4839	s14-d27_5_6	Rinse knife and slice onion.	onion	3960	4315	2	3	2	2.3333
+339	s24-d53_15_8	The person cuts the avocado into slices.	avocado	3976	4839	s27-d21_15_6	The person cuts the cucumber into slices lengthwise.	cucumber	1884	2646	4	4	4	4.0000
+340	s36-d23_15_7	He chopped carrot	carrot	1647	3395	s27-d34_9_5	He chops that piece.	ginger	1157	1715	4	4	3	3.6667
+341	s25-d23_18_5	He slices the entire length of the carrot crosswise.	carrot	2083	3696	s14-d27_5_6	Rinse knife and slice onion.	onion	3960	4315	4	3	1	2.6667
+342	s25-d23_18_5	He slices the entire length of the carrot crosswise.	carrot	2083	3696	s27-d21_6_5	The man then slices the other half.	cucumber	2341	2646	5	3	3	3.6667
+343	s27-d34_13_5	Cuts about 5 small pieces.	ginger	1157	1715	s28-d27_4_5	the person cuts the onion in half	onion	2215	2509	3	3	3	3.0000
+344	s27-d34_4_5	The person slices the fragment of ginger on the cutting board.	ginger	1117	1715	s27-d21_19_5	The man slices the cucumber lengthwise into narrow slices.	cucumber	1884	2646	3	3	3	3.0000
+345	s13-d21_5_7	The person cuts up the cucumber.	cucumber	2099	2523	s28-d27_3_5	He cuts up the onion thinly.	onion	2108	2509	5	4	3	4.0000
+346	s13-d25_2_5	The boy slices a piece of bread.	bread	1560	1788	s22-d34_18_5	She slices the vegetable into small crosswise pieces.	ginger	1053	2219	3	3	3	3.0000
+347	s28-d25_14_4	He slices the bread.	bread	911	1537	s24-d53_2_9	The person slices the avocado length wise.	avocado	3976	4839	3	4	3	3.3333
+348	s31-d25_18_6	Slice bread.	bread	1457	1802	s25-d23_16_7	The person slices the carrot into round pieces.	carrot	2083	3696	3	3	3	3.0000
+349	s28-d25_19_4	He sliced bread	bread	911	1537	s13-d28_4_7	He sliced orange	orange	3127	3461	3	5	3	3.6667
+350	s37-d25_10_5	He cuts a slice off the loaf of bread.	bread	968	1304	s13-d45_10_6	He cuts the entire pepper into slices.	pepper	2893	3807	3	2	3	2.6667
+351	s17-d53_18_9	person dices one of the halfs of avocado	avocado	4537	5778	s33-d45_7_9	She dices the last piece just as she had done to the others.	pepper	6286	6615	4	3	4	3.6667
+352	s22-d53_1_10	She cut up the avocado	avocado	4884	5901	s27-d54_6_4	He cuts up half the mango and then also chops up the skin.	mango	1826	4491	5	2	3	3.3333
+353	s17-d53_18_9	person dices one of the halfs of avocado	avocado	4537	5778	s36-d23_17_4	The man dices a carrot on the cutting board	carrot	3423	4316	5	3	3	3.6667
+354	s17-d53_18_9	person dices one of the halfs of avocado	avocado	4537	5778	s21-d21_12_9	The subject dices the cucumber.	cucumber	3046	3979	5	3	4	4.0000
+355	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	s23-d45_12_9	The person slices the strips into little chunks.	pepper	2867	3792	4	4	4	4.0000
+356	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	s27-d54_19_6	He sliced mango	mango	2246	4491	3	3	3	3.0000
+357	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	s29-d31_1_5	Slice again diagonally several times to create a nice mice.	garlic	2189	2693	2	2	3	2.3333
+358	s27-d21_16_6	He chopped cucumber	cucumber	1884	4135	s33-d45_12_10	The person chops the final piece of pepper.	pepper	6286	6615	5	4	3	4.0000
+359	s27-d21_16_6	He chopped cucumber	cucumber	1884	4135	s33-d54_9_8	The person chops the pieces on the new plate.	mango	5919	7666	4	3	3	3.3333
+360	s27-d21_16_6	He chopped cucumber	cucumber	1884	4135	s31-d31_5_9	The garlic slices are chopped.	garlic	3292	4211	3	4	4	3.6667
+361	s27-d21_16_6	He chopped cucumber	cucumber	1884	4135	s36-d23_19_7	He chopped carrots	carrot	1145	4316	5	5	4	4.6667
+362	s33-d54_9_8	The person chops the pieces on the new plate.	mango	5919	7666	s23-d45_11_7	The person chops the bell pepper on the cutting board.	pepper	2398	3792	3	3	3	3.0000
+363	s27-d54_19_6	He sliced mango	mango	2246	4491	s29-d31_1_5	Slice again diagonally several times to create a nice mice.	garlic	2189	2693	2	3	3	2.6667
+364	s33-d54_9_8	The person chops the pieces on the new plate.	mango	5919	7666	s36-d23_19_7	He chopped carrots	carrot	1145	4316	3	3	3	3.0000
+365	s31-d31_5_9	The garlic slices are chopped.	garlic	3292	4211	s33-d45_12_10	The person chops the final piece of pepper.	pepper	6286	6615	3	4	3	3.3333
+366	s31-d31_5_9	The garlic slices are chopped.	garlic	3292	4211	s36-d23_9_6	Chop first Carrot and place chopped carrot into the bowl	carrot	1673	4316	3	4	3	3.3333
+367	s36-d23_9_6	Chop first Carrot and place chopped carrot into the bowl	carrot	1673	4316	s33-d45_12_10	The person chops the final piece of pepper.	pepper	6286	6615	4	2	3	3.0000
+368	s17-d53_18_9	person dices one of the halfs of avocado	avocado	4537	5778	s33-d45_7_9	She dices the last piece just as she had done to the others.	pepper	6286	6615	4	4	3	3.6667
+369	s22-d53_12_12	She cut the avocado into pieces.	avocado	5048	5901	s27-d54_12_8	The person cuts the outside of the mango into strips, then cuts the strips into chunks.	mango	3565	4491	5	4	4	4.3333
+370	s17-d53_18_9	person dices one of the halfs of avocado	avocado	4537	5778	s36-d23_17_4	The man dices a carrot on the cutting board	carrot	3423	4316	5	3	3	3.6667
+371	s17-d53_18_9	person dices one of the halfs of avocado	avocado	4537	5778	s21-d21_12_9	The subject dices the cucumber.	cucumber	3046	3979	5	4	3	4.0000
+372	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	s23-d45_12_9	The person slices the strips into little chunks.	pepper	2867	3792	4	4	4	4.0000
+373	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	s27-d54_19_6	He sliced mango	mango	2246	4491	3	4	3	3.3333
+374	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	s29-d31_1_5	Slice again diagonally several times to create a nice mice.	garlic	2189	2693	2	3	3	2.6667
+375	s27-d21_16_6	He chopped cucumber	cucumber	1884	4135	s23-d45_11_7	The person chops the bell pepper on the cutting board.	pepper	2398	3792	5	4	3	4.0000
+376	s27-d21_16_6	He chopped cucumber	cucumber	1884	4135	s33-d54_9_8	The person chops the pieces on the new plate.	mango	5919	7666	4	3	3	3.3333
+377	s27-d21_16_6	He chopped cucumber	cucumber	1884	4135	s31-d31_5_9	The garlic slices are chopped.	garlic	3292	4211	3	4	3	3.3333
+378	s27-d21_16_6	He chopped cucumber	cucumber	1884	4135	s36-d23_19_7	He chopped carrots	carrot	1145	4316	5	5	3	4.3333
+379	s27-d54_15_5	Cut the outer skin into small chunks.	mango	3565	4491	s23-d45_8_8	He cuts the red pepper into small pieces.	pepper	2299	3792	3	3	4	3.3333
+380	s27-d54_1_6	He sliced mango	mango	2246	4491	s29-d31_1_5	Slice again diagonally several times to create a nice mice.	garlic	2189	2693	2	2	3	2.3333
+381	s33-d54_9_8	The person chops the pieces on the new plate.	mango	5919	7666	s36-d23_19_7	He chopped carrots	carrot	1145	4316	3	3	3	3.0000
+382	s31-d31_5_9	The garlic slices are chopped.	garlic	3292	4211	s23-d45_6_9	The slices are chopped.	pepper	2867	3792	3	4	3	3.3333
+383	s31-d31_5_9	The garlic slices are chopped.	garlic	3292	4211	s36-d23_9_6	Chop first Carrot and place chopped carrot into the bowl	carrot	1673	4316	3	2	3	2.6667
+384	s36-d23_9_6	Chop first Carrot and place chopped carrot into the bowl	carrot	1673	4316	s23-d45_11_7	The person chops the bell pepper on the cutting board.	pepper	2398	3792	4	3	3	3.3333
+385	s17-d53_18_9	person dices one of the halfs of avocado	avocado	4537	5778	s33-d45_7_9	She dices the last piece just as she had done to the others.	pepper	6286	6615	4	4	3	3.6667
+386	s22-d53_12_12	She cut the avocado into pieces.	avocado	5048	5901	s27-d54_12_8	The person cuts the outside of the mango into strips, then cuts the strips into chunks.	mango	3565	4491	4	3	4	3.6667
+387	s17-d53_18_9	person dices one of the halfs of avocado	avocado	4537	5778	s36-d23_17_4	The man dices a carrot on the cutting board	carrot	3423	4316	5	4	3	4.0000
+388	s17-d53_18_9	person dices one of the halfs of avocado	avocado	4537	5778	s21-d21_12_9	The subject dices the cucumber.	cucumber	3046	3979	5	3	3	3.6667
+389	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	s23-d45_12_9	The person slices the strips into little chunks.	pepper	2867	3792	4	4	4	4.0000
+390	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	s33-d54_1_5	On another plate, the woman chops the mango slices into smaller pieces.	mango	5631	7666	3	3	3	3.0000
+391	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	s29-d31_1_5	Slice again diagonally several times to create a nice mice.	garlic	2189	2693	2	2	3	2.3333
+392	s27-d21_16_6	He chopped cucumber	cucumber	1884	4135	s23-d45_11_7	The person chops the bell pepper on the cutting board.	pepper	2398	3792	5	3	3	3.6667
+393	s27-d21_16_6	He chopped cucumber	cucumber	1884	4135	s33-d54_9_8	The person chops the pieces on the new plate.	mango	5919	7666	4	3	3	3.3333
+394	s27-d21_16_6	He chopped cucumber	cucumber	1884	4135	s31-d31_5_9	The garlic slices are chopped.	garlic	3292	4211	3	4	3	3.3333
+395	s21-d21_12_9	The subject dices the cucumber.	cucumber	3046	3979	s36-d23_17_4	The man dices a carrot on the cutting board	carrot	3423	4316	5	4	4	4.3333
+396	s27-d54_12_8	The person cuts the outside of the mango into strips, then cuts the strips into chunks.	mango	3565	4491	s23-d45_8_8	He cuts the red pepper into small pieces.	pepper	2299	3792	3	3	4	3.3333
+397	s33-d54_9_8	The person chops the pieces on the new plate.	mango	5919	7666	s31-d31_5_9	The garlic slices are chopped.	garlic	3292	4211	3	3	3	3.0000
+398	s33-d54_9_8	The person chops the pieces on the new plate.	mango	5919	7666	s36-d23_9_6	Chop first Carrot and place chopped carrot into the bowl	carrot	1673	4316	3	3	3	3.0000
+399	s31-d31_5_9	The garlic slices are chopped.	garlic	3292	4211	s23-d45_11_7	The person chops the bell pepper on the cutting board.	pepper	2398	3792	3	4	3	3.3333
+400	s31-d31_5_9	The garlic slices are chopped.	garlic	3292	4211	s36-d23_9_6	Chop first Carrot and place chopped carrot into the bowl	carrot	1673	4316	3	3	3	3.0000
+401	s36-d23_19_7	He chopped carrots	carrot	1145	4316	s23-d45_13_8	The person chops the pepper on the cutting board.	pepper	2398	3792	4	4	3	3.6667
+402	s17-d53_18_9	person dices one of the halfs of avocado	avocado	4537	5778	s23-d45_7_6	He dices the peppers.	pepper	2398	3792	4	3	3	3.3333
+403	s22-d53_1_10	She cut up the avocado	avocado	4884	5901	s27-d54_16_6	He cut up mango	mango	2246	4491	5	4	4	4.3333
+404	s17-d53_18_9	person dices one of the halfs of avocado	avocado	4537	5778	s36-d23_17_4	The man dices a carrot on the cutting board	carrot	3423	4316	5	3	3	3.6667
+405	s17-d53_18_9	person dices one of the halfs of avocado	avocado	4537	5778	s21-d21_12_9	The subject dices the cucumber.	cucumber	3046	3979	5	4	3	4.0000
+406	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	s23-d45_12_9	The person slices the strips into little chunks.	pepper	2867	3792	4	4	4	4.0000
+407	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	s27-d54_19_6	He sliced mango	mango	2246	4491	3	3	3	3.0000
+408	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	s29-d31_1_5	Slice again diagonally several times to create a nice mice.	garlic	2189	2693	2	2	3	2.3333
+409	s21-d21_12_9	The subject dices the cucumber.	cucumber	3046	3979	s23-d45_7_6	He dices the peppers.	pepper	2398	3792	5	4	3	4.0000
+410	s27-d21_16_6	He chopped cucumber	cucumber	1884	4135	s33-d54_9_8	The person chops the pieces on the new plate.	mango	5919	7666	4	4	3	3.6667
+411	s27-d21_16_6	He chopped cucumber	cucumber	1884	4135	s31-d31_5_9	The garlic slices are chopped.	garlic	3292	4211	3	4	3	3.3333
+412	s27-d21_16_6	He chopped cucumber	cucumber	1884	4135	s36-d23_9_6	Chop first Carrot and place chopped carrot into the bowl	carrot	1673	4316	5	3	3	3.6667
+413	s27-d54_1_6	He sliced mango	mango	2246	4491	s23-d45_12_9	The person slices the strips into little chunks.	pepper	2867	3792	2	3	3	2.6667
+414	s27-d54_19_6	He sliced mango	mango	2246	4491	s29-d31_1_5	Slice again diagonally several times to create a nice mice.	garlic	2189	2693	2	3	3	2.6667
+415	s33-d54_9_8	The person chops the pieces on the new plate.	mango	5919	7666	s36-d23_19_7	He chopped carrots	carrot	1145	4316	3	3	3	3.0000
+416	s29-d31_1_5	Slice again diagonally several times to create a nice mice.	garlic	2189	2693	s23-d45_12_9	The person slices the strips into little chunks.	pepper	2867	3792	3	3	3	3.0000
+417	s31-d31_5_9	The garlic slices are chopped.	garlic	3292	4211	s36-d23_9_6	Chop first Carrot and place chopped carrot into the bowl	carrot	1673	4316	3	2	3	2.6667
+418	s36-d23_19_7	He chopped carrots	carrot	1145	4316	s23-d45_6_9	The slices are chopped.	pepper	2867	3792	4	3	3	3.3333
+419	s22-d53_12_12	She cut the avocado into pieces.	avocado	5048	5901	s23-d45_8_8	He cuts the red pepper into small pieces.	pepper	2299	3792	3	4	3	3.3333
+420	s22-d53_12_12	She cut the avocado into pieces.	avocado	5048	5901	s33-d54_5_5	The person cuts the chunks into smaller pieces on the new plate.	mango	5919	7666	5	3	4	4.0000
+421	s24-d34_4_6	The person peels the ginger.	ginger	1489	2291	s24-d34_13_4	She peels the ginger.	ginger	1226	2291	5	5	5	5.0000
+422	s36-d31_5_10	The clove is peeled.	garlic	4417	5355	s13-d31_15_6	He peeled garlic	garlic	1887	3384	5	4	5	4.6667
+423	s14-d46_14_12	She cut skin off of pineapple	pineapple	3023	3523	s23-d46_17_7	The person slices the skin off of the quarter.	pineapple	2220	2739	5	4	4	4.3333
+424	s13-d28_14_7	The person peels the skin off the orange.	orange	2077	2950	s13-d28_12_7	He peeled orange	orange	2271	2950	5	5	5	5.0000
+425	s26-d23_8_7	The person peels the carrot.	carrot	1491	2164	s24-d23_11_3	She peels the carrots.	carrot	1405	2454	5	4	5	4.6667
+426	s36-d31_2_11	The person peels the garlic clove.	garlic	4538	5355	s13-d31_5_3	He removes the skin from two cloves.	garlic	2218	3384	5	4	4	4.3333
+427	s13-d28_9_6	The person uses the knife to peel the orange.	orange	1902	2950	s13-d28_12_7	He peeled orange	orange	2271	2950	5	4	4	4.3333
+428	s22-d46_5_6	Cut the rind off the thin slices.	pineapple	4371	9315	s14-d46_3_3	She cuts off the bottom and sides of the fruit.	pineapple	1957	3523	2	3	4	3.0000
+429	s24-d53_7_6	She removes the skin from the other half of the avocado.	avocado	2297	2934	s30-d53_2_5	person peels avocado	avocado	1520	2370	5	4	4	4.3333
+430	s37-d21_7_9	Once skin peeled off cut down the middle	cucumber	2737	3931	s21-d21_19_7	The person peels the cucumber.	cucumber	1488	2646	1	2	3	2.0000
+431	s17-d53_3_4	He peeled avocado	avocado	1124	2390	s30-d53_17_2	Peel Avocado with knife.	avocado	1520	2370	5	4	5	4.6667
+432	s23-d31_10_4	He breaks the garlic apart even more on the plate.	garlic	1837	1992	s13-d31_17_4	Peel skin away from the meat.	garlic	2299	3384	1	2	3	2.0000
+433	s37-d21_15_5	With a peeler the man removes the skin from half of the cucumber.	cucumber	2737	3931	s37-d21_3_8	He peeled cucumber	cucumber	2737	3931	5	4	4	4.3333
+434	s13-d31_15_6	He peeled garlic	garlic	1887	3384	s13-d31_17_4	Peel skin away from the meat.	garlic	2299	3384	5	4	5	4.6667
+435	s24-d34_14_5	She peeled ginger	ginger	1226	2291	s24-d34_6_5	She peels that chunk of ginger.	ginger	1226	2291	5	5	5	5.0000
+436	s24-d34_11_3	using potato peeler, scrape off skin	ginger	1342	2291	s24-d34_6_5	She peels that chunk of ginger.	ginger	1226	2291	5	4	4	4.3333
+437	s23-d54_18_6	The person uses the fruit peeler to peel the mango.	mango	2909	4110	s33-d54_16_5	The person peeled the mango with the knife.	mango	1573	3613	4	4	5	4.3333
+438	s22-d46_8_9	She cut off skin of pineapple	pineapple	4702	9315	s14-d46_19_8	She took out pineapple peel	pineapple	1957	3523	5	5	5	5.0000
+439	s13-d31_9_6	He peeled garlic	garlic	1887	3384	s13-d31_17_4	Peel skin away from the meat.	garlic	2299	3384	5	4	5	4.6667
+440	s36-d31_2_11	The person peels the garlic clove.	garlic	4538	5355	s36-d31_16_10	The person peels the skin off the garlic by hand.	garlic	4538	5355	5	4	5	4.6667
+441	s30-d53_9_5	She peels the avocado.	avocado	1520	2370	s22-d53_4_8	The person peels both halves of the avocado.	avocado	2760	4595	5	4	5	4.6667
+442	s21-d28_11_4	The person uses the knife to peel the orange over the sink.	orange	959	2581	s13-d28_4_6	He peeled orange	orange	1902	2950	5	4	5	4.6667
+443	s23-d31_14_5	The person peels each piece of garlic.	garlic	1601	1992	s13-d31_12_7	The man peels 2 garlic cloves.	garlic	2218	3384	5	4	4	4.3333
+444	s24-d23_4_3	She peels the carrots.	carrot	1405	2454	s26-d23_13_5	He peeled the entire carrot with the vegetable peeler.	carrot	1491	2164	5	3	5	4.3333
+445	s14-d27_17_5	The person peels the onion, cutting off the skin.	onion	834	3508	s28-d27_19_5	He peeled onion	onion	1071	2050	4	4	5	4.3333
+446	s33-d54_1_3	With a knife, the woman peels of the out skin of the mango.	mango	1385	3613	s23-d54_18_6	The person uses the fruit peeler to peel the mango.	mango	2909	4110	5	4	4	4.3333
+447	s36-d27_12_5	The person peels some skin off the onion.	onion	925	1107	s28-d27_19_5	He peeled onion	onion	1071	2050	5	4	5	4.6667
+448	s13-d28_7_5	He uses the knife to peel the skin off the orange in a circular fashion.	orange	2271	2950	s13-d28_4_6	He peeled orange	orange	1902	2950	5	4	4	4.3333
+449	s24-d53_16_5	The person peels the avocado.	avocado	1434	2934	s24-d53_7_6	She removes the skin from the other half of the avocado.	avocado	2297	2934	5	4	4	4.3333
+450	s22-d46_5_6	Cut the rind off the thin slices.	pineapple	4371	9315	s22-d46_16_11	She peeled skin off pineapple	pineapple	4702	9315	5	3	4	4.0000
+451	s14-d46_19_8	She took out pineapple peel	pineapple	1957	3523	s14-d46_3_3	She cuts off the bottom and sides of the fruit.	pineapple	1957	3523	4	4	3	3.6667
+452	s36-d31_14_11	The man peels the garlic again	garlic	4538	5355	s36-d31_11_10	The person peels the garlic.	garlic	4538	5355	5	4	5	4.6667
+453	s24-d23_9_3	The carrots are peeled.	carrot	1405	2454	s24-d23_8_3	She peeled carrots	carrot	1405	2454	5	5	5	5.0000
+454	s24-d34_12_5	She peeled the ginger	ginger	1226	2291	s24-d34_13_4	She peels the ginger.	ginger	1226	2291	5	5	5	5.0000
+455	s36-d31_9_9	The person peels the garlic.	garlic	4538	5355	s36-d31_2_11	The person peels the garlic clove.	garlic	4538	5355	5	4	5	4.6667
+456	s24-d23_18_3	She peels the carrots.	carrot	1405	2454	s24-d23_5_3	The person peels the carrots over the sink.	carrot	1405	2454	5	4	5	4.6667
+457	s30-d53_9_5	She peels the avocado.	avocado	1520	2370	s30-d53_10_5	She cuts the peel off the avocado.	avocado	1520	2370	5	4	5	4.6667
+458	s14-d46_14_12	She cut skin off of pineapple	pineapple	3023	3523	s14-d46_19_8	She took out pineapple peel	pineapple	1957	3523	5	5	5	5.0000
+459	s24-d34_8_7	The person peels the ginger.	ginger	1489	2291	s24-d34_6_5	She peels that chunk of ginger.	ginger	1226	2291	5	5	5	5.0000
+460	s37-d21_12_5	Grates half of the cucumber.	cucumber	2572	3931	s37-d21_7_9	Once skin peeled off cut down the middle	cucumber	2737	3931	1	2	2	1.6667
+461	s21-d42_4_10	She washed broccoli	broccoli	2353	3078	s21-d42_17_5	The person just washed the broccoli	broccoli	1845	3078	5	5	5	5.0000
+462	s23-d54_19_5	He washed mango	mango	1546	1924	s23-d54_14_3	The person rinses off the mango.	mango	1412	1924	5	5	5	5.0000
+463	s32-d27_14_1	The woman takes out an onion.	onion	311	1355	s32-d27_2_1	She grabs an onion.	onion	311	1355	5	4	5	4.6667
+464	s15-d35_12_5	She washed plums	plum	1396	1708	s15-d35_7_5	Wash the plums with water.	plum	1551	1708	5	5	5	5.0000
+465	s23-d39_1_7	He rewashed leek	leek	1243	1961	s23-d39_18_8	The person rinses the leek again.	leek	1582	1961	5	5	5	5.0000
+466	s23-d42_10_5	He washed broccoli	broccoli	1441	2947	s21-d42_16_9	The person rinses the broccoli.	broccoli	2716	3078	5	5	5	5.0000
+467	s26-d26_8_11	He threw away scraps	cauliflower	5185	5599	s26-d26_15_4	The man discards the unwanted pieces.	cauliflower	5185	5599	5	4	5	4.6667
+468	s22-d48_15_3	Washes and drys pepper	chilli	655	713	s17-d48_5_3	person wash chilli pepper under water	chilli	873	1050	5	3	4	4.0000
+469	s22-d26_11_10	The cauliflower is washed.	cauliflower	8879	9293	s30-d26_15_7	She washed cauliflower	cauliflower	2277	2962	5	5	5	5.0000
+470	s23-d42_13_5	The person rinses the broccoli.	broccoli	1441	2947	s23-d42_15_5	He washed broccoli	broccoli	1441	2947	5	5	5	5.0000
+471	s22-d35_19_2	She washed plum	plum	594	688	s21-d35_7_2	She rinses the plum.	plum	491	603	5	4	5	4.6667
+472	s28-d39_4_5	He washed leek	leek	1298	2350	s29-d39_17_4	The person rinses the leek.	leek	941	1237	5	5	5	5.0000
+473	s23-d42_19_6	The person washes the broccoli in the sink.	broccoli	2563	2947	s23-d42_13_5	The person rinses the broccoli.	broccoli	1441	2947	5	5	5	5.0000
+474	s21-d45_15_2	She washed the pepper	pepper	465	570	s13-d45_15_6	He washed pepper	pepper	2056	2490	5	5	5	5.0000
+475	s30-d41_6_3	She rinses the pomegranate.	pomegranate	654	1015	s30-d41_18_3	The person washes the pomegranate.	pomegranate	654	1015	5	5	5	5.0000
+476	s23-d42_3_4	He washes the broccoli.	broccoli	2276	2947	s21-d42_12_9	She washed the broccoli	broccoli	2657	3078	5	5	5	5.0000
+477	s28-d39_19_5	He washed leek	leek	1196	2350	s37-d39_15_4	The person rinses the leek.	leek	840	1111	5	5	5	5.0000
+478	s17-d53_15_3	He rinses the avocado in the sink.	avocado	469	799	s17-d53_3_2	He washed avocado	avocado	469	799	5	5	5	5.0000
+479	s37-d39_1_4	Person washes leeks.	leek	840	1111	s37-d39_6_4	The person rinses the leek.	leek	840	1111	5	4	5	4.6667
+480	s17-d48_1_2	He proceeds to wash the pepper.	chilli	741	1050	s13-d48_1_4	Person rinses the chili.	chilli	1667	1809	5	5	5	5.0000
+481	s28-d51_12_2	He washes the beans.	beans	887	1678	s28-d51_7_5	He washed beans	beans	1439	1678	5	5	5	5.0000
+482	s13-d28_3_2	The man rinses the orange under the sink.	orange	1666	1800	s13-d28_4_5	He washed orange	orange	1666	1800	5	5	5	5.0000
+483	s37-d39_2_3	He rinses the leeks.	leek	840	1111	s37-d39_4_3	He washes the leeks.	leek	840	1111	5	5	5	5.0000
+484	s23-d21_5_6	He washed cucumber	cucumber	1488	1682	s13-d21_9_5	The person washes the cucumber in the sink.	cucumber	1366	1594	5	5	5	5.0000
+485	s25-d23_1_4	He washed carrot	carrot	743	911	s25-d23_18_2	The man washes the carrot.	carrot	743	911	5	5	5	5.0000
+486	s28-d51_8_1	The person washes the sweet peas.	beans	207	1678	s23-d51_15_5	Run fresh broad beans under water.	beans	2277	2818	5	5	4	4.6667
+487	s24-d41_8_4	She washed pomegranate	pomegranate	1150	1229	s30-d41_18_3	The person washes the pomegranate.	pomegranate	654	1015	5	5	5	5.0000
+488	s37-d39_1_4	Person washes leeks.	leek	840	1111	s37-d39_11_4	The person rinses the leek.	leek	840	1111	5	5	5	5.0000
+489	s30-d40_14_2	The woman washes off the lime.	lime	667	819	s35-d40_16_2	Rinse lime in water.	lime	716	956	5	5	5	5.0000
+490	s23-d34_1_8	He washed ginger	ginger	1586	1999	s23-d34_4_4	Washes the item.	ginger	1373	1999	5	5	5	5.0000
+491	s34-d34_3_2	Drain water.	ginger	2488	2953	s34-d34_1_5	The person rinses the ginger.	ginger	1698	2953	3	4	1	2.6667
+492	s17-d53_8_1	The person washed the avocado.	avocado	169	799	s17-d53_3_2	He washed avocado	avocado	469	799	5	5	5	5.0000
+493	s24-d41_12_3	Step Three: rinse the pomegranate	pomegranate	1150	1229	s24-d41_8_4	She washed pomegranate	pomegranate	1150	1229	5	5	5	5.0000
+494	s37-d21_15_3	The man washes the outside of the cucumber.	cucumber	2361	2505	s37-d21_3_5	He washed cucumber	cucumber	1394	2505	5	5	5	5.0000
+495	s32-d27_2_1	She grabs an onion.	onion	311	1355	s32-d27_14_1	The woman takes out an onion.	onion	311	1355	5	4	5	4.6667
+496	s26-d26_15_4	The man discards the unwanted pieces.	cauliflower	5185	5599	s26-d26_8_11	He threw away scraps	cauliflower	5185	5599	5	5	5	5.0000
+497	s22-d48_1_1	Person rinsed a pepper.	chilli	241	713	s22-d48_17_3	The person rinses the chili pepper in the sink.	chilli	655	713	5	5	5	5.0000
+498	s28-d51_8_1	The person washes the sweet peas.	beans	207	1678	s28-d51_12_2	He washes the beans.	beans	887	1678	5	5	4	4.6667
+499	s23-d54_13_6	The person washes the mango.	mango	1785	1924	s23-d54_19_5	He washed mango	mango	1546	1924	5	5	5	5.0000
+500	s22-d35_5_5	Person rinses plum.	plum	526	688	s22-d35_19_2	She washed plum	plum	594	688	5	5	5	5.0000
+501	s33-d45_3_6	She chops the pepper and puts it on a plate.	pepper	2736	7134	s21-d45_12_4	Girl slices yellow bell peppers.	pepper	1502	2021	4	3	4	3.6667
+502	s21-d42_6_4	the person gets a cutting board and a knife	broccoli	2570	2751	s21-d42_8_9	She cut off stem	broccoli	2353	2751	1	1	1	1.0000
+503	s21-d42_6_4	the person gets a cutting board and a knife	broccoli	2570	2751	s21-d42_8_9	She cut off stem	broccoli	2353	2751	1	1	1	1.0000
+504	s21-d42_8_9	She cut off stem	broccoli	2353	2751	s21-d42_6_4	the person gets a cutting board and a knife	broccoli	2570	2751	1	1	1	1.0000
+505	s34-d28_17_1	He broke orange into parts	orange	201	3864	s24-d28_16_7	The person tears the orange in half.	orange	5882	6090	4	4	4	4.0000
+506	s14-d35_19_3	The person bisects the plum to the pit, then twists the halves in opposite directions to remove one of them from the pit.	plum	1346	1551	s21-d35_14_4	The woman cuts the plum in half, around the seed.	plum	1031	1191	5	4	4	4.3333
+507	s21-d45_4_8	She sliced pepper	pepper	1664	2021	s21-d45_15_8	She cut pepper	pepper	1664	2021	5	4	5	4.6667
+508	s24-d41_11_5	She splits the pomegranate.	pomegranate	1326	3033	s24-d41_9_4	She opens up the pomegranate.	pomegranate	1236	3033	5	3	4	4.0000
+509	s22-d53_4_4	The person cuts the avocado in half.	avocado	1392	1902	s22-d53_3_3	She cuts the avocado in half.	avocado	1461	1902	5	5	5	5.0000
+510	s14-d35_12_6	She cut plum in half	plum	1346	1551	s21-d35_19_6	Break the plum apart.	plum	1117	1191	4	4	4	4.0000
+511	s23-d39_17_4	The man peels off the shell of the leek.	leek	1243	1531	s23-d39_14_7	The person peels off some of the leek's leaves.	leek	1243	1531	4	4	5	4.3333
+512	s22-d53_3_3	She cuts the avocado in half.	avocado	1461	1902	s24-d53_19_4	She cut avocado in half	avocado	975	1317	5	5	5	5.0000
+513	s32-d27_13_3	The person rinses the knife.	onion	2361	2585	s32-d27_10_5	She washed knife	onion	2361	2585	5	5	5	5.0000
+514	s30-d40_8_6	Slices lime in half.	lime	1055	1193	s30-d40_17_7	The lime is sliced in half.	lime	1055	1193	5	5	5	5.0000
+515	s31-d31_8_1	The man begins by selecting some garlic from the cupboard.	garlic	201	541	s29-d31_12_3	The person gets out a garlic clove.	garlic	729	1153	1	5	5	3.6667
+516	s32-d27_14_3	She cuts off the top with a knife.	onion	1904	2585	s32-d27_13_3	The person rinses the knife.	onion	2361	2585	1	1	1	1.0000
+517	s30-d40_4_6	The person cuts the lime in half.	lime	1055	1193	s30-d40_12_3	Cut lime in half with a knife	lime	910	1193	5	4	5	4.6667
+518	s21-d28_13_6	Using her hands, the woman splits the orange in hald over the saucer.	orange	2211	2767	s24-d28_7_5	The person pries the orange open using her fingers.	orange	5882	6090	1	4	5	3.3333
+519	s22-d26_19_9	She sections the cauliflower into smaller florets with the knife.	cauliflower	4870	8107	s22-d26_6_8	The person cuts the cauliflower into smaller pieces.	cauliflower	5596	8107	5	4	5	4.6667
+520	s27-d54_1_5	He cut mango in half	mango	1826	2163	s27-d54_10_5	The mango is cut in half.	mango	1826	2163	5	5	5	5.0000
+521	s36-d31_5_9	Another garlic clove is removed from a cabinet.	garlic	4171	4410	s36-d31_16_8	The person selects a new piece of garlic.	garlic	4171	4410	5	3	5	4.3333
+522	s21-d42_8_9	She cut off stem	broccoli	2353	2751	s21-d42_6_4	the person gets a cutting board and a knife	broccoli	2570	2751	1	1	1	1.0000
+523	s27-d54_19_5	He cut mango in half	mango	1826	2163	s27-d54_10_5	The mango is cut in half.	mango	1826	2163	5	5	5	5.0000
+524	s22-d26_8_6	The person chops the cauliflower into chunks on the cutting board.	cauliflower	4870	8107	s22-d26_19_9	She sections the cauliflower into smaller florets with the knife.	cauliflower	4870	8107	5	4	3	4.0000
+525	s22-d26_12_7	The person cuts the cauliflower into pieces, trimming off bits of leaves as she finds them.	cauliflower	4870	8107	s22-d26_8_6	The person chops the cauliflower into chunks on the cutting board.	cauliflower	4870	8107	5	4	5	4.6667
+526	s21-d42_8_9	She cut off stem	broccoli	2353	2751	s21-d42_6_4	the person gets a cutting board and a knife	broccoli	2570	2751	1	1	1	1.0000
+527	s32-d27_13_3	The person rinses the knife.	onion	2361	2585	s32-d27_10_5	She washed knife	onion	2361	2585	5	5	5	5.0000
+528	s14-d35_19_3	The person bisects the plum to the pit, then twists the halves in opposite directions to remove one of them from the pit.	plum	1346	1551	s14-d35_8_6	She cut plum in half	plum	1346	1551	5	3	4	4.0000
+529	s22-d53_6_3	She cuts it in half.	avocado	1392	1902	s24-d53_9_4	The person cuts the avocado in half.	avocado	975	1317	5	5	5	5.0000
+530	s30-d40_5_5	The person cuts the lime in half.	lime	1055	1193	s30-d40_3_6	The lime is cut in half.	lime	1055	1193	5	5	5	5.0000
+531	s30-d40_14_3	Using a knife she cuts the lime into two equal peices.	lime	819	1193	s30-d40_12_3	Cut lime in half with a knife	lime	910	1193	5	5	5	5.0000
+532	s27-d54_18_5	The person cuts the mango in halves.	mango	1826	2163	s27-d54_5_5	The person removes half of the mango's outside.	mango	1826	2163	5	2	3	3.3333
+533	s14-d35_1_7	Person twists plum apart.	plum	1462	1551	s14-d35_9_5	The person slices the plum down the middle then twists it in half.	plum	1236	1551	5	3	4	4.0000
+534	s21-d42_8_9	She cut off stem	broccoli	2353	2751	s21-d42_6_4	the person gets a cutting board and a knife	broccoli	2570	2751	1	1	1	1.0000
+535	s24-d53_18_4	The person seperates the halves of the avocado with a twisting motion.	avocado	1254	1317	s24-d53_19_4	She cut avocado in half	avocado	975	1317	3	3	3	3.0000
+536	s13-d31_8_3	Use the knife to begin the separation, then use your hands to break apart the bulb.	garlic	1887	2205	s13-d31_14_2	The person uses the knife to cut several cloves from the head of garlic.	garlic	1887	2205	5	4	4	4.3333
+537	s13-d45_2_3	Remove the stem by pressing with your fingers around the stem.	pepper	1813	1977	s13-d45_12_6	Remove the stem from the pepper.	pepper	1813	1977	5	4	4	4.3333
+538	s13-d45_12_6	Remove the stem from the pepper.	pepper	1813	1977	s13-d45_2_3	Remove the stem by pressing with your fingers around the stem.	pepper	1813	1977	5	4	4	4.3333
+539	s22-d53_19_4	She cut avocado in half	avocado	1392	1902	s22-d53_3_3	She cuts the avocado in half.	avocado	1461	1902	5	5	5	5.0000
+540	s24-d41_13_5	She cuts the pomegranate into wedges.	pomegranate	2221	3033	s24-d41_6_3	She cuts the pomegranate in half.	pomegranate	1326	3033	4	4	4	4.0000
+541	s33-d54_8_4	She cuts off the sides of the mango.	mango	3658	5581	s23-d54_6_5	He removes the peels.	mango	2909	4195	1	3	4	2.6667
+542	s22-d53_12_7	She cut the avocado in half.	avocado	1152	1811	s30-d53_17_3	Cut avocado away from pit with knife.	avocado	2877	3922	5	3	4	4.0000
+543	s21-d23_2_5	Cut both ends of carrot one by one	carrot	1154	1312	s26-d23_17_4	cut leaves away from carrot head	carrot	1382	1404	5	2	4	3.6667
+544	s26-d26_14_3	He gets the cauliflower and chops off its leaves.	cauliflower	1740	3223	s15-d26_13_3	put grille on plate	cauliflower	4570	6459	1	1	1	1.0000
+545	s14-d35_7_6	The person cuts the plum in quarters.	plum	1590	2055	s25-d35_8_5	He cut plum into pieces	plum	1059	3717	5	4	4	4.3333
+546	s22-d46_18_6	The person cuts the pineapple into halves.	pineapple	1975	2622	s22-d46_16_7	She cut pineapple in half	pineapple	2303	2622	5	5	5	5.0000
+547	s24-d23_14_9	She cut off carrot ends	carrot	3961	4133	s25-d23_7_5	He chops the ends off the carrot.	carrot	982	1090	5	5	5	5.0000
+548	s22-d46_1_6	Person slices down middle cutting pineapple in half.	pineapple	2303	2622	s22-d46_4_6	She cut the pineapple in half.	pineapple	2303	2622	5	5	5	5.0000
+549	s31-d28_19_6	He cut orange in pieces	orange	3740	3994	s31-d28_12_8	The person cuts the halves into quarters.	orange	3740	3994	5	4	4	4.3333
+550	s13-d21_8_5	The person cuts the ends from the cucumber.	cucumber	1665	2036	s13-d21_2_7	perosn then cuts ends off cucumber	cucumber	1854	2036	5	5	5	5.0000
+551	s25-d23_1_5	He cut off ends of carrots	carrot	982	1090	s26-d23_14_6	He cut off top of carrot	carrot	1291	1404	5	4	4	4.3333
+552	s30-d40_5_7	The person makes small incisions in the fruit of the other half of the lime.	lime	2899	3177	s21-d40_14_1	Cut the lime in half.	lime	243	1023	1	2	4	2.3333
+553	s34-d34_7_6	He peels the ginger.	ginger	3021	8890	s24-d34_7_8	After finishing peeling, she throws away the skin of the ginger.	ginger	1489	2464	3	2	1	2.0000
+554	s34-d34_4_5	The person uses the peeler to peel the ginger.	ginger	2627	8890	s34-d34_16_5	He uses the carver to break apart ginger into smaller pieces.	ginger	4716	8890	1	2	2	1.6667
+555	s35-d41_9_4	The woman cuts off the tips of the pomegranate.	pomegranate	3016	3499	s30-d41_7_6	The person cuts the pomegranate in half.	pomegranate	2056	2352	3	3	4	3.3333
+556	s33-d54_16_6	The person cut the flesh off the core.	mango	3658	5581	s23-d54_13_11	The person places the mango on the cutting board.	mango	4160	4195	1	1	2	1.3333
+557	s27-d54_3_5	Scrape fruit off seed with knife.	mango	2641	5643	s33-d54_15_3	She cuts the sides off the mango until she reaches the core.	mango	4729	5581	3	3	4	3.3333
+558	s36-d31_9_4	The person chops the garlic on the cutting board.	garlic	2301	3344	s36-d31_15_6	The person tries to dice the shreds of garlic.	garlic	2301	3344	5	3	4	4.0000
+559	s30-d41_7_6	The person cuts the pomegranate in half.	pomegranate	2056	2352	s30-d41_4_6	The person chops the pomegranate in half.	pomegranate	2056	2352	5	5	5	5.0000
+560	s30-d53_8_6	Slices up the avocado.	avocado	2409	3922	s30-d53_13_5	She cuts the good part from the pit.	avocado	2409	3922	2	3	3	2.6667
+561	s17-d42_17_7	The person cut the florets off the stem.	broccoli	2955	4162	s17-d42_1_4	Cut the head of the broccoli crown into smaller broccoli pieces.	broccoli	2608	4162	5	4	4	4.3333
+562	s31-d28_17_5	The person cuts the orange into quarters.	orange	3566	3994	s31-d28_8_7	The orange is cut in four pieces.	orange	3566	3994	5	4	5	4.6667
+563	s36-d27_5_3	He cut the ends of the oninon	onion	757	876	s14-d27_7_3	She peels the onion.	onion	608	3550	1	3	3	2.3333
+564	s30-d41_4_6	The person chops the pomegranate in half.	pomegranate	2056	2352	s30-d41_9_6	The person cuts the pomegranate in half.	pomegranate	2056	2352	5	5	5	5.0000
+565	s21-d42_13_7	Cut the broccoli into smaller portions.	broccoli	3204	4578	s23-d42_19_7	The person cuts the stem from the broccoli.	broccoli	2947	3450	4	3	3	3.3333
+566	s21-d39_12_4	Girl cuts off top and bottom of leek	leek	612	765	s23-d39_18_6	The person cuts off the bottom of the leek.	leek	1071	1158	5	4	4	4.3333
+567	s22-d26_19_7	She slices the large stem off of the cauliflower.	cauliflower	4528	4654	s26-d26_8_8	He cut off leaves	cauliflower	2724	3223	3	3	4	3.3333
+568	s23-d21_1_5	He cut off ends of cucumbers	cucumber	1702	1803	s23-d21_5_7	He cut off ends of cucumber	cucumber	1702	1803	5	4	5	4.6667
+569	s14-d26_14_6	She cut stem off cauliflower	cauliflower	2560	2948	s22-d26_6_6	The person cuts off the bottom stalk of the cauliflower.	cauliflower	4458	4654	5	5	5	5.0000
+570	s36-d42_3_4	Cuts florets from broccoli.	broccoli	2249	3908	s17-d42_1_4	Cut the head of the broccoli crown into smaller broccoli pieces.	broccoli	2608	4162	5	4	5	4.6667
+571	s23-d45_6_5	The pepper is cut in half.	pepper	1201	1306	s23-d45_1_5	Guy cuts pepper in half	pepper	896	1306	5	5	5	5.0000
+572	s34-d28_11_5	He peeled orange	orange	1537	2980	s34-d28_10_2	Peel the orange with your hands, using the knife for any difficult spots.	orange	1537	2980	5	4	4	4.3333
+573	s17-d42_12_4	Using a cutting board, remove the broccoli pieces from the stem.	broccoli	2955	4162	s17-d42_4_4	Using a knife, he trims the broccoli from the stalk.	broccoli	2955	4162	5	4	4	4.3333
+574	s36-d42_13_3	He cuts the good pieces of broccoli off.	broccoli	1848	3908	s36-d42_3_4	Cuts florets from broccoli.	broccoli	2249	3908	5	4	5	4.6667
+575	s35-d40_11_8	The lime is cut in half.	lime	2434	2971	s35-d40_17_9	She cut lime in half	lime	2434	2971	5	5	5	5.0000
+576	s28-d46_12_4	He cut off bottom of pineapple	pineapple	662	781	s28-d46_5_4	The person cuts off the bottom of the pineapple.	pineapple	662	781	5	5	5	5.0000
+577	s35-d40_14_4	She cuts the lime in half.	lime	1991	2971	s35-d40_11_8	The lime is cut in half.	lime	2434	2971	5	5	5	5.0000
+578	s17-d53_4_9	The avocado is cut in half.	avocado	3739	3974	s17-d53_18_7	person gets out avocado	avocado	3739	3974	1	1	1	1.0000
+579	s31-d28_5_6	The person cuts the orange into quarters.	orange	3566	3994	s31-d28_19_6	He cut orange in pieces	orange	3740	3994	5	4	4	4.3333
+580	s34-d41_5_3	Use the knife to cut the ends off of the pomegranate, then cut the pomegranate in half lengthwise.	pomegranate	2038	2479	s34-d41_10_5	He cuts the pomegranate.	pomegranate	2038	2479	5	3	4	4.0000
+581	s28-d27_4_5	the person cuts the onion in half	onion	2215	2509	s14-d27_2_9	The person cuts one half of the onion length-wise with the paring knife.	onion	4050	4315	5	4	4	4.3333
+582	s21-d39_14_8	The person cuts the leek into small pieces.	leek	1717	2620	s21-d39_12_8	Girl chops up leek	leek	1717	2620	5	5	4	4.6667
+583	s14-d27_2_9	The person cuts one half of the onion length-wise with the paring knife.	onion	4050	4315	s33-d27_12_3	The woman adds the first onion to the pan.	onion	6249	6635	1	2	1	1.3333
+584	s28-d25_6_4	He cuts two slices off the loaf.	bread	911	1537	s28-d25_4_4	The person uses the knife to cut two slices of bread on the cutting board.	bread	911	1537	5	5	5	5.0000
+585	s21-d39_13_6	The person chops the leeks on the cutting board.	leek	1717	2620	s21-d39_8_7	The leek is sliced.	leek	1717	2620	3	4	4	3.6667
+586	s29-d31_12_5	The person slices the garlic clove into thin pieces.	garlic	1488	2189	s31-d31_5_8	The cloves are sliced thinly.	garlic	2147	3292	5	5	5	5.0000
+587	s13-d25_6_5	The person begins to slice the bread.	bread	1560	1788	s37-d25_15_6	The man cuts, with a sawing motion, a thin slice of bread.	bread	968	1304	5	3	4	4.0000
+588	s24-d53_16_9	The person slices up the avocado.	avocado	3976	4839	s24-d53_15_8	The person cuts the avocado into slices.	avocado	3976	4839	5	5	5	5.0000
+589	s36-d23_15_7	He chopped carrot	carrot	1647	3395	s25-d23_6_9	He finished chopping the carrots in small pieces.	carrot	2083	3696	5	4	4	4.3333
+590	s27-d34_1_7	Thinly slice the small end of ginger you cut off.	ginger	1157	1715	s27-d34_4_5	The person slices the fragment of ginger on the cutting board.	ginger	1117	1715	5	3	4	4.0000
+591	s13-d28_10_5	He uses the knife to slice the orange into pieces.	orange	3127	3461	s13-d28_11_6	Cut the orange by slicing the knife in a vertical manner.	orange	2271	3461	4	5	5	4.6667
+592	s13-d28_10_5	He uses the knife to slice the orange into pieces.	orange	3127	3461	s13-d28_11_6	Cut the orange by slicing the knife in a vertical manner.	orange	2271	3461	5	4	5	4.6667
+593	s13-d28_11_6	Cut the orange by slicing the knife in a vertical manner.	orange	2271	3461	s13-d28_4_7	He sliced orange	orange	3127	3461	3	4	5	4.0000
+594	s24-d53_15_8	The person cuts the avocado into slices.	avocado	3976	4839	s24-d53_2_9	The person slices the avocado length wise.	avocado	3976	4839	5	4	4	4.3333
+595	s13-d21_6_6	The person cuts the ends off the cucumber then cuts the body into slices.	cucumber	1665	2523	s27-d21_13_5	Slices cucumber lengthwise	cucumber	1884	2646	4	3	4	3.6667
+596	s23-d45_12_8	The person slices the pepper halves into strips.	pepper	2299	2772	s13-d45_3_4	The man uses the knife to slice the pepper.	pepper	2615	3807	5	4	4	4.3333
+597	s27-d34_12_5	Guy dices the ginger	ginger	1157	1715	s22-d34_5_5	The person slices the ginger on the cutting board.	ginger	1053	2219	5	3	4	4.0000
+598	s37-d25_8_6	The person uses the knife to slice a piece of bread from the loaf.	bread	968	1304	s31-d25_18_6	Slice bread.	bread	1457	1802	5	4	4	4.3333
+599	s28-d25_9_4	Two slices are cut from the loaf.	bread	911	1537	s22-d25_4_5	Repeat until you have cut the whole loaf.	bread	1155	1426	5	2	4	3.6667
+600	s24-d53_7_10	She slices the avocado pieces lengthwise into strips.	avocado	3976	4839	s24-d53_18_10	The person uses the knife to cut the avocado into long thin slices.	avocado	4176	4839	5	4	5	4.6667
+601	s22-d34_14_5	The person uses the knife to thinly slice the ginger root into medallions.	ginger	1053	2219	s22-d34_18_5	She slices the vegetable into small crosswise pieces.	ginger	1053	2219	5	3	5	4.3333
+602	s22-d25_14_5	The person cuts a slice off the loaf of bread.	bread	1155	1426	s22-d25_10_5	The person cuts a slice of bread.	bread	1155	1426	5	5	5	5.0000
+603	s13-d28_10_5	He uses the knife to slice the orange into pieces.	orange	3127	3461	s13-d28_11_6	Cut the orange by slicing the knife in a vertical manner.	orange	2271	3461	4	4	5	4.3333
+604	s29-d31_1_4	Whit your knife, thinly slice the garlic.	garlic	1488	2189	s29-d31_12_5	The person slices the garlic clove into thin pieces.	garlic	1488	2189	5	5	5	5.0000
+605	s27-d34_13_5	Cuts about 5 small pieces.	ginger	1157	1715	s27-d34_12_5	Guy dices the ginger	ginger	1157	1715	3	4	4	3.6667
+606	s27-d34_12_5	Guy dices the ginger	ginger	1157	1715	s27-d34_11_5	He chops that small piece of ginger into smaller chunks.	ginger	1157	1715	5	4	4	4.3333
+607	s23-d21_13_7	The person chops the first half of the cucumber.	cucumber	1974	2328	s27-d21_2_4	He cuts the cucumber six times lengthwise.	cucumber	1884	2646	1	3	4	2.6667
+608	s31-d31_5_8	The cloves are sliced thinly.	garlic	2147	3292	s29-d31_1_4	Whit your knife, thinly slice the garlic.	garlic	1488	2189	5	4	5	4.6667
+609	s28-d25_2_4	The person uses the knife to cut two slices of bread from the loaf.	bread	911	1537	s28-d25_19_4	He sliced bread	bread	911	1537	5	4	4	4.3333
+610	s24-d53_3_10	She slices the avocado into thin strips for serving.	avocado	4176	4839	s24-d53_16_9	The person slices up the avocado.	avocado	3976	4839	5	4	5	4.6667
+611	s13-d21_2_8	person then cuts cucumber in slices	cucumber	2099	2523	s13-d21_18_7	The person slices the cucumber.	cucumber	1854	2523	5	5	5	5.0000
+612	s24-d53_7_10	She slices the avocado pieces lengthwise into strips.	avocado	3976	4839	s24-d53_3_10	She slices the avocado into thin strips for serving.	avocado	4176	4839	5	4	5	4.6667
+613	s36-d23_15_7	He chopped carrot	carrot	1647	3395	s36-d23_7_7	He chopped carrots	carrot	1647	3395	5	5	5	5.0000
+614	s24-d53_16_9	The person slices up the avocado.	avocado	3976	4839	s24-d53_7_10	She slices the avocado pieces lengthwise into strips.	avocado	3976	4839	5	4	5	4.6667
+615	s36-d23_7_7	He chopped carrots	carrot	1647	3395	s36-d23_15_7	He chopped carrot	carrot	1647	3395	5	4	5	4.6667
+616	s27-d21_4_6	The person cuts the cucumber lengthwise into slices.	cucumber	1884	2646	s27-d21_17_6	The cucumber is thinly sliced lengthwise.	cucumber	1884	2646	5	4	4	4.3333
+617	s22-d34_14_5	The person uses the knife to thinly slice the ginger root into medallions.	ginger	1053	2219	s22-d34_13_5	The person cuts the ginger into thin slices.	ginger	1053	2219	5	5	4	4.6667
+618	s26-d23_17_7	Chop carrot into coins	carrot	2338	2712	s26-d23_8_8	The person chops up the carrot.	carrot	2226	2712	5	4	4	4.3333
+619	s27-d21_19_5	The man slices the cucumber lengthwise into narrow slices.	cucumber	1884	2646	s27-d21_11_3	Next, using a large knife, he cuts the cucumber into long thin slices.	cucumber	1447	2646	5	4	5	4.6667
+620	s23-d45_5_9	The pepper halves are sliced.	pepper	2398	2772	s23-d45_9_7	He dices the pepper.	pepper	2547	2772	3	4	3	3.3333
+621	s32-d27_7_4	The onion is sliced across the cuts.	onion	4990	5547	s36-d27_14_7	He dices the other half of the onion.	onion	2202	2608	4	4	4	4.0000
+622	s23-d45_13_8	The person chops the pepper on the cutting board.	pepper	2398	3792	s33-d45_12_10	The person chops the final piece of pepper.	pepper	6286	6615	5	4	4	4.3333
+623	s37-d46_17_9	The man continues to cut the larger portions of pineapple into smaller pieces.	pineapple	7728	8316	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	5	4	4	4.3333
+624	s27-d54_6_4	He cuts up half the mango and then also chops up the skin.	mango	1826	4491	s33-d54_13_6	the person gets another plate	mango	5919	7666	1	1	1	1.0000
+625	s29-d31_1_5	Slice again diagonally several times to create a nice mice.	garlic	2189	2693	s31-d31_5_9	The garlic slices are chopped.	garlic	3292	4211	5	3	4	4.0000
+626	s37-d46_17_9	The man continues to cut the larger portions of pineapple into smaller pieces.	pineapple	7728	8316	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	5	4	4	4.3333
+627	s36-d23_9_6	Chop first Carrot and place chopped carrot into the bowl	carrot	1673	4316	s36-d23_17_4	The man dices a carrot on the cutting board	carrot	3423	4316	4	4	4	4.0000
+628	s27-d21_11_4	Using the same knife, he then cuts down through the slices creating small chunks.	cucumber	3126	4135	s21-d21_12_9	The subject dices the cucumber.	cucumber	3046	3979	5	4	4	4.3333
+629	s27-d21_16_6	He chopped cucumber	cucumber	1884	4135	s27-d21_11_4	Using the same knife, he then cuts down through the slices creating small chunks.	cucumber	3126	4135	5	4	4	4.3333
+630	s33-d45_16_6	The person finishes cutting the other pieces of the pepper into small squares.	pepper	2736	6615	s33-d45_12_10	The person chops the final piece of pepper.	pepper	6286	6615	5	4	5	4.6667
+631	s36-d23_17_4	The man dices a carrot on the cutting board	carrot	3423	4316	s36-d23_9_6	Chop first Carrot and place chopped carrot into the bowl	carrot	1673	4316	5	3	4	4.0000
+632	s21-d21_12_9	The subject dices the cucumber.	cucumber	3046	3979	s27-d21_11_4	Using the same knife, he then cuts down through the slices creating small chunks.	cucumber	3126	4135	5	4	4	4.3333
+633	s31-d31_5_9	The garlic slices are chopped.	garlic	3292	4211	s29-d31_1_5	Slice again diagonally several times to create a nice mice.	garlic	2189	2693	5	4	4	4.3333
+634	s27-d21_16_6	He chopped cucumber	cucumber	1884	4135	s21-d21_12_9	The subject dices the cucumber.	cucumber	3046	3979	5	4	4	4.3333
+635	s33-d54_2_8	Cut pieces of mango into smaller pieces on the third plate.	mango	5947	7666	s27-d54_19_6	He sliced mango	mango	2246	4491	2	4	3	3.0000
+636	s33-d45_7_9	She dices the last piece just as she had done to the others.	pepper	6286	6615	s23-d45_7_6	He dices the peppers.	pepper	2398	3792	5	3	4	4.0000
+637	s36-d23_17_4	The man dices a carrot on the cutting board	carrot	3423	4316	s36-d23_9_6	Chop first Carrot and place chopped carrot into the bowl	carrot	1673	4316	4	3	4	3.6667
+638	s22-d53_11_7	Finally, she uses the knife to cut the avocado into small cubes.	avocado	4884	5901	s22-d53_12_12	She cut the avocado into pieces.	avocado	5048	5901	5	4	4	4.3333
+639	s33-d54_9_8	The person chops the pieces on the new plate.	mango	5919	7666	s27-d54_16_6	He cut up mango	mango	2246	4491	5	4	4	4.3333
+640	s31-d31_5_9	The garlic slices are chopped.	garlic	3292	4211	s29-d31_1_5	Slice again diagonally several times to create a nice mice.	garlic	2189	2693	3	4	4	3.6667
+641	s23-d45_13_8	The person chops the pepper on the cutting board.	pepper	2398	3792	s33-d45_12_10	The person chops the final piece of pepper.	pepper	6286	6615	5	4	4	4.3333
+642	s33-d45_16_6	The person finishes cutting the other pieces of the pepper into small squares.	pepper	2736	6615	s33-d45_7_9	She dices the last piece just as she had done to the others.	pepper	6286	6615	5	3	4	4.0000
+643	s23-d45_12_9	The person slices the strips into little chunks.	pepper	2867	3792	s33-d45_7_9	She dices the last piece just as she had done to the others.	pepper	6286	6615	5	3	5	4.3333
+644	s36-d27_14_7	He dices the other half of the onion.	onion	2202	2608	s36-d27_6_8	The person slices the onion into small pieces.	onion	1636	2608	3	4	4	3.6667
+645	s36-d23_9_6	Chop first Carrot and place chopped carrot into the bowl	carrot	1673	4316	s36-d23_19_7	He chopped carrots	carrot	1145	4316	5	3	4	4.0000
+646	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	s37-d46_17_9	The man continues to cut the larger portions of pineapple into smaller pieces.	pineapple	7728	8316	5	4	4	4.3333
+647	s37-d46_17_9	The man continues to cut the larger portions of pineapple into smaller pieces.	pineapple	7728	8316	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	5	3	5	4.3333
+648	s37-d46_17_9	The man continues to cut the larger portions of pineapple into smaller pieces.	pineapple	7728	8316	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	5	4	4	4.3333
+649	s28-d27_3_6	He dices the second onion.	onion	2509	4246	s33-d27_8_7	She put onions in pan	onion	6249	6348	1	1	2	1.3333
+650	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	s37-d46_17_9	The man continues to cut the larger portions of pineapple into smaller pieces.	pineapple	7728	8316	5	4	5	4.6667
+651	s33-d54_2_8	Cut pieces of mango into smaller pieces on the third plate.	mango	5947	7666	s33-d54_5_5	The person cuts the chunks into smaller pieces on the new plate.	mango	5919	7666	5	4	5	4.6667
+652	s22-d53_13_10	The person repeats the same cuts and chops with the other half of the avocado.	avocado	5541	5901	s22-d53_1_10	She cut up the avocado	avocado	4884	5901	5	4	4	4.3333
+653	s27-d54_16_6	He cut up mango	mango	2246	4491	s27-d54_15_5	Cut the outer skin into small chunks.	mango	3565	4491	4	3	4	3.6667
+654	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	s37-d46_17_9	The man continues to cut the larger portions of pineapple into smaller pieces.	pineapple	7728	8316	5	3	5	4.3333
+655	s33-d45_12_10	The person chops the final piece of pepper.	pepper	6286	6615	s33-d45_7_9	She dices the last piece just as she had done to the others.	pepper	6286	6615	5	3	4	4.0000
+656	s27-d54_16_6	He cut up mango	mango	2246	4491	s27-d54_6_4	He cuts up half the mango and then also chops up the skin.	mango	1826	4491	5	4	4	4.3333
+657	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	s37-d46_17_9	The man continues to cut the larger portions of pineapple into smaller pieces.	pineapple	7728	8316	5	4	5	4.6667
+658	s27-d54_16_6	He cut up mango	mango	2246	4491	s27-d54_6_4	He cuts up half the mango and then also chops up the skin.	mango	1826	4491	5	4	4	4.3333
+659	s23-d45_13_8	The person chops the pepper on the cutting board.	pepper	2398	3792	s23-d45_8_8	He cuts the red pepper into small pieces.	pepper	2299	3792	5	4	4	4.3333
+660	s33-d54_2_8	Cut pieces of mango into smaller pieces on the third plate.	mango	5947	7666	s33-d54_1_5	On another plate, the woman chops the mango slices into smaller pieces.	mango	5631	7666	5	4	5	4.6667
+661	s30-d41_6_3	She rinses the pomegranate.	pomegranate	654	1015	s35-d41_18_5	The person cuts the ends off of the pomegranate.	pomegranate	3016	3499	1	1	2	1.3333
+662	s27-d21_6_5	The man then slices the other half.	cucumber	2341	2646	s23-d21_7_5	The person cuts the ends off the cucumber.	cucumber	1702	1803	3	3	4	3.3333
+663	s32-d27_13_3	The person rinses the knife.	onion	2361	2585	s14-d27_17_5	The person peels the onion, cutting off the skin.	onion	834	3508	1	1	1	1.0000
+664	s22-d53_6_3	She cuts it in half.	avocado	1392	1902	s17-d53_15_3	He rinses the avocado in the sink.	avocado	469	799	1	1	2	1.3333
+665	s13-d45_2_3	Remove the stem by pressing with your fingers around the stem.	pepper	1813	1977	s13-d45_10_6	He cuts the entire pepper into slices.	pepper	2893	3807	1	2	2	1.6667
+666	s31-d31_5_9	The garlic slices are chopped.	garlic	3292	4211	s29-d31_1_4	Whit your knife, thinly slice the garlic.	garlic	1488	2189	5	2	4	3.6667
+667	s30-d41_12_7	The person cuts one of the pomegranate halves in half again.	pomegranate	2429	2784	s24-d41_12_3	Step Three: rinse the pomegranate	pomegranate	1150	1229	1	1	2	1.3333
+668	s25-d23_16_3	The person washes the carrot.	carrot	743	911	s26-d23_10_8	The person chops the carrot.	carrot	2226	2712	1	1	2	1.3333
+669	s36-d27_13_4	cut 1/2 onion lengthwise, turn, cut into smaller pieces (dice) do the same for other half	onion	1636	2608	s36-d27_19_5	He peeled onion	onion	925	1107	1	2	3	2.0000
+670	s21-d21_12_7	The subject peels the cucumber.	cucumber	1488	2646	s27-d21_11_4	Using the same knife, he then cuts down through the slices creating small chunks.	cucumber	3126	4135	1	2	3	2.0000
+671	s36-d23_19_7	He chopped carrots	carrot	1145	4316	s24-d23_2_3	The person peels the carrots over the sink.	carrot	1405	2454	1	2	3	2.0000
+672	s27-d54_4_3	He washed mango	mango	1246	1418	s27-d54_1_5	He cut mango in half	mango	1826	2163	1	1	2	1.3333
+673	s30-d53_3_5	person peels avocado with knife	avocado	1421	2370	s24-d53_16_4	The person cuts the avocado in half.	avocado	975	1317	1	2	3	2.0000
+674	s13-d21_16_7	The man cuts the ends off of the cucumber.	cucumber	1854	2036	s13-d21_2_8	person then cuts cucumber in slices	cucumber	2099	2523	4	2	3	3.0000
+675	s24-d53_12_3	Use the knife to cut the avocado in half around the pit, after separate the two halves.	avocado	975	1317	s22-d53_1_10	She cut up the avocado	avocado	4884	5901	2	3	3	2.6667
+676	s13-d28_8_4	He rinses the orange.	orange	1338	1800	s13-d28_10_5	He uses the knife to slice the orange into pieces.	orange	3127	3461	1	1	2	1.3333
+677	s27-d54_12_8	The person cuts the outside of the mango into strips, then cuts the strips into chunks.	mango	3565	4491	s27-d54_19_5	He cut mango in half	mango	1826	2163	2	3	3	2.6667
+678	s23-d31_19_2	The person removes two cloves from the head of garlic.	garlic	918	1045	s29-d31_1_5	Slice again diagonally several times to create a nice mice.	garlic	2189	2693	1	2	2	1.6667
+679	s23-d39_3_9	The person chops one halved leek.	leek	2596	3353	s23-d39_16_7	The person peels off the outer leaves of the leek.	leek	1243	1531	1	2	2	1.6667
+680	s33-d27_11_3	She uses the small knife to cut off the outer layer of the onion.	onion	860	1811	s32-d27_19_6	She washed knife	onion	2361	2585	1	1	1	1.0000
+681	s34-d28_2_7	The person breaks the orange into quarters.	orange	3570	3864	s13-d28_8_4	He rinses the orange.	orange	1338	1800	1	1	2	1.3333
+682	s34-d28_8_3	He peels the orange.	orange	1007	2613	s24-d28_9_5	She splits the orange in half.	orange	4664	6090	1	2	3	2.0000
+683	s23-d54_13_11	The person places the mango on the cutting board.	mango	4160	4195	s33-d54_13_6	the person gets another plate	mango	5919	7666	1	1	1	1.0000
+684	s31-d31_1_6	He cut off tops of garlic	garlic	1883	1997	s13-d31_8_3	Use the knife to begin the separation, then use your hands to break apart the bulb.	garlic	1887	2205	3	2	3	2.6667
+685	s36-d27_13_4	cut 1/2 onion lengthwise, turn, cut into smaller pieces (dice) do the same for other half	onion	1636	2608	s32-d27_19_6	She washed knife	onion	2361	2585	1	1	1	1.0000
+686	s28-d27_3_4	He takes the skin off of the onion.	onion	1306	2050	s28-d27_4_5	the person cuts the onion in half	onion	2215	2509	1	2	3	2.0000
+687	s34-d34_7_5	He gets a cutting board.	ginger	2627	2953	s27-d34_9_5	He chops that piece.	ginger	1157	1715	1	1	1	1.0000
+688	s37-d39_2_3	He rinses the leeks.	leek	840	1111	s23-d39_5_6	The person cuts off the root of the leek.	leek	1120	1158	1	1	2	1.3333
+689	s13-d28_15_5	He slices the ends off of the orange.	orange	2077	2248	s34-d28_2_7	The person breaks the orange into quarters.	orange	3570	3864	1	2	3	2.0000
+690	s31-d28_16_5	The person cuts the orange into quarters.	orange	3566	3994	s13-d28_7_3	He rinses the orange in the sink.	orange	1666	1800	1	1	2	1.3333
+691	s13-d28_11_6	Cut the orange by slicing the knife in a vertical manner.	orange	2271	3461	s24-d28_15_5	She broke orange in half	orange	5882	6090	2	3	3	2.6667
+692	s23-d21_10_4	He rinses the cutting board, knife, and cucumber.	cucumber	1079	1682	s37-d21_6_5	He peels half the cucumber and chops it.	cucumber	2572	7907	1	1	2	1.3333
+693	s21-d45_15_8	She cut pepper	pepper	1664	2021	s23-d45_12_9	The person slices the strips into little chunks.	pepper	2867	3792	4	4	4	4.0000
+694	s22-d53_4_11	The person chops up the avocado.	avocado	5177	5901	s24-d53_19_4	She cut avocado in half	avocado	975	1317	3	3	3	3.0000
+695	s14-d27_16_6	She washed onion	onion	3618	3728	s28-d27_4_5	the person cuts the onion in half	onion	2215	2509	1	1	2	1.3333
+696	s34-d28_11_5	He peeled orange	orange	1537	2980	s13-d28_10_5	He uses the knife to slice the orange into pieces.	orange	3127	3461	1	2	3	2.0000
+697	s13-d21_9_7	The person slices the cucumber on the cutting board.	cucumber	2099	2523	s27-d21_11_4	Using the same knife, he then cuts down through the slices creating small chunks.	cucumber	3126	4135	3	4	4	3.6667
+698	s13-d45_7_5	He chops the pepper.	pepper	2544	3807	s33-d45_7_9	She dices the last piece just as she had done to the others.	pepper	6286	6615	5	3	4	4.0000
+699	s13-d45_12_12	Make thin cuts so to get round slices.	pepper	2893	3807	s33-d45_12_11	The person places the final pieces of pepper on the plate with the rest.	pepper	6681	7134	1	1	2	1.3333
+700	s33-d54_16_6	The person cut the flesh off the core.	mango	3658	5581	s27-d54_5_5	The person removes half of the mango's outside.	mango	1826	2163	5	3	4	4.0000
+701	s28-d39_9_3	He rinses the leeks.	leek	970	2350	s28-d39_2_7	The person chops leek first into four big pieces then into smaller pieces.	leek	2592	4649	1	1	2	1.3333
+702	s23-d21_15_4	The person rinses the cutting board, knife and cucumber.	cucumber	1079	1682	s13-d21_15_6	the man is slicing the cucumber width-wise	cucumber	1450	2036	1	4	2	2.3333
+703	s23-d46_17_7	The person slices the skin off of the quarter.	pineapple	2220	2739	s14-d46_10_5	Using the large knife (that I thought was a fruit zester), the person cuts the top off of the pineapple.	pineapple	1181	1932	3	3	3	3.0000
+704	s33-d45_3_6	She chops the pepper and puts it on a plate.	pepper	2736	7134	s23-d45_1_5	Guy cuts pepper in half	pepper	896	1306	3	3	4	3.3333
+705	s27-d34_18_4	The person slices a small piece off the end of the ginger.	ginger	1019	1116	s24-d34_4_6	The person peels the ginger.	ginger	1489	2291	1	3	3	2.3333
+706	s30-d53_13_4	She peels the avocado.	avocado	1520	2370	s24-d53_18_3	The person uses the paring knife to slice the avocado in half lenghwise.	avocado	975	1220	1	2	3	2.0000
+707	s27-d54_4_3	He washed mango	mango	1246	1418	s33-d54_1_3	With a knife, the woman peels of the out skin of the mango.	mango	1385	3613	1	1	2	1.3333
+708	s29-d31_1_5	Slice again diagonally several times to create a nice mice.	garlic	2189	2693	s13-d31_19_2	Break apart the garlic bulb into individual cloves.	garlic	1887	2205	1	2	3	2.0000
+709	s22-d53_13_10	The person repeats the same cuts and chops with the other half of the avocado.	avocado	5541	5901	s30-d53_19_7	She sliced avocado	avocado	2409	3922	3	4	4	3.6667
+710	s17-d53_1_7	He cut avocado in half	avocado	3739	3974	s17-d53_16_3	He washed avocado	avocado	469	799	1	1	2	1.3333
+711	s17-d53_1_3	He washed avocado	avocado	469	799	s24-d53_2_9	The person slices the avocado length wise.	avocado	3976	4839	1	1	2	1.3333
+712	s23-d21_1_5	He cut off ends of cucumbers	cucumber	1702	1803	s37-d21_17_4	He peels one half of the cucumber.	cucumber	2820	3931	1	2	3	2.0000
+713	s37-d46_17_9	The man continues to cut the larger portions of pineapple into smaller pieces.	pineapple	7728	8316	s28-d46_18_4	Cut around each of the pineapple disks to cut off the peel, then cut the disk into eight wedges like a pizza.	pineapple	2416	3824	5	3	4	4.0000
+714	s29-d31_12_5	The person slices the garlic clove into thin pieces.	garlic	1488	2189	s29-d31_1_5	Slice again diagonally several times to create a nice mice.	garlic	2189	2693	5	3	4	4.0000
+715	s21-d23_5_5	The person removes one carrot from the bunch.	carrot	1154	1312	s36-d23_19_7	He chopped carrots	carrot	1145	4316	1	1	1	1.0000
+716	s24-d53_16_9	The person slices up the avocado.	avocado	3976	4839	s22-d53_4_4	The person cuts the avocado in half.	avocado	1392	1902	3	3	3	3.0000
+717	s27-d54_18_5	The person cuts the mango in halves.	mango	1826	2163	s33-d54_15_3	She cuts the sides off the mango until she reaches the core.	mango	4729	5581	5	4	3	4.0000
+718	s36-d23_9_6	Chop first Carrot and place chopped carrot into the bowl	carrot	1673	4316	s26-d23_12_4	person cuts off end of carrot	carrot	1382	1404	3	3	3	3.0000
+719	s22-d53_10_4	She cut avocado in half	avocado	1152	1902	s17-d53_12_4	Person uses a peeler to remove the hard green peeling from the avocado.	avocado	1014	2390	1	2	3	2.0000
+720	s23-d39_18_6	The person cuts off the bottom of the leek.	leek	1071	1158	s28-d39_12_7	He chopped leek	leek	2879	4649	4	3	3	3.3333
+721	s34-d28_8_5	He separates the slices.	orange	3570	3864	s13-d28_4_7	He sliced orange	orange	3127	3461	1	2	4	2.3333
+722	s25-d23_13_2	The person washes the carrot.	carrot	743	911	s36-d23_17_4	The man dices a carrot on the cutting board	carrot	3423	4316	1	1	2	1.3333
+723	s24-d28_7_2	The person washes the orange in the sink.	orange	963	1648	s34-d28_12_5	Tear the orange into quarters, disposing of the middle.	orange	3570	3864	1	1	2	1.3333
+724	s27-d54_13_4	The person cuts up part of the mango.	mango	1623	4491	s33-d54_9_5	The mango is peeled over a plate.	mango	1573	3613	1	2	3	2.0000
+725	s33-d45_16_6	The person finishes cutting the other pieces of the pepper into small squares.	pepper	2736	6615	s33-d45_12_11	The person places the final pieces of pepper on the plate with the rest.	pepper	6681	7134	1	3	1	1.6667
+726	s28-d27_15_6	Dices skinless onion into small pieces	onion	2108	2509	s32-d27_14_3	She cuts off the top with a knife.	onion	1904	2585	2	3	3	2.6667
+727	s21-d21_13_3	The person removes the peel from the cucumber using a vegetable peeler.	cucumber	875	2646	s21-d21_11_2	She washes the cucumber.	cucumber	457	592	1	1	2	1.3333
+728	s32-d27_13_3	The person rinses the knife.	onion	2361	2585	s36-d27_5_7	He diced the onions.	onion	1815	2608	1	1	1	1.0000
+729	s27-d45_3_5	He cut off top of pepper	pepper	1640	2115	s21-d45_18_6	She slices the peppers lengthwise.	pepper	1263	1996	3	3	3	3.0000
+730	s23-d45_15_6	The person rinses the pepper.	pepper	2044	2298	s13-d45_9_7	The person slices the bell pepper on the cutting board.	pepper	2893	3807	1	1	2	1.3333
+731	s25-d23_15_4	The person cuts the tip off of the carrot.	carrot	982	1090	s26-d23_5_5	He peels the carrot.	carrot	1382	2164	1	2	3	2.0000
+732	s13-d28_11_6	Cut the orange by slicing the knife in a vertical manner.	orange	2271	3461	s31-d28_5_6	The person cuts the orange into quarters.	orange	3566	3994	5	4	4	4.3333
+733	s27-d54_5_5	The person removes half of the mango's outside.	mango	1826	2163	s33-d54_2_8	Cut pieces of mango into smaller pieces on the third plate.	mango	5947	7666	1	2	3	2.0000
+734	s13-d21_11_6	He uses the knife to slice the cucumber into smaller pieces.	cucumber	2099	2523	s37-d21_7_9	Once skin peeled off cut down the middle	cucumber	2737	3931	3	3	3	3.0000
+735	s22-d53_4_11	The person chops up the avocado.	avocado	5177	5901	s22-d53_17_5	She takes the skin off of both avocado halves	avocado	2100	4595	1	2	3	2.0000
+736	s15-d35_9_4	She also washes the second plum.	plum	1551	1708	s14-d35_19_3	The person bisects the plum to the pit, then twists the halves in opposite directions to remove one of them from the pit.	plum	1346	1551	1	1	2	1.3333
+737	s25-d23_15_4	The person cuts the tip off of the carrot.	carrot	982	1090	s25-d23_1_7	He diced carrots	carrot	2083	3696	3	2	3	2.6667
+738	s30-d53_3_5	person peels avocado with knife	avocado	1421	2370	s24-d53_17_6	The person has sliced the avocado into thin strips lengthwise.	avocado	3976	4839	1	2	3	2.0000
+739	s24-d28_15_5	She broke orange in half	orange	5882	6090	s13-d28_17_4	He peels the orange.	orange	2271	2950	1	2	3	2.0000
+740	s27-d54_10_5	The mango is cut in half.	mango	1826	2163	s33-d54_18_3	The woman peels the mango.	mango	1573	3613	1	2	3	2.0000
+741	s23-d54_12_7	She peels mango	mango	2909	4110	s27-d54_5_5	The person removes half of the mango's outside.	mango	1826	2163	1	4	4	3.0000
+742	s27-d34_18_5	The person cuts the piece into several smaller pieces.	ginger	1117	1715	s27-d34_8_3	He removes part of the ginger.	ginger	1019	1116	1	3	3	2.3333
+743	s13-d21_9_7	The person slices the cucumber on the cutting board.	cucumber	2099	2523	s23-d21_18_4	The person washes the cutting board, the knife, and the cucumber under the faucet.	cucumber	1079	1682	1	1	2	1.3333
+744	s30-d53_17_3	Cut avocado away from pit with knife.	avocado	2877	3922	s24-d53_17_6	The person has sliced the avocado into thin strips lengthwise.	avocado	3976	4839	3	2	3	2.6667
+745	s29-d31_1_4	Whit your knife, thinly slice the garlic.	garlic	1488	2189	s23-d31_17_1	He prepares a cuttingboard, a knife, a plate, and a clove of garlic.	garlic	214	1045	1	1	1	1.0000
+746	s36-d31_19_10	The person removes a clove of garlic.	garlic	4417	5355	s29-d31_2_4	The man removes one clove of garlic from the bulb.	garlic	1038	1153	5	4	5	4.6667
+747	s30-d40_14_3	Using a knife she cuts the lime into two equal peices.	lime	819	1193	s24-d40_2_2	The person rinses a lime.	lime	441	661	1	1	2	1.3333
+748	s36-d31_9_4	The person chops the garlic on the cutting board.	garlic	2301	3344	s31-d31_5_9	The garlic slices are chopped.	garlic	3292	4211	5	4	5	4.6667
+749	s32-d27_19_6	She washed knife	onion	2361	2585	s14-d27_5_3	Use a knife to peel the onion over the bowl.	onion	743	3550	1	1	1	1.0000
+750	s21-d28_8_4	The person uses the knife to peel the orange over the sink.	orange	959	2581	s34-d28_1_4	The person peels the orange.	orange	1537	2980	5	4	5	4.6667
+751	s13-d54_11_5	Using the knife, he trims the ends of the mango.	mango	3698	4685	s23-d54_11_4	 He rinses the mango.	mango	1242	1924	1	1	2	1.3333
+752	s32-d27_19_6	She washed knife	onion	2361	2585	s28-d27_3_5	He cuts up the onion thinly.	onion	2108	2509	1	1	1	1.0000
+753	s24-d53_5_3	She cuts it in half.	avocado	1254	1317	s24-d53_3_10	She slices the avocado into thin strips for serving.	avocado	4176	4839	3	4	3	3.3333
+754	s29-d31_1_5	Slice again diagonally several times to create a nice mice.	garlic	2189	2693	s13-d31_14_3	The person peels the dry skin from the cloves of garlic.	garlic	2218	3384	1	2	3	2.0000
+755	s21-d21_17_3	The person peels the cucumber using a peeler.	cucumber	1330	2646	s21-d21_17_5	The person cuts the cucumber in half.	cucumber	3046	3089	1	3	2	2.0000
+756	s28-d39_6_4	The person cuts off the leaves of the leeks.	leek	970	1441	s23-d39_1_7	He rewashed leek	leek	1243	1961	1	1	2	1.3333
+757	s22-d26_8_6	The person chops the cauliflower into chunks on the cutting board.	cauliflower	4870	8107	s22-d26_19_13	She rinses the cauliflower florets in the sink.	cauliflower	8879	9293	1	1	2	1.3333
+758	s32-d27_7_4	The onion is sliced across the cuts.	onion	4990	5547	s14-d27_12_6	Gently rinse the onion.	onion	3618	3728	1	1	2	1.3333
+759	s17-d53_4_9	The avocado is cut in half.	avocado	3739	3974	s24-d53_16_5	The person peels the avocado.	avocado	1434	2934	1	2	3	2.0000
+760	s23-d54_7_7	The person uses the peeler to peel the mango.	mango	2909	4110	s33-d54_2_8	Cut pieces of mango into smaller pieces on the third plate.	mango	5947	7666	1	2	3	2.0000
+761	s22-d53_12_12	She cut the avocado into pieces.	avocado	5048	5901	s24-d53_15_8	The person cuts the avocado into slices.	avocado	3976	4839	4	4	4	4.0000
+762	s13-d54_14_5	He peeled mango	mango	2309	3349	s33-d54_6_3	She cuts the good parts from the pit.	mango	3658	5581	1	3	3	2.3333
+763	s34-d28_2_5	The person peels the orange.	orange	1537	2980	s34-d28_14_5	He peeled orange	orange	1537	2613	5	5	5	5.0000
+764	s23-d21_10_4	He rinses the cutting board, knife, and cucumber.	cucumber	1079	1682	s37-d21_15_5	With a peeler the man removes the skin from half of the cucumber.	cucumber	2737	3931	1	1	2	1.3333
+765	s36-d23_17_4	The man dices a carrot on the cutting board	carrot	3423	4316	s25-d23_13_5	The person cuts the carrot into thin lateral slices using the chef's knife.	carrot	2083	3696	4	3	3	3.3333
+766	s13-d31_17_2	Open garlic by cutting through the middle with knife.	garlic	1887	2205	s31-d31_5_8	The cloves are sliced thinly.	garlic	2147	3292	2	3	3	2.6667
+767	s21-d40_15_5	The person cuts the lime in half.	lime	957	1023	s24-d40_2_2	The person rinses a lime.	lime	441	661	1	1	2	1.3333
+768	s33-d27_11_3	She uses the small knife to cut off the outer layer of the onion.	onion	860	1811	s14-d27_19_5	She peeled onion	onion	743	3550	5	4	4	4.3333
+769	s33-d45_12_10	The person chops the final piece of pepper.	pepper	6286	6615	s23-d45_4_5	Cut each half of the pepper width-wise into small strips.	pepper	2299	2772	4	4	3	3.6667
+770	s21-d21_12_9	The subject dices the cucumber.	cucumber	3046	3979	s21-d21_19_7	The person peels the cucumber.	cucumber	1488	2646	1	2	3	2.0000
+771	s23-d54_13_6	The person washes the mango.	mango	1785	1924	s33-d54_15_3	She cuts the sides off the mango until she reaches the core.	mango	4729	5581	1	1	2	1.3333
+772	s28-d39_2_6	The person then removes the root of the leek.	leek	2356	2588	s23-d39_16_7	The person peels off the outer leaves of the leek.	leek	1243	1531	1	3	4	2.6667
+773	s28-d51_6_6	Cut your beans in desired pieces.	beans	3470	3803	s25-d51_16_4	The person washes the broad beans.	beans	750	912	1	1	2	1.3333
+774	s34-d34_7_5	He gets a cutting board.	ginger	2627	2953	s27-d34_8_3	He removes part of the ginger.	ginger	1019	1116	1	1	1	1.0000
+775	s23-d39_17_4	The man peels off the shell of the leek.	leek	1243	1531	s21-d39_16_3	Preparer has sliced middle of leek into small slices	leek	1717	2620	1	2	3	2.0000
+776	s26-d23_17_7	Chop carrot into coins	carrot	2338	2712	s36-d23_9_6	Chop first Carrot and place chopped carrot into the bowl	carrot	1673	4316	5	2	4	3.6667
+777	s21-d23_5_5	The person removes one carrot from the bunch.	carrot	1154	1312	s26-d23_14_5	He washed carrot	carrot	1183	1291	1	1	1	1.0000
+778	s29-d31_12_3	The person gets out a garlic clove.	garlic	729	1153	s36-d31_5_10	The clove is peeled.	garlic	4417	5355	1	1	2	1.3333
+779	s13-d28_5_5	He rinses the orange.	orange	1666	1800	s24-d28_8_7	She broke orange in half	orange	4664	6176	1	1	2	1.3333
+780	s26-d23_16_6	The person peels the carrot.	carrot	1491	2164	s26-d23_14_6	He cut off top of carrot	carrot	1291	1404	1	2	3	2.0000
+781	s14-d35_9_5	The person slices the plum down the middle then twists it in half.	plum	1236	1551	s21-d35_6_2	She washes the plum.	plum	491	603	1	1	2	1.3333
+782	s25-d35_1_5	He cut out pit	plum	1059	3717	s14-d35_8_6	She cut plum in half	plum	1346	1551	5	3	4	4.0000
+783	s23-d45_12_9	The person slices the strips into little chunks.	pepper	2867	3792	s23-d45_14_3	Rinse the pepper.	pepper	1718	2298	1	1	2	1.3333
+784	s36-d31_9_4	The person chops the garlic on the cutting board.	garlic	2301	3344	s29-d31_12_5	The person slices the garlic clove into thin pieces.	garlic	1488	2189	5	3	4	4.0000
+785	s34-d34_7_5	He gets a cutting board.	ginger	2627	2953	s24-d34_3_6	The person peels the ginger.	ginger	1489	2291	1	1	1	1.0000
+786	s25-d23_6_9	He finished chopping the carrots in small pieces.	carrot	2083	3696	s36-d23_19_7	He chopped carrots	carrot	1145	4316	4	4	4	4.0000
+787	s21-d42_6_4	the person gets a cutting board and a knife	broccoli	2570	2751	s23-d42_3_4	He washes the broccoli.	broccoli	2276	2947	1	1	1	1.0000
+788	s21-d45_9_7	The person chops the pepper on the cutting board.	pepper	1664	2021	s13-d45_12_8	Rinse inside of pepper thoroughly.	pepper	2188	2490	1	1	2	1.3333
+789	s26-d23_15_8	The person cuts the carrot into slices.	carrot	2226	2712	s25-d23_13_3	The person cuts the ends from the carrot.	carrot	982	1090	3	3	4	3.3333
+790	s30-d41_7_6	The person cuts the pomegranate in half.	pomegranate	2056	2352	s30-d41_11_5	She cuts the pomegranate into quarters.	pomegranate	2056	2784	4	4	4	4.0000
+791	s23-d42_3_4	He washes the broccoli.	broccoli	2276	2947	s17-d42_9_7	The broccoli florets are cut away from the stem.	broccoli	3180	4162	1	1	2	1.3333
+792	s23-d34_12_6	He cut off piece of ginger	ginger	1140	1360	s22-d34_3_5	She sliced ginger	ginger	1053	2219	1	3	4	2.6667
+793	s24-d53_17_6	The person has sliced the avocado into thin strips lengthwise.	avocado	3976	4839	s17-d53_18_9	person dices one of the halfs of avocado	avocado	4537	5778	4	3	3	3.3333
+794	s22-d46_5_6	Cut the rind off the thin slices.	pineapple	4371	9315	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	3	2	3	2.6667
+795	s28-d27_4_5	the person cuts the onion in half	onion	2215	2509	s36-d27_12_8	The person slices each half into strips, then slices the strips crosswise into chunks.	onion	1636	2608	3	3	3	3.0000
+796	s24-d53_9_4	The person cuts the avocado in half.	avocado	975	1317	s22-d53_13_3	The person uses a paring knife to make a single axial cut all the way around the avocado.	avocado	1152	1811	5	3	5	4.3333
+797	s14-d27_18_5	The person peels the onion with a paring knife.	onion	834	3550	s14-d27_2_9	The person cuts one half of the onion length-wise with the paring knife.	onion	4050	4315	1	2	3	2.0000
+798	s28-d46_1_4	The person cuts off the bottom of the pineapple.	pineapple	662	781	s14-d46_3_3	She cuts off the bottom and sides of the fruit.	pineapple	1957	3523	4	4	4	4.0000
+799	s13-d31_3_3	He removes one clove from the bunch.	garlic	1887	2205	s36-d31_4_5	The person chops the garlic on the cutting board.	garlic	2301	3344	1	2	2	1.6667
+800	s29-d39_1_4	He washed leek	leek	941	1237	s28-d39_18_2	The person removes the unusable/spoiled parts from the leeks first to discard.	leek	970	1441	1	2	3	2.0000
+801	s27-d21_11_4	Using the same knife, he then cuts down through the slices creating small chunks.	cucumber	3126	4135	s21-d21_6_2	The person washes the cucumber in the sink.	cucumber	457	592	1	1	2	1.3333
+802	s22-d53_11_3	She uses the knife to cut around the entire avocado.	avocado	1461	1811	s17-d53_18_9	person dices one of the halfs of avocado	avocado	4537	5778	2	3	3	2.6667
+803	s13-d21_16_7	The man cuts the ends off of the cucumber.	cucumber	1854	2036	s37-d21_17_2	He rinses the cucumber off in the sink.	cucumber	2361	2505	1	1	2	1.3333
+804	s26-d26_15_4	The man discards the unwanted pieces.	cauliflower	5185	5599	s22-d26_15_7	The person cuts the cauliflower into chunks, trimming pieces of leaves occasionally.	cauliflower	4870	8107	3	2	2	2.3333
+805	s32-d27_15_5	Then she chopt it into little pieces.	onion	5242	5547	s14-d27_5_6	Rinse knife and slice onion.	onion	3960	4315	3	3	3	3.0000
+806	s21-d28_8_4	The person uses the knife to peel the orange over the sink.	orange	959	2581	s13-d28_5_5	He rinses the orange.	orange	1666	1800	1	2	2	1.6667
+807	s13-d45_3_4	The man uses the knife to slice the pepper.	pepper	2615	3807	s33-d45_17_3	The person cuts the pepper into large slices.	pepper	1411	2040	5	4	5	4.6667
+808	s29-d39_11_5	The person peels off some of the leek's leaves.	leek	1536	1864	s37-d39_13_4	The man rinses the leek.	leek	840	1111	1	1	2	1.3333
+809	s26-d23_8_8	The person chops up the carrot.	carrot	2226	2712	s21-d23_2_5	Cut both ends of carrot one by one	carrot	1154	1312	3	3	3	3.0000
+810	s24-d28_7_2	The person washes the orange in the sink.	orange	963	1648	s31-d28_16_5	The person cuts the orange into quarters.	orange	3566	3994	1	1	2	1.3333
+811	s23-d45_4_4	Rinse the pepper under water.	pepper	1718	2298	s27-d45_1_5	The person cuts off the top of the pepper.	pepper	2002	2115	1	1	2	1.3333
+812	s23-d45_8_7	He rinses the red pepper halves in the sink.	pepper	1917	2298	s21-d45_1_7	She sliced the pepper	pepper	1502	2021	1	1	2	1.3333
+813	s36-d23_17_4	The man dices a carrot on the cutting board	carrot	3423	4316	s24-d23_5_5	The person washes the carrots under the faucet.	carrot	2885	3052	1	1	2	1.3333
+814	s22-d26_19_7	She slices the large stem off of the cauliflower.	cauliflower	4528	4654	s22-d26_11_10	The cauliflower is washed.	cauliflower	8879	9293	1	1	2	1.3333
+815	s29-d31_12_5	The person slices the garlic clove into thin pieces.	garlic	1488	2189	s23-d31_7_5	He peels the garlic partially with his fingers.	garlic	1601	1992	1	2	3	2.0000
+816	s37-d46_1_9	The end is sliced into strips then chunks.	pineapple	5870	8316	s22-d46_1_6	Person slices down middle cutting pineapple in half.	pineapple	2303	2622	4	3	3	3.3333
+817	s27-d54_3_3	Wash mango.	mango	1329	1418	s33-d54_5_5	The person cuts the chunks into smaller pieces on the new plate.	mango	5919	7666	1	1	2	1.3333
+818	s24-d41_11_5	She splits the pomegranate.	pomegranate	1326	3033	s30-d41_7_6	The person cuts the pomegranate in half.	pomegranate	2056	2352	3	4	4	3.6667
+819	s23-d39_14_7	The person peels off some of the leek's leaves.	leek	1243	1531	s29-d39_6_4	The person peels the outer leaves from the leek.	leek	1241	1864	5	5	5	5.0000
+820	s27-d21_16_6	He chopped cucumber	cucumber	1884	4135	s13-d21_19_6	The man cut the cucumber into slices	cucumber	1854	2523	5	3	4	4.0000
+821	s14-d27_12_6	Gently rinse the onion.	onion	3618	3728	s36-d27_19_5	He peeled onion	onion	925	1107	1	1	2	1.3333
+822	s26-d23_8_7	The person peels the carrot.	carrot	1491	2164	s36-d23_9_6	Chop first Carrot and place chopped carrot into the bowl	carrot	1673	4316	1	2	2	1.6667
+823	s27-d45_16_5	The person cuts off the top of the pepper.	pepper	1640	2115	s33-d45_16_6	The person finishes cutting the other pieces of the pepper into small squares.	pepper	2736	6615	2	2	3	2.3333
+824	s27-d34_6_5	The person chops the ginger on the cutting board.	ginger	1157	1715	s23-d34_17_6	The person rinses the ginger in water.	ginger	1140	1999	1	1	2	1.3333
+825	s14-d27_16_6	She washed onion	onion	3618	3728	s36-d27_19_4	He cut off top of onion	onion	757	876	1	1	2	1.3333
+826	s36-d31_2_11	The person peels the garlic clove.	garlic	4538	5355	s31-d31_5_9	The garlic slices are chopped.	garlic	3292	4211	1	2	2	1.6667
+827	s21-d39_3_9	She sliced the leek	leek	1717	2620	s21-d39_15_2	The woman cuts off the end and the greens of the leek.	leek	612	765	3	3	4	3.3333
+828	s29-d31_12_5	The person slices the garlic clove into thin pieces.	garlic	1488	2189	s36-d31_2_6	The person chops the garlic on the cutting board.	garlic	2301	3344	5	3	4	4.0000
+829	s37-d21_14_6	The man rinsed the cucumber.	cucumber	2256	2505	s21-d21_12_9	The subject dices the cucumber.	cucumber	3046	3979	1	1	2	1.3333
+830	s33-d54_11_7	The person cuts chunks off the mango.	mango	3658	5581	s33-d54_2_5	Using your knife, remove all the peel from the mango.	mango	1573	3613	1	3	3	2.3333
+831	s21-d39_3_9	She sliced the leek	leek	1717	2620	s23-d39_3_6	The person removes the outer sheaves and washes the leeks in the sink.	leek	1071	1961	1	1	2	1.3333
+832	s33-d54_13_6	the person gets another plate	mango	5919	7666	s33-d54_11_7	The person cuts chunks off the mango.	mango	3658	5581	1	1	1	1.0000
+833	s32-d27_14_3	She cuts off the top with a knife.	onion	1904	2585	s14-d27_16_6	She washed onion	onion	3618	3728	1	1	2	1.3333
+834	s17-d53_5_3	The person rinsed the avocado off.	avocado	469	799	s17-d53_18_9	person dices one of the halfs of avocado	avocado	4537	5778	1	1	2	1.3333
+835	s24-d53_2_9	The person slices the avocado length wise.	avocado	3976	4839	s17-d53_15_7	He slices the avocado in half.	avocado	3739	3974	3	4	4	3.6667
+836	s28-d27_3_5	He cuts up the onion thinly.	onion	2108	2509	s36-d27_4_4	He cut off end of onion	onion	757	876	3	3	4	3.3333
+837	s21-d42_8_9	She cut off stem	broccoli	2353	2751	s36-d42_7_2	The man slices off the broccoli he will use.	broccoli	1047	3908	5	3	5	4.3333
+838	s37-d46_7_3	He cuts off the top of the pineapple.	pineapple	1389	2044	s37-d46_17_9	The man continues to cut the larger portions of pineapple into smaller pieces.	pineapple	7728	8316	3	3	3	3.0000
+839	s22-d53_13_10	The person repeats the same cuts and chops with the other half of the avocado.	avocado	5541	5901	s17-d53_6_3	He rinses the avocado.	avocado	469	799	1	1	2	1.3333
+840	s30-d53_7_4	She rinses the avocado.	avocado	1215	1414	s22-d53_12_10	She peeled the avocado.	avocado	2395	4595	1	1	2	1.3333
+841	s25-d23_18_2	The man washes the carrot.	carrot	743	911	s26-d23_13_5	He peeled the entire carrot with the vegetable peeler.	carrot	1491	2164	1	1	2	1.3333
+842	s14-d27_3_5	The person peels the onion.	onion	834	3550	s14-d27_16_6	She washed onion	onion	3618	3728	1	1	2	1.3333
+843	s27-d54_16_5	He cut mango in half	mango	1826	2163	s23-d54_19_5	He washed mango	mango	1546	1924	1	1	2	1.3333
+844	s23-d31_7_5	He peels the garlic partially with his fingers.	garlic	1601	1992	s29-d31_1_4	Whit your knife, thinly slice the garlic.	garlic	1488	2189	1	1	3	1.6667
+845	s28-d27_16_3	He peels the onion.	onion	1071	2189	s28-d27_3_4	He takes the skin off of the onion.	onion	1306	2050	5	5	5	5.0000
+846	s30-d40_3_6	The lime is cut in half.	lime	1055	1193	s13-d40_9_5	He cuts the lime in half.	lime	1520	1621	5	5	5	5.0000
+847	s33-d54_2_5	Using your knife, remove all the peel from the mango.	mango	1573	3613	s23-d54_13_6	The person washes the mango.	mango	1785	1924	1	1	2	1.3333
+848	s21-d42_17_5	The person just washed the broccoli	broccoli	1845	3078	s21-d42_8_9	She cut off stem	broccoli	2353	2751	1	1	2	1.3333
+849	s30-d53_2_5	person peels avocado	avocado	1520	2370	s22-d53_13_10	The person repeats the same cuts and chops with the other half of the avocado.	avocado	5541	5901	1	3	2	2.0000
+850	s15-d26_13_3	put grille on plate	cauliflower	4570	6459	s22-d26_6_8	The person cuts the cauliflower into smaller pieces.	cauliflower	5596	8107	1	1	1	1.0000
+851	s36-d42_3_4	Cuts florets from broccoli.	broccoli	2249	3908	s21-d42_1_8	Person rinses broccoli head off.	broccoli	2657	3078	1	1	2	1.3333
+852	s13-d28_10_5	He uses the knife to slice the orange into pieces.	orange	3127	3461	s13-d28_6_4	The man then peels the orange with a knife.	orange	2271	2950	1	3	3	2.3333
+853	s36-d42_10_4	He cuts of the broccoli heads.	broccoli	2249	3908	s21-d42_8_9	She cut off stem	broccoli	2353	2751	5	4	5	4.6667
+854	s30-d41_18_3	The person washes the pomegranate.	pomegranate	654	1015	s24-d41_6_3	She cuts the pomegranate in half.	pomegranate	1326	3033	1	1	2	1.3333
+855	s25-d23_13_5	The person cuts the carrot into thin lateral slices using the chef's knife.	carrot	2083	3696	s26-d23_4_7	He peeled carrot	carrot	1491	2164	1	2	3	2.0000
+856	s17-d53_16_3	He washed avocado	avocado	469	799	s24-d53_15_4	The person cuts the avocado in half.	avocado	975	1317	1	1	2	1.3333
+857	s36-d31_2_6	The person chops the garlic on the cutting board.	garlic	2301	3344	s36-d31_5_10	The clove is peeled.	garlic	4417	5355	1	2	3	2.0000
+858	s24-d34_15_6	The person peels one half of the ginger.	ginger	1489	2291	s23-d34_16_6	The man cuts off a piece of the ginger.	ginger	1140	1360	1	2	3	2.0000
+859	s36-d31_14_11	The man peels the garlic again	garlic	4538	5355	s36-d31_12_6	He diced the garlic	garlic	2301	3344	1	2	2	1.6667
+860	s32-d27_2_1	She grabs an onion.	onion	311	1355	s36-d27_7_6	The person dices the onion on the cutting board.	onion	1636	2608	1	1	1	1.0000
+861	s17-d53_4_5	The avocado is peeled.	avocado	1124	2390	s30-d53_7_4	She rinses the avocado.	avocado	1215	1414	1	1	2	1.3333
+862	s13-d21_11_5	He uses the knife to cut off the ends of the cucumbers.	cucumber	1854	2036	s27-d21_11_4	Using the same knife, he then cuts down through the slices creating small chunks.	cucumber	3126	4135	3	3	3	3.0000
+863	s33-d27_11_3	She uses the small knife to cut off the outer layer of the onion.	onion	860	1811	s33-d27_19_8	The person scoops the onions into the pan.	onion	6249	6348	1	1	1	1.0000
+864	s24-d40_7_5	person cuts lime in half	lime	1101	1274	s30-d40_5_5	The person cuts the lime in half.	lime	1055	1193	5	5	5	5.0000
+865	s21-d45_1_5	She cut pepper in half	pepper	821	902	s21-d45_4_8	She sliced pepper	pepper	1664	2021	4	3	4	3.6667
+866	s24-d53_18_10	The person uses the knife to cut the avocado into long thin slices.	avocado	4176	4839	s17-d53_15_5	He peels the avocado.	avocado	1124	2390	1	2	3	2.0000
+867	s29-d31_1_5	Slice again diagonally several times to create a nice mice.	garlic	2189	2693	s36-d31_6_5	Person slices garlic	garlic	2301	3344	5	3	4	4.0000
+868	s14-d27_14_5	The person peels the onion.	onion	743	3550	s32-d27_13_3	The person rinses the knife.	onion	2361	2585	1	1	1	1.0000
+869	s36-d27_12_5	The person peels some skin off the onion.	onion	925	1107	s32-d27_2_1	She grabs an onion.	onion	311	1355	1	1	1	1.0000
+870	s36-d27_19_7	He sliced on onion	onion	1248	2608	s14-d27_3_5	The person peels the onion.	onion	834	3550	1	2	3	2.0000
+871	s24-d53_18_3	The person uses the paring knife to slice the avocado in half lenghwise.	avocado	975	1220	s24-d53_18_4	The person seperates the halves of the avocado with a twisting motion.	avocado	1254	1317	1	3	4	2.6667
+872	s27-d34_3_5	The person slices the ginger into small slivers	ginger	1157	1715	s24-d34_3_6	The person peels the ginger.	ginger	1489	2291	1	2	3	2.0000
+873	s14-d27_16_6	She washed onion	onion	3618	3728	s32-d27_13_3	The person rinses the knife.	onion	2361	2585	1	3	3	2.3333
+874	s34-d41_3_5	The person cuts the top and bottom of the pomegranate and then chops it in half.	pomegranate	2038	2479	s24-d41_12_3	Step Three: rinse the pomegranate	pomegranate	1150	1229	1	1	2	1.3333
+875	s23-d45_4_4	Rinse the pepper under water.	pepper	1718	2298	s23-d45_7_6	He dices the peppers.	pepper	2398	3792	1	1	2	1.3333
+876	s24-d23_2_5	The person washes the carrots.	carrot	2885	3052	s36-d23_17_5	The man dices another carrot	carrot	4411	6483	1	1	2	1.3333
+877	s36-d23_7_7	He chopped carrots	carrot	1647	3395	s24-d23_2_3	The person peels the carrots over the sink.	carrot	1405	2454	1	2	3	2.0000
+878	s24-d40_1_2	She washed lime	lime	441	661	s30-d40_5_5	The person cuts the lime in half.	lime	1055	1193	1	1	2	1.3333
+879	s24-d34_4_6	The person peels the ginger.	ginger	1489	2291	s34-d34_2_7	He took out cutting board	ginger	2488	2953	1	1	1	1.0000
+880	s24-d23_11_3	She peels the carrots.	carrot	1405	2454	s26-d23_10_8	The person chops the carrot.	carrot	2226	2712	1	2	3	2.0000
+881	s26-d23_4_9	He chopped carrot	carrot	2338	2712	s25-d23_3_4	The person rinses the carrot.	carrot	743	911	1	1	2	1.3333
+882	s13-d28_6_4	The man then peels the orange with a knife.	orange	2271	2950	s13-d28_4_7	He sliced orange	orange	3127	3461	1	2	3	2.0000
+883	s37-d21_2_9	The person peels one half of the cucumber.	cucumber	3064	3931	s27-d21_6_5	The man then slices the other half.	cucumber	2341	2646	1	2	3	2.0000
+884	s21-d21_12_9	The subject dices the cucumber.	cucumber	3046	3979	s37-d21_9_8	He slices the cucumber half down the middle	cucumber	4163	4253	3	3	3	3.0000
+885	s24-d34_9_3	the person gets a peeler	ginger	1489	2291	s27-d34_12_5	Guy dices the ginger	ginger	1157	1715	1	1	1	1.0000
+886	s30-d26_15_7	She washed cauliflower	cauliflower	2277	2962	s22-d26_19_7	She slices the large stem off of the cauliflower.	cauliflower	4528	4654	1	1	2	1.3333
+887	s36-d27_17_4	continue cutting slicing the onion pieces completely across from end to end	onion	1636	1990	s28-d27_15_5	peels skin off onion	onion	1071	2050	1	2	3	2.0000
+888	s27-d45_11_5	The person cuts off the top of the pepper.	pepper	2002	2115	s13-d45_15_6	He washed pepper	pepper	2056	2490	1	1	2	1.3333
+889	s35-d40_16_2	Rinse lime in water.	lime	716	956	s35-d40_12_7	Using knife, slice lime in half.	lime	2434	2971	5	1	2	2.6667
+890	s14-d27_5_6	Rinse knife and slice onion.	onion	3960	4315	s14-d27_16_6	She washed onion	onion	3618	3728	1	1	2	1.3333
+891	s27-d54_1_6	He sliced mango	mango	2246	4491	s23-d54_19_5	He washed mango	mango	1546	1924	1	1	2	1.3333
+892	s24-d23_19_3	The person peels both carrots in the sink.	carrot	1405	2454	s25-d23_6_4	He rinses the carrot from the faucet.	carrot	743	911	1	1	2	1.3333
+893	s17-d48_7_5	The person cuts the top off the chili.	chilli	1245	1284	s17-d48_8_3	The person washes the chili in the sink.	chilli	873	1050	1	1	2	1.3333
+894	s25-d23_19_8	Use the knife to slice the carrot into thin disks no more than 1/4 inch thick.	carrot	2083	3696	s24-d23_17_3	She rinses the peeled carrots off in the sink.	carrot	2600	3052	1	1	2	1.3333
+895	s23-d45_12_9	The person slices the strips into little chunks.	pepper	2867	3792	s27-d45_13_3	he slices the top of the pepper away.	pepper	2002	2115	2	3	3	2.6667
+896	s14-d27_1_3	The woman peels the onion.	onion	743	3550	s36-d27_3_5	The person chops up the onion.	onion	1636	2608	1	2	2	1.6667
+897	s22-d26_12_7	The person cuts the cauliflower into pieces, trimming off bits of leaves as she finds them.	cauliflower	4870	8107	s26-d26_8_8	He cut off leaves	cauliflower	2724	3223	3	2	4	3.0000
+898	s14-d35_1_7	Person twists plum apart.	plum	1462	1551	s15-d35_19_7	She peeled first plum	plum	1708	3026	5	2	2	3.0000
+899	s17-d48_1_2	He proceeds to wash the pepper.	chilli	741	1050	s17-d48_7_5	The person cuts the top off the chili.	chilli	1245	1284	1	1	2	1.3333
+900	s24-d28_9_5	She splits the orange in half.	orange	4664	6090	s31-d28_10_5	Slices the orange into pieces.	orange	3662	3994	2	3	4	3.0000

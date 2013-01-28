@@ -1,0 +1,189 @@
+s34-d34_1_1	The person gets out a bowl.	s34-d34	206	486	ginger	493
+s34-d34_1_2	The person gets out a knife and a peeler.	s34-d34	500	1242	ginger	1243
+s34-d34_1_3	The person fills the bowl with water.	s34-d34	1268	1345	ginger	1378
+s34-d34_1_4	The person gets out some ginger.	s34-d34	1414	1644	ginger	1709
+s34-d34_1_5	The person rinses the ginger.	s34-d34	1698	2953	ginger	3007
+s34-d34_1_6	The person peels the ginger.	s34-d34	3021	10497	ginger	10306
+s34-d34_1_7	The person throws away the ginger peel.	s34-d34	10537	10813	ginger	10831
+s34-d34_1_8	The person rinses the peeler and puts it and the knife away.	s34-d34	10862	11804	ginger	11841
+s34-d34_1_9	The person gets out a grater.	s34-d34	11820	11979	ginger	12004
+s34-d34_1_10	The person grates the ginger into the bowl.	s34-d34	12267	15320	ginger	15430
+s34-d34_1_11	The person washes and puts away the grater.	s34-d34	15438	16370	ginger	16397
+s34-d34_1_12	The person adds spices to the ginger.	s34-d34	16378	17079	ginger	17089
+s34-d34_1_13	The person gets out a spoon and stirs the ginger.	s34-d34	17089	17584	ginger	17581
+s34-d34_2_1	He took out bowl	s34-d34	206	486	ginger	600
+s34-d34_2_2	He took out knife	s34-d34	500	1196	ginger	1070
+s34-d34_2_3	He took out peeler	s34-d34	1204	1345	ginger	1426
+s34-d34_2_4	He put water in bowl	1414	1644
+s34-d34_2_5	He put ginger in bowl	1414	1644
+s34-d34_2_6	He washed ginger	s34-d34	1698	2481	ginger	2536
+s34-d34_2_7	He took out cutting board	s34-d34	2488	2953	ginger	2834
+s34-d34_2_8	He peeled ginger	s34-d34	3021	4690	ginger	4490
+s34-d34_2_9	He washed peeler	s34-d34	4716	11627	ginger	11640
+s34-d34_3_1	Rinse ginger in a small bowl of water.	s34-d34	206	2481	ginger	2482
+s34-d34_3_2	Drain water.	s34-d34	2488	2953	ginger	3150
+s34-d34_3_3	Remove outer layer with a pealer and rinse.	s34-d34	3021	9476	ginger	9770
+s34-d34_3_4	Use a vegetable grater to dice ginger.	s34-d34	11638	15320	ginger	15320
+s34-d34_3_5	Add desired spices or flavorings.	s34-d34	15438	16837	ginger	16858
+s34-d34_3_6	Stir before serving.	s34-d34	16851	17584	ginger	17786
+s34-d34_4_1	The person takes out a bowl, a knife, and a peeler from the drawer.	s34-d34	206	1345	ginger	1398
+s34-d34_4_2	The person fills the bowl with water from the faucet.	s34-d34	1414	1644	ginger	1550
+s34-d34_4_3	The person takes some ginger from the pantry and then rinses it in the bowl.	s34-d34	1698	2481	ginger	2512
+s34-d34_4_4	The person takes out a cutting board from the drawer.	s34-d34	2488	2597	ginger	2790
+s34-d34_4_5	The person uses the peeler to peel the ginger.	s34-d34	2627	8890	ginger	9176
+s34-d34_4_6	The person pours the peels into the garbage with the water while holding the ginger in his hand.	s34-d34	8989	11101	ginger	10990
+s34-d34_4_7	The person returns the peeler to the drawer.	9974	11979
+s34-d34_4_8	The person takes out a grater from the drawer.	9974	11979
+s34-d34_4_9	The person grates the ginger into the bowl, washes off the grater then returns it to the drawer.	s34-d34	12267	16546	ginger	16554
+s34-d34_4_10	The person returns the cutting board to the drawer.	s34-d34	16569	16671	ginger	16664
+s34-d34_4_11	The person for some reason decides to add condiments to ginger then takes a spoon from the drawer and stirs it together in the bowl.	s34-d34	16683	17584	ginger	17636
+s34-d34_5_1	He gets out the needed hardware and fills a bowl with water.	s34-d34	206	1345	ginger	1516
+s34-d34_5_2	He puts the ginger in the bowl and rinses it.	s34-d34	1414	2481	ginger	2520
+s34-d34_5_3	He peels the ginger.	s34-d34	2488	8890	ginger	8940
+s34-d34_5_4	He rinses the ginger.	s34-d34	8989	9476	ginger	9658
+s34-d34_5_5	He discards the peels.	s34-d34	9974	11101	ginger	10994
+s34-d34_5_6	He grates the ginger.	s34-d34	11111	15320	ginger	15622
+s34-d34_5_7	He cleans up then seasons the ginger.	s34-d34	15438	17584	ginger	17766
+s34-d34_6_1	He gets out a bowl, a knife, and a peeler from the drawers.	s34-d34	206	1345	ginger	1460
+s34-d34_6_2	He fills the bowl with water from the sink and places the ginger inside.	s34-d34	1414	1644	ginger	1916
+s34-d34_6_3	He puts the bowl with ginger in the sink and washes it.	s34-d34	1698	2597	ginger	2546
+s34-d34_6_4	He peels off the outside of the ginger into the metal bowl.	s34-d34	2627	4207	ginger	4456
+s34-d34_6_5	He rinses off the ginger and continues using the peeler to peel the outside off.	4224	8890
+s34-d34_6_6	He uses a knife to cut off a piece of the ginger.	4224	8890
+s34-d34_6_7	He puts the bowl with the peeler in it in the sink and turns on the water while using the knife to scrape off some pieces of the ginger into the bowl.	s34-d34	8989	9476	ginger	9682
+s34-d34_6_8	He pours the water out into the sink.	s34-d34	9974	10497	ginger	10270
+s34-d34_6_9	He throws away the scraps and puts away the peeler.	s34-d34	11111	11979	ginger	12138
+s34-d34_6_10	He takes out a grater and uses it to grate the ginger into fine pieces.	s34-d34	12267	15807	ginger	15648
+s34-d34_6_11	He washes the grater in the sink and puts it and the cutting board away.	s34-d34	15809	16671	ginger	16672
+s34-d34_6_12	He sprinkles salt and pepper into the bowl and takes out a spoon to mix everything around.	s34-d34	16683	17584	ginger	17802
+s34-d34_7_1	He gets the needed hardware.	s34-d34	206	1345	ginger	1426
+s34-d34_7_2	He puts water in a bowl.	1414	1644
+s34-d34_7_3	He gets ginger and puts it in the bowl.	1414	1644
+s34-d34_7_4	He cleans the ginger.	s34-d34	1698	2597	ginger	2548
+s34-d34_7_5	He gets a cutting board.	s34-d34	2627	2953	ginger	2798
+s34-d34_7_6	He peels the ginger.	s34-d34	3021	8890	ginger	9126
+s34-d34_7_7	He rinses the ginger and discards the peels.	s34-d34	8989	11101	ginger	10994
+s34-d34_7_8	He grates the ginger.	s34-d34	10537	15807	ginger	15636
+s34-d34_7_9	He cleans up, then seasons the ginger.	s34-d34	15809	17584	ginger	17756
+s34-d34_8_1	He gets out some equipment.	s34-d34	206	1345	ginger	1414
+s34-d34_8_2	He puts water in the bowl and then gets some ginger.	s34-d34	1414	1644	ginger	1906
+s34-d34_8_3	He rinses the ginger.	s34-d34	1698	2481	ginger	2508
+s34-d34_8_4	He peels the ginger.	s34-d34	2488	8890	ginger	9142
+s34-d34_8_5	He discards the peels.	s34-d34	8989	10813	ginger	10968
+s34-d34_8_6	He gets a grater and grates the ginger.	s34-d34	11111	15807	ginger	15624
+s34-d34_8_7	He seasons the ginger.	s34-d34	15809	17079	ginger	17098
+s34-d34_8_8	He stirs the ginger.	s34-d34	17089	17584	ginger	17760
+s34-d34_9_1	He got a bowl.	s34-d34	206	486	ginger	636
+s34-d34_9_2	He got a bowl and a knife.	s34-d34	500	1345	ginger	1452
+s34-d34_9_3	He got some ginger and rinsed it.	s34-d34	1414	2481	ginger	2522
+s34-d34_9_4	He peels the ginger and rinses it again.	s34-d34	2488	9476	ginger	9808
+s34-d34_9_5	He discards the peels.	s34-d34	9974	10813	ginger	10930
+s34-d34_9_6	He grate the ginger.	s34-d34	10862	15807	ginger	15630
+s34-d34_9_7	He cleans the grater.	s34-d34	15809	15922	ginger	16012
+s34-d34_9_8	He season the ginger.	s34-d34	15985	17079	ginger	17094
+s34-d34_9_9	He mixes the ginger.	s34-d34	17089	17584	ginger	17776
+s34-d34_10_1	He goes to the drawer and gets out a bowl, knife, and a peeler.	s34-d34	206	1345	ginger	1434
+s34-d34_10_2	He takes the bowl and fills it up with water.	1414	1644
+s34-d34_10_3	He goes to the cupboard and gets out some ginger and places it in the bowl.	1414	1644
+s34-d34_10_4	He adds ginger to the bowl of water and rinses it.	s34-d34	1698	2597	ginger	2544
+s34-d34_10_5	He goes to the drawer and gets a cutting board out then drains the water from the bowl.	s34-d34	2627	2953	ginger	3188
+s34-d34_10_6	He peels the ginger and then rinses the peeler and then continues to peel the ginger.	s34-d34	3021	8890	ginger	9154
+s34-d34_10_7	He rinses and drains the ginger.	s34-d34	8989	9476	ginger	10168
+s34-d34_10_8	He cleans up the sink and throws away the rinds.	s34-d34	9974	11101	ginger	11054
+s34-d34_10_9	He rinses the peeler and puts it away along with the knife.	s34-d34	10862	11979	ginger	11998
+s34-d34_10_10	He gets out a grater and grates the ginger into the bowl.	s34-d34	12267	15320	ginger	15618
+s34-d34_10_11	He rinses and dries the grater and puts it away along with the cutting board.	s34-d34	15438	16671	ginger	16642
+s34-d34_10_12	He then adds some spice and stirs the ginger.	s34-d34	16683	17584	ginger	17850
+s34-d34_11_1	He gets a bowl out of the cupboard.	s34-d34	206	486	ginger	516
+s34-d34_11_2	He gets a knife out of the drawer.	s34-d34	500	847	ginger	988
+s34-d34_11_3	He gets a peeler out of the drawer.	s34-d34	854	1345	ginger	1376
+s34-d34_11_4	He gets a piece of ginger and washes it.	s34-d34	1414	2953	ginger	3142
+s34-d34_11_5	He peels the piece of ginger.	s34-d34	3021	8890	ginger	9132
+s34-d34_11_6	He gets a grater out of the cupboard.	s34-d34	11111	11979	ginger	12174
+s34-d34_11_7	He grates the ginger into the bowl.	s34-d34	12267	15320	ginger	15550
+s34-d34_11_8	He washes the grater.	s34-d34	15438	16040	ginger	16070
+s34-d34_11_9	He adds spices to the ginger.	s34-d34	16074	17079	ginger	17078
+s34-d34_11_10	He stirs up the ginger and spices.	s34-d34	17089	17584	ginger	17764
+s34-d34_12_1	The person gets out a bowl.	s34-d34	206	355	ginger	435
+s34-d34_12_2	The person gets out a knife and a peeler.	s34-d34	447	1242	ginger	1239
+s34-d34_12_3	The person puts water in the bowl.	s34-d34	1268	1345	ginger	1389
+s34-d34_12_4	The person gets out some ginger.	s34-d34	1414	1644	ginger	1716
+s34-d34_12_5	The person washes the ginger.	s34-d34	1698	2953	ginger	2987
+s34-d34_12_6	The person peels the ginger.	s34-d34	3021	10813	ginger	10863
+s34-d34_12_7	The person rinses and puts away the peeler.	s34-d34	8989	11706	ginger	11691
+s34-d34_12_8	The person puts away the knife.	s34-d34	11723	11804	ginger	11779
+s34-d34_12_9	The person gets out a grater.	s34-d34	11820	11979	ginger	11982
+s34-d34_12_10	The person grates the ginger into the bowl.	s34-d34	12267	15320	ginger	15427
+s34-d34_12_11	The person washes the grater and puts it away.	s34-d34	15438	16370	ginger	16366
+s34-d34_12_12	THe person adds spices to the ginger.	s34-d34	16378	17079	ginger	17088
+s34-d34_12_13	The person gets out a spoon and stirs the ginger.	s34-d34	17089	17584	ginger	17598
+s34-d34_13_1	The person takes out a bowl, knife and peeler.	s34-d34	206	1345	ginger	1424
+s34-d34_13_2	The person fills the bowl with water.	1414	1644
+s34-d34_13_3	The person pulls the ginger out of the cabinet.	1414	1644
+s34-d34_13_4	The person pulls out the cutting board.	1698	2953
+s34-d34_13_5	The person drains water out of the bowl.	1698	2953
+s34-d34_13_6	The person peels the ginger.	1698	2953
+s34-d34_13_7	The person cleans the peeler.	s34-d34	3021	4690	ginger	4480
+s34-d34_13_8	The person finished peeling the ginger.	s34-d34	4716	8890	ginger	9124
+s34-d34_13_9	The person rinses the peeled ginger uses the knife to take out any eyes of skin still left.	s34-d34	8989	9476	ginger	9370
+s34-d34_13_10	The person throws away the peels.	s34-d34	9974	10813	ginger	10752
+s34-d34_13_11	The person takes out grater and begins grating the ginger.	s34-d34	10862	11979	ginger	12452
+s34-d34_13_12	The person adds salt to the ginger.	s34-d34	12267	16837	ginger	16862
+s34-d34_13_13	The person pepper to the ginger	s34-d34	16851	17079	ginger	17108
+s34-d34_14_1	The person gets out a bowl.	s34-d34	206	355	ginger	350
+s34-d34_14_2	The person gets out a knife.	s34-d34	447	802	ginger	815
+s34-d34_14_3	The person gets out a vegetable peeler.	s34-d34	808	1196	ginger	1204
+s34-d34_14_4	The person fills the bowl with water.	s34-d34	1204	1345	ginger	1380
+s34-d34_14_5	The person gets out some ginger.	s34-d34	1414	1644	ginger	1684
+s34-d34_14_6	The person rinses the ginger in the bowl.	s34-d34	1698	2330	ginger	2346
+s34-d34_14_7	The person gets out a cutting board.	s34-d34	2352	2597	ginger	2591
+s34-d34_14_8	The person peels the ginger.	s34-d34	2627	8890	ginger	8962
+s34-d34_14_9	The person throws away the peel.	s34-d34	8989	10813	ginger	10827
+s34-d34_14_10	The person puts away the peeler and knife, and gets out a grater.	s34-d34	10862	11979	ginger	12009
+s34-d34_14_11	The person grates the ginger into the bowl.	s34-d34	12267	15320	ginger	15423
+s34-d34_14_12	The person rinses the grater, and puts it and the cutting board away.	s34-d34	15438	16448	ginger	16462
+s34-d34_14_13	The person adds spices to the ginger.	s34-d34	16474	16932	ginger	16947
+s34-d34_14_14	The person gets out a spoon and stirs the ginger.	s34-d34	17089	17584	ginger	17585
+s34-d34_15_1	The person removes a bowl, a knife and a peeler from the drawer.	s34-d34	206	1345	ginger	1436
+s34-d34_15_2	The person fills the bowl with water.	1414	1644
+s34-d34_15_3	The person removes the ginger root from the cabinet.	1414	1644
+s34-d34_15_4	The person rinses the ginger root in the bowl over the sink.	s34-d34	1698	2481	ginger	2512
+s34-d34_15_5	The person takes a cutting board out of the drawer.	s34-d34	2488	2597	ginger	2776
+s34-d34_15_6	The person rinses the ginger root a little more and dumps the water out of the bowl into the sink.	s34-d34	2627	2953	ginger	3180
+s34-d34_15_7	The person uses the peeler to peel the skin off of part of the ginger root.	s34-d34	3021	4207	ginger	4410
+s34-d34_15_8	The person rinses the peeler.	s34-d34	4224	4899	ginger	4934
+s34-d34_15_9	The person peels the rest of the ginger root, placing the discarded skin in the bowl.	s34-d34	4918	8890	ginger	9144
+s34-d34_15_10	The person rinses off the freshly peeled ginger root over the sink.	s34-d34	8989	9476	ginger	9716
+s34-d34_15_11	The person pours the water out of the bowl and throws the waste into the trash.	s34-d34	9974	11101	ginger	11020
+s34-d34_15_12	The person cleans the peeler and returns the peeler and the knife to the drawer.	s34-d34	10862	11979	ginger	12042
+s34-d34_15_13	The person takes out a grater and uses it to grate the ginger root into the bowl.	s34-d34	12267	15807	ginger	15768
+s34-d34_15_14	The person cleans the grater in the sink and puts the grater and the cutting board back into the drawer.	s34-d34	15809	16671	ginger	16708
+s34-d34_15_15	The person adds what appears to be salt and another spice and mixes it with the grated ginger.	s34-d34	16937	17584	ginger	17850
+s34-d34_16_1	He takes out a knife and a a carver along with a bowl which he fills with water.	s34-d34	206	1345	ginger	1499
+s34-d34_16_2	He gets ginger from the cabinet, puts it in the bowl of water, and washes it in the sink, then leaving it on the counter.	s34-d34	1414	2330	ginger	2370
+s34-d34_16_3	He gets a cutting board and rubs the ginger in the water.	s34-d34	2352	2953	ginger	3080
+s34-d34_16_4	He begins using the carver to remove the outside layer of the ginger and stop to wash the carver.	s34-d34	3021	4690	ginger	4746
+s34-d34_16_5	He uses the carver to break apart ginger into smaller pieces.	s34-d34	4716	8890	ginger	8873
+s34-d34_16_6	He washes the ginger in the sink and when the smaller pieces fall out, he gathers them and disposes of them in the trash.	s34-d34	8989	10813	ginger	10813
+s34-d34_16_7	He washes the carver in the sink.	s34-d34	10862	11398	ginger	11487
+s34-d34_16_8	He uses the grater to shred the ginger.	s34-d34	11111	15320	ginger	15492
+s34-d34_16_9	He washes the grater in the sink, brushes spare particles that fell on the counter into the sink, dries the grater, and puts it away.	s34-d34	15438	16370	ginger	16378
+s34-d34_16_10	He sprinkles salt and pepper on top of the ginger and then takes a spoon out from the drawer to mix it around.	s34-d34	16683	17584	ginger	17649
+s34-d34_17_1	He gets out the equipment.	s34-d34	206	1242	ginger	1234
+s34-d34_17_2	He retrieves and rinses the ginger.	s34-d34	1268	2407	ginger	2433
+s34-d34_17_3	He peels the ginger.	s34-d34	2417	9476	ginger	9453
+s34-d34_17_4	He discards the peelings.	s34-d34	9974	10813	ginger	10733
+s34-d34_17_5	He cleans the peeler.	s34-d34	10862	11398	ginger	11511
+s34-d34_17_6	He retrieves the grater.	s34-d34	11500	11979	ginger	11978
+s34-d34_17_7	He grates the ginger.	s34-d34	12267	15320	ginger	15435
+s34-d34_17_8	He cleans the grater.	s34-d34	15438	15807	ginger	15856
+s34-d34_17_9	He seasons the ginger.	s34-d34	15809	16886	ginger	16897
+s34-d34_17_10	He stirs the ginger.	s34-d34	16378	17584	ginger	17604
+s34-d34_19_1	He took out bowl	s34-d34	206	486	ginger	510
+s34-d34_19_2	He took out knife	s34-d34	500	847	ginger	994
+s34-d34_19_3	He took out peeler	s34-d34	854	1345	ginger	1372
+s34-d34_19_4	He put water in bowl	1414	1644
+s34-d34_19_5	He took out ginger	1414	1644
+s34-d34_19_6	He washed ginger	s34-d34	1698	2481	ginger	2490
+s34-d34_19_7	He took out cutting board	s34-d34	2488	2597	ginger	2782
+s34-d34_19_8	 He peeled ginger	s34-d34	2627	4207	ginger	4136

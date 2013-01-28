@@ -1,0 +1,124 @@
+s22-d22_1_1	She opens the refrigerator.	306	520	613
+s22-d22_1_2	She takes out a carrot.	599	816
+s22-d22_1_3	She closes the refrigerator.	599	816
+s22-d22_1_4	She washes the carrot.	841	1060	1044
+s22-d22_1_5	She dries her hands.	1060	1104
+s22-d22_1_6	She opens the drawer.	1060	1104
+s22-d22_1_7	She removes a cutting board.	1060	1104
+s22-d22_1_8	She takes out a carrot peeler.	1120	1812	1794
+s22-d22_1_9	She takes out a knife.	1818	1852
+s22-d22_1_10	She cuts the ends off of the carrot.	1818	1852
+s22-d22_1_11	She peels the carrot.	1942	2990	2926
+s22-d22_1_12	She throws away the carrot peelings.	3083	3231	3228
+s22-d22_1_13	She cuts the carrot length-wise.	3231	3494
+s22-d22_1_14	She cuts the carrot into small pieces.	3231	3494
+s22-d22_3_1	She took out carrot	306	520	524
+s22-d22_3_2	She washed carrot	599	816	790
+s22-d22_3_3	She took out cutting board	841	1104	1094
+s22-d22_3_4	She took out peeler	1120	1536	1554
+s22-d22_3_5	She took out knife	1603	1682	1696
+s22-d22_3_6	She cut off top of carrot	1703	1852	1872
+s22-d22_3_7	She peeled carrot	1942	2664	2704
+s22-d22_3_8	She threw away peels	2712	2990	3040
+s22-d22_3_9	She chopped carrot	3083	3494	3612
+s22-d22_4_1	She took out carrot	306	520	502
+s22-d22_4_2	She washed carrot	599	816	778
+s22-d22_4_3	She took out cutting board	841	1060	1056
+s22-d22_4_4	She took out peeler	1060	1536	1544
+s22-d22_4_5	She took out knife	1603	1682	1680
+s22-d22_4_6	She cut off ends of carrot	1703	1812	1786
+s22-d22_4_7	She peeled carrot	1818	2627	2634
+s22-d22_4_8	She threw away peels	2651	2990	2978
+s22-d22_4_9	She cut up carrot	3083	3494	3502
+s22-d22_5_1	person gets carrot	306	520	502
+s22-d22_5_2	person washes carrot	599	816	810
+s22-d22_5_3	person gets cutting board	841	1104	1084
+s22-d22_5_4	person cuts the two ends of carrot	1120	1852	1894
+s22-d22_5_5	person peels outside of carrot	1942	2736	2788
+s22-d22_5_6	person dices carrot	2828	3494	3578
+s22-d22_6_1	The girl removes the carrot from the refrigerator.	306	520	516
+s22-d22_6_2	The girl washes the carrot in the sink.	599	816	832
+s22-d22_6_3	The girl dries her hands with a towel.	841	920	938
+s22-d22_6_4	The girl gets out a cutting board.	943	1104	1098
+s22-d22_6_5	The girl gets a peeler and a knife.	1120	1682	1702
+s22-d22_6_6	The girls a small piece off of each end of the carrot.	1703	1852	1852
+s22-d22_6_7	Using the peeler, the girl completely peels the carrot.	1942	2664	2698
+s22-d22_6_8	The girl discards the chopped off ends and carrot peels.	2712	2990	2988
+s22-d22_6_9	Using the knife, she cuts the carrot lengthwise.	3083	3231	3252
+s22-d22_6_10	The girl chops the carrot into smaller pieces.	3231	3494	3584
+s22-d22_8_1	She took out carrot	306	520	550
+s22-d22_8_2	She washed carrot	599	816	808
+s22-d22_8_3	She took out cutting board	841	1060	1066
+s22-d22_8_4	She took out peeler	1060	1536	1496
+s22-d22_8_5	She took out knife	1603	1682	1700
+s22-d22_8_6	She cut off ends of carrot	1703	1812	1800
+s22-d22_8_7	She peeled carrot	1818	2736	2830
+s22-d22_8_8	She chopped carrot	2828	3494	3572
+s22-d22_9_1	A carrot is removed from the refrigerator.	306	520	526
+s22-d22_9_2	A carrot is washed.	599	816	834
+s22-d22_9_3	The person removes a cutting board.	841	1060	1064
+s22-d22_9_4	The person selects a peeler.	1060	1536	1522
+s22-d22_9_5	The person removes a knife and trims the ends.	1603	1812	1788
+s22-d22_9_6	The carrot is peeled.	1818	2627	2640
+s22-d22_9_7	The scraps are discarded.	2651	2990	3000
+s22-d22_9_8	The carrot is sliced in half lengthwise.	3083	3231	3250
+s22-d22_9_9	The carrot is sliced.	3231	3494
+s22-d22_9_10	The carrot is ready.	3231	3494
+s22-d22_10_1	She gets out a carrot from the refrigerator.	306	520	598
+s22-d22_10_2	She washes the carrot in the sink.	599	816	774
+s22-d22_10_3	She drops the carrot in the sink and wipes her hands off with a rag.	841	920	936
+s22-d22_10_4	She gets a cutting board, a peeler, and a knife out from the drawers and cuts off the end of the carrot.	943	1812	1764
+s22-d22_10_5	She uses the peeler to peel the sides off the carrot.	1818	2627	2644
+s22-d22_10_6	She throws away the outside of the carrot which she peeled off.	2651	2990	2964
+s22-d22_10_7	She uses the knife to cut the carrot in half lengthwise.	3083	3231	3240
+s22-d22_10_8	She dices the carrot into small pieces.	3231	3494	3496
+s22-d22_12_1	She took out carrot	306	816	791
+s22-d22_12_2	She washed carrot	841	1104	1102
+s22-d22_12_3	She took out cutting board	1120	1536	1330
+s22-d22_12_4	She took out peeler	1603	1812	1834
+s22-d22_12_5	She took out knife	1818	1852
+s22-d22_12_6	She cut off top and bottom of carrot	1818	1852
+s22-d22_12_7	She peeled carrot	1942	2990	2923
+s22-d22_12_8	She diced carrot	3083	3494	3827
+s22-d22_13_1	She walks to the refrigerator, opens it, takes out a carrot then closes the refrigerator.	306	520	520
+s22-d22_13_2	She walks to the sink, rinses the carrot and places it in the sink.	599	816	828
+s22-d22_13_3	She takes a rag and places it on the counter.	841	920	924
+s22-d22_13_4	She opens a drawer, takes out a cutting board, places it on the counter, then closes the drawer.	943	1104	1096
+s22-d22_13_5	She opens the top drawer, takes out a peeler, closes the drawer, then takes the carrot out of the sink.	1120	1536	1566
+s22-d22_13_6	She places the peeler on the rag, opens the top drawer, takes out a knife, then closes the drawer.	1603	1682	1694
+s22-d22_13_7	She places the carrot on the cutting board, and cuts off both ends of the carrot.	1703	1852	1846
+s22-d22_13_8	She places the knife on the cutting board, then takes the peeler and peels the carrot over the cutting board.	1942	2664	2680
+s22-d22_13_9	She takes the cutting board from the counter and throws the peelings in the trash.	2712	2990	2990
+s22-d22_13_10	She places the cutting board on the counter,  slices the carrot in half, then dices it with the knife.	3083	3494
+s22-d22_13_11	She places the knife on the cutting board.	3083	3494
+s22-d22_14_1	Step 1 Wash the carrot thoroughly.	306	1060	1066
+s22-d22_14_2	Step 2 Cut both ends of the carrot off.	1060	1852	2050
+s22-d22_14_3	Step 3 Use a peeler and thoroughly peel the carrot.	1942	2990	2966
+s22-d22_14_4	Step 4 Using the knife slice the carrot long ways.	3083	3494
+s22-d22_14_5	Step 5 Dice the carrot into quarters.	3083	3494
+s22-d22_15_1	The person got out the carrot.	306	816	781
+s22-d22_15_2	The person washed the carrot.	841	1060	1081
+s22-d22_15_3	The person got out a cutting board.	1060	1536	1379
+s22-d22_15_4	The person got out a vegetable peeler.	1603	1812	1806
+s22-d22_15_5	The person cut the ends off of the carrot.	1818	1852	2140
+s22-d22_15_6	The person peeled the carrot.	1942	2990	3110
+s22-d22_15_7	The person chopped the carrot.	3083	3494	3976
+s22-d22_17_1	The woman retrieves a single carrot from the refrigerator.	306	875	895
+s22-d22_17_2	The woman washes the carrot in the sink and dries her hands.	875	1104	1283
+s22-d22_17_3	She retrieves a cutting board, a knife, and a peeler.	1120	1852
+s22-d22_17_4	She cuts the both ends off of the carrot.	1120	1852
+s22-d22_17_5	She peels the carrot.	1942	2990	3020
+s22-d22_17_6	She discards the unwanted carrot shavings.	3083	3231	3342
+s22-d22_17_7	She cuts the carrot down the middle vertically.	3231	3494
+s22-d22_17_8	She horizontally chopes the carrot into individual pieces.	3231	3494
+s22-d22_18_1	The person gets out a carrot.	306	520	556
+s22-d22_18_2	The person rinses the carrot.	599	816	824
+s22-d22_18_3	The person gets out a towel.	841	920	940
+s22-d22_18_4	The person gets out a cutting board.	943	1060	1070
+s22-d22_18_5	The person gets out a vegetable peeler.	1060	1536	1520
+s22-d22_18_6	The person gets out a knife.	1603	1682	1694
+s22-d22_18_7	The person cuts off the ends of the carrot.	1703	1852	1836
+s22-d22_18_8	The person peels the carrot.	1942	2664	2674
+s22-d22_18_9	The person throws away the peel and ends of the carrot.	2712	2990	2990
+s22-d22_18_10	The person slices the carrot lengthwise.	3083	3231	3254
+s22-d22_18_11	The person chops up the carrot.	3231	3494	3498

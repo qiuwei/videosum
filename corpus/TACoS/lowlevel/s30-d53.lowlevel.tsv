@@ -1,0 +1,47 @@
+195	333	take out	hand	cutting board	counter,drawer
+345	433	take out	hand	knife	counter,drawer
+471	586	take out	hand	avocado	,fridge
+588	617	remove label	hand	avocado	
+598	620	remove label	hand	avocado	
+634	899	throw in garbage	hand	label	
+971	1191	take out	hand	plate	counter,cupboard
+1215	1414	wash	hand	avocado	
+1421	1475	shake	hand	avocado	
+1520	2370	peel	knife	avocado	
+2409	2516	cut	knife	avocado	cutting board
+2543	2671	cut	knife	avocado	cutting board
+2726	2786	cut	knife	avocado	
+2798	2829	move	hand	plate	counter,cutting board
+2846	2862	move	hand	avocado	cutting board,plate
+2877	2995	cut	knife	avocado	
+3082	3922	cut	knife	avocado	
+4006	4125	wash	hand	hand	
+4139	4170	shake	hand	hand	
+4166	4200	move	hand	knife	counter
+4218	4263	shake	hand	hand	
+4283	4355	take out	hand	spice shaker	,spice holder
+4416	4476	move	hand	plate	counter,cutting board
+4529	4575	screw	hand	spice shaker	
+4593	4721	spice	spice shaker	spice	plate,spice shaker
+4727	4758	screw	hand	spice shaker	
+4779	4802	screw	hand	spice shaker	
+4803	4940	spice	spice shaker	salt	plate,spice shaker
+4943	4979	screw	hand	spice shaker	
+4979	5114	take out	hand	fork	,drawer
+5151	5240	press	fork	avocado	plate
+5372	5445	wash	hand	avocado	
+5444	5498	shake	hand	avocado	
+5570	5595	shake	hand	hand	
+5612	6461	take out	hand	flat grater	,drawer
+6504	7872	grate	flat grater	avocado	plate
+7985	8120	cut	knife	avocado	plate
+8221	10534	grate	flat grater	avocado	plate
+10538	10674	scratch off	hand	avocado	flat grater,plate
+10723	10981	wash	hand	flat grater	
+10984	11008	shake	hand	hand	
+11049	12116	press	fork	avocado	plate
+12122	12153	screw	hand	spice shaker	
+12159	12285	spice	spice shaker	salt	plate,spice shaker
+12294	12321	screw	hand	spice shaker	
+12339	13166	stir	fork	avocado	plate
+13247	13331	put in	hand	spice shaker	,spice holder

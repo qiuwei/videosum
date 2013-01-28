@@ -1,0 +1,33 @@
+278	521	take out	hand	avocado	,fridge	She took out the avocado					She gets an avocado. 	The person procures an avocado from the fridge.	She took out avocado		She opened the refrigerator door.. She got an avocado out.		The person got the avocado out of the fridge.		She took out avocado	
+521	572	remove label	hand	avocado			The woman takes a avocado out to prepare it.	She gets out an avocado and removes the sticker.								The person removes the avocado from the refrigerator and places it on the counter.		She takes out an avocado		
+609	855	throw in garbage	hand	label					The person gets out an avocado.	She gets an avocado and removes the sticker. 		The person peels a sticker from the avocado then throws it in the trash.		The woman begins by selecting an avocado from the fridge. 	She opened a drawer.					Take out an avocado and remove and discard any sticker.
+883	1080	take out	hand	cutting board	counter,drawer	She took out a cutting board			The person gets out a wooden plate.				She took out cutting board		She got out a cutting board/plate.		The person got out a cutting board.		She took out cutting board	
+1080	1148	close	hand		drawer							The person takes out a cutting board from the drawer.	She took out knife		She closed the drawer.. She picked a knife.	The person places a cutting board on the counter.				
+1152	1383	take out	hand	knife	,drawer	She took out a knife			The person gets out a knife.		She gets a cutting board and knife. 						The person got a knife.	She takes out a cutting board and knife	She took out knife	
+1392	1433	move	hand	avocado	counter,cutting board		She pulls out a knife and cutting board.	She gets out a cutting board and knife.		She gets a knife and cutting board. 		The person takes out a knife from the drawer.		Next, she retrieves a small wooden cutting board as well as a knife. 						Take out a cutting board and a knife.
+1461	1811	cut	knife	avocado	cutting board									She uses the knife to cut around the entire avocado.	She cut the avocado in half.	The person uses a paring knife to make a single axial cut all the way around the avocado.				Cut the avocado in half lengthwise without going into the pit.
+1836	1902	take apart	hand	avocado		She cut the avocado in half		She cuts the avocado in half.	The person cuts the avocado in half.	She cuts the avocado in half. 	She cuts it in half. 	The person slices the avocado in the middle and then pries it into two.	She cut avocado in half			The person seperates the avocado halves.	The person cut the avocado in half.	She sliced the avocado in half	She cut avocado in half	
+1987	2052	take apart	hand	avocado,stone									She took out pit	She pulls the avocado into two halves and removes the pit.	She took out the pit.		The person took the pit out of the avocado.	She takes out the avocado seed		Use your hands to pull apart the avocado halves and take out the pit.
+2100	2215	throw in garbage	hand	stone		She threw away the pit 	The woman cuts it in half and uses her fingers to remove the pit.	She removes and discards the pit.	The person removes and throws away the pit.	She removes and throws away the pit. 	She removes the pit and throws it away.		She threw out pit			The person removes the avocado pit using hands and discards it.			She threw away pit	
+2249	2374	wash	hand	hand		She washed her hands						The person takes the pit from the avocado, puts it in the trash, then washes her hands.	She washed hands	After discarding the pit she washing her hands. 	She washed her hands.				She washed hands	
+2395	2439	move	hand	towel	,hook															
+2439	2556	dry	towel	hand					The person rinses her hands and gets out a towel.											Discard pit and wash and dry your hands.
+2582	2713	take out	hand	peeler	drawer	She took out a peeler			The person gets out a vegetable peeler.			The person takes out a peeler from the drawer.	She took out peeler							
+2760	2842	peel	peeler	avocado																
+2885	3221	peel	hand	avocado																
+3228	3287	move	hand	peeler	cutting board,sink															
+3297	3323	move	hand	peel	counter,cutting board															
+3329	3920	peel	hand	avocado																
+3979	4595	peel	hand	avocado		She peeled the avocado		She removes the skins. 	The person peels both halves of the avocado.		She peels the avocado. 		She peeled avocado		She peeled the avocado.	The person uses hands and a vegetable peeler to remove the outer skin from the avocado halves.	The person peeled the skin off the avocado.	She takes the skin off of both avocado halves		
+4741	4851	throw in garbage	hand	peel		She threw away the peels	The woman peels the avocado.		The person throws away the peel.	Se peels the avocado and discards the peels. 	She discards the peels. 	The person peels both halves of the avocado and then throws the peels into the wastebin. 		She removes the skin from the two halves and then discards it. 		The person discards the outer peel of the avocado.			She threw away peels	
+4884	5048	wash	hand	hand											She threw away the peel and washed her hands.					
+5048	5075	shake	hand	hand															She washed hands	
+5116	5145	dry	towel	hand					The person rinses and dries her hands.			The person washes her hands and dries them on towel.								Take out and use a peeler if needed to get it started, then use your hands to peel off the avocado peel.  Discard the peel, then wash and dry your hands.
+5177	5276	cut	knife	avocado	cutting board											The person cuts half of the avocado in half again axially.				
+5299	5426	chop	knife	avocado	cutting board															
+5426	5529	chop	knife	avocado	cutting board											The person chops the quarters of the avocado into large chunks.				
+5541	5584	move	hand	avocado	cutting board															
+5601	5686	cut	knife	avocado	cutting board															
+5700	5787	chop	knife	avocado	cutting board															
+5810	5901	chop	knife	avocado	cutting board	She cut up the avocado			The person chops up the avocado.					Finally, she uses the knife to cut the avocado into small cubes. 	She cut the avocado into pieces.	The person repeats the same cuts and chops with the other half of the avocado.		She chops the avocado into squares		Slice each half lengthwise and then cut each quarter into small chunks.
+5923	5960	taste	hand	avocado			She slices the peeled avocado into smaller pieces ready to serve.	She chops the avocado.		She cuts up the avocado. 	She slices the avocado. 	The person chops the avocado on the cutting board.					The person diced the avocado.		She chopped avocado	

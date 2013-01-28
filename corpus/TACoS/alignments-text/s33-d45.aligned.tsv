@@ -1,0 +1,49 @@
+213	528	take out	hand	pepper	counter,fridge						She took out pepper					person gets pepper			The person selects a pepper from the fridge.			
+647	731	close	hand		fridge	She gets out a pepper.		The person gets out a pepper.				The person gets out a pepper.	She goes to the refrigerator and takes out a pepper.	She gets a pepper. 	The person got the pepper out of the fridge.		She took out a pepper	The person gets out a pepper.			The person gets out a pepper.	A pepper is removed from the refrigerator.
+755	894	wash	hand	pepper																		
+902	949	shake	hand	pepper		She washes the pepper.	A woman enters the kitchen, retrieves a pepper from the refrigerator and washes it in the sink.	The person rinses the pepper.	the person washes the Pepper		She washed pepper	The person rinses the pepper.	She goes to the sink and washes the pepper.	She rinses the pepper.	The person rinsed off the pepper.	person washes pepper	She washed pepper	The person rinses the pepper.	The person rinses the pepper.	The person washes the pepper in the sink.	The person rinses the pepper.	The pepper is washed.
+983	1127	take out	hand	cutting board	counter,drawer						She took out cutting board										The person gets out a wooden plate.	The person removes a cutting board. 
+1142	1174	move	hand	pepper	,cutting board			The person gets out a wooden plate.				The person gets out a wooden plate.					She took out cutting board					
+1184	1212	move	hand	pepper	counter,cutting board											person gets cutting board						
+1212	1249	close	hand		drawer										The person got out a cutting board.			The person gets out a wooden plate.				
+1257	1381	take out	hand	knife	drawer	She gets out a cutting board and knife.	She removes a cutting board and a knife and places them on the counter.	The person gets out a knife.	the person gets a cutting board and a sharp knife	She retrieves a red pepper, a cuttingboard, and a knife.	She took out knife	The person gets out a knife.	She goes to the drawer and takes out a cutting board and knife.	She gets a cutting board and a knife.	The person got out a knife.	person gets knife	She took out knife	The person gets out a knife.	The person gets a cutting board and a knife.	The person selects a knife and cutting board.	The person gets out a knife.	The person selects a knife.
+1411	2040	cut	hand	pepper	cutting board	She cuts away the good parts of the pepper.	She cuts the usable portion of the pepper away from the core.	The person cuts the pepper into four quarters and a core.		She vertically cuts the pepper into five individual pieces.	She sliced pepper	The person cuts the pepper into four quarters and a core.	She cuts the pepper into four pieces.	She cuts away the outside of the pepper.	The person cut the pepper into quarters.		She cut pepper into pieces	The person cuts four large slices off the pepper, leaving a small piece from the center.		The person cuts the pepper into large slices.	The person cuts the pepper into quarters and a center piece.	The pepper is cut around the stem into several pieces.
+2108	2401	take out	hand	plate	counter,cupboard			The person gets out a plate.	the person cuts the Pepper around the seed and stem	She retrieves a large white plate.	She took out plate	The person gets out a plate.	She goes to the cupboard and takes out a plate and puts it on the counter.	She gets a plate. 	The person got out a plate.		She took out a plate	The person gets out a plate.		The person gets a separate plate.	The person gets out a plate.	A plate is removed for the pepper.
+2406	2449	move	hand	pepper	cutting board,plate		She takes a plate from the cupboard and places it on the counter.															
+2483	2511	move	hand	pepper	cutting board,plate																	
+2515	2551	move	hand	pepper	cutting board,plate																	
+2555	2607	move	hand	pepper	cutting board,plate													The person puts three of the pepper pieces on the plate.				
+2636	2700	throw in garbage	hand	pepper		She gets out a plate and throws away the inedible parts.		The person throws away the core.		She distributes the untouched pieces to the plate and leaves one on the cuttingboard to work with.	She put pepper on plate	The person puts the pepper slices on the plate and throws away the core.	She puts three pieces of pepper on the plate and throws away the waste.		The person threw away the seeds.		She threw out scraps	The person throws away the center of the pepper.	The person cuts the pepper into four pieces and discards the stem.		The person throws away the center of the pepper.	The pepper pieces are placed on the plate and the seeds are discarded.
+2736	2926	cut	knife	pepper	cutting board				the person gets a plate													
+2954	3410	chop	knife	pepper	cutting board																	
+3410	3613	take apart	hand	pepper						She cuts the piece vertically several times into long strips, then horizontally into small pieces.												One pepper piece is sliced and chopped.
+3636	3762	move	hand	pepper	cutting board,plate														The person slices one of the peeper pieces into small squares.			
+3776	3826	move	hand	pepper	cutting board,plate								She slices and dices the pepper and then puts it on the plate.									The chopped pepper pieces are placed on the plate.
+3842	3916	cut	knife	pepper						She moves the pepper pieces on to the plate.												
+3934	3975	take apart	hand	pepper																		
+3990	4035	cut	knife	pepper																		
+4095	4128	cut	knife	pepper	cutting board																	
+4159	4426	chop	knife	pepper																		
+4426	4486	chop	knife	pepper																		
+4508	4587	cut	knife	pepper																		
+4609	4771	cut	knife	pepper	cutting board																	
+4812	5114	chop	knife	pepper	cutting board																	
+5140	5223	cut	knife	pepper	cutting board																	
+5239	5508	chop	knife	pepper	cutting board								She slices and dices some more of the pepper and throws away some more waste.									Two pepper pieces are sliced and chopped.
+5591	5656	throw in garbage	hand	garbage						She cuts two of the larger pieces of pepper the same way she had cut the first.	She chopped pepper											
+5760	5826	cut	knife	pepper													She diced pepper					Some scraps are discarded.
+5933	5966	cut	knife	pepper											The person chops the pepper.							
+6046	6166	move	hand	pepper	cutting board,plate																	
+6184	6249	move	hand	pepper	cutting board,plate					She moves those pieces to the plate.			She picks up the cropped pepper and places in on the plate.		The person puts the pepper on the plate.							The chopped pepper pieces are placed on the plate.
+6286	6404	cut	knife	pepper	cutting board																	
+6421	6615	chop	knife	pepper	cutting board					She dices the last piece just as she had done to the others.					The person chops the final piece of pepper.				The person finishes cutting the other pieces of the pepper into small squares.			
+6681	6798	take apart	hand	pepper																		
+6815	6895	move	hand	pepper	cutting board,plate																	
+6918	6981	move	hand	pepper	cutting board,plate			The person chops up the pepper and puts the pieces on the plate.				The person chops up the pepper slices and puts them on the plate.		She chops the pepper and puts it on the plate. 						The person cuts the pepper into smaller pieces and puts them on the plate.	The person chops up the pepper.	
+6983	7134	take apart	hand	pepper		She chops the pepper and puts it on a plate.	She dices the pepper and transfers it from the cutting board to the plate.		the person slices and dices the Pepper				She slices and dices the last piece of pepper and puts it on the plate.		The person places the final pieces of pepper on the plate with the rest.		She put pepper on plate	The person dices the pepper one quarter at a time and puts the pieces on the plate.				
+7183	7251	move	hand	knife	cutting board,sink					She moves those pieces to the plate.						person dices pepper						
+7263	7394	wash	hand	cutting board					the person places the diced Pepper on the plate								She washed cutting board					
+7417	7517	wash	hand	knife				The person rinses the knife and wooden plate.												The person rinses the knife and cutting board.		
+7525	7553	move	hand	sponge	,faucet							The person rinses the wooden plate and knife.			The person rinses off the cutting board and knife.			The person rinses the wooden plate and the knife.	The person rinses off the cutting board and knife.			The cutting board and knife are washed.
+7553	7620	dry	sponge	hand										She cleans up. 							The person rinses the wooden plate and knife.	
+7620	7653	move	hand	sponge	,faucet	She cleans up.	She washes the cutting board, the knife and her hands.			She cleans the area.			She goes to the sink and washes the cutting board and knife and then dries her hands.									

@@ -1,0 +1,95 @@
+s13-d48_1_1	Person takes out cutting board	s13-d48	219	354	chilli	359
+s13-d48_1_2	Person takes out knife	s13-d48	396	784	chilli	793
+s13-d48_1_3	Person takes out chili and plate	s13-d48	784	1576	chilli	1578
+s13-d48_1_4	Person rinses the chili.	s13-d48	1667	1809	chilli	1786
+s13-d48_1_5	Person dries hands.	s13-d48	1809	2008	chilli	2006
+s13-d48_1_6	Person chops chili into small slices.	s13-d48	2092	2787	chilli	2786
+s13-d48_1_7	Person puts chili onto plate.	s13-d48	2801	2993	chilli	2985
+s13-d48_2_1	The man enters the kitchen and takes a cutting board and knife from the drawers.	s13-d48	219	784	chilli	779
+s13-d48_2_2	The man gets a chili and plate from the cabinets.	s13-d48	784	1576	chilli	1569
+s13-d48_2_3	The man rinses the chili in the sink.	s13-d48	1667	1809	chilli	1817
+s13-d48_2_4	The man holds the chili on the cutting board, then takes the knife and carefully goes down a straight line and dices it.	s13-d48	1809	2787	chilli	2793
+s13-d48_2_5	The man uses the knife to move the chili to the awaiting plate.	s13-d48	3030	3065	chilli	3077
+s13-d48_3_1	The person places a cutting board on the counter.	s13-d48	219	443	chilli	437
+s13-d48_3_2	The man places a large knife on the counter.	s13-d48	443	833	chilli	837
+s13-d48_3_3	The person selects a fresh chili from the cabinet.	s13-d48	891	1169	chilli	1175
+s13-d48_3_4	The man selects a small dish from the cabinet.	1201	1576
+s13-d48_3_5	The man places the dish on the counter.	1201	1576
+s13-d48_3_6	The man rinses the chili with water.	s13-d48	1667	1859	chilli	1865
+s13-d48_3_7	The man dries his hands on a towel.	s13-d48	1899	2008	chilli	2051
+s13-d48_3_8	The man finely chops the chili.	s13-d48	2092	2787	chilli	2799
+s13-d48_3_9	The man scoops the chopped chili into the dish.	s13-d48	2801	2993	chilli	3043
+s13-d48_3_10	The video ends.	s13-d48	2801	3065	chilli	3225
+s13-d48_4_1	He gets out a circular cutting board.	s13-d48	219	354	chilli	379
+s13-d48_4_2	He pulls out a knife.	s13-d48	396	784	chilli	797
+s13-d48_4_3	He takes out a plate and a chili pepper	784	1576
+s13-d48_4_4	He washes the chili.	784	1576
+s13-d48_4_5	He cuts the pepper into small pieces.	s13-d48	1667	2787	chilli	2799
+s13-d48_5_1	The person got out a cutting board, a knife, and a small plate.	s13-d48	219	1576	chilli	1559
+s13-d48_5_2	The person washed the chili pepper.	s13-d48	1667	1859	chilli	1865
+s13-d48_5_3	The person dried his hands on a towel.	s13-d48	1899	2008	chilli	2015
+s13-d48_5_4	The person sliced the chili pepper.	s13-d48	2092	2787	chilli	2851
+s13-d48_5_5	The person put the chili pepper on the small plate.	s13-d48	3030	3065	chilli	3061
+s13-d48_7_1	Selects a chopping board	s13-d48	219	354	chilli	357
+s13-d48_7_2	selects a knife	s13-d48	396	784	chilli	765
+s13-d48_7_3	he turns around and walks to the cuppards in back where he takes out a pepper	s13-d48	784	1169	chilli	1169
+s13-d48_7_4	he selects a plate from the cubbard next and returns them both to the chopping board	s13-d48	1201	1576	chilli	1543
+s13-d48_7_5	He washes the pepper	s13-d48	1667	1859	chilli	1877
+s13-d48_7_6	Drys his hands off	s13-d48	1899	2008	chilli	2029
+s13-d48_7_7	he dices the pepper	s13-d48	2092	2787	chilli	2791
+s13-d48_7_8	moves the pepper to the plate	2801	3065
+s13-d48_7_9	Arranges the pepper on the plate	2801	3065
+s13-d48_8_1	He gets out a circular cutting board.	s13-d48	219	354	chilli	361
+s13-d48_8_2	He gets a knife.	s13-d48	396	833	chilli	809
+s13-d48_8_3	He gets a chili pepper and a small plate.	891	1576
+s13-d48_8_4	He washes the pepper.	891	1576
+s13-d48_8_5	He starts cutting the pepper.	s13-d48	1667	2008	chilli	2333
+s13-d48_8_6	He puts the peppers on the plate.	s13-d48	2801	2993	chilli	2923
+s13-d48_9_1	Get out your Cutting Board and a Knife	s13-d48	219	833	chilli	875
+s13-d48_9_2	Take out Chili Pepper and a Plate	s13-d48	891	1576	chilli	1649
+s13-d48_9_3	Wash Pepper	s13-d48	1667	1809	chilli	1817
+s13-d48_9_4	Slice Pepper into small Pieces	s13-d48	1809	2787	chilli	2793
+s13-d48_9_5	Place prepared Chili Pepper on plate	s13-d48	2801	3065	chilli	3225
+s13-d48_10_1	He took out cutting board	s13-d48	219	354	chilli	349
+s13-d48_10_2	He took out knife	s13-d48	396	784	chilli	775
+s13-d48_10_3	He took out chili	s13-d48	784	1169	chilli	1201
+s13-d48_10_4	He took out plate	s13-d48	1201	1576	chilli	1517
+s13-d48_10_5	He washed chili	s13-d48	1667	1809	chilli	1821
+s13-d48_10_6	He diced chili	s13-d48	1809	2787	chilli	2801
+s13-d48_12_1	He took out cutting board	s13-d48	219	354	chilli	353
+s13-d48_12_2	He took out knife	s13-d48	396	784	chilli	797
+s13-d48_12_3	He took out chili	s13-d48	784	1169	chilli	1196
+s13-d48_12_4	He took out plate	s13-d48	1201	1576	chilli	1529
+s13-d48_12_5	He washed chili	s13-d48	1667	1859	chilli	1852
+s13-d48_12_6	He diced chili	s13-d48	1899	2787	chilli	2871
+s13-d48_12_7	He put chili on plate	s13-d48	2801	2993	chilli	3030
+s13-d48_13_1	The person places a cutting board and knife on the counter.	s13-d48	219	784	chilli	805
+s13-d48_13_2	The person places a plate on the counter.	s13-d48	784	1576	chilli	1581
+s13-d48_13_3	The person rinses the chili.	s13-d48	1667	1809	chilli	1823
+s13-d48_13_4	The person chops the chili in to thin lateral slices.	s13-d48	1809	2787	chilli	2815
+s13-d48_13_5	The person places the chopped chili on the plate.	s13-d48	3030	3065	chilli	3059
+s13-d48_15_1	The person grabs a cutting board, and a large knife placing them on the counter.	s13-d48	219	833	chilli	814
+s13-d48_15_2	The person grabs a fresh chili, and a small plate placing the plate on the counter.	s13-d48	891	1576	chilli	1557
+s13-d48_15_3	The person washes the chili in the sink, places it on the cutting board, and dries his hands.	s13-d48	1667	2008	chilli	2046
+s13-d48_15_4	The person takes the knife, and chops the chili into small pieces leaving the end whole.	s13-d48	2092	2787	chilli	2814
+s13-d48_15_5	The person takes the knife, and slides the chopped chili from the cutting board to the small plate.	s13-d48	2092	3065	chilli	3070
+s13-d48_16_1	The man enters the kitchen and retrieves a cutting board and knife from the cabinet.	s13-d48	219	833	chilli	819
+s13-d48_16_2	The man then retrieves a chili pepper and dish from the cabinet and places them on the counter.	s13-d48	891	1576	chilli	1591
+s13-d48_16_3	The man washes the chili pepper in the sink, and then dries his hands on a towel.	s13-d48	1667	2008	chilli	2021
+s13-d48_16_4	The man thinly dices the chili and places it onto a plate.	s13-d48	2801	2993	chilli	3011
+s13-d48_16_5	The man moves the plate with the chili pieces higher on the counter.	s13-d48	3030	3065	chilli	3126
+s13-d48_17_1	The person takes a chopping board out of the drawer.	s13-d48	219	354	chilli	390
+s13-d48_17_2	The person takes a knife out of the drawer.	s13-d48	396	833	chilli	817
+s13-d48_17_3	The person takes a chilli out of the cupboard.	s13-d48	891	1169	chilli	1196
+s13-d48_17_4	The person takes a plate out of the cupboard.	s13-d48	1201	1576	chilli	1482
+s13-d48_17_5	The person rinses the chilli with water.	s13-d48	1667	1809	chilli	1826
+s13-d48_17_6	The person dries his hands on a towel.	s13-d48	1809	2008	chilli	2035
+s13-d48_17_7	The person slices the chilli into small pieces.	s13-d48	2092	2787	chilli	2831
+s13-d48_17_8	The person uses the knife to transfer the sliced chilli onto the plate.	s13-d48	2801	3065	chilli	3052
+s13-d48_19_1	He took out cutting board	s13-d48	219	354	chilli	345
+s13-d48_19_2	He took out knife	s13-d48	396	784	chilli	801
+s13-d48_19_3	He took out chili	s13-d48	784	1169	chilli	1215
+s13-d48_19_4	He took out plate	s13-d48	1201	1576	chilli	1545
+s13-d48_19_5	He washed chili	s13-d48	1667	1859	chilli	1861
+s13-d48_19_6	He diced chili	s13-d48	2092	2993	chilli	2899
+s13-d48_19_7	He put chili on plate	s13-d48	2801	3065	chilli	3067

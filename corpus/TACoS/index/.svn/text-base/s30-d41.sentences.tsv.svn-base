@@ -1,0 +1,180 @@
+s30-d41_1_1	The person gets out a pomegranate.	s30-d41	206	503	pomegranate	510
+s30-d41_1_2	The person gets out a cutting board.	s30-d41	513	624	pomegranate	611
+s30-d41_1_3	The person rinses the pomegranate.	s30-d41	654	1061	pomegranate	1054
+s30-d41_1_4	The person gets out a plate.	s30-d41	1097	1404	pomegranate	1408
+s30-d41_1_5	The person gets out a knife.	s30-d41	1415	2036	pomegranate	2033
+s30-d41_1_6	The person cuts the pomegranate in half.	s30-d41	2056	2352	pomegranate	2358
+s30-d41_1_7	The person cuts one of the pomegranate halves in half.	s30-d41	2429	2784	pomegranate	2783
+s30-d41_1_8	The person scrapes the seeds from that half of the pomegranate onto the plate.	s30-d41	2848	11483	pomegranate	11510
+s30-d41_1_9	The person cuts the other half of the pomegranate in half.	s30-d41	11531	11834	pomegranate	11835
+s30-d41_1_10	The person scrapes the seeds from that half of the pomegranate onto the plate.	s30-d41	11863	16148	pomegranate	16164
+s30-d41_1_11	The person washes her hands.	s30-d41	16171	16318	pomegranate	16334
+s30-d41_1_12	The person washes the cutting board and the knife.	s30-d41	16362	17003	pomegranate	17171
+s30-d41_1_13	The person throws away the outside of the pomegranate.	s30-d41	17162	18235	pomegranate	18198
+s30-d41_1_14	The person wipes down the counter.	s30-d41	18251	18879	pomegranate	18979
+s30-d41_2_1	Take out a pomegranate and a cutting board.	s30-d41	206	624	pomegranate	654
+s30-d41_2_2	Wash the pomegranate.	s30-d41	654	1143	pomegranate	1184
+s30-d41_2_3	Take out a small knife.	s30-d41	1180	2036	pomegranate	2076
+s30-d41_2_4	Cut the pomegranate in half through the middle, not at the ends.	s30-d41	2056	2352	pomegranate	2462
+s30-d41_2_5	Cut one of the halves in half again, take that quarter and break out the pomegranate seeds onto a plate with your hands.	s30-d41	2429	7601	pomegranate	7614
+s30-d41_2_6	Repeat this process for the remaining pomegranate, remove any debris from the seeds as you go.	s30-d41	7629	16148	pomegranate	16146
+s30-d41_2_7	Wash the cutting board and knife, throw away the pomegranate peel.	s30-d41	16171	17940	pomegranate	17988
+s30-d41_2_8	Wash your hands and wipe down the counter you prepared the pomegranate on.	s30-d41	17947	18879	pomegranate	18906
+s30-d41_3_1	She gets out the pomegranate and a cutting board.	s30-d41	206	624	pomegranate	608
+s30-d41_3_2	She rinses the pomegranate.	s30-d41	654	1015	pomegranate	1042
+s30-d41_3_3	She gets out a knife and a plate.	s30-d41	1023	2036	pomegranate	2040
+s30-d41_3_4	She cuts the pomegranate in half.	s30-d41	2056	2352	pomegranate	2384
+s30-d41_3_5	She removes the good parts of the pomegranate.	s30-d41	2429	16535	pomegranate	16548
+s30-d41_3_6	She washes the cutting board.	s30-d41	16574	17003	pomegranate	17102
+s30-d41_3_7	She discards the rest of the fruit.	s30-d41	17162	17679	pomegranate	17670
+s30-d41_3_8	She wipes down the counter.	s30-d41	17695	18711	pomegranate	18684
+s30-d41_4_1	The person procures a pomegranate from the fridge.	s30-d41	206	503	pomegranate	438
+s30-d41_4_2	The person takes out a cutting board from the drawer.	s30-d41	513	624	pomegranate	608
+s30-d41_4_3	The person washes the pomegranate in the sink.	s30-d41	654	1061	pomegranate	1056
+s30-d41_4_4	The person procures a plate from the cabinet.	s30-d41	1097	1404	pomegranate	1376
+s30-d41_4_5	The person takes out a knife from the drawer.	s30-d41	1415	2036	pomegranate	2022
+s30-d41_4_6	The person chops the pomegranate in half.	s30-d41	2056	2352	pomegranate	2346
+s30-d41_4_7	The person breaks the pomegranate halves apart and plucks the seeds with her hands and places them on the plate.	s30-d41	2429	16148	pomegranate	16172
+s30-d41_4_8	The person washes her hands and then the cutting board in the sink.	s30-d41	16171	17187	pomegranate	17178
+s30-d41_4_9	The person throws the peels into the wastebin.	s30-d41	17192	17679	pomegranate	17698
+s30-d41_4_10	The person cleans the countertop.	s30-d41	18731	18879	pomegranate	18914
+s30-d41_5_1	The woman opens the refrigerator and removes a pomegranate.	s30-d41	206	503	pomegranate	498
+s30-d41_5_2	She removes a cutting board from the drawer and places it on the counter.	s30-d41	513	624	pomegranate	644
+s30-d41_5_3	She washes the pomegranate well and places it on the cutting board.	s30-d41	654	1061	pomegranate	1088
+s30-d41_5_4	She removes a plate from the cabinet and places it on the counter.	s30-d41	1097	1404	pomegranate	1418
+s30-d41_5_5	She selects a knife from the drawer.	s30-d41	1415	2036	pomegranate	2050
+s30-d41_5_6	She cuts the pomegranate in half with the knife.	s30-d41	2056	2352	pomegranate	2362
+s30-d41_5_7	She cuts one of the pomegranate pieces in half again.	s30-d41	2429	2784	pomegranate	2810
+s30-d41_5_8	She uses her fingers to carefully remove the seeds from the pomegranate quarter and places them on the plate.	s30-d41	2848	7601	pomegranate	7604
+s30-d41_5_9	She continues removing seeds from the other sections of the pomegranate.	s30-d41	7629	8706	pomegranate	8790
+s30-d41_5_10	She slices the remaining section of the pomegranate in half.	s30-d41	8734	11834	pomegranate	11864
+s30-d41_5_11	She continues removing seeds from the sections of the pomegranate.	s30-d41	11863	12214	pomegranate	12076
+s30-d41_5_12	She rinses her hands in the sink.	s30-d41	12276	16318	pomegranate	16338
+s30-d41_5_13	She places all the remaining pomegranate rind into the recycling bin.	s30-d41	16362	17940	pomegranate	17968
+s30-d41_5_14	She wipes down the counter with a dishrag.	s30-d41	17947	18711	pomegranate	18704
+s30-d41_5_15	She rinses out the dishrag.	s30-d41	19000	19049	pomegranate	19050
+s30-d41_6_1	She gets a pomegranate.	s30-d41	206	503	pomegranate	436
+s30-d41_6_2	She gets a cutting board out.	s30-d41	513	624	pomegranate	620
+s30-d41_6_3	She rinses the pomegranate.	s30-d41	654	1015	pomegranate	1040
+s30-d41_6_4	She gets a plate and knife.	s30-d41	1023	2036	pomegranate	2028
+s30-d41_6_5	She cuts the pomegranate.	s30-d41	2056	2784	pomegranate	2828
+s30-d41_6_6	She removes the good parts pf the pomegranate.	s30-d41	2848	16318	pomegranate	16352
+s30-d41_6_7	She cleans up.	s30-d41	19055	19154	pomegranate	19146
+s30-d41_7_1	The person procures a pomegranate from the fridge.	s30-d41	206	503	pomegranate	454
+s30-d41_7_2	The person takes out a cutting board from the drawer.	s30-d41	513	624	pomegranate	604
+s30-d41_7_3	The person washes the pomegranate in the sink.	s30-d41	654	1061	pomegranate	1050
+s30-d41_7_4	The person procures a plate from the cabinet.	s30-d41	1097	1404	pomegranate	1394
+s30-d41_7_5	The person takes out a knife from the drawer.	s30-d41	1415	2036	pomegranate	2034
+s30-d41_7_6	The person cuts the pomegranate in half.	s30-d41	2056	2352	pomegranate	2344
+s30-d41_7_7	The person breaks each half into two and then picks the seeds from the pomegranate onto the plate.	s30-d41	2429	16148	pomegranate	16146
+s30-d41_7_8	 The person washes her hands.	s30-d41	16171	16318	pomegranate	16324
+s30-d41_7_9	The person washes the knife and cutting board in the sink.	s30-d41	16362	17003	pomegranate	17098
+s30-d41_7_10	The person throws the peels into the wastebin.	s30-d41	17162	17679	pomegranate	17702
+s30-d41_7_11	The person wipes the counter off with a rag.	s30-d41	19000	19049	pomegranate	19036
+s30-d41_8_1	She took out pomegranate	s30-d41	206	503	pomegranate	488
+s30-d41_8_2	She took out cutting board	s30-d41	513	624	pomegranate	622
+s30-d41_8_3	She washed pomegranate	s30-d41	654	1015	pomegranate	1008
+s30-d41_8_4	She took out plate	s30-d41	1023	1404	pomegranate	1378
+s30-d41_8_5	She took out knife	s30-d41	1415	2036	pomegranate	2064
+s30-d41_8_6	She cut pomegranate in half	s30-d41	2056	2352	pomegranate	2428
+s30-d41_8_7	She took sees out of pomegranate	s30-d41	2429	16148	pomegranate	16210
+s30-d41_8_8	She washed hands	s30-d41	16171	16318	pomegranate	16362
+s30-d41_9_1	The person procures a pomegranate from the fridge.	s30-d41	206	503	pomegranate	474
+s30-d41_9_2	The person takes out a cutting board from the drawer.	s30-d41	513	624	pomegranate	612
+s30-d41_9_3	The person washes the pomegranate in the sink.	s30-d41	654	1061	pomegranate	1066
+s30-d41_9_4	The person procures a plate from the cabinet.	s30-d41	1097	1404	pomegranate	1390
+s30-d41_9_5	The person takes out a knife from the drawer.	s30-d41	1415	2036	pomegranate	2024
+s30-d41_9_6	The person cuts the pomegranate in half.	s30-d41	2056	2352	pomegranate	2380
+s30-d41_9_7	The person breaks each half into two and then picks the seeds from the pomegranate onto the plate.	s30-d41	2429	16148	pomegranate	16174
+s30-d41_9_8	 The person washes her hands.	s30-d41	16171	16318	pomegranate	16308
+s30-d41_9_9	The person washes the knife and cutting board in the sink.	s30-d41	16362	17187	pomegranate	17176
+s30-d41_9_10	The person throws the peels into the wastebin.	s30-d41	17192	17724	pomegranate	17732
+s30-d41_9_11	The person wipes the counter off with a rag.	s30-d41	17730	18564	pomegranate	18606
+s30-d41_11_1	 She retrieves a pomegranate from the refrigerator and a cutting board from the drawer.	s30-d41	206	624	pomegranate	630
+s30-d41_11_2	She throughly rinses off the pomegranate and places it on the cutting board.	s30-d41	654	1143	pomegranate	1144
+s30-d41_11_3	She retrieves a bowl from the cabinet.	s30-d41	1180	1404	pomegranate	1416
+s30-d41_11_4	She selects the proper knife from the drawer.	s30-d41	1415	2036	pomegranate	2040
+s30-d41_11_5	She cuts the pomegranate into quarters.	s30-d41	2056	2784	pomegranate	2800
+s30-d41_11_6	She removes the seeds from each of the quarters by hand, placing the seeds into the bowl.	s30-d41	2848	16148	pomegranate	16184
+s30-d41_11_7	She rinses her hands, and the knife and cutting board, setting them aside.	s30-d41	16362	17187	pomegranate	17226
+s30-d41_11_8	She discards the peel/rind and cleans off her workstation.	s30-d41	19000	19154	pomegranate	19160
+s30-d41_12_1	The person gets out a pomegranate	s30-d41	206	503	pomegranate	507
+s30-d41_12_2	The person gets out a cutting board.	s30-d41	513	624	pomegranate	620
+s30-d41_12_3	The person rinses the pomegranate.	s30-d41	654	1143	pomegranate	1122
+s30-d41_12_4	The person gets out a plate.	s30-d41	1180	1404	pomegranate	1411
+s30-d41_12_5	The person gets out a knife.	s30-d41	1415	2036	pomegranate	2032
+s30-d41_12_6	The person cuts the pomegranate in half.	s30-d41	2056	2352	pomegranate	2376
+s30-d41_12_7	The person cuts one of the pomegranate halves in half again.	s30-d41	2429	2784	pomegranate	2802
+s30-d41_12_8	The person scoops the seeds from that half of the pomegranate onto the plate.	s30-d41	2848	11483	pomegranate	11494
+s30-d41_12_9	The person cuts the other half of the pomegranate in half.	s30-d41	11531	11834	pomegranate	11852
+s30-d41_12_10	The person scoops the seeds from that half of the pomegranate onto the plate.	s30-d41	11863	16148	pomegranate	16158
+s30-d41_12_11	The person washes her hands	s30-d41	16171	16318	pomegranate	16332
+s30-d41_12_12	The person washes the knife and cutting board.	s30-d41	16171	17003	pomegranate	17102
+s30-d41_12_13	The person throws away the outside of the pomegranate.	s30-d41	17162	18092	pomegranate	18132
+s30-d41_12_14	The person wipes down the counter.	s30-d41	18731	19049	pomegranate	19067
+s30-d41_13_1	She gets a pomegranate.	s30-d41	206	503	pomegranate	448
+s30-d41_13_2	She gets a cutting board and rinses the pomegranate.	s30-d41	513	1015	pomegranate	1034
+s30-d41_13_3	She gets a plate and knife.	s30-d41	1023	2036	pomegranate	2034
+s30-d41_13_4	She cuts the pomegranate.	s30-d41	2056	2784	pomegranate	2822
+s30-d41_13_5	She gets the good parts of the pomegranate separated.	s30-d41	2848	16318	pomegranate	16276
+s30-d41_13_6	She cleans up.	s30-d41	19055	19154	pomegranate	19150
+s30-d41_14_1	She gets out the fruit.	s30-d41	206	503	pomegranate	520
+s30-d41_14_2	She washes the fruit	s30-d41	513	1015	pomegranate	1036
+s30-d41_14_3	She cuts the fruit in half.	s30-d41	1023	2352	pomegranate	2371
+s30-d41_14_4	She removes the good parts of the fruit.	s30-d41	2429	16013	pomegranate	16040
+s30-d41_14_5	She cleans up the mess.	s30-d41	17695	19154	pomegranate	19161
+s30-d41_15_1	The person retrieves the pomegranate from the refrigerator.	s30-d41	206	503	pomegranate	484
+s30-d41_15_2	The person places a cutting board onto the counter.	s30-d41	513	624	pomegranate	638
+s30-d41_15_3	The person washes the pomegranate.	s30-d41	654	1061	pomegranate	1056
+s30-d41_15_4	The person gets a plate to collect the seeds on.	s30-d41	1097	1404	pomegranate	1432
+s30-d41_15_5	The person selects an appropriate knife.	s30-d41	1415	2036	pomegranate	2022
+s30-d41_15_6	The person cuts the pomegranate in half.	s30-d41	2056	2352	pomegranate	2344
+s30-d41_15_7	The person cuts one of the halves into quarters.	s30-d41	2429	2784	pomegranate	2802
+s30-d41_15_8	The person removes the seeds from the inside of the fruit and puts them on the plate.	s30-d41	2848	11692	pomegranate	11614
+s30-d41_15_9	The person cuts the remaining half of the pomegranate in half.	s30-d41	11697	11834	pomegranate	11944
+s30-d41_15_10	The person removes the seeds from the inside of the fruit and puts them on the plate.	s30-d41	11863	16013	pomegranate	16056
+s30-d41_15_11	The person cleans the knife and cutting board in the sink.	s30-d41	16039	17003	pomegranate	17148
+s30-d41_15_12	The person takes the unused pieces of pomegranate and throws them away.	s30-d41	17162	17940	pomegranate	17956
+s30-d41_15_13	The person wipes down the counter with a wet towel.	s30-d41	19055	19154	pomegranate	19134
+s30-d41_16_1	The woman removes a pomegranate from the refrigerator and places it on the counter.	s30-d41	206	503	pomegranate	520
+s30-d41_16_2	She removes a cutting board from a drawer and places it on the counter.	s30-d41	513	624	pomegranate	637
+s30-d41_16_3	She rinses the pomegranate off in the sink and places it on the cutting board.	s30-d41	654	1061	pomegranate	1096
+s30-d41_16_4	She fetches a dish from the cupboard and places it on the counter.	s30-d41	1097	1404	pomegranate	1418
+s30-d41_16_5	She searches for a knife in the drawer, finds it, and chops the pomegranate in half with it.	s30-d41	1415	2352	pomegranate	2371
+s30-d41_16_6	She cuts one half in half again, and begins pulling seeds out of the resulting quarter into the dish.	s30-d41	2429	2784	pomegranate	2851
+s30-d41_16_7	She breaks the quarter in half to make it easier to pull the seeds out.	s30-d41	2848	3261	pomegranate	3292
+s30-d41_16_8	She finishes pulling the seeds out of the one quarter, having broken it into smaller pieces as necessary to obtain all the seeds.  She places the unused portion of the fruit off to the side.	s30-d41	3279	7601	pomegranate	7608
+s30-d41_16_9	She completes the second quarter, in the same way as the first.  She chops the second half in half and begins the third quarter.	s30-d41	7629	11483	pomegranate	11582
+s30-d41_16_10	She finishes the third quarter.	s30-d41	11531	14327	pomegranate	14298
+s30-d41_16_11	She finishes the final quarter.	s30-d41	14337	16013	pomegranate	16049
+s30-d41_16_12	She washes her hands, the board, and the knife in the sink.	16039	17003
+s30-d41_16_13	She puts the board off to the side.	16039	17003
+s30-d41_16_14	She throws away the unused portion of the fruit and wipes off the counter with a rag.	s30-d41	17947	18711	pomegranate	18658
+s30-d41_17_1	She took out pomegranate	s30-d41	206	503	pomegranate	464
+s30-d41_17_2	She took out cutting board	s30-d41	513	624	pomegranate	582
+s30-d41_17_3	She washed pomegranate	s30-d41	654	1061	pomegranate	1046
+s30-d41_17_4	She took out plate	s30-d41	1097	1404	pomegranate	1460
+s30-d41_17_5	She took out knife	s30-d41	1415	2036	pomegranate	2046
+s30-d41_17_6	She cut pomegranate in half	s30-d41	2056	2352	pomegranate	2408
+s30-d41_17_7	She took out middle of pomegranate	s30-d41	2429	16148	pomegranate	16228
+s30-d41_18_1	The person takes a pomegranate from the fridge.	s30-d41	206	503	pomegranate	490
+s30-d41_18_2	The person takes a cutting board from a drawer.	s30-d41	513	624	pomegranate	642
+s30-d41_18_3	The person washes the pomegranate.	s30-d41	654	1015	pomegranate	1042
+s30-d41_18_4	The person gets a plate from the cupboard.	s30-d41	1023	1404	pomegranate	1410
+s30-d41_18_5	The person takes a knife from the cutlery drawer.	s30-d41	1415	2036	pomegranate	2052
+s30-d41_18_6	The person cuts the pomegranate in half.	s30-d41	2056	2352	pomegranate	2412
+s30-d41_18_7	The person cuts one half into a quarter and proceeds to break each quarter apart with her hands and remove the pomegranate seeds onto the plate.	s30-d41	2429	11483	pomegranate	11544
+s30-d41_18_8	The person takes the second half of pomegranate, cuts it into a quarter, then proceeds to break it apart with her hands and scoop the seeds onto the plate.	s30-d41	16171	16318	pomegranate	16264
+s30-d41_18_9	The person scrubs off the cutting board and knife in the sink and places them on the countertop.	s30-d41	16039	17003	pomegranate	17120
+s30-d41_18_10	The person opens the trashbin and throws the pomegranate husk inside.	s30-d41	17162	17724	pomegranate	17716
+s30-d41_19_1	Woman walks to fridge and opens fridge door.	206	503
+s30-d41_19_2	Opens crisper and removes pomegranate, closes crisper and fridge door.	206	503
+s30-d41_19_3	She walks to the counter and places the pomegranate on the counter.	206	503
+s30-d41_19_4	She opens the drawer and removes a cutting board.	s30-d41	513	624	pomegranate	646
+s30-d41_19_5	Washes the pomegranate and places it on the cutting board.	s30-d41	654	1061	pomegranate	1082
+s30-d41_19_6	She walks to the cupboard, opens the door and removes a plate, then closes the door.	1097	1404
+s30-d41_19_7	She brings the plate back and sets it on the counter.	1097	1404
+s30-d41_19_8	The woman opens the drawer, looks around a bit removes a knife, then closes the drawer.	s30-d41	1415	2036	pomegranate	2044
+s30-d41_19_9	She cuts the pomegranate in half.	s30-d41	2056	2352	pomegranate	2376
+s30-d41_19_10	She cuts up the first half into 4 pieces and starts removing the seeds from the fruit. (long process)	s30-d41	2429	11483	pomegranate	11506
+s30-d41_19_11	She cuts up the other half of the fruit into 2 smaller pieces and removes all of the seeds.	s30-d41	11531	16148	pomegranate	16158

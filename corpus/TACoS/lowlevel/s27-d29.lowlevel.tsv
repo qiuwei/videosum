@@ -1,0 +1,27 @@
+230	552	take out	hand	plastic bag	counter,fridge
+562	678	take out	hand	cutting board	counter,drawer
+678	737	close	hand		drawer
+753	832	take out	hand	knife	cutting board,drawer
+832	884	close	hand		drawer
+979	1307	remove from package	hand	parsley	plastic bag
+1321	1501	wash	hand	parsley	
+1501	1526	wring out	hand	parsley	
+1526	1604	shake	hand	parsley	
+1694	1835	rip off	hand	chive	flower pot
+1982	2039	rip off	hand	chive	flower pot
+2178	2321	wash	hand	chive	
+2371	2476	cut	knife	parsley	cutting board
+2538	3568	chop	knife	parsley	cutting board
+3696	3760	cut	knife	chive	cutting board
+3822	4670	chop	knife	chive	cutting board
+4717	5100	chop	knife	chive,parsley	cutting board
+5108	5189	scratch off	hand	parsley	cutting board,knife
+5356	5497	wash	hand	hand	
+5529	5686	dry	towel	hand	
+5753	5823	open	hand		cupboard
+5837	6109	take out	hand	bowl	counter,cupboard
+6174	6916	add	knife	chive,parsley	bowl,cutting board
+7156	7269	throw in garbage	hand	chive,parsley	
+7303	7455	package	hand	bundle	plastic bag
+7455	7812	put in	hand	plastic bag	counter,fridge
+7823	7935	throw in garbage	hand	chive	

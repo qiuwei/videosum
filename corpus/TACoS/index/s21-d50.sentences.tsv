@@ -1,0 +1,66 @@
+s21-d50_5_1	The person gets out two cups and an egg.	217	630
+s21-d50_5_2	The person carefully cracks the egg over the first cup.	217	630
+s21-d50_5_3	The person moves the yolk from one half of the eggshell to the other, while pouring the egg white into the first cup.	s21-d50	678	1115	egg	1137
+s21-d50_5_4	The person drops the egg yolk into the second cup.	s21-d50	1128	1159	egg	1165
+s21-d50_5_5	Using her fingers, the person scrapes the last bit of egg white into the first cup.	s21-d50	1183	1248	egg	1253
+s21-d50_5_6	The person throws away the eggshell.	s21-d50	1248	1369	egg	1345
+s21-d50_5_7	The person rinses her hands.	s21-d50	1390	1534	egg	1541
+s21-d50_6_1	The person takes a pair of cups from the cupboard.	s21-d50	217	441	egg	375
+s21-d50_6_2	The person procures an egg from the fridge.	s21-d50	475	630	egg	617
+s21-d50_6_3	The person cracks the egg on the edge of the counter and then drains the egg white into a cup.	s21-d50	678	1115	egg	1125
+s21-d50_6_4	The person dumps the egg yolk into the second cup.	s21-d50	1128	1159	egg	1169
+s21-d50_6_5	The person throws the shells into the wastebin.	s21-d50	1183	1369	egg	1365
+s21-d50_6_6	The person washes her hands.	s21-d50	1390	1534	egg	1543
+s21-d50_7_1	The person takes a pair of cups from the cupboard.	s21-d50	217	441	egg	393
+s21-d50_7_2	The person procures an egg from the fridge.	s21-d50	475	630	egg	629
+s21-d50_7_3	The person cracks the egg on the edge of the counter and then drains the egg white into one cup.	s21-d50	678	1115	egg	1125
+s21-d50_7_4	The person dumps the egg yolk into the second cup.	s21-d50	1128	1159	egg	1177
+s21-d50_7_5	The person throws the shells into the wastebin.	s21-d50	1183	1369	egg	1385
+s21-d50_7_6	The person washes her hands.	s21-d50	1390	1534	egg	1551
+s21-d50_10_1	She opens the cupboard and takes out two cups, placing them on the counter.	s21-d50	217	441	egg	445
+s21-d50_10_2	She opens the refrigerator, gets out an egg, and cracks it on the counter.	s21-d50	475	630	egg	779
+s21-d50_10_3	She uses the shells to pour all of the whites of the egg into one cup.	s21-d50	678	1115	egg	1125
+s21-d50_10_4	She pours the yolk of the egg into the other cup.	s21-d50	1128	1159	egg	1171
+s21-d50_10_5	She dumps any remaining whites of the eggs from the shells into the cup with the egg whites.	s21-d50	1183	1280	egg	1269
+s21-d50_10_6	She disposes of the shells in the trash can.	s21-d50	1287	1369	egg	1381
+s21-d50_10_7	She washes her hands in the sink and shakes them to dry them off.	s21-d50	1540	1606	egg	1605
+s21-d50_11_1	The person takes a pair of cups from the cupboard.	s21-d50	217	441	egg	347
+s21-d50_11_2	The person procures an egg from the fridge.	s21-d50	475	630	egg	625
+s21-d50_11_3	The person cracks the egg on the edge of the counter and then drains the egg white into a cup.	s21-d50	678	1115	egg	1125
+s21-d50_11_4	The person dumps the egg yolk into the second cup.	s21-d50	1128	1159	egg	1175
+s21-d50_11_5	The person throws the shells into the wastebin.	s21-d50	1183	1369	egg	1377
+s21-d50_11_6	The person washes her hands.	s21-d50	1390	1534	egg	1567
+s21-d50_13_1	A woman takes two cups out of the cabinet and places the cups on the counter.	s21-d50	217	441	egg	437
+s21-d50_13_2	The woman takes an egg out of the fridge and cracks the shell in half on the counter.	s21-d50	475	630	egg	679
+s21-d50_13_3	The woman moves the yolk back and forth between the two halves of the shell above one of the cups.	s21-d50	678	1115	egg	1137
+s21-d50_13_4	She places the yolk in the empty cup.	s21-d50	1128	1159	egg	1155
+s21-d50_13_5	She discards the egg shell in the garbage.	s21-d50	1183	1369	egg	1341
+s21-d50_13_6	The woman washes her hands.	s21-d50	1390	1534	egg	1539
+s21-d50_14_1	The person takes two cups out from the cupboard.	s21-d50	217	441	egg	338
+s21-d50_14_2	The person takes out an egg from the refrigerator.	475	630
+s21-d50_14_3	The person cracks the egg open.	475	630
+s21-d50_14_4	The person moves the egg yolk from one eggshell half to the next as the egg white drips down into a cup.	s21-d50	678	1115	egg	1134
+s21-d50_14_5	The person pours the egg yolk into the second cup.	s21-d50	1128	1159	egg	1154
+s21-d50_14_6	The person discards the eggshells.	s21-d50	1183	1369	egg	1366
+s21-d50_14_7	The person washes her hands.	s21-d50	1540	1606	egg	1605
+s21-d50_15_1	Get two cups/containers and place them on your work surface.	s21-d50	217	441	egg	445
+s21-d50_15_2	Carefully crack egg in half over one container, making sure not to break the yolk.	s21-d50	475	630	egg	736
+s21-d50_15_3	Pour the yolk back and forth between each half of the shell to separate the yolk from the white over the original container.	s21-d50	678	1115	egg	1081
+s21-d50_15_4	When the white is separated pour the yolk into the other container.	s21-d50	1128	1159	egg	1149
+s21-d50_15_5	Dispose of the shell.	s21-d50	1183	1369	egg	1350
+s21-d50_15_6	Wash your hands.	s21-d50	1390	1534	egg	1540
+s21-d50_17_1	Take two cups or mugs from the cubbord and place them on the counter.	s21-d50	217	441	egg	444
+s21-d50_17_2	Take an egg out from the refrigerator.	475	630
+s21-d50_17_3	Crack the egg on the edge of the counter.	475	630
+s21-d50_17_4	Hold the egg over one of the cups and carefully split the egg open with your fingers. Keep the egg yolk in one of the shells.	475	630
+s21-d50_17_5	Now carefully seperate the whites from the yolk.  Pour the yolk between each half shell until all the whites have ended up in the cup.	s21-d50	678	1115	egg	1120
+s21-d50_17_6	Pour the yolk into the other cup.	s21-d50	1128	1159	egg	1182
+s21-d50_17_7	Discard the shell in the trash and wash your hands.	s21-d50	1183	1534	egg	1507
+s21-d50_18_1	Get two tea cups.	s21-d50	217	441	egg	439
+s21-d50_18_2	Retrieve one egg.	475	630
+s21-d50_18_3	Crack egg shell.	475	630
+s21-d50_18_4	Carefully separate shell into two pieces.	475	630
+s21-d50_18_5	Transfer egg yolk back and forth between egg shell halves, allowing the egg whites to drip into one of the cups.	s21-d50	678	1115	egg	1135
+s21-d50_18_6	Transfer separated yolk into second cup.	s21-d50	1128	1159	egg	1159
+s21-d50_18_7	Dispose of egg shell.	s21-d50	1183	1369	egg	1345
+s21-d50_18_8	Wash hands.	s21-d50	1390	1534	egg	1549

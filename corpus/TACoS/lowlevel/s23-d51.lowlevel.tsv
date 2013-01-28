@@ -1,0 +1,56 @@
+225	339	take out	hand	cutting board	counter,drawer
+356	468	take out	hand	knife	cutting board,drawer
+468	500	close	hand		drawer
+500	696	take out	hand	bowl	drawer,sink
+737	912	take out	hand	plastic bag	counter,fridge
+920	946	rip open	hand	plastic bag	counter
+946	1401	remove from package	hand	beans	bowl,paper box
+1420	1511	move	hand	plastic bag	counter
+1529	1672	take out	hand	plastic bag	counter,fridge
+1780	1825	rip open	knife	plastic bag	counter
+1842	1902	rip open	hand	plastic bag	counter
+1902	1994	remove from package	hand	beans	bowl,paper box
+1994	2043	remove from package	hand	beans	bowl,paper box
+2059	2237	put in	hand	plastic bag	counter,fridge
+2277	2818	wash	hand	beans	bowl
+2818	2961	wash	hand	beans	
+2976	3060	pour	bowl	water	sink
+3149	3241	cut	knife	beans	cutting board
+3252	3276	move	hand	beans	counter,cutting board
+3286	3332	move	hand	beans	cutting board
+3350	3452	cut	knife	beans	cutting board
+3456	3472	move	hand	beans	counter,cutting board
+3472	3525	move	hand	beans	cutting board
+3525	3631	cut	knife	beans	cutting board
+3643	3660	move	hand	beans	counter,cutting board
+3660	3759	move	hand	beans	cutting board
+3759	3883	cut	knife	beans	cutting board
+3888	3904	move	hand	beans	counter,cutting board
+3904	3944	move	hand	beans	cutting board
+3952	4038	cut	knife	beans	cutting board
+4044	4054	move	hand	beans	counter,cutting board
+4054	4065	move	hand	beans	cutting board
+4079	4121	cut	knife	beans	cutting board
+4122	4135	move	hand	beans	counter,cutting board
+4136	4155	scratch off	hand	beans	cutting board,knife
+4284	4396	throw in garbage	hand	beans	
+4410	4441	wash	hand	hand	
+4468	4494	move	hand	beans	counter,cutting board
+4515	4747	chop	knife	beans	cutting board
+4747	4768	move	knife	beans	cutting board
+4768	4805	move	hand	beans	counter,cutting board
+4852	5095	chop	knife	beans	cutting board
+5095	5119	move	knife	beans	cutting board
+5119	5155	move	hand	beans	counter,cutting board
+5181	5471	chop	knife	beans	cutting board
+5471	5502	move	hand	beans	cutting board
+5502	5531	move	hand	beans	counter,cutting board
+5541	5788	chop	knife	beans	cutting board
+5788	5808	move	hand	beans	cutting board
+5808	5851	clean	hand	beans	cutting board,knife
+5924	6056	take out	hand	plate	cupboard
+6122	6235	wash	hand	plate	
+6361	6410	move	hand	beans	cutting board,plate
+6428	6511	move	hand	beans	cutting board,plate
+6556	6643	move	hand	beans	cutting board,plate
+6646	6738	move	hand	beans	cutting board,plate

@@ -1,0 +1,46 @@
+244	358	take out	hand	pot	counter,drawer
+358	413	close	hand		drawer
+423	481	remove lid	hand	lid	pot
+581	832	fill	faucet	water	pot
+832	890	move	hand	pot	,counter
+890	952	put lid	hand	lid	pot
+1015	1070	take out	hand	spice shaker	spice holder
+1082	1117	screw	hand	spice shaker	
+1134	1148	remove lid	hand	lid	pot
+1148	1244	spice	spice shaker	salt	pot
+1244	1289	put lid	hand	lid	pot
+1289	1353	screw	hand	spice shaker	
+1381	1453	move	hand	pot	counter,stove
+1467	1551	put in	hand	spice shaker	counter,spice holder
+1598	1663	turn on	hand	stove	
+1663	1808	change temperature	hand	stove	
+1845	2103	take out	hand	plastic bag	fridge
+2130	2218	take out	hand	cutting board	counter,drawer
+2218	2231	close	hand		drawer
+2231	2334	take out	hand	knife	drawer
+2353	2385	cut	knife	plastic bag	counter
+2385	2547	remove from package	hand	broccoli	plastic bag
+2570	2628	cut	knife	broccoli	cutting board
+2657	2708	remove from package	hand	broccoli	plastic bag
+2716	2751	take apart	hand	broccoli	cutting board
+2850	3078	wash	hand	broccoli	
+3079	3165	shake	hand	broccoli	
+3204	3277	cut	knife	broccoli	cutting board
+3341	3768	remove from package	hand	broccoli	plastic bag
+3786	4059	put in	hand	broccoli	cutting board,fridge
+4090	4195	cut	knife	broccoli	cutting board
+4252	4578	cut	knife	broccoli	cutting board
+4674	4685	remove lid	hand	lid	,pot
+4686	4720	add	hand	broccoli	,pot
+4727	4807	add	hand	broccoli	cutting board,pot
+4807	4845	put lid	hand	lid	pot
+4963	4974	remove lid	hand	lid	,pot
+4979	4990	add	hand	broccoli	,pot
+4990	5031	put lid	hand	lid	pot
+5089	5121	move	hand	broccoli	counter,cutting board
+5125	5157	move	hand	plastic bag	counter,cutting board
+5186	5412	throw in garbage	cutting board,hand	broccoli	
+5479	5532	wash	hand	hand	
+5537	5583	wash	hand	sponge	
+5587	5620	wring out	hand	sponge	
+5627	5732	clean	sponge	counter	

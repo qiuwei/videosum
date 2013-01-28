@@ -1,0 +1,32 @@
+222	441	take out	hand	plastic bag	fridge	She took out lime	The person gets out a box of limes.	She took out lime	She walks to the refrigerator and takes out a package of limes.		person gets lime	She took out lime		The person procures a package of limes from the fridge.	The person procures a package of limes from the fridge.					Take lime out of the fridge	She took out lime
+441	537	remove from package	hand	lime	plastic bag				She opens up the package and takes out one lime.	The person gets out a lime.						She grabs a lime.	She goes to the refrigerator and gets a package of limes out and washes one of them in the sink.	She gets lime from fridge.	The person gets out a lime.		
+564	661	wash	hand	lime		She washed lime	The person rinses a lime.									She rinses the lime.					
+661	723	shake	hand	lime				She washed lime	She turns on the sink and washes the lime.	The person rinses the lime.	person washes lime	She washed lime	She washes a lime.						The person rinses the lime.	wash it in the sink	She washed lime
+723	804	dry	towel	lime					She reaches over to the towel rack and dries the lime.			She dried lime		The person removes a lime from the package, washes it in the sink, then dries it on a towel.	The person removes a lime from the package, washes it in the sink, then dries it on a towel.			She removes lime, rinses and dries.		Dry lime thoroughly using a cloth	
+848	984	take out	hand	cutting board	counter,drawer	She took out cutting board	The person gets out a cutting board.	She took out cutting board		The person gets out a cutting board.	person gets cutting board	She took out cutting board	She gets a cutting board.	The person takes out a cutting board from the drawer.	The person takes out a cutting board from the drawer.				The person gets out a cutting board.		She took out cutting board
+996	1101	take out	hand	knife	drawer	She took out knife	The person gets out a knife.	She took out knife	She opens a draw and takes out a cutting board and knife.	The person gets out a knife.	person gets knife	She took out knife	She starts cutting the lime with a knife.	The person takes out a knife from the drawer.	The person takes out a knife from the drawer.	She grabs a cutting board and knife.	She washes the lime and takes out a cutting board and a knife.	She gets chopping board and knife.	The person gets out a knife.		She took out knife
+1101	1274	cut	knife	lime	cutting board	She cut lime in half	The person cuts the lime in half.	She cut lime in half	She takes the lime and puts it on the cutting board and cuts it in half.	The person cuts the lime in half.	person cuts lime in half	She cut lime in half		The person slices the lime in two.	The person slices the lime in two.	She cuts the lime in half. 	She cuts the lime in half.	She cuts lime in half.	The person cuts the lime in half.	Using a chopping board and sharp knife, slice lime in half	She cut lime in half
+1338	1512	take out	hand	squeezer	drawer	She took out juicer	The person gets out a juicer.	She took out juicer	She opens up a draw and takes out a juicer.	The person gets out a juicer.	person gets manual juicer	She took out juicer		The person takes out a juice strainer from the drawer.	The person takes out a juice strainer from the drawer.			She gets juicer from drawer.	The person gets out a juicer.		She took out juicer
+1559	1680	squeeze	squeezer	lime	squeezer								She starts juicing the lime.								
+1689	1725	squeeze	hand	lime	squeezer																
+1729	2350	squeeze	squeezer	lime	squeezer																
+2358	2421	squeeze	hand	lime	squeezer																
+2426	2548	squeeze	squeezer	lime	squeezer																
+2550	2642	squeeze	hand	lime	squeezer																
+2647	2775	squeeze	squeezer	lime	squeezer																
+2798	3021	squeeze	squeezer	lime	squeezer																
+3057	3123	squeeze	squeezer	lime	squeezer																
+3130	3197	squeeze	hand	lime	squeezer																
+3204	3374	squeeze	squeezer	lime	squeezer				She then takes half of the lime and begins juicing and squeezing the lime on the juicer.				She starts juicing the second half of the lime.					She squeezes and twists first half of lime on juicer.			
+3534	3759	squeeze	hand	lime	squeezer																
+3765	4042	squeeze	squeezer	lime	squeezer																
+4056	4179	squeeze	hand	lime	squeezer																
+4183	4543	squeeze	squeezer	lime	squeezer																
+4584	4826	squeeze	hand	lime	squeezer																
+4835	5092	squeeze	squeezer	lime	squeezer																
+5117	5185	squeeze	hand	lime	squeezer																
+5198	5347	squeeze	squeezer	lime	squeezer																
+5363	5489	squeeze	hand	lime	squeezer																
+5495	5807	squeeze	squeezer	lime	squeezer																
+5815	6037	squeeze	hand	lime	squeezer	She twisted lime on juicer	The person juices the lime.	She twisted lime on juicer	She picks up the other half of the lime and begins squeezing and juicing it on the juicer.	The person juices the lime.	person gets juice out of lime	She twisted lime on juicer		The person grinds and squeezes each half of the lime into the juice strainer.	The person grinds and squeezes each half of the lime into the juice strainer.	She juices the lime.	She takes a juice squeezer out from the drawer and uses it to get the juice of both halves of the lime.	She takes second half of lime and twists, squeezes, twists, squeezes the juice out into juicer.	The person juices the limes.	Use a juicer to squeeze juice out of the lime halves	She twisted lime on juicer
+6158	6266	throw in garbage	hand	peel			The person throws away the lime.		She take the lime rinds and throws them away in the trash.	The person throws away the lime.		She threw out lime		The person throws the peels into the wastebin.	The person throws the peels into the wastebin.	She discards the lime.	She throws the remainders of the limes in the trash can.	She puts lime rinds into trash.	The person throws the limes away.	Throw lime halves into the trash after juicing	She threw away lime

@@ -1,0 +1,32 @@
+201	323	take out	hand	garlic	cupboard
+361	392	open	hand		drawer
+398	541	take apart	hand	garlic	
+571	659	put in	hand	garlic	,drawer
+696	713	throw in garbage	hand	garbage	
+720	1006	peel	hand	garlic	
+1006	1387	peel	hand	garlic	
+1387	1431	close	hand		drawer
+1471	1580	wash	hand	garlic	
+1580	1633	shake	hand	garlic	
+1637	1744	take out	hand	cutting board	counter,drawer
+1766	1828	take out	hand	knife	drawer
+1883	1997	cut	knife	garlic	cutting board
+2052	2106	throw in garbage	hand	garlic	
+2147	2741	slice	knife	garlic	cutting board
+2741	2781	scratch off	hand	garlic	cutting board,knife
+2793	3292	slice	knife	garlic	cutting board
+3292	3335	scratch off	hand	garlic	cutting board,knife
+3428	4211	chop	knife	garlic	cutting board
+4211	4308	scratch off	hand	garlic	cutting board,knife
+4458	4668	take out	hand	plate	counter,drawer
+4691	4755	move	hand,knife	garlic	cutting board,plate
+4755	4818	scratch off	hand	garlic,plate	
+4818	4915	move	hand,knife	garlic	cutting board,plate
+5088	5323	wash	hand	knife	
+5323	5359	shake	hand	knife	
+5383	5490	dry	towel	knife	
+5524	5595	put in	hand	knife	,drawer
+5649	5833	wash	hand	cutting board	
+5833	5916	shake	hand	cutting board	
+5928	6005	put in	hand	cutting board	,drawer
+6005	6203	put in	hand	plate	counter,cupboard

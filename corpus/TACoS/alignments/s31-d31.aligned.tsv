@@ -1,0 +1,32 @@
+201	323	take out	hand	garlic	cupboard	s31-d31_1_1						s31-d31_10_1		s31-d31_13_1				s31-d31_17_1		s31-d31_19_1	
+361	392	open	hand		drawer								s31-d31_12_1								
+398	541	take apart	hand	garlic				s31-d31_5_1	s31-d31_6_1	s31-d31_8_1	s31-d31_9_1									s31-d31_19_2	
+571	659	put in	hand	garlic	,drawer			s31-d31_5_2				s31-d31_10_2				s31-d31_15_1		s31-d31_17_2		s31-d31_19_3	
+696	713	throw in garbage	hand	garbage											s31-d31_14_1						
+720	1006	peel	hand	garlic							s31-d31_9_2										
+1006	1387	peel	hand	garlic																	
+1387	1431	close	hand		drawer	s31-d31_1_2		s31-d31_5_3	s31-d31_6_2	s31-d31_8_2		s31-d31_10_3	s31-d31_12_2	s31-d31_13_2	s31-d31_14_2	s31-d31_15_2	s31-d31_16_1	s31-d31_17_3		s31-d31_19_4	s31-d31_20_1
+1471	1580	wash	hand	garlic		s31-d31_1_3					s31-d31_9_3										
+1580	1633	shake	hand	garlic			s31-d31_2_1	s31-d31_5_4	s31-d31_6_3			s31-d31_10_4	s31-d31_12_3	s31-d31_13_3			s31-d31_16_2	s31-d31_17_4	s31-d31_18_1	s31-d31_19_5	s31-d31_20_2
+1637	1744	take out	hand	cutting board	counter,drawer	s31-d31_1_4		s31-d31_5_5						s31-d31_13_4	s31-d31_14_3	s31-d31_15_3		s31-d31_17_5		s31-d31_19_6	s31-d31_20_3
+1766	1828	take out	hand	knife	drawer	s31-d31_1_5	s31-d31_2_2	s31-d31_5_6	s31-d31_6_4	s31-d31_8_3		s31-d31_10_5		s31-d31_13_5	s31-d31_14_4	s31-d31_15_4			s31-d31_18_2	s31-d31_19_7	s31-d31_20_4
+1883	1997	cut	knife	garlic	cutting board	s31-d31_1_6				s31-d31_8_4	s31-d31_9_4						s31-d31_16_3			s31-d31_19_8	
+2052	2106	throw in garbage	hand	garlic			s31-d31_2_3	s31-d31_5_7	s31-d31_6_5	s31-d31_8_5					s31-d31_14_5	s31-d31_15_5		s31-d31_17_6	s31-d31_18_3	s31-d31_19_9	s31-d31_20_5
+2147	2741	slice	knife	garlic	cutting board																
+2741	2781	scratch off	hand	garlic	cutting board,knife																
+2793	3292	slice	knife	garlic	cutting board			s31-d31_5_8													
+3292	3335	scratch off	hand	garlic	cutting board,knife		s31-d31_2_4		s31-d31_6_6	s31-d31_8_6	s31-d31_9_5									s31-d31_19_10	
+3428	4211	chop	knife	garlic	cutting board			s31-d31_5_9													
+4211	4308	scratch off	hand	garlic	cutting board,knife	s31-d31_1_7	s31-d31_2_5		s31-d31_6_7	s31-d31_8_7	s31-d31_9_6	s31-d31_10_6	s31-d31_12_4	s31-d31_13_6	s31-d31_14_6	s31-d31_15_6	s31-d31_16_4	s31-d31_17_7	s31-d31_18_4		s31-d31_20_6
+4458	4668	take out	hand	plate	counter,drawer	s31-d31_1_8		s31-d31_5_10						s31-d31_13_7		s31-d31_15_7		s31-d31_17_8		s31-d31_19_11	s31-d31_20_7
+4691	4755	move	hand,knife	garlic	cutting board,plate																
+4755	4818	scratch off	hand	garlic,plate																s31-d31_19_12	
+4818	4915	move	hand,knife	garlic	cutting board,plate	s31-d31_1_9	s31-d31_2_6	s31-d31_5_11	s31-d31_6_8	s31-d31_8_8	s31-d31_9_7	s31-d31_10_7	s31-d31_12_5	s31-d31_13_8	s31-d31_14_7	s31-d31_15_8		s31-d31_17_9	s31-d31_18_5		s31-d31_20_8
+5088	5323	wash	hand	knife																	
+5323	5359	shake	hand	knife																	
+5383	5490	dry	towel	knife														s31-d31_17_10			
+5524	5595	put in	hand	knife	,drawer		s31-d31_2_7	s31-d31_5_12	s31-d31_6_9						s31-d31_14_8	s31-d31_15_9			s31-d31_18_6		
+5649	5833	wash	hand	cutting board																	
+5833	5916	shake	hand	cutting board																	
+5928	6005	put in	hand	cutting board	,drawer			s31-d31_5_13	s31-d31_6_10				s31-d31_12_6			s31-d31_15_10		s31-d31_17_11	s31-d31_18_7		s31-d31_20_9
+6005	6203	put in	hand	plate	counter,cupboard		s31-d31_2_8	s31-d31_5_14	s31-d31_6_11	s31-d31_8_9	s31-d31_9_8	s31-d31_10_8	s31-d31_12_7		s31-d31_14_9	s31-d31_15_11	s31-d31_16_5	s31-d31_17_12	s31-d31_18_8		s31-d31_20_10

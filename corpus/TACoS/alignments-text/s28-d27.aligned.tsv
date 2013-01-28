@@ -1,0 +1,83 @@
+198	309	take out	hand	cutting board	counter,drawer		The person takes out a cutting board.	He gets out a cutting board.			The person takes out a cutting board from the drawer.	HE took out cutting board 	The person takes out a cutting board from the drawer.	person gets cutting board				The gentleman take the cutting board out.			He took out cutting board	
+331	626	take out	hand	knife	cutting board,drawer		He takes out a knife.				The person takes out a knife from the drawer.	He took out knife	The person takes out a knife from the drawer.						He gets a cutting board and knife.		He took out knife	
+626	667	close	hand		drawer	The person gets a cutting board and a knife from the drawers.		He gets a knife.	the person gets a cutting board and a knife	He gets out a cutting board and a knife. 						Take out a cutting board and a small knife.	He gets out a knife and cutting board.	He then proceeds to choose the right knife.		The person takes a cutting board and knife out of a drawer and places them on the counter.		He gets a knife and a cutting board. 
+691	1011	take out	hand	bottle,onion	counter,cupboard	The person gets an onion and a condiment from the pantry.	He take out an onion and olive oil.			He gets olive oil and an onion. 	The person takes a bottle of oil and an onion from the pantry.	He took out onion and oil	The person takes a bottle of oil and an onion from the pantry.	person gets onion		Take out olive oil and an onion.	He gets out the food.	Takes out cooking oil. Begins to dice onion	He gets oil and an onion.	The person takes a bottle of oil and an onion out of a cabinet places the oil on the counter and the onion on the cutting board.	He took out onion. He cut off top of onion	He grabs olive oil and an onion. 
+1071	1279	cut	knife	onion	cutting board		He cuts the ends off of the onion.	He gets an onion and starts cutting it.	the person gets oil							Use the knife to cut both ends off the onion.						
+1306	1484	peel	hand	onion																		
+1492	2050	peel	knife	onion		The person peels the onion.	Using the knife he peels off the onion skin.	He takes the skin off of the onion.	the person cuts the onion and slices off each end		The person cuts the ends off the onion and then peels it.		The person cuts the ends off the onion and then peels it.	person peels the outside of the onion		Use your hands and the knife to peel off the unwanted outer layer of onion.		peels skin off onion		Using the knife, the person cuts off both ends of the onion then removes the onion skin.	He peeled onion	
+2108	2189	cut	knife	onion	cutting board		He cuts the onion in half.		the person use the back of the knife to peel away the skin of the onion	He skins the onion.		He peeled onion							He peels the onion.	The person cuts the onion in half.		He remove the onion skin. 
+2215	2509	slice	knife	onion	cutting board			He cuts up the onion thinly.	the person cuts the onion in half									Dices skinless onion into small pieces				
+2509	2631	cut	knife	onion	cutting board																	
+2646	3171	chop	knife	onion	cutting board											Cut the onion in half and use the knife to make very thin slices for the full length of the half, then rotate the onion half and slice thinly the other way. 						
+3191	3268	gather	knife	onion	cutting board																	
+3297	3330	scratch off	hand	onion	cutting board,knife																	
+3343	3669	slice	knife	onion	cutting board																	
+3669	3769	cut	knife	onion	cutting board																	
+3779	4246	chop	knife	onion	cutting board			He dices the second onion.				He diced onion										
+4246	4340	gather	hand,knife	onion	cutting board	The person chops and dices the onion.	He chops the onion by making small slices length-wise in each onion half, cutting it in half down the middle and then chopping in width-wise into small pieces.		the person dices each half of the onion	He chops the onion. 	The person dices the onion on the cutting board.		The person dices the onion on the cutting board.	person dices the onion		Repeat this process for the other onion half.	He chops the onion.		He chops the onion.	The person dices both halves of the onion.	He diced onion	He chops the onion. 
+4363	4634	take out	hand	pan	drawer,stove							He took out pan		person gets pan							He took out pan	
+4648	4684	move	hand	pan	stove	The person gets a pan and places it on the stove.											He puts a pan on the stove.					
+4743	4793	turn on	hand	stove				He gets a frying pan.														
+4809	4953	change temperature	hand	stove			He takes out a pan and puts it on the stove range and turns it on.				The person takes out a pan from the drawer, places it on the stove and then turns it on.	He turned on stove	The person takes out a pan from the drawer, places it on the stove and then turns it on.								He turned on stove	
+4973	5008	screw	hand	bottle														Pours cooking oil in pan				
+5013	5065	pour	bottle	oil	pan		He adds olive oil to the pan.	He pours the oil on the frying pan.				He poured oil in pan				Take out a frying pan, set it on the stove, turn the temperature to the right level, and add a little oil.	He puts olive oil in the pan.				He put oil in pan	
+5076	5151	screw	hand	bottle				He puts the onions in the frying pan.	the person gets a frying pan and coats in with oil	He heats a pan and adds oil to it. 	The person pours some oil from the bottle into the pan.		The person pours some oil from the bottle into the pan.					Put onions in pan with oil	He heats a pan and adds oil to it.	The person takes a frying pan out of a drawer, places it on the stove, turns it on and adds some oil.		He adds oil to a heating pan. 
+5257	5575	add	knife	onion	cutting board,pan	The person pours the condiment and the onions into the pan.	He adds the onions to the pan.			He puts the onions into the pan. 	The person scoops the onions into the pan.	He added onion to pan	The person scoops the onions into the pan.	person puts oil in pan along with the onion	He put onion in pan. Poured oil in pan. He turned on stove . He took out pan. He diced onion. He peeled onion. He cut off ends of onion. He took out onion. He took out knife. He took out cutting board		He puts the onions in the pan.		He adds the onions to the pan.	Taking  the cutting board and knife in hand, the person slides the diced onions into the pan then places the cutting board and knife back on the counter.	He put onion in pan	He adds the onions to the pan. 
+5666	5755	take out	hand	spatula	,drawer	The person gets a wooden spoon from the drawer.									He took out spoon						He took out wooden spoon	
+5768	5889	stir	spatula	onion	pan											Add the onion to the frying pan and take out a wooden spoon.						
+5891	5998	purge	hand,spatula	peel	cutting board,pan																	
+6003	6318	stir	spatula	onion	pan																He mixed onion	
+6321	6390	scratch off	spatula	onion	pan,spatula	The person sautees the onions while stirring them with the spoon.					The person takes out a wooden spoon from the drawer and stirs the onions in the pan.		The person takes out a wooden spoon from the drawer and stirs the onions in the pan.		He mixed onion					The person takes a wood spatula out of a drawer and stirs the onions around evenly then places the spatula on the edge of the pan.		
+6464	6510	take out	hand	spice shaker	spice holder																	
+6528	6561	screw	hand	spice shaker				He puts salt on the onions.										Begin to season onions in the pan.				
+6578	6769	spice	spice shaker	salt	pan		He adds salt to the onions.															
+6776	6801	screw	hand	spice shaker										person puts salt on onion	He added salt				He salts the onions.			He salts the onions. 
+6810	6840	change temperature	hand	stove		The person gets some salt and sprinkles it on the onions.				He salts the pan. 					He adjusted heat							
+6997	7049	screw	hand	spice shaker																		
+7125	7220	spice	spice shaker	salt	pan																	
+7228	7257	screw	hand	spice shaker																The person take a bottle of salt from the side counter, adds some salt to the onions, waits about 15 seconds, adds some more salt then closes it and places it on the counter.		
+7281	7301	move	hand	knife	counter,cutting board											Use the wooden spoon to stir the onions and add salt to taste.						
+7353	7571	throw in garbage	cutting board,hand	onion,peel																		
+7583	7708	throw in garbage	cutting board,knife	onion,peel		As the onions cook, the person dumps the skins into the trash.				He discards the skins. 	The person throws the peels into the wastebin.		The person throws the peels into the wastebin.						He discards the peels.	Using the knife, the person pushes the onion waste from the cutting board into the garbage then places the cutting board and knife back on the counter.		
+7825	7864	change temperature	hand	stove																		
+7899	7933	change temperature	hand	stove																		
+7939	8129	stir	spatula	onion	pan																	
+8134	8171	tap	spatula	pan																Using the wooden spatula, the person stirs the onions.		
+8236	8279	screw	hand	bottle																		
+8285	8388	put in	hand	bottle	,cupboard	The person puts the condiment back into the cupboard.					The person returns the bottle of oil to the pantry.		The person returns the bottle of oil to the pantry.							The person puts away the oil in a cabinet.		
+8522	8618	wash	sponge	knife																		
+8618	8681	wring out	hand	sponge				He washes off the knife.														
+8707	9030	clean	sponge	cutting board																		
+9030	9087	wring out	hand	sponge				He washes the cutting board.			The person washes the knife and cutting board in the sink.		The person washes the knife and cutting board in the sink.									
+9186	9279	dry	towel	cutting board																		
+9288	9362	dry	towel	cutting board																		
+9386	9481	put in	hand	cutting board	,drawer	The person washes off the knife and cutting board, dries them, and replaces them into the drawers.				He cleans up a bit. 	The person returns the cutting board to the drawer. 		The person returns the cutting board to the drawer. 			Discard the onion ends and peel, then wash the knife and cutting board, dry them and put them away.	While the onions are continuing to cook, he cleans up the equipment and puts it away.			The person washes, dries and puts the cutting board and knife back into the drawer.		He cleans up while the onions are cooking. 
+9561	9702	stir	spatula	onion	pan																	
+9702	9738	tap	spatula	pan																		
+9893	10072	stir	spatula	onion	pan																	
+10160	10196	stir	spatula	onion	pan																	
+10233	10335	stir	spatula	onion	pan																	
+10580	10612	screw	hand	spice shaker				He puts more salt on the onions.														
+10618	10769	spice	spice shaker	salt	pan																	
+10769	10841	screw	hand	spice shaker																		
+10874	10928	put in	hand	spice shaker	,spice holder															The person stirs the onions, adds more salt then places the salt back on the side counter.		
+11124	11214	stir	spatula	onion	pan																	
+11246	11377	stir	spatula	onion	pan																	
+11888	12186	stir	spatula	onion	pan																	
+12358	12529	stir	spatula	onion	pan																	
+12765	12945	stir	spatula	onion	pan																	
+12950	12983	change temperature	hand	stove																		
+13041	13278	stir	spatula	onion	pan																	
+13398	13470	taste	spatula	onion																		
+13499	13667	stir	spatula	onion	pan												He finishes cooking the onions.					
+13711	14032	take out	hand	plate	counter,cupboard		The person takes out a plate.		the person sautes the diced onion in the pan and seasons with salt		The person procures a plate from the cabinet.		The person procures a plate from the cabinet.	person gets plate					He gets a small plate.			
+14145	14744	stir	spatula	onion	pan																	
+14755	14836	change temperature	hand	stove			The person occasionally mixes the onions until they are golden brown	He puts the onions on a plate.	the person gets a plate							Continue to cook the onion stirring frequently until finished, adding more salt if desired before putting away the salt and taking out a small plate.						
+14897	15430	move	spatula	onion	pan,plate	The person gets out a plate form the cupboard and scoops the onions out of the pan onto the plate.	He puts the onion into the plate.			He finishes cooking and puts the onions on a plate. 				person puts onions on plate			He puts the onions on a plate.		He puts the onions on a plate.			He puts the onions on a plate. 
+15630	15805	wash	sponge	pan					the person puts the sauteed onion on the plate													
+15805	16103	clean	sponge	pan			The person is done.															
+16103	16196	wring out	hand	sponge		The person scrubs off the pan in the sink with a sponge.											He cleans the pan.					
+16293	16364	dry	towel	hand																		
+16546	16938	wash	sponge	spatula																		
+16938	16990	wring out	hand	sponge		The person scrubs off the wooden spoon in the sink with a sponge.				He cleans up. 	The person scoops the fried onions onto the plate then washes the pan and wooden spoon in the sink.		The person scoops the fried onions onto the plate then washes the pan and wooden spoon in the sink.			Take the frying pan off of the heat and put the onions on the plate, wash the frying pan and wooden spoon.	He cleans the spatula.					He cleans up. 
+17086	17191	dry	towel	hand															He cleans up.	The person finishing frying the onion and pours it onto a plate from the cabinet, then washes the pan and wooden spatula. Task complete.		

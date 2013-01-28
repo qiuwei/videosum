@@ -1,0 +1,58 @@
+201	445	take out	hand	cucumber	counter,fridge
+454	703	take out	hand	knife	counter,drawer
+726	897	take out	cutting board,hand	counter,drawer	
+904	964	close	hand		drawer
+1029	1072	open	hand		cupboard
+1086	1367	take out	hand	plate	counter,cupboard
+1394	1548	rip open	hand	plastic bag	cutting board
+1548	2192	remove from package	hand	cucumber	plastic bag
+2256	2334	throw in garbage	hand	plastic bag	
+2361	2505	wash	hand	cucumber	
+2572	2642	cut	knife	cucumber	cutting board
+2662	2709	cut	knife	cucumber	cutting board
+2737	2820	open	hand		drawer
+2820	2984	take out	hand	peeler	drawer
+3064	3931	peel	peeler	cucumber	
+4163	4253	cut	knife	cucumber	cutting board
+4307	5075	slice	knife	cucumber	cutting board
+5075	5121	scratch off	hand	cucumber	cutting board,knife
+5150	5169	scratch off	hand	cucumber	cutting board,knife
+5188	5564	slice	knife	cucumber	cutting board
+5564	5582	scratch off	hand	cucumber	cutting board,knife
+5599	5868	slice	knife	cucumber	cutting board
+5868	5929	scratch off	hand	cucumber	cutting board,knife
+5952	5969	scratch off	hand	cucumber	cutting board,knife
+5970	6021	move	hand	cucumber	cutting board
+6075	6103	move	hand	plate	counter
+6108	6182	move	hand,knife	cucumber	cutting board,plate
+6182	6214	scratch off	hand	cucumber	knife,plate
+6224	6344	move	hand,knife	cucumber	cutting board,plate
+6344	6370	scratch off	hand	cucumber	knife,plate
+6370	6514	move	hand	cucumber	cutting board,plate
+6578	7018	slice	knife	cucumber	cutting board
+7065	7104	scratch off	hand	cucumber	cutting board,knife
+7128	7554	slice	knife	cucumber	cutting board
+7587	7907	slice	knife	cucumber	cutting board
+7907	7975	scratch off	hand	cucumber	cutting board,knife
+8063	8128	move	hand,knife	cucumber	cutting board,plate
+8180	8275	move	hand,knife	cucumber	cutting board,plate
+8289	8394	move	hand,knife	cucumber	cutting board,plate
+8394	8456	move	hand	cucumber	cutting board,plate
+8456	8572	arrange	hand	cucumber	plate
+8706	8838	take out	hand	spice shaker	spice holder
+8838	8882	read	hand	spice shaker	
+8899	9019	take out	hand	spice shaker	spice holder
+9019	9111	move	hand	spice shaker	,counter
+9155	9224	open	hand		drawer
+9271	9306	open	hand		drawer
+9348	9426	open	hand		drawer
+9463	9512	open	hand		drawer
+9611	9661	close	hand		drawer
+10157	10182	take out	hand	spice shaker	spice holder
+10204	10254	screw	hand	spice shaker	
+10317	10425	spice	spice shaker	spice	plate
+10425	10509	screw	hand	spice shaker	
+10509	10719	arrange	hand	cucumber	plate
+10719	10757	move	hand	cucumber	counter,plate
+10757	10865	arrange	hand	cucumber	plate
+10903	11043	put in	hand	spice shaker	counter,spice holder

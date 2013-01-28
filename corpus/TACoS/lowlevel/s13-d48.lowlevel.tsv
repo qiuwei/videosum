@@ -1,0 +1,13 @@
+219	354	take out	hand	cutting board	counter,drawer
+396	443	close	hand		drawer
+443	784	take out	hand	knife	cutting board,drawer
+784	833	close	hand		drawer
+891	1169	take out	hand	chilli	,cupboard
+1201	1241	open	hand		cupboard
+1247	1576	take out	hand	plate	counter,cupboard
+1667	1809	wash	hand	chilli	
+1809	1859	move	hand	chilli	,cutting board
+1899	2008	dry	towel	hand	
+2092	2787	slice	knife	chilli	cutting board
+2801	2993	move	hand,knife	chilli	cutting board,plate
+3030	3065	move	hand	plate	counter

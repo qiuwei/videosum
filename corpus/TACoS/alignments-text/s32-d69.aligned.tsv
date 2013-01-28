@@ -1,0 +1,83 @@
+204	640	take out	hand	egg	counter,fridge		She retrieves two eggs.		The woman begins by selecting two eggs from the fridge. 	She gets some eggs.			the person gets two eggs out of the fridge.			She took out eggs	She took out eggs	She took out eggs	She gets two eggs from the refrigerator and places them on the counter.		The person takes two eggs from the fridge.
+714	874	take out	hand	bowl	counter,drawer						She gets two eggs and a bowl.					She took out bowl	She took out bowl				
+880	919	close	hand		drawer								the person gets out a bowl.			She put egg in bowl		She took out bowl			The person takes a bowl from the drawer.
+938	1133	take out	hand	wire whisk	counter,drawer		She gets out a bowl and a whisk. 	Take two eggs, a small mixing bowl and a whisk.			She gets a whisk.		the person gets out a whisk.		The person gets out two eggs, a bowl and a whisk.	She took out beater	She took out beater	She took out beater	She gets a metal bowl from the drawer and places the egg in the bowl and gets out a whisk.	The person gets two eggs, a bowl and a whisk.	The person takes an egg beater from a drawer.
+1178	1231	wash	hand	bowl																	
+1231	1278	shake	hand	bowl												She washed bowl	She washed bowl	She washed bowl			The person rinses the bowl with water from the faucet.
+1303	1344	move	hand	egg	,sink							the person gets a wisk and a metal bowl									
+1355	1393	shake	hand	bowl																	
+1414	1456	dry	towel	bowl									the person rinses out and dries the bowl.								
+1519	1595	wash	hand	egg												She washed egg		She washed egg			
+1601	1641	shake	hand	egg																The person rinses the bowl and any debris off of the eggs.	
+1667	1765	open egg	hand	egg	bowl											She cracked egg	She cracked egg into bowl	She cracked first egg			
+1783	1869	wash	hand	hand												She washed egg shell					
+1869	1892	dry	sponge	hand																	
+1921	1985	throw in garbage	hand	eggshell												She threw out egg shell		She threw away egg shell			The person cracks one egg into the bowl and disposes of its shell into the trash.
+1995	2098	open egg	hand	egg	bowl									Person cracks eggs into bowl.		She cracked second egg	She cracked second egg in bowl	She cracked 2nd egg			
+2127	2163	throw in garbage	hand	eggshell			She cracks the eggs into the bowl. 	Gently crack the eggs on a hard surface and empty them into the bowl, discard of the shells.	Next, she cracks the eggs into a metal bowl and discards the shells. 	She cracks the eggs into a bowl.	She break the eggs into the bowl. 		the person cracks two eggs into the bowl and throws away the shells.		The person cracks the eggs into the bowl and throws away the shells.	She threw out shell		She threw away egg shell		The person cracks the eggs and drops the contents into a bowl, then discards the shells.	The person cracks the second egg into the bowl and disposes of its shell into the trash.
+2187	2255	wash	hand	hand		gather eggs & untensils, rinse eggs, crack into bowl, wash hands						the person cracks both Eggs into the bowl				She washed hands	She washed hands				
+2280	2332	wash	hand	wire whisk												She washed beater		She washed beater	She washes the bowl and an egg out, cracks the egg into the bowl, throwing the shell away, washes her hands, cracks the egg and puts it in the bowl, and washes the whisk.		
+2336	2375	shake	hand	wire whisk											The person rinses her hands and the whisk.						The person rinses her hands and the egg beater under the faucet.
+2453	2481	take out	hand	spice shaker	spice holder																
+2488	2501	screw	hand	spice shaker																	
+2514	2570	spice	spice shaker	salt	bowl									Person sprinkles salt into bowl.		She added salt					
+2572	2600	screw	hand	spice shaker			She salts the eggs. 	Add two dashes of salt to the eggs.													
+2600	2632	put in	hand	spice shaker	,spice holder																
+2632	2658	take out	hand	spice shaker	spice holder												She added salt				
+2663	2679	screw	hand	spice shaker																	
+2741	2774	spice	hand	spice shaker	bowl									Person sprinkles pepper into bowl.			She added pepper				
+2780	2820	screw	hand	spice shaker			She peppers the eggs. 	Then add one dash of pepper.		She seasons the eggs. 	She seasons the eggs.					She added pepper					
+2827	2849	put in	hand	spice shaker	,spice holder							the person seasons the Eggs with salt and pepper	she adds salt and pepper to the eggs.		The person adds salt and pepper to the eggs.				She puts salt and pepper on top of the eggs.	The person seasons the eggs.	The person adds several dashes of condiments into the bowl with the eggs.
+2899	3528	whisk	wire whisk	egg	bowl		She whisks the eggs. 	Mix the eggs till you have a light yellow color throughout.  	She then uses a whisk to beat/whisk the eggs. 	She whisks the eggs. 	She whisks the eggs. 		the person whisks the eggs.	Person beats eggs with whisk.	The person whisks the eggs.		She beat eggs		She uses the whisk to mix around the eggs.	The person vigorously whips the eggs with the whisk.	The person uses the egg beater to whisk the eggs.
+3621	3779	take out	hand	pan	drawer,stove									Person takes out pan.			She took out pan				
+3783	3871	turn on	hand	stove								the person scrambles the eggs with the wisk									
+3886	3928	change temperature	hand	stove				Place a cooking pan on the stove and turn on the heat.					The person gets out a frying pan and places it on the cooktop and turns on the burner.		The person gets out a pan, puts it on the stove and turns it on.		She turned on stove			The person puts a skillet on the stove and turns on the heat.	The person removes a pan from a drawer and puts it on the stove and turns it on.
+4018	4152	open	hand		fridge																
+4177	4246	open	hand		cupboard							the person gets a frying pan and heats it up									
+4354	4412	close	hand		cupboard																
+4427	4665	take out	hand	plastic box	counter,fridge												She took out butter				
+4665	4797	take out	hand	knife	,drawer												She took out knife				
+4825	4924	change temperature	hand	stove															She puts the frying pan on the oven, gets butter from the refrigerator, takes out a knife, and turns on the refrigerator.		
+4967	5017	wash	hand	knife																	
+5017	5067	shake	hand	knife																	
+5081	5164	remove lid	hand	lid	counter,plastic box																
+5219	5308	cut	knife	butter	plastic box			Cut a small piece of butter and place it in the pan.				the person gets butter and a sharp knife		Person slices a pat of butter. 							
+5329	5573	add	knife	butter	pan,plastic box						She adds butter to a pan.		The person gets out some butter, takes a knife and cuts off a tablespoon and puts it in the pan.		The person puts butter in the pan.						The person get some butter from the fridge and cuts a slice into the pan on the stove.
+5595	5660	change temperature	hand	stove						She gets a pan, turns on the stove and adds butter to the pan.											
+5669	5716	move	hand	plastic bag	counter		She heats up the pan and puts butter in it. 												She washes the knife, cuts off a piece of butter, and places it in the frying pan.	The person gets butter and a sharp knife, then adds butter to the hot skillet.	
+5742	5907	whisk	wire whisk	egg	bowl	salt and pepper eggs, whisk thoroughly, add butter to pan, allow time to melt			Next, she gets out a saute pan and she adds a square of butter to the pan.			the person slices a piece of butter and puts it in the pan		Person beats eggs again.							
+5922	6093	spread	pan	butter	pan			Melt the butter, insuring that it fully covers the entire pan.											She whisks the eggs around the bowl some more and moves the pan to spread out the butter.		
+6113	6178	open	hand		drawer								The person waits for the butter to melt.								
+6178	6304	take out	hand	spatula	,drawer										The person gets out a spatula.						
+6318	6638	spread	pan	butter	pan							the person gets a spatula 	The person gets out a spatula and turns the pan to melt the butter.	Person spreads butter around pan.							
+6741	6826	wash	hand	spatula																	
+6826	6854	shake	hand	spatula																	
+6873	6965	dry	towel	spatula																	
+6974	7007	move	hand	spatula	,counter															The person lets the butter melt in the skillet.	
+7067	7279	take out	hand	plate	,cupboard																
+7295	7343	close	hand		cupboard																
+7361	7434	move	hand	plate	,counter								The person gets out cheese.		The person gets out what looks like a plate of chopped onions.						
+7434	7481	spread	pan	butter	pan														She moves the butter around some more in the frying pan and takes out a plate from the cabinet.		
+7487	7585	whisk	wire whisk	egg	bowl				After the butter has melted and the pan has heated up she adds the eggs.			the person gets a plate									The person gets some shredded cheese from the pantry.
+7590	7747	add	bowl	egg	bowl,pan		Once the butter was melted, she adds the eggs to the pan. 	Place the mixed eggs into the pan to cook.		She adds the eggs to the pan.	She adds the eggs to the pan.			Person pours eggs into pan. 							
+7770	7828	move	hand	bowl,wire whisk	,sink															The person gets a plate with grated cheese on it and a spatula, then adds the egg mixture to the hot skillet.	The person pours the eggs into the pan and stirs them with a spatula.
+7858	8093	move	spatula	egg	pan							the person puts the Eggs in the pan		Person spreads eggs around pan. 					She pours the eggs in the frying pan and uses the spatula to spread them around.		
+8166	8844	move	spatula	egg	pan			After about one minute flip the eggs.													
+8851	8951	turn over	spatula	egg	pan									Person flips egg over.							
+8980	9074	move	spatula	egg	pan	after adding eggs in pan, allow some time to firm up, then gently flip eggs over to firm up on other side							The person pours in the eggs, lets it cook in one layer and then flips over the whole layer to cook the other side.		The person puts the egg in the pan and waits for the egg to cook.				She flips the eggs upside down in the pan with the spatula.	The person uses the spatula to even the egg mixture into a disc of cooked eggs, then flips it.	
+9101	9594	add	spatula	cheese	pan,plate			Add your ingredients you would like inside the eggs.	Using a rubber spatula she flips the eggs over once they have browned on one side. 	She adds cheese to the half-cooked eggs.				Person pours cheese onto egg. 							The person dumps the cheese onto the eggs in the pan.
+9618	9857	turn over	spatula	egg	pan			Fold half of the eggs over on top of the filling.	Next, she adds cheese to one half of the already browned side of egg and then folds the other half over.					Person folds half the egg over on itself. . Person flips egg over.	The person puts the stuff that looks like onions on the egg and folds the egg around them like an omelet.				She flips the egg over half way and presses down on it.	The person puts the cheese on the eggs and flips half of the cooked egg mixture over it.	
+10486	10731	turn over	spatula	egg	pan														She flips the egg over again and presses down on it.	The person allows the cheese to melt inside the eggs, then flips the eggs over.	
+10848	10939	change temperature	hand	stove																	
+10973	11019	move	spatula	egg	pan								The person puts the cheese on half of the cooking layer of eggs, then folds the other half of the eggs onto it and lets it melt and turns off the burner.		The person flips the omelet and keeps cooking.						
+11093	11283	take out	hand	plate	,cupboard	add prepared condiments, gently flip 1/2 firm egg mixture over condiments, test for firmness, flip over again, allow to brown slowly															The person takes a plate from the cupboard.
+11297	11351	wash	hand	plate																	
+11351	11380	shake	hand	plate											The person gets out a plate and rinses it.						
+11385	11408	move	hand	towel	,handle																
+11408	11469	dry	towel	plate																	
+11474	11530	move	hand	towel	,handle			Let stand for approximately two more minutes, flipping at least once during this time. 				the person turns the Eggs with the spatula 									
+11613	11785	move	spatula	egg	pan,plate	gently slide completed egg omelette onto plate	She stops cooking the eggs and puts them on a plate. 			She puts the eggs on a plate.	She finishes cooking and adds the eggs to the plate.			Person puts egg onto plate. 	The person puts the omelet on the plate.						
+11838	11941	move	hand	pan	,stove				Finally, she transfers the eggs from a pan onto a plate. 			the person gets a plate and transfers the Eggs to the plate	The person gets out a plate and puts the omelette onto the plate. (not scrambled eggs, by the way.)						She gets out a plate, washes it, dries it, and she uses the spatula to put the egg on the plate.	The person gets a clean plate and puts the scrambled eggs onto it.	
+12018	12092	move	hand	knife	counter,sink			Remove from pan and place on plate to serve.													
+12112	12152	put lid	hand	lid	counter,plastic box																
+12172	12320	put in	hand	plastic box	counter,fridge		She straightens up. 				She puts the butter away.				The person puts away the butter.				She puts the knife in the sink, puts the butter back in the refrigerator, and picks up the plate to put it in the sink.		

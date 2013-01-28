@@ -1,0 +1,80 @@
+294	596	take out	hand	cauliflower	counter,cupboard
+644	901	take out	cutting board,hand	counter,drawer	
+937	1220	take out	hand	knife	counter,drawer
+1234	1284	move	hand	cauliflower	counter,cutting board
+1306	1384	take apart	hand	cauliflower	cutting board
+1408	1447	cut	knife	cauliflower	cutting board
+1447	1483	take apart	hand	cauliflower	cutting board
+1522	1567	cut	knife	cauliflower	cutting board
+1567	1656	take apart	hand	cauliflower	cutting board
+1729	1779	cut	knife	cauliflower	cutting board
+1779	1816	take apart	hand	cauliflower	cutting board
+1841	1897	cut	knife	cauliflower	cutting board
+1897	1946	take apart	hand	cauliflower	cutting board
+1962	2021	take apart	hand	cauliflower	cutting board
+2072	2148	cut	knife	cauliflower	cutting board
+2148	2243	take apart	hand	cauliflower	cutting board
+2349	2463	cut	knife	cauliflower	cutting board
+2463	2493	move	hand	cauliflower	counter,cutting board
+2542	2583	cut	knife	cauliflower	cutting board
+2583	2624	take apart	hand	cauliflower	cutting board
+2624	2678	cut	knife	cauliflower	cutting board
+2725	2872	take apart	hand	cauliflower	cutting board
+2892	2939	cut	knife	cauliflower	cutting board
+2939	3024	take apart	hand	cauliflower	cutting board
+3024	3116	cut	knife	cauliflower	cutting board
+3160	3215	take apart	hand	cauliflower	cutting board
+3215	3294	cut	knife	cauliflower	cutting board
+3294	3373	take apart	hand	cauliflower	cutting board
+3394	3478	take apart	hand	cauliflower	cutting board
+3482	3520	take apart	hand	cauliflower	cutting board
+3525	3586	take apart	hand	cauliflower	cutting board
+3599	3693	take apart	hand	cauliflower	cutting board
+3693	3775	take apart	hand	cauliflower	cutting board
+3782	3831	move	hand	cauliflower	counter,cutting board
+3831	4072	gather	hand	cauliflower	counter,cutting board
+4080	4158	open	hand		drawer
+4242	4425	throw in garbage	cutting board	cauliflower	
+4458	4503	move	hand	cauliflower	counter,cutting board
+4528	4654	cut	knife	cauliflower	cutting board
+4788	4843	throw in garbage	hand	cauliflower	
+4870	4993	take apart	hand	cauliflower	cutting board
+4998	5031	throw in garbage	hand	cauliflower	
+5162	5265	cut	knife	cauliflower	cutting board
+5265	5317	take apart	hand	cauliflower	cutting board
+5349	5393	throw in garbage	hand	cauliflower	
+5596	5714	cut	knife	cauliflower	cutting board
+5714	5782	take apart	hand	cauliflower	cutting board
+5788	5865	take apart	hand	cauliflower	cutting board
+5886	5953	cut	knife	cauliflower	cutting board
+5969	6058	take apart	hand	cauliflower	cutting board
+6124	6225	cut	knife	cauliflower	cutting board
+6225	6300	take apart	hand	cauliflower	cutting board
+6305	6432	take apart	hand	cauliflower	cutting board
+6484	6575	cut	knife	cauliflower	cutting board
+6575	6617	take apart	hand	cauliflower	cutting board
+6623	6672	cut	knife	cauliflower	cutting board
+6672	6726	take apart	hand	cauliflower	cutting board
+6759	6875	cut	knife	cauliflower	cutting board
+6875	6986	take apart	hand	cauliflower	cutting board
+7043	7084	take apart	hand	cauliflower	cutting board
+7091	7207	take apart	hand	cauliflower	cutting board
+7276	7358	cut	knife	cauliflower	cutting board
+7358	7439	cut	knife	cauliflower	cutting board
+7478	7525	take apart	hand	cauliflower	cutting board
+7556	7644	cut	knife	cauliflower	cutting board
+7644	7716	take apart	hand	cauliflower	cutting board
+7716	7861	cut	knife	cauliflower	cutting board
+7861	7936	take apart	hand	cauliflower	cutting board
+7936	8044	cut	knife	cauliflower	cutting board
+8044	8107	take apart	hand	cauliflower	cutting board
+8213	8270	throw in garbage	hand	cauliflower	
+8324	8393	wash	hand	hand	
+8458	8493	dry	towel	hand	
+8526	8673	take out	hand	colander	counter,drawer
+8666	8708	add	hand	cauliflower	colander,cutting board
+8711	8771	add	hand	cauliflower	colander,cutting board
+8774	8830	add	hand	cauliflower	colander,cutting board
+8832	8879	add	hand	cauliflower	colander,cutting board
+8879	8934	move	hand	colander	counter,sink
+8948	9293	wash	hand	cauliflower	colander

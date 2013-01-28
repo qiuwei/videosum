@@ -1,0 +1,19 @@
+230	350	take out	hand	cutting board	counter,drawer
+350	377	close	hand		drawer
+377	527	take out	hand	knife	cutting board,drawer
+527	560	close	hand		drawer
+582	874	take out	hand	plastic paper bag	,fridge
+911	947	remove from package	hand	bread	cutting board,plastic paper bag
+978	1537	slice	knife	bread	cutting board
+1575	1643	package	hand	bread	cutting board,plastic paper bag
+1643	1882	put in	hand	plastic paper bag	counter,fridge
+1884	2134	take out	hand	plate	counter,cupboard
+2138	2245	move	hand	bread	cutting board,plate
+2389	2445	clean	sponge	knife	
+2458	2526	wash	hand	knife	
+2526	2546	shake	hand	knife	
+2546	2610	dry	towel	knife	
+2616	2702	put in	hand	knife	,drawer
+2749	2805	gather	hand	garbage	counter,cutting board
+2812	2994	throw in garbage	cutting board,hand	garbage	
+3029	3155	put in	hand	cutting board	,drawer

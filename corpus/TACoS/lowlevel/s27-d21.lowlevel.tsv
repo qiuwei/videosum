@@ -1,0 +1,13 @@
+240	559	take out	hand	cucumber	counter,fridge
+567	813	take out	hand	cutting board	counter,drawer
+813	876	close	hand		drawer
+912	1095	take out	hand	knife	cutting board,drawer
+1181	1220	move	hand	sponge	counter,faucet
+1226	1359	wash	hand	cucumber	
+1359	1420	shake	hand	cucumber	
+1447	1467	move	hand	knife	counter,cutting board
+1493	1753	take out	hand	knife	,drawer
+1884	2228	slice	knife	cucumber	cutting board
+2341	2646	slice	knife	cucumber	cutting board
+3126	4135	chop	knife	cucumber	cutting board
+4135	4207	move	hand	cucumber	counter,cutting board

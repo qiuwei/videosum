@@ -1,0 +1,92 @@
+s22-d35_3_1	She took out plum	s22-d35	263	592	plum	569
+s22-d35_3_2	She washed plum	s22-d35	594	728	plum	735
+s22-d35_3_3	She took out cutting board	s22-d35	777	1222	plum	1179
+s22-d35_3_4	She sliced plum	1232	2239
+s22-d35_3_5	She stood over cut plum	1232	2239
+s22-d35_4_1	The person opens the refrigerator.	263	526
+s22-d35_4_2	The person retrieves a plum from the refrigerator.	263	526
+s22-d35_4_3	The person closes the refrigerator.	263	526
+s22-d35_4_4	The person moves a towel to her work area, beside the sink.	s22-d35	526	592	plum	603
+s22-d35_4_5	The person rinses and dries the plum.	s22-d35	594	872	plum	891
+s22-d35_4_6	The person retrieves a knife and a cutting board.	s22-d35	917	1222	plum	1231
+s22-d35_4_7	The person cuts across the center of the plum, rotating the plum as she does this.	s22-d35	1232	1554	plum	1573
+s22-d35_4_8	The person tries to pry apart the plum, but cannot do so.	s22-d35	1575	1663	plum	1699
+s22-d35_4_9	The person succeeds in cutting the plum in half.	1696	2239
+s22-d35_4_10	The person sets the knife down, and the plum rests on the cutting board.	1696	2239
+s22-d35_5_1	Person walks up to refrigerator.	263	526
+s22-d35_5_2	Person opens refrigerator.	263	526
+s22-d35_5_3	Person pulls plum from crisper drawer.	263	526
+s22-d35_5_4	Person closes refrigerator door.	263	526
+s22-d35_5_5	Person rinses plum.	s22-d35	526	688	plum	693
+s22-d35_5_6	Person dries plum with towel.	s22-d35	688	872	plum	903
+s22-d35_5_7	Person pulls knife from drawer.	s22-d35	917	1024	plum	1027
+s22-d35_5_8	Person cuts plum into several slices.	s22-d35	1024	2239	plum	2275
+s22-d35_6_1	She grabs a plum.	s22-d35	263	526	plum	467
+s22-d35_6_2	She rinses it.	s22-d35	526	728	plum	709
+s22-d35_6_3	She gets a knife.	s22-d35	777	1024	plum	1037
+s22-d35_6_4	She gets a cutting board.	s22-d35	1024	1222	plum	1213
+s22-d35_6_5	She cuts the plum.	s22-d35	1232	2239	plum	2535
+s22-d35_7_1	The person procures a plum from the fridge.	s22-d35	263	526	plum	531
+s22-d35_7_2	The person picks up a towel, washes the plum in the sink, then dries it in the towel.	s22-d35	526	872	plum	867
+s22-d35_7_3	The person takes out a knife from the drawer.	s22-d35	917	1024	plum	1037
+s22-d35_7_4	The person takes out a cutting board from the drawer.	s22-d35	1024	1222	plum	1189
+s22-d35_7_5	The person cuts the plum up without removing the core.	s22-d35	1232	2239	plum	2527
+s22-d35_8_1	The person procures a plum from the fridge.	s22-d35	263	526	plum	539
+s22-d35_8_2	The person picks up a towel, washes the plum in the sink, then dries it in the towel.	s22-d35	526	872	plum	875
+s22-d35_8_3	The person takes out a knife from the drawer.	s22-d35	917	1024	plum	1033
+s22-d35_8_4	The person takes out a cutting board from the drawer.	s22-d35	1024	1222	plum	1211
+s22-d35_8_5	The person cuts the plum up without removing the core.	s22-d35	1232	2239	plum	2293
+s22-d35_9_1	She grabs a plum.	s22-d35	263	526	plum	477
+s22-d35_9_2	She rinses it.	s22-d35	526	728	plum	711
+s22-d35_9_3	She dries the plum off.	s22-d35	777	872	plum	871
+s22-d35_9_4	She gets a knife and a cutting board.	s22-d35	917	1222	plum	1219
+s22-d35_9_5	She cuts the plum.	s22-d35	1232	2239	plum	2509
+s22-d35_10_1	She goes to the refrigerator and takes out a plum.	s22-d35	263	526	plum	531
+s22-d35_10_2	She takes the plum to the sink and washes it.	s22-d35	526	688	plum	697
+s22-d35_10_3	She take the plum and dries it in a towel.	s22-d35	688	872	plum	901
+s22-d35_10_4	She opens up a drawer and takes out a knife and then a cutting board.	s22-d35	917	1222	plum	1239
+s22-d35_10_5	She then takes the plum and cuts it into pieces.	s22-d35	1232	2239	plum	2553
+s22-d35_11_1	The person procures a plum from the fridge.	s22-d35	263	526	plum	547
+s22-d35_11_2	The person picks up a towel, washes the plum in the sink, then dries it in the towel.	s22-d35	526	872	plum	893
+s22-d35_11_3	The person takes out a knife from the drawer.	s22-d35	917	1024	plum	1033
+s22-d35_11_4	The person takes out a cutting board from the drawer.	s22-d35	1024	1222	plum	1209
+s22-d35_11_5	The person cuts the plum up without removing the core.	s22-d35	1232	2239	plum	2345
+s22-d35_12_1	She took out plum	s22-d35	263	526	plum	539
+s22-d35_12_2	She washed plum	s22-d35	526	728	plum	755
+s22-d35_12_3	She took out knife	s22-d35	777	1073	plum	1069
+s22-d35_12_4	She took out cutting board	s22-d35	1080	1267	plum	1295
+s22-d35_12_5	She sliced up plum	s22-d35	1337	2239	plum	2497
+s22-d35_13_1	She retrieves a plumb from the fridge.	s22-d35	263	592	plum	621
+s22-d35_13_2	She rinses the plumb off in the sink.	s22-d35	594	728	plum	753
+s22-d35_13_3	She obtains a knife and a cuttingboard.	s22-d35	777	1267	plum	1255
+s22-d35_13_4	She cuts the plumb in half.	1337	2239
+s22-d35_13_5	She cuts one portion of the plumb into smaller pieces.	1337	2239
+s22-d35_14_1	The woman gets a plum.	s22-d35	263	526	plum	547
+s22-d35_14_2	The woman gets a towel.	s22-d35	526	592	plum	597
+s22-d35_14_3	The woman washes the plum off with water and the towel.	s22-d35	594	872	plum	901
+s22-d35_14_4	The woman get a knife and cutting board.	s22-d35	917	1267	plum	1266
+s22-d35_14_5	The woman cuts the plum around the seed.	s22-d35	1337	2239	plum	2553
+s22-d35_16_1	She gets a plum from the fridge.	s22-d35	263	526	plum	421
+s22-d35_16_2	She rinses off the plum in the sink.	s22-d35	526	688	plum	672
+s22-d35_16_3	She dries the plum with a kitchen towel.	s22-d35	688	872	plum	877
+s22-d35_16_4	She gets a knife and cutting board from the drawer and cupboard.	s22-d35	917	1222	plum	1184
+s22-d35_16_5	She slices the plum in half and then into slices.	s22-d35	1232	2239	plum	2217
+s22-d35_17_1	The person takes a plum out of the refrigerator.	s22-d35	263	526	plum	519
+s22-d35_17_2	The person washes the plum.	s22-d35	526	688	plum	690
+s22-d35_17_3	The person dries the plum with a cloth.	s22-d35	688	872	plum	889
+s22-d35_17_4	The person takes a paring knife from the drawer.	s22-d35	917	1073	plum	1070
+s22-d35_17_5	The person takes a small chopping board out from the drawer.	s22-d35	1080	1222	plum	1213
+s22-d35_17_6	The person chops the plum into a few small sections.	s22-d35	1232	2239	plum	2553
+s22-d35_18_1	The person takes the peach out of the refridgerator	s22-d35	263	526	plum	529
+s22-d35_18_2	The person washes the peach	s22-d35	526	728	plum	711
+s22-d35_18_3	The person dries the peach	s22-d35	777	872	plum	885
+s22-d35_18_4	The person takes out the knife and cutting board	s22-d35	917	1222	plum	1235
+s22-d35_18_5	The person places the peach on the cutting board	s22-d35	1232	1267	plum	1339
+s22-d35_18_6	The person cuts the peach into five slices	s22-d35	1337	2239	plum	2213
+s22-d35_19_1	She took out plum	s22-d35	263	592	plum	563
+s22-d35_19_2	She washed plum	s22-d35	594	688	plum	689
+s22-d35_19_3	She dried plum	s22-d35	688	872	plum	873
+s22-d35_19_4	She took out knife	s22-d35	917	1024	plum	1031
+s22-d35_19_5	She took out cutting board	s22-d35	1024	1222	plum	1213
+s22-d35_19_6	She cut plum in half	1232	2239
+s22-d35_19_7	She sliced up plum	1232	2239

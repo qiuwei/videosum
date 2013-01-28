@@ -1,0 +1,130 @@
+s33-d54_1_1	The woman sets up her station by grabbing a peeler, some plates and a mango.	204	1157
+s33-d54_1_2	The woman tries to use the peeler on the mango but it doesn't work.	204	1157
+s33-d54_1_3	With a knife, the woman peels of the out skin of the mango.	s33-d54	1385	3613	mango	3637
+s33-d54_1_4	The woman shaves off pieces of the mango around the large seed inside.	s33-d54	3658	5581	mango	5607
+s33-d54_1_5	On another plate, the woman chops the mango slices into smaller pieces.	s33-d54	5631	7666	mango	7697
+s33-d54_1_6	The woman removes the last bits of flesh from the mango core.	s33-d54	7725	9528	mango	9547
+s33-d54_1_7	The woman cleans her station by, throwing away the excess peeling, washing the extra plates, the knife, the peeler, and her hands.	s33-d54	9586	10677	mango	10680
+s33-d54_2_1	Get your peeler ready.	204	753
+s33-d54_2_2	Get your mango from the fridge.	204	753
+s33-d54_2_3	Get two plates on place on counter, placing the mango on one plate.	s33-d54	770	1157	mango	1200
+s33-d54_2_4	Put the peeler down and grab a knife.	s33-d54	1385	1548	mango	1578
+s33-d54_2_5	Using your knife, remove all the peel from the mango.	s33-d54	1573	3613	mango	3684
+s33-d54_2_6	Cut the mango in pieces from around the seed.	s33-d54	3658	5581	mango	5620
+s33-d54_2_7	Get an additional plate.	s33-d54	5631	5943	mango	5980
+s33-d54_2_8	Cut pieces of mango into smaller pieces on the third plate.	s33-d54	5947	7666	mango	7738
+s33-d54_2_9	Return to mango seed and cut off any additional pieces you may have missed.	s33-d54	7725	9528	mango	9630
+s33-d54_2_10	Discard seed and peel in the trash, clean your dishes and you are done.	s33-d54	10698	10844	mango	10894
+s33-d54_3_1	She gets a mango, peeler, and two plates.	s33-d54	204	1076	mango	1068
+s33-d54_3_2	She gets a knife and peels the mango.	s33-d54	1113	3613	mango	3656
+s33-d54_3_3	She cuts away half of the mango.	s33-d54	3658	5581	mango	5742
+s33-d54_3_4	She gets another plate and puts in on the counter.	s33-d54	5631	5943	mango	5936
+s33-d54_3_5	She chops the mango and cuts away the good food from the other half .	s33-d54	5947	9726	mango	9674
+s33-d54_3_6	She cleans up.	s33-d54	9586	10844	mango	10878
+s33-d54_4_1	She took out peeler	s33-d54	204	487	mango	462
+s33-d54_4_2	She took out mango	s33-d54	522	753	mango	766
+s33-d54_4_3	She took out two plates	s33-d54	770	1076	mango	1040
+s33-d54_4_4	She took out knife	s33-d54	1113	1548	mango	1562
+s33-d54_4_5	She peeled mango	s33-d54	1573	3613	mango	3640
+s33-d54_4_6	She sliced mango	s33-d54	3658	5581	mango	5618
+s33-d54_4_7	She took out plate	s33-d54	5631	5897	mango	5886
+s33-d54_4_8	She cut up slices	s33-d54	5919	7666	mango	7690
+s33-d54_5_1	The person takes out two plates, a mango, and a paring knife.	s33-d54	204	1548	mango	1660
+s33-d54_5_2	The person uses the knife to peel the skin and puts the skin on one plate.	s33-d54	1573	3613	mango	3616
+s33-d54_5_3	The person cuts the mango away from the core in large chunks and puts it on the other plate.	s33-d54	3658	5581	mango	5604
+s33-d54_5_4	The person takes out another plate.	s33-d54	5631	5897	mango	5906
+s33-d54_5_5	The person cuts the chunks into smaller pieces on the new plate.	s33-d54	5919	7666	mango	7684
+s33-d54_5_6	The person uses the knife to cut the leftover meat from the core onto the second plate.	s33-d54	7725	9528	mango	9556
+s33-d54_5_7	The person transfers the mango meat to the third plate.	s33-d54	9586	9726	mango	9672
+s33-d54_5_8	The person rinses the knife and second plate.	s33-d54	9736	10170	mango	10174
+s33-d54_5_9	The person throws away the skin and core.	s33-d54	10201	10504	mango	10468
+s33-d54_5_10	The person rinses the first dish and her hands.	s33-d54	9736	10844	mango	10894
+s33-d54_6_1	She gets a peeler, a mango, and two plates.	s33-d54	204	1076	mango	1068
+s33-d54_6_2	She gets a knife and peels the mango.	s33-d54	1113	3613	mango	3650
+s33-d54_6_3	She cuts the good parts from the pit.	s33-d54	3658	5581	mango	5638
+s33-d54_6_4	She gets a plate.	s33-d54	5631	5897	mango	5896
+s33-d54_6_5	She chops the mango and gets the last bits from the pit.	s33-d54	7725	9726	mango	9744
+s33-d54_6_6	She cleans up.	s33-d54	10516	10736	mango	10738
+s33-d54_8_1	She gets out a peeler from the drawer, a mango from the refrigerator, and two plates from the cabinet.	s33-d54	204	1157	mango	1194
+s33-d54_8_2	She attempts to use the peeler on the mango and takes out a knife.	s33-d54	1385	1548	mango	1612
+s33-d54_8_3	She uses the knife to cut off the peel of the mango.	s33-d54	1573	3613	mango	3654
+s33-d54_8_4	She cuts off the sides of the mango.	s33-d54	3658	5581	mango	5654
+s33-d54_8_5	She gets out another plate and takes each piece of mango from the original plate and cuts it into smaller pieces on the new plate.	s33-d54	5631	7666	mango	7734
+s33-d54_8_6	She cuts off the edges of the mango core onto the middle plate.	s33-d54	5919	9528	mango	9580
+s33-d54_8_7	She pours the mango pieces on the middle plate onto the plate with the other pieces of mango.	s33-d54	9586	9817	mango	9854
+s33-d54_8_8	She washes the plate and knife in the sink and places the peeler in the sink.	s33-d54	9867	10251	mango	10266
+s33-d54_8_9	She disposes of the mango peels in the trash and washes off the plate.	s33-d54	9736	10736	mango	10720
+s33-d54_8_10	She dries off her hands.	s33-d54	10743	10844	mango	10894
+s33-d54_9_1	The person selects a peeler.	s33-d54	204	487	mango	470
+s33-d54_9_2	A mango is removed from the refrigerator.	s33-d54	522	753	mango	760
+s33-d54_9_3	Two plates are removed for the mango.	s33-d54	770	1076	mango	1072
+s33-d54_9_4	The person selects a knife.	s33-d54	1113	1548	mango	1544
+s33-d54_9_5	The mango is peeled over a plate.	s33-d54	1573	3613	mango	3630
+s33-d54_9_6	The mango flesh is sliced away from the seed on the other plate.	s33-d54	3658	5581	mango	5608
+s33-d54_9_7	Another plate is removed.	s33-d54	5631	5897	mango	5888
+s33-d54_9_8	The person chops the pieces on the new plate.	s33-d54	5919	7666	mango	7686
+s33-d54_9_9	The seed is trimmed closer.	s33-d54	7725	9528	mango	9560
+s33-d54_9_10	The fruit is placed on the plate.	s33-d54	9586	9726	mango	9732
+s33-d54_9_11	The plate and knife are washed.	s33-d54	9736	10170	mango	10158
+s33-d54_9_12	The scraps are discarded.	s33-d54	10201	10504	mango	10508
+s33-d54_9_13	The plate and peeler are washed.	s33-d54	10516	10677	mango	10708
+s33-d54_9_14	The mango is ready.	s33-d54	10743	10844	mango	10878
+s33-d54_10_1	She gets a peeler.	s33-d54	204	487	mango	520
+s33-d54_10_2	She gets two plates and a mango.	s33-d54	522	1076	mango	1052
+s33-d54_10_3	She gets a knife and peels the mango.	s33-d54	1113	3613	mango	3648
+s33-d54_10_4	She chops the mango.	s33-d54	7725	9726	mango	9720
+s33-d54_10_5	She cleans up.	s33-d54	10284	10844	mango	10880
+s33-d54_11_1	The person gets out a vegetable peeler.	s33-d54	204	487	mango	492
+s33-d54_11_2	The person gets out a mango.	s33-d54	522	753	mango	758
+s33-d54_11_3	The person gets out two plates.	s33-d54	770	1076	mango	1036
+s33-d54_11_4	The person tries to peel the mango with the peeler.	s33-d54	1113	1157	mango	1386
+s33-d54_11_5	The person gets out a knife.	s33-d54	1385	1548	mango	1592
+s33-d54_11_6	The person peels the mango.	s33-d54	1573	3613	mango	3642
+s33-d54_11_7	The person cuts chunks off the mango.	s33-d54	3658	5581	mango	5602
+s33-d54_11_8	The person gets out a third plate.	s33-d54	5631	5897	mango	5898
+s33-d54_11_9	The person cuts the mango chunks into smaller pieces and puts them on the plate.	s33-d54	3658	9726	mango	9732
+s33-d54_11_10	The person rinses an empty plate and knife.	s33-d54	9736	10170	mango	10214
+s33-d54_11_11	The person throws away the mango peel and pit.	s33-d54	10201	10504	mango	10506
+s33-d54_11_12	The person rinses the rest of the dishes.	s33-d54	10698	10777	mango	10784
+s33-d54_12_1	Took out tool	s33-d54	204	487	mango	476
+s33-d54_12_2	She took out mango	s33-d54	522	753	mango	747
+s33-d54_12_3	She took out dishes	s33-d54	770	1157	mango	1142
+s33-d54_12_4	She took out knife	s33-d54	1385	1548	mango	1546
+s33-d54_12_5	She peeled mango	s33-d54	1573	3613	mango	3627
+s33-d54_12_6	She cut mango into large chuncks	s33-d54	3658	5581	mango	5610
+s33-d54_12_7	She sliced up mango	s33-d54	5919	9726	mango	9740
+s33-d54_13_1	the person gets a peeler	s33-d54	204	753	mango	868
+s33-d54_13_2	the person gets 2 plates	s33-d54	770	1157	mango	1346
+s33-d54_13_3	the person gets a sharp knife	s33-d54	1385	1548	mango	1894
+s33-d54_13_4	the person peels off the skin of the Mango with the knife	s33-d54	1573	3613	mango	3810
+s33-d54_13_5	the person cuts piece off of the Mango with the knife	s33-d54	3658	5897	mango	5800
+s33-d54_13_6	the person gets another plate	s33-d54	5919	7666	mango	7708
+s33-d54_13_7	the person dices the pieces of Mango	s33-d54	5631	8105	mango	8518
+s33-d54_13_8	the person cuts more piece of Manga from around the seed	s33-d54	9736	9817	mango	9904
+s33-d54_14_1	She took out peeler	s33-d54	204	487	mango	463
+s33-d54_14_2	She took out mango	s33-d54	522	753	mango	751
+s33-d54_14_3	She took out plates	s33-d54	770	1076	mango	1014
+s33-d54_14_4	She took out knife	s33-d54	1113	1548	mango	1510
+s33-d54_14_5	She peeled mango	s33-d54	1573	3613	mango	3755
+s33-d54_14_6	She sliced mango	s33-d54	3658	4729	mango	4819
+s33-d54_15_1	She opens the drawer and gets out a peeler, gets a mango from the refrigerator, gets two plates from the cabinet, and places a mango on one of the plates.	s33-d54	204	1076	mango	1091
+s33-d54_15_2	She attempts to use the peeler, but it seems difficult, so she gets out a knife and uses it to cut the skin off of the mango.	s33-d54	1113	3613	mango	3693
+s33-d54_15_3	She cuts the sides off the mango until she reaches the core.	s33-d54	4729	5581	mango	5648
+s33-d54_15_4	She takes each piece of mango from one plate and places it on the other plate, cutting it into smaller pieces.	s33-d54	5631	7666	mango	7745
+s33-d54_15_5	She takes the core and uses the knife to cut off pieces of mango from it onto the now empty plate, and then uses the knife to brush the pieces of mango onto the plate with the other pieces of mango.	s33-d54	7725	9726	mango	9752
+s33-d54_15_6	She washes the now empty plate and knife in the sink and places them to the side.	s33-d54	9867	10251	mango	10231
+s33-d54_15_7	She places the peeler in the sink, disposes of the mango skin in the trash, and puts the plate and peeler to the side before wetting and drying her hands.	s33-d54	10777	10844	mango	10896
+s33-d54_16_1	The person got out a vegetable peeler.	s33-d54	204	487	mango	540
+s33-d54_16_2	The person got out a mango.	s33-d54	522	753	mango	751
+s33-d54_16_3	The person got out two plates.	s33-d54	770	1076	mango	1073
+s33-d54_16_4	The person got out a pairing knife.	s33-d54	1113	1548	mango	1562
+s33-d54_16_5	The person peeled the mango with the knife.	s33-d54	1573	3613	mango	3675
+s33-d54_16_6	The person cut the flesh off the core.	s33-d54	3658	5581	mango	5606
+s33-d54_16_7	The person got out a third plate.	s33-d54	5631	5897	mango	5844
+s33-d54_16_8	The person diced the mango.	s33-d54	7725	9726	mango	9724
+s33-d54_16_9	The person cleaned up.	s33-d54	9736	10844	mango	10896
+s33-d54_18_1	A woman enters kitchen, removes a peeler from the drawer, a mango from the refrigerator, two plates from the cupboard and places them all on the counter top.	s33-d54	204	1157	mango	1216
+s33-d54_18_2	The woman begins to peel the mango with the peeler, stops and removes a knife from the drawer and opts to use the knife to peel the mango instead.	s33-d54	1385	1548	mango	1580
+s33-d54_18_3	The woman peels the mango.	s33-d54	1573	3613	mango	3674
+s33-d54_18_4	The woman peels the mango and removes another plate from the cupboard and places it on the counter top.	s33-d54	3658	6068	mango	6026
+s33-d54_18_5	The woman carves the mango away from the core and dices it up on the third plate.	s33-d54	5919	9726	mango	9754

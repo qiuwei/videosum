@@ -1,0 +1,19 @@
+255	309	open	hand		fridge
+453	517	rip open	hand	plastic bag	
+517	631	remove from package	hand	pepper	plastic bag
+633	829	take out	hand	pepper	counter,fridge
+836	948	take out	hand	cutting board	counter,drawer
+954	995	put in	hand	cutting board	counter,drawer
+1001	1147	take out	hand	cutting board	counter,drawer
+1149	1197	close	hand		drawer
+1197	1413	take out	hand	knife	cutting board,drawer
+1413	1465	close	hand		drawer
+1491	1576	wash	hand	pepper	
+1576	1612	shake	hand	pepper	
+1640	1676	shake	hand	pepper	
+2002	2115	cut	knife	pepper	cutting board
+2123	3246	cut	knife	pepper	cutting board
+3257	3521	cut	knife	pepper	cutting board
+3526	3655	gather	hand	seed	cutting board
+3659	3903	gather	knife	seed	cutting board
+4395	4604	throw in garbage	hand	seed	

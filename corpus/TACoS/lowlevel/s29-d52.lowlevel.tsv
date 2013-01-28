@@ -1,0 +1,21 @@
+243	473	take out	hand	cutting board	counter,drawer
+473	577	take out	hand	knife	cutting board,drawer
+612	793	take out	hand	kiwi	cutting board,fridge
+796	884	cut	knife	kiwi	cutting board
+924	985	take out	hand	peeler	,drawer
+1053	1407	peel	peeler	kiwi	
+1460	1485	move	hand	peel	counter,cutting board
+1516	2058	peel	peeler	kiwi	
+2120	2352	peel	peeler	kiwi	
+2510	2729	peel	peeler	kiwi	
+2782	2844	cut	knife	kiwi	cutting board
+2844	3014	slice	knife	kiwi	cutting board
+3014	3100	chop	knife	kiwi	cutting board
+3141	4606	peel	knife	kiwi	
+4699	4881	cut	knife	kiwi	cutting board
+5066	5305	cut	knife	kiwi	
+5394	5551	slice	knife	kiwi	cutting board
+5567	5657	chop	knife	kiwi	cutting board
+5670	5718	move	hand	peeler	counter
+5723	5744	move	hand	knife	counter,cutting board
+5744	5774	move	hand	cutting board	counter

@@ -1,0 +1,71 @@
+194	405	take out	hand	bowl	counter,cupboard	Person gets out bowl.		The man enters the kitchen and retrieves a metal bowl from the cabinet.	person gets bowl	He takes a mixing bowl out of the cabinet				A bowl is removed from a cabinet.			The person procures a metal bowl from the cabinet.	He took out bowl	He took out bowl		The person gets a bowl out of the cupboard.		He took out bowl	
+423	764	take out	hand	egg	counter,fridge	Person takes out eggs.			person gets two eggs	He gets two eggs from the refrigerator.	He gets a bowl and two eggs.		The person takes a stainless steel bowl from the cabinet.. The person took two eggs from the refrigerator.	Two eggs are removed from the refrigerator.			The person procures a pair of eggs from the fridge.	He took out eggs	He took out eggs			The person got out a bowl.. The person got out two eggs.	He took out eggs	The man pulls out a bowl and eggs.
+787	1124	take out	hand	teaspoon	counter,drawer			The man retrieves two eggs from the refrigerator.								Take out a bowl, 2 eggs, and a fork.		He took out spoon	He took out fork	He gets out a bowl, eggs, and a utensil.	The person gets two eggs out of the fridge.			
+1152	1224	wash	hand	bowl			He gets out the eggs and a bowl.	The man retrieves a spoon from the drawer.		He takes out a fork.		He gets out 2 eggs, a bowl and a fork. 	A fork was taken from the drawers.				The person takes out a fork from the drawer.	He washed bowl				The person got out a fork.	He took out fork	
+1240	1339	shake	hand	bowl		Person rinses bowl.			person gets fork					A fork is removed and the bowl is rinsed.	He gets out a bowl from the cabinet, two eggs from the refrigerator, and a spoon from the drawer.. He washes the bowl in the sink and shakes it to dry it off.				He washed bowl		The person picks out a fork.		He washed bowl	The man pulls out a fork.
+1364	1775	open egg	bowl,hand	egg	bowl													He cracked first egg	He cracked first egg					
+1785	1813	throw in garbage	hand	egg shell				The man rinses the bowl and cracks one egg on the edge of the bowl before discarding the shell.		He breaks the eggs into the bowl.								He threw out first shell	He threw away shell				He cracked first egg	
+1840	2045	open egg	bowl,hand	egg	bowl	Person cracks eggs into bowl.												He cracked second egg	He cracked second egg	He cracks the eggs.			He threw away shell	
+2053	2082	throw in garbage	hand	egg shell														He threw out second shell	He threw away shell					
+2089	2162	wash	hand	hand														He washed hands	He washed hands					
+2167	2200	shake	hand	hand																				
+2205	2242	take out	hand	spice shaker	,spice holder		He breaks the eggs.	The man cracks the second egg on the edge of the bowl and discards that shell.	person crack both eggs in bowl		He cracks the eggs into the bowl. 		The man cracked two eggs into the stainless steel bowl and put the shells in the trash.	The eggs are cracked and the shells are discarded.	He cracks the eggs on the side of the bowl and empties them into the bowl, throwing the shells away into the trash.	Crack the eggs into the bowl.							He cracked second egg. He threw away shell	The man cracks the eggs and discards the shells.
+2249	2298	screw	hand	spice shaker						He adds some seasoning to the uncooked eggs.		He cracks the eggs into the bowl. 		The person rinses their hands.			The person rinses the bowl in the sink, then cracks each egg into the bowl and throws the shells into the wastebin before washing his hands.				The person washes out the bowl and cracks the eggs inside.	The person cracked the eggs into the bowl.	He washed hands	
+2326	2618	spice	spice shaker	salt	bowl,spice shaker	Person sprinkles salt into bowl.												He added salt	He added salt 					
+2634	2689	screw	hand	spice shaker																He seasons the eggs.				
+2693	2725	put in	hand	spice shaker	,spice holder								The person added salt to the eggs.			Season the eggs.						The person put salt on the eggs.	He added salt 	
+2779	2866	wash	hand	teaspoon				The man gathers a seasoning from the counter and carefully sprinkles it into the bowl of yolks.	person adds pepper to eggs						He washes his hands, shakes them to dry them off, and pats some salt into the bowl.			He washed spoon						
+2871	2924	shake	hand	teaspoon						He stirs the eggs, to mix them evenly and mix in the seasoning.		He salts the eggs. 		Seasoning is added to the eggs.					He washed fork		The person adds a fine layer of salt to the eggs in the bowl, making sure that each piece of egg receives a grain.		He washed the fork	The man adds salt to the eggs.
+2945	3349	stir	teaspoon	egg	bowl													He beat eggs	He beat eggs					
+3360	3407	stir	teaspoon	egg	bowl	Person beats eggs with fork.																		
+3413	3475	turn on	hand	stove									The eggs were whisked with a fork.							He whisks the eggs.			He scrambled egg	
+3485	3559	change temperature	hand	stove			He seasons the eggs and scrambles them.	The man picks up the spoon, rinses it in the sink and then places it in the bowl and begins to carefully mix the egg yolks until they are fully mixed.	person scrambles eggs with fork					The eggs are mixed.	He uses the spoon to mix the eggs.		The person adds salt to the eggs and then stirs them up with the fork.	He turned on stove	He turned on stove		The person washes the fork and scrambles the eggs in the bowl.			The man whips the eggs with the fork.
+3579	3693	take out	hand	pan	,drawer			The man preheats the stove before retrieving a pan.		He sets the temperature on the stove.			The man turned on the stove.			Stir the eggs with the fork.		He took out pan	He took out pan			The person beat the eggs with a fork.	He turned on stove	
+3720	3960	take out	hand	bottle	counter,cupboard	Person puts pan on heated oven. 							A pan was taken out of a drawer.	The stove is turned on and a pan is selected.				He took out oil	He took out oil	He puts a pan on the stove.		The person got out a frying pan.. The person got out some oil.	He took out pan. He took out oil	
+4081	4145	screw	hand	bottle					person gets pan and oil						He turns on the stove, gets out a frying pan and some oil, and places the frying pan on the stove.		The person turns on the stove, then takes out a pan before going to the pantry and getting a bottle of oil.							
+4188	4290	pour	bottle	oil	bottle,pan					He adds cooking oil to the skillet.						Put a frying pan over the burner and add oil.					The person gets out a frying pan, turns on the burner and gets out the oil.			
+4354	4474	spread	pan	oil	pan		He puts an oiled pan on a hot stove top.				He heats a pan and puts oil in it. 		The man put oil onto the pan.											
+4524	4569	pour	bottle	oil	bottle,pan	Person pours oil in pan and distributes it around.				He greases the pan, evenly with the cooking oil.				Oil is removed and added to the pan.										
+4607	4678	screw	hand	bottle				The man retrieves oil from the cabinet, then places the pan on the stove and pours oil into the frying pan and mixes it around in the pan.				He put some oil in a pan. 												
+4705	4908	stir	teaspoon	egg	bowl				person add oil to pan												The person adds the oil to the pan and swishes it around.			He prepares a pan by adding oil.
+4923	5042	stir	teaspoon	egg	bowl																			
+5094	5172	spread	pan	oil	pan																			
+5226	5356	take out	hand	spatula	,drawer					He checks the temperature of the skillet.														
+5471	5567	put in	hand	spatula	,drawer										He pours oil in the pan, mixes the eggs some more, turns the pan to spread out the oil, and takes out a spoon from the drawer.									
+5574	5675	stir	teaspoon	egg	bowl																The person waits, stirs the eggs, gets out a spatula, puts it back and stirs some more.			
+5779	5918	stir	teaspoon	egg	bowl																			
+5922	6170	pour	bowl	egg	bowl,pan																			
+6179	6267	change temperature	hand	stove																				
+6278	6581	pour	bowl	egg	bowl,pan	Person beats eggs again and pours into pan.	He scrambles a bit more and then places the eggs in the pan.	Once the oil is heated, he picks up the bowl with the egg yolks and carefully dumps it into the frying pan.	person adds eggs to pan	He adds the egg mixture to the heated skillet.	He scrambles the eggs and adds them to the pan.	He finishes scrambling the eggs and puts them into the pan. 				Pour the eggs into the pan.	The person pours oil into the pan and then the eggs from the bowl.			He oils the pan, whisks some more, and places the eggs in the pan.		The person put the eggs into the pan.		He continues to whip the eggs and then places them in the pan.
+6755	6974	wash	hand	bowl,teaspoon											He mixes the eggs with a spoon and pours them into the frying pan.						The person stirs the eggs, waits and then pours them in the pan.			
+7029	7124	add	bottle	detergent	bowl,plastic bottle																			
+7155	7321	wash	sponge	bowl						He lets the eggs cook.														
+7344	7537	wash	hand	bowl																				
+7550	7575	move	hand	sponge	counter																			
+7597	7654	move	hand	teaspoon	bowl,counter															He cleans the utensils.				
+7701	7757	take out	hand	spatula	,drawer		He cleans up a bit.					He cleans the bowl. 	The man cleaned the stainless steel bowl.	The eggs are added to the pan and the bowl is washed.. A spatula is selected.			The person washes the bowl and fork in the sink.. The person takes a wooden spatula from the drawer.				The person washes the bowl and fork.			He washes the bowl and fork.
+7922	8010	open	hand		drawer																			
+8471	8521	move	teaspoon	egg	pan																			
+8589	8713	move	spatula,teaspoon	egg	pan																			
+8848	8890	take out	hand	spice shaker	,spice holder																			
+8922	8972	screw	hand	spice shaker				The man lets the egg cook in the frying pan without flipping it.													The person gets a spatula and fork and tries to "stir" or poke the eggs a little.			
+8984	9187	spice	spice shaker	pan,spice shaker		Person sprinkles pepper on top of egg.				He fluffs the eggs with the spatula and fork and adds more seasoning.					He washes out the bowl and uses the spatula and a fork to move around the eggs.									
+9194	9236	screw	hand	spice shaker									Pepper was poured onto the eggs.											
+9241	9273	put in	hand	spice shaker	,spice holder		He seasons the eggs while they cook.		person add pepper						He gets out pepper and sprinkles it on top of the eggs.						The person peppers the eggs in an incredibly thoughtful manner.	The person put pepper on the eggs.		The man adds pepper to the eggs.
+9342	10127	turn over	spatula,teaspoon	egg	pan				person flips egg over				The eggs were flipped.							He starts cooking and then flips the eggs over.				
+10153	10665	move	spatula,teaspoon	egg	pan																			
+10688	10840	turn over	spatula,teaspoon	egg	pan																			
+10852	11251	move	spatula,teaspoon	egg	pan	Person flips egg over completely. 																		
+11322	11340	take out	hand	spice shaker	,spice holder																			
+11348	11370	screw	hand	spice shaker																		The person flipped the eggs.		The man flips the eggs to make sure they are fully cooked.
+11397	11723	spice	spice shaker	pan,spice shaker		Person sprinkles pepper on opposite side of egg.																		
+11765	11793	screw	hand	spice shaker									More pepper was added to the eggs.											
+11805	11839	put in	hand	spice shaker	,spice holder			The man adds pepper to the egg in the pan before mixing the egg around in the pan.	person adds pepper		He seasons the eggs. 				He flips the eggs over with the spatula and the fork and pats them down, finally sprinkling some spices on top.		The person adds condiments to the eggs in the pan.				The person pokes, folds over, tries to reassemble the eggs and then adds more thoughtful seasoning.	The person seasoned the eggs.		He adds more pepper to the eggs.
+12067	12145	change temperature	hand	stove										The eggs are seasoned and cooked.										
+12273	12405	put in	hand	bottle	counter,cupboard					He turns off the stove.														
+12446	12479	move	hand	bowl	counter									The oil is returned to the cabinet.		scramble the eggs with the spatula while they're cooking.				He finishes cooking.				
+12510	12850	move	spatula,teaspoon	egg	bowl,pan	Person puts egg into a bowl. 														He places the eggs in a bowl.				
+12854	12873	move	spatula	bowl	counter		He places the cooked eggs in a bowl.	After approximately 5 minutes, the man places the egg into the clean bowl.		He puts away his cooking oil and moves his cooked eggs back into the bowl he had mixed them in.	He puts the eggs in a bowl. 	He finishes cooking the eggs and put them in a bowl. 	The eggs were taken from the pan and moved into the stainless steel bowl.. The spatula was cleaned.	The cooked eggs are placed in the bowl.	He picks the eggs up with the spatula and places them in the bowl.	Put the scrambled eggs back into the bowl.	The person sets the eggs into the bowl with the spatula.					The person put the eggs in the bowl.		
+13014	14097	wash	hand,sponge	spatula																				
+14116	14185	shake	hand	spatula																				
+14210	14307	put in	hand	spatula	,drawer		He cleans the spatula.	The man carefully cleans the utensils with a sponge and soap.			He cleans up a bit. 	He cleans up. 		The spatula is washed and put away.	He washes the spatula in the sink with detergent and a sponge and puts the spatula away.		The person washes the spatula in the sink and returns it to the drawer.			He cleans the spatula and puts it away.	The person puts the oil away, puts the omelette pieces in a little bowl and washes the spatula.  (Still NOT 'scrambled' eggs.)			The man takes the eggs out of the pan and washes up.

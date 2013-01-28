@@ -1,0 +1,16 @@
+240	360	take out	hand	squeezer	counter,drawer
+360	411	close	hand		drawer
+459	795	take out	hand	plate	counter,cupboard
+798	945	take out	hand	plastic bag	counter,fridge
+945	1065	remove from package	hand	lime	plastic bag,plate
+1070	1147	put in	hand	plastic bag	counter,fridge
+1147	1239	close	hand		fridge
+1239	1308	move	hand	plate	counter
+1320	1520	take out	hand	knife	drawer
+1520	1621	cut	knife	lime	plate
+1704	2321	squeeze	squeezer	lime	squeezer
+2381	2862	squeeze	squeezer	lime	squeezer
+2957	2993	remove lid	hand	lid	squeezer
+2993	3023	put lid	hand	lid	squeezer
+3023	3158	move	hand	squeezer	counter
+3207	3281	move	hand	plate	counter

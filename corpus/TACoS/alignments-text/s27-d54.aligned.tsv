@@ -1,0 +1,46 @@
+230	564	take out	hand	mango	fridge	He took out mango			He took out mango		He gets a mango.	He grabs a mango.			A mango is removed from the refrigerator.				He took out mango		He took out mango	
+566	633	remove label	hand	mango				Remove sticker from mango.												The person gets a mango from the crisper and removes the sticker from its peel.		
+633	733	move	hand	label	,counter																	He gets a mango and throws away the sticker. 
+751	925	throw in garbage	hand	label			He gets a mango.			The person gets out a mango.						The person gets out a mango.	The person removes a mango from the refrigerator.					
+1011	1243	take out	hand	cutting board	counter,drawer	He took out cutting board			He took out cutting board	The person gets out a cutting board.					The person removes a cutting board. 	The person gets out a cutting board.	The person gets out a cutting board.		He took out cutting board		He took out cutting board	
+1246	1294	move	hand	mango	counter,cutting board			Get cutting board.												The person gets a cutting board from a drawer and places the mango upon it.		
+1329	1418	wash	hand	mango				Wash mango.	He washed mango										He washed mango			
+1418	1480	shake	hand	mango		He washed mango	He washes the mango.			The person rinses the mango.	He gets a cutting board and washes the mango. 	He gets a cutting board and washes the mango.			The mango is rinsed.	The person washes the mango.	The person washes the mango.			The person washes the mango.	He washed mango	He rinses the mango. 
+1623	1794	take out	hand	knife	drawer	He took out knife			He took out knife	The person gets out a knife.	He gets a knife. 	He gets a knife.			The person selects a knife.	The person gets out a knife.			He took out knife	The person gets a large knife from a drawer.	He took out knife	
+1826	2023	cut	knife	mango	cutting board				He cut mango in half									Cut around the edge (Horizontally).				
+2023	2163	take apart	hand	mango		He cut mango in half 	He gets a knife and cuts the mango.			The person removes half of the mango's outside.					The mango is cut in half.	The person scores the mango around the middle and twists to remove one half of the outside.		Twist and pull the top half off.	He cut mango in half	The person cuts the mango in halves.	He cut mango in half	
+2246	2641	cut	knife	mango	cutting board			Cut into mango at its widest point, circling the seed.								The person scores the inside of the mango in three places.						
+2641	3300	cut	knife	mango	cutting board										The fruit is cut away from the seed from half the mango.							
+3303	3434	cut	knife	mango	cutting board													Cut out as much as you can.				
+3463	3565	cut	knife	mango	cutting board											The person slices off strips of mango and cuts the strips into small chunks.		Cut into small strips.				
+3565	3873	slice	knife	mango	cutting board																	
+3884	4491	chop	knife	mango	cutting board	He sliced mango			He sliced mango	The person chops up the half of the mango he's peeled -- both the skin and the flesh, leaving the pit sticking out of the other half.	He cuts up half the mango and then also chops up the skin. 				The fruit and peel are chopped.	The person cuts the outside of the mango into strips, then cuts the strips into chunks.	The person cuts up part of the mango.	Cut the outer skin into small chunks. 	He cut up mango	The person, who obviously has never cut a mango before, attempts to chop up the core, and then slices its peel into bits with the fruit.	He sliced mango	He chops one side of the mango. 
+4695	4774	open	hand		cupboard																	
+4793	5094	take out	hand	bowl	counter,cupboard	He took out bowl	He gets a bowl.		He took out plate	The person gets out a bowl.	He gets a small plate. 	He gets a small dish.			A small plate is removed for the mango.	The person gets out a white bowl.			He took out plate	The person gets a small bowl from the cupboard.	He took out bowl	
+5239	5643	cut	knife	mango	cutting board			Scrape fruit off seed with knife.		The person cuts the rest of the mango off of the pit in large chunks.					The fruit from the other half is cut away from the seed.			Cut the remains into smaller chunks.				
+5692	5889	chop	knife	mango	cutting board																	
+5889	6068	chop	knife	mango	cutting board																	
+6068	6190	cut	knife	mango	cutting board																	
+6190	6295	chop	knife	mango	cutting board																	
+6353	6544	cut	knife	mango	cutting board																	
+6544	6638	chop	knife	mango	cutting board																	
+6676	6759	chop	knife	mango	cutting board	He cut up mango				The person chops up the large chunks of mango.					The fruit is chopped.	The person cuts off large chunks of the other half of the mango, then dices them.					He sliced mango	He chops the rest of the mango and discards the pit. 
+6830	6944	throw in garbage	hand	stone			He discards the pit.	Discard seed.	He threw away core	The person throws away the pit.					The seed is discarded.	The person throws away the mango pit.			He threw out mango pit	The person throws the core into the garbage after cutting the fruit into bits with the peel still on it.	He threw away core	
+7009	7029	open	hand		cupboard												The person cuts up the rest of the mango.					
+7065	7309	take out	hand	plate	counter,cupboard	He got out second plate			He took out plate	The person gets out a plate.	He chops the rest of the mango and gets a plate. 	He gets a plate.		The person procures a larger plate from the cabinet.. The person throws the core into the wastebin.. The person chops up the other half of the mango on the cutting board.. The person procures a small plate from the cabinet..  The person chops half the mango, peel and all, on the cutting board.. The person takes out a knife from the drawer.. The person washes the mango in the sink.. The person takes out a cutting board from the drawer.. The person peels a sticker from the mango and throws it out.. The person procures a mango from the fridge.	A large plate is removed for the mango.		The person gets out a plate.		He took out plate	The person procures a plate from the cabinet.		He gets a plate.
+7536	7591	move	hand	garbage	bowl,cutting board																	
+7614	7698	move	knife	mango	cutting board,plate																	
+7775	8235	chop	knife	mango	cutting board		He finishes cutting.					He chops the mango.										
+8292	9028	move	knife	mango	cutting board,plate	He put mango on plate	He puts the mango on a plate.	Cut into cubes and plate.	He put mango on plate	The person scrapes the mango pieces onto the plate.	He does some final chopping and puts the mango on the plate. 	He puts the mango on the plate.		The person sets the mango slices on the plate.	Some more chopping and the pieces are placed on the plate.	The person gets out a plate and scrapes the mango pieces onto it.	The person transfers the mango to the plate.	Place all the cut up pieces on a plate.	He put mango on plate	The person scoops the mango slices peel and all onto the plate.		He puts the mango on a plate.
+9571	9647	take out	hand	spice shaker	spice holder																	
+9661	9699	screw	hand	spice shaker																		
+9740	9821	spice	spice shaker	salt	plate			Add salt.			He salts the mango. 									The person gets a condiment and sprinkles a bit onto the mango.		
+9826	9901	screw	hand	spice shaker																		
+9907	9943	put in	hand	spice shaker	,spice holder																	
+9943	9988	take out	hand	spice shaker	spice holder																	
+10015	10087	screw	hand	spice shaker																		
+10115	10283	spice	spice shaker	pepper	plate			Add pepper.			He adds pepper to the mango. 											He seasons the mango. 
+10286	10366	screw	hand	spice shaker			He seasons the mango.					He seasons the mango.		The person pours several condiments on the mango slices.		The person adds salt and pepper to the mango pieces.	The person seasons the mango.	Sprinkle your desired spices on.		The person gets a second condiment and sprinkles it on the mango.		
+10372	10431	put in	hand	spice shaker	,spice holder					The person adds salt and pepper.					Two things are sprinkled on the mango.							
+10481	10705	take out	hand	fork	drawer,plate					The person adds a fork to the plate.	He puts a fork on the plate. 			The person takes out a fork from the drawer and sets it on the plate.	A fork is placed on the plate.	The person gets out a fork and puts it on the plate.				The person gets a fork from the cutlery drawer and places it on the plate.		
+10725	10861	throw in garbage	hand	garbage																		

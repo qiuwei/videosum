@@ -1,0 +1,101 @@
+s25-d35_1_1	He took out cutting board	s25-d35	142	245	plum	239
+s25-d35_1_2	He took out plum	s25-d35	255	577	plum	568
+s25-d35_1_3	He washed plum	s25-d35	611	715	plum	746
+s25-d35_1_4	He took out knife	s25-d35	774	1009	plum	1006
+s25-d35_1_5	He cut out pit	s25-d35	1059	3717	plum	3743
+s25-d35_1_6	He threw out pit	s25-d35	3765	3842	plum	3898
+s25-d35_2_1	The person takes out a cutting board from the drawer.	s25-d35	142	245	plum	226
+s25-d35_2_2	The person procures a plum from the fridge.	s25-d35	255	577	plum	558
+s25-d35_2_3	The person washes the plum in the sink.	s25-d35	611	715	plum	732
+s25-d35_2_4	The person takes out a knife from the drawer.	s25-d35	774	1009	plum	994
+s25-d35_2_5	The person slices the plum down the middle on the cutting board.	s25-d35	1059	1558	plum	1594
+s25-d35_2_6	The person repeatedly tries to tear the plum apart into sections and finally does so.	s25-d35	1602	3717	plum	3760
+s25-d35_2_7	The person disposes the plum core in the trash.	3765	3842
+s25-d35_2_8	The person washes his hands.	3765	3842
+s25-d35_3_1	He took out cutting board	s25-d35	142	245	plum	220
+s25-d35_3_2	He took out plum	s25-d35	255	577	plum	586
+s25-d35_3_3	He washed plum	s25-d35	611	715	plum	786
+s25-d35_3_4	He took out knife	s25-d35	774	1009	plum	1024
+s25-d35_3_5	He threw away pit	s25-d35	1059	3842	plum	3860
+s25-d35_4_1	He gets out a plum and rinses it.	s25-d35	142	715	plum	716
+s25-d35_4_2	He gets a knife.	s25-d35	774	1009	plum	1032
+s25-d35_4_3	He removes a chunk from the plum.	s25-d35	1059	2841	plum	2830
+s25-d35_4_4	He removes another chunk with his hands.	s25-d35	2883	3453	plum	3470
+s25-d35_4_5	He discards part of the plum.	s25-d35	3525	3842	plum	3834
+s25-d35_5_1	He goes to the drawer and opens it up and takes out a cutting board and knife.	s25-d35	142	308	plum	322
+s25-d35_5_2	He goes to the refrigerator and takes out a plum.	s25-d35	325	577	plum	606
+s25-d35_5_3	He goes to the sink and washes the plum.	s25-d35	611	715	plum	764
+s25-d35_5_4	He opens up a couple of drawers and takes a knife out of one of them.	774	1009
+s25-d35_5_5	He places the plum on the cutting board.	774	1009
+s25-d35_5_6	He slices the plum in half with the knife.	s25-d35	1059	1558	plum	1578
+s25-d35_5_7	He tries to pry the plum apart with his fingers.	s25-d35	1602	1696	plum	1722
+s25-d35_5_8	He cuts some more at the plum till he successfully has the plum into several pieces.	s25-d35	1741	3842	plum	3896
+s25-d35_6_1	He gets a cutting board.	s25-d35	142	308	plum	296
+s25-d35_6_2	He gets a plum and rinses it.	s25-d35	325	715	plum	736
+s25-d35_6_3	He gets a knife.	s25-d35	774	1009	plum	1038
+s25-d35_6_4	He takes the plum apart.	s25-d35	1059	3717	plum	3724
+s25-d35_6_5	He discards the bad parts.	s25-d35	3765	3842	plum	3830
+s25-d35_7_1	He gets a cutting board.	s25-d35	142	245	plum	274
+s25-d35_7_2	He gets a plum and rinses it.	s25-d35	255	715	plum	774
+s25-d35_7_3	He gets a knife.	s25-d35	774	1009	plum	1000
+s25-d35_7_4	He cuts up the plum.	s25-d35	1059	3717	plum	3752
+s25-d35_7_5	He discards the rest.	s25-d35	3765	3842	plum	3838
+s25-d35_8_1	He took out cutting board	s25-d35	142	245	plum	230
+s25-d35_8_2	He took out plum	s25-d35	255	577	plum	570
+s25-d35_8_3	He washed plum	s25-d35	611	715	plum	742
+s25-d35_8_4	He took out knife	s25-d35	774	1009	plum	992
+s25-d35_8_5	He cut plum into pieces	s25-d35	1059	3717	plum	3760
+s25-d35_8_6	He threw away pit	s25-d35	3765	3842	plum	3830
+s25-d35_9_1	The man places a cutting board on the counter.	s25-d35	142	308	plum	310
+s25-d35_9_2	He goes to the refrigerator and takes out a plum.	s25-d35	325	577	plum	602
+s25-d35_9_3	He rinses the plum in the sink.	s25-d35	611	715	plum	718
+s25-d35_9_4	He takes out a cutting knife and places the plum on the cutting board.	s25-d35	774	1009	plum	1012
+s25-d35_9_5	He uses the knife to cut the plum in half.	s25-d35	1059	1558	plum	1598
+s25-d35_9_6	He tries using his hands to pull the pieces of plum apart.	s25-d35	1602	2686	plum	2668
+s25-d35_9_7	He cuts off one piece of the plum.	s25-d35	2731	2757	plum	2790
+s25-d35_9_8	He uses his hands to break off the second piece.	s25-d35	2798	3027	plum	3134
+s25-d35_9_9	Finally, he uses the knife to cut the remaining pieces.	s25-d35	3095	3717	plum	3734
+s25-d35_10_1	The person takes out a cutting board and puts it on the counter.	s25-d35	142	245	plum	276
+s25-d35_10_2	The person removes a plum from the fridge.	s25-d35	255	577	plum	584
+s25-d35_10_3	The person rinses the plum.	s25-d35	611	715	plum	774
+s25-d35_10_4	The person takes out a knife.	s25-d35	774	1009	plum	1008
+s25-d35_10_5	The person cuts the plum into quarters to separate it from the pit.	s25-d35	1059	3717	plum	3730
+s25-d35_10_6	The person throws the pit away.	s25-d35	3765	3842	plum	3896
+s25-d35_11_1	The man opens a drawer, removes a cutting board, places in on the counter and closes the drawer.	s25-d35	142	308	plum	318
+s25-d35_11_2	He walks to the fridge, opens the door, removes a plum from the crisper drawer and closes the fridge door.	s25-d35	325	577	plum	578
+s25-d35_11_3	He goes to the sink, turns on the faucet and washes the fruit.	s25-d35	611	715	plum	748
+s25-d35_11_4	He opens a couple drawers, finds a large knife and removes it from the drawer.  He closes the drawer.	s25-d35	774	1009	plum	1060
+s25-d35_11_5	The man sets the plum on the cutting board and begins to cut around the fruit to remove the pit.	s25-d35	1059	3453	plum	3536
+s25-d35_11_6	He removes the pit and throws it in the garbage.	3765	3842
+s25-d35_11_7	The man walks to the sink, turns on the faucet and rinses his hands.	3765	3842
+s25-d35_12_1	He got out a cutting board.	s25-d35	142	308	plum	324
+s25-d35_12_2	He opened the fridge.	s25-d35	325	577	plum	468
+s25-d35_12_3	He washed an apple.	s25-d35	611	715	plum	763
+s25-d35_12_4	He cut the plum in half.	s25-d35	774	1696	plum	1672
+s25-d35_12_5	He cut out a section of the plum.	s25-d35	1741	2841	plum	2911
+s25-d35_12_6	He washed his hands.	s25-d35	3525	3842	plum	3898
+s25-d35_13_1	Take out a cutting board and a plum.	s25-d35	142	577	plum	634
+s25-d35_13_2	Wash the plum and take out a knife.	s25-d35	611	1009	plum	1026
+s25-d35_13_3	Cut the plum in half around the pit, separate the plum halves with your hand cutting additionally if needed.	s25-d35	1059	3027	plum	3060
+s25-d35_13_4	Remove the pit, and cut the plum into smaller pieces.	s25-d35	3095	3717	plum	3724
+s25-d35_13_5	Discard the plum pit and rinse your hands.	s25-d35	2883	3842	plum	3896
+s25-d35_14_1	The person gets out a cutting board.	s25-d35	142	245	plum	250
+s25-d35_14_2	The person gets out a plum.	s25-d35	255	577	plum	572
+s25-d35_14_3	The person rinses the plum.	s25-d35	611	715	plum	774
+s25-d35_14_4	The person gets out a knife.	s25-d35	774	1009	plum	1017
+s25-d35_14_5	The person cuts the plum into four quarters and the pit.	s25-d35	1059	3717	plum	3761
+s25-d35_14_6	The person throws away the plum pit.	s25-d35	3765	3842	plum	3850
+s25-d35_16_1	Get out a cutting board.	s25-d35	142	245	plum	254
+s25-d35_16_2	Get plum out of fridge	s25-d35	255	577	plum	606
+s25-d35_16_3	Wash plum in the sink	s25-d35	611	715	plum	784
+s25-d35_16_4	Get out knife, and place plum on cutting board	s25-d35	774	1009	plum	1009
+s25-d35_16_5	Use knife to cut the plum into four pieces. Cut 2 perpendicular circles to the pit until you are able to pull the four pieces apart with your hands.	s25-d35	1059	3453	plum	3460
+s25-d35_16_6	Cut out pit from the piece that it is still attached to.	s25-d35	3525	3717	plum	3723
+s25-d35_16_7	Throw away the pit in the trash.	3765	3842
+s25-d35_16_8	Wash hands.	3765	3842
+s25-d35_17_1	The person takes out a chopping board from the drawer.	s25-d35	142	245	plum	252
+s25-d35_17_2	The person takes out a plum from the refrigerator.	s25-d35	255	577	plum	534
+s25-d35_17_3	The person washes the plum.	s25-d35	611	715	plum	721
+s25-d35_17_4	The person takes a knife out of the cupboard.	s25-d35	774	1009	plum	985
+s25-d35_17_5	The person cuts and peels the plum into sections.	s25-d35	1059	3717	plum	3737
+s25-d35_17_6	The person discards the pit of the plum.	s25-d35	3765	3842	plum	3805

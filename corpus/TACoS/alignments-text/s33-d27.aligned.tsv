@@ -1,0 +1,69 @@
+137	191	open	hand		cupboard																				
+196	458	take out	hand	onion	,cupboard		She took out onion		She took out onion				She took out onion					The woman removes two onions from a cabinet.	The person gets out two onions.	She gets a knife and onions. 		The person gets out two onions.		The person gets an onion from the pantry.	
+480	722	take out	hand	knife	,drawer									She gets an onion and a knife. 		The woman takes out two onions from a cabinet. 			The person gets out a knife.			The person gets out a knife.	The person obtains two small onions from the pantry.		
+751	806	open	hand		drawer		She took out knife					She gets onions and knife.	She took out knife												
+806	835	move	hand	onion	,counter			She gets out some onions. 	She took out knife	She gets out an onion and a knife. 	She gets a knife and a couple onions. 					She takes out a small knife, walks over to the trash can, and sets one onion on the counter. 		She then removes a knife from the drawer.			The person has grabbed the onion and a knife.		The person takes a small knife from the drawer.	The person takes a knife from the drawer.	She get a knife and an onion.
+860	1811	peel	knife	onion		The woman takes out a knife and an onion, and cuts the peel off of the onion over the garbage.										She uses the small knife to cut off the outer layer of the onion.	The woman peels the onions.			She peels the onions.	The person has removed the outer layer of skin.				
+1812	1864	move	hand	onion	,sink		She peels onion		She peeled onion						The person peeled the onion with a knife	She places the peeled onion in the sink and picks up the second onion. 								The person peels an onion over the trash can.	She peels the first onion.
+1882	2842	peel	hand	onion																					
+2849	2879	move	hand	onion	,sink	She cuts a second onion over the garbage can.	She peels second onion	She peels the onions. 	She peeled second onion	She peels the onions. 	She peels the onions. 	She peels onions with knife.	She peeled onions	She peels the onions. 	The person peeled a second onion 	She peels the second onion and places it in the sink. 	The woman dices the first onion.	She peels the onion skins off into the recycling bin, and places the onions in the sink.	The person peels the onions and puts them in the sink.		The person has removed the outer layer of skin on a second onion.	The person peels the onions and puts them in the sink.		The person peels another onion over the wastebin with the knife.	She peels the other onion. 
+2909	3250	take out	hand	cutting board	counter,drawer																		The person peels the onions over the trashcan with the knife then sets them in the sink.		
+3256	3285	close	hand		drawer												The woman adds the first onion to the pan.		The person gets out a wooden plate.			The person gets out a wooden plate.			
+3307	3346	move	hand	onion	cutting board,sink		She takes out cutting board		She took out cutting board		She gets a cutting board.	She gets cutting board.	She took out cutting board	She gets a cutting board.									The person chooses a circular cutting board from the drawer and sets it on the countertop.	The person takes out a cutting board from the drawer.	
+3357	3571	cut	knife	onion	cutting board											She takes out a round cutting board and places one onion on it. 									
+3582	3733	chop	knife	onion	cutting board																				
+3775	3832	cut	knife	onion	cutting board																				
+3849	4618	chop	knife	onion	cutting board												The woman dices the second onion.								
+4667	4778	slice	knife	onion	cutting board												She adds the second onion to the pan.			She chops the onion and adds it to a pan.					
+4804	5847	chop	knife	onion	cutting board	She cuts the first onion into small pieces on a cutting board.											The woman adds oil to the pan.		The person cuts up an onion.	She heats the pan and adds oil.	The person has thinly sliced the onion and then chopped it into small pieces.	The person cuts up an onion.			
+5887	6039	take out	hand	pan	drawer,stove	She takes out a frying pan.	She chops first onion		She diced first onion			She cuts in half and dices onion #1	She chopped up onions		The person cut the first onion into small pieces	She cuts the onion in tiny pieces on the cutting board. 		She slices and cuts up one onion into small pieces.. She removes a frying pan from the cabinet and places it on the stove.	The person gets out a frying pan and puts it on the stove.			The person gets out a frying pan and puts it on the stove.	The person chops and dices one onion on the cutting board.	The person dices the onion on the cutting board.	She gets a cutting board and chops the first onion. 
+6088	6232	add	cutting board,knife	onion	cutting board,pan		She takes out pan		She took out pan			She gets pan and places on stove. 	She took out pan			She pulls out a frying pan and places it on the stove. 							The person takes a pan from a drawer and places it on the stove.	The person takes a pan from the drawer and places it onto the stove.	
+6249	6291	move	hand	onion	cutting board,pan														The person puts the onion pieces into the pan.						
+6300	6348	chop	knife	onion	cutting board		She puts onion in pan		She put onion in pan				She put onions in pan											The person scoops the onions into the pan.	
+6355	6376	move	hand	onion	counter,cutting board																		The person scoops the diced onion into the pan.		
+6398	6430	move	hand	onion	cutting board,sink							She puts onions into pan. 						She places the chopped onion into the frying pan.							
+6439	6635	slice	knife	onion	cutting board																				She puts the onion in the pan and grabs the other onion. 
+6640	6665	move	hand	onion	counter,cutting board																				
+6675	6853	slice	knife	onion	cutting board																				
+6859	7930	chop	knife	onion	cutting board																				
+7948	8082	gather	hand	onion	cutting board																				
+8138	8283	slice	knife	onion	cutting board											She places the onion pieces in the frying pan and cuts the other onion into small pieces.									
+8292	8904	chop	knife	onion	cutting board																				
+8938	9042	throw in garbage	hand	onion					She diced second onion			She cuts in half and dices onion #2.	She chopped up second onion		The person cut the second onion into small pieces						The person has sliced and chopped the second onion.			The person chops another onion on the cutting board.	
+9095	9214	add	cutting board,knife	onion	cutting board,pan	She cuts the second onion into small pieces on the cutting board, then puts the pieces in the frying pan.											The woman stirs the onions as they cook.							The person disposes of some peel into the wastebin.	
+9217	9253	spread	knife	onion	pan											Next, she places the remaining onion pieces in the pan. 			The person cuts up the other onion and puts the pieces in the pan.			The person cuts up the other onion and puts the pieces in the pan.			
+9274	9371	move	hand	onion	cutting board,pan			She chops the onions and puts them into a pan. 		She chops the onions and adds them to the pan. 	She chops the onions and adds them to the pan. 	She places remainder onions into pan.	She put second onion in pan	She chops the onions and puts them in a pan. 									The person dices the second onion and then scoops it into the pan.		She chops the other onion and puts it in the pan.
+9431	9474	turn on	hand	stove					She put second onion in plate						The person added the chopped onions to a frying pan			She chops the second onion, and places the pieces into the frying pan.						The person scoops the chopped onion into the pan and turns on the stove.	
+9508	10249	change temperature	hand	stove		She turns the burner on.			She turned on stove			She sets fire on stove top.	She turned on stove				The woman washes up.	She turns on the burner under the frying pan.	The person turns on the stove.	She finishes cooking and cleans up.	The person has placed the onions in a pan on the stove, and turned the stove on.	The person turns on the stove.			She turns on the stove.
+10285	10382	take out	hand	bottle	,cupboard					She turns on the stove. 															
+10394	10437	screw	hand	bottle					She took out oil																
+10452	10575	pour	bottle	oil	bottle,pan	She adds oil to the onions.							She took out oil												
+10599	10742	change temperature	hand	stove				She heats the pan and adds oil.	She put oil in pan	She adds oil to the pan. 	She adds oil to the pan.	She adds cooking liquid to pan.	She put oil in pan	She turns on the stove and adds oil to the pan. 		She turns on the stove and places cooking oil in the pan. 		She adds a bit of oil to the onion in the frying pan.				The person adds oil to the pan.		The person gets from oil from the pantry and pours it on the onions in the pan.	She puts oil in the pan.
+10751	10807	screw	hand	bottle															The person adds oil to the pan.		The person has poured a small amount of oil over the onions.				
+10812	10910	put in	hand	bottle	,cupboard										The person added an ingredients to the onions										
+10935	11083	take out	hand	spatula	,drawer								She put away oil										The person turns the stove on, retrieves a bottle of cooking oil from the pantry, daubs the oil into the pan and then replaces the bottle in the pantry.		
+11106	11180	open	hand		drawer																			The person takes out a wooden spoon and stirs the onions.	
+11185	11773	stir	spatula	onion	pan	She stirs them with a wooden spatula.						She monitors and stirs onions as they cook.			The person stirred the onions				The person gets out a wooden spatula and stirs the onions.		The person has stirred the onions to evenly distribute the oil	The person gets out a wooden spatula and stirs the onions.	The person takes a wooden spoon from the drawer and stirs the onions frying in the pan.		
+11846	11969	throw in garbage	hand,knife	onion														She removes a wooden spatula from the drawer and stirs the onion in the pan.							
+11990	12069	wash	hand	knife																					
+12133	12203	pour	bottle	detergent	bottle,sponge																				
+12235	12312	wash	sponge	knife																					
+12323	12712	wash	hand,sponge	knife																					
+12718	12782	dry	sponge	knife								She cleans knife and watches pan (as onions cook). 							The person washes the knife.		The person has washed the previously used knife.	The person washes the knife.	The person notably washes the knife in the sink with a scrub brush and soap, the first person to do so in 40 or so videos.	The person washes off the knife in the sink.	
+12816	13128	stir	spatula	onion	pan																				
+13177	13258	put in	hand	knife	,drawer																				
+13296	13409	hang up	hand	sponge	,faucet													She continues to stir the cooking onion every few minutes.							
+13613	13714	change temperature	hand	stove																					
+13781	13823	change temperature	hand	stove																					
+13909	15066	stir	spatula	onion	pan																				
+15307	15546	stir	spatula	onion	pan																				
+15837	17325	stir	spatula	onion	pan											She uses a wooden spatula to constantly stir the onions. 									
+17340	17414	change temperature	hand	stove								She continues to stir onions as they brown in pan.													
+17428	17959	stir	spatula	onion	pan																The person has frequently stirred the onions, slightly.				
+17995	18117	change temperature	hand	stove							She finishes cooking the onions.	When onions are browned, she removes pan from heat						She removes the frying pan from the heat and turns off the burner.							
+18160	18496	stir	spatula	onion	pan					She removes the pan from the heat. 									The person stirs the onions while they cook.			The person stirs the onions while they cook.			
+18589	18608	move	hand	cutting board	counter																				
+18626	18673	move	hand	cutting board	counter,sink																The person has removed the pan from heat and stirred the onions for a few more seconds.				
+18697	19162	wash	hand,sponge	spatula										She finishes the cooking of the onions. 											
+19203	19641	wash	hand,sponge	cutting board							She cleans up.					She washes the spatula, knife, and cutting board in the sink. 		She washes her cutting board and spatula and places them in the dish drain.	The person rinses the spatula and wooden plate.			The person rinses the spatula and wooden plate.	The person turns off the stove and then proceeds to properly wash the cutting board and the wooden spoon in the sink.		She finishes the cooking and cleans up.
+19796	19861	dry	towel	hand		She waits until the onions are a golden brown.		She finishes the cooking and cleans up.		She cleans up. 				She cleans up. 							The person has washed up everything else she has used while the onions rest in the pan.			The person scrubs the cutting board and the wooden spoon in the sink.	

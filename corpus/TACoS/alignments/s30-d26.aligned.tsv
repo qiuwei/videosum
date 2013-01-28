@@ -1,0 +1,72 @@
+174	241	take out	hand	pot	,drawer																		
+241	288	remove lid	hand	lid	counter,pot						s30-d26_7_1	s30-d26_8_1	s30-d26_9_1				s30-d26_14_1	s30-d26_15_1	s30-d26_16_1			s30-d26_19_1	
+351	769	fill	faucet	water	pot		s30-d26_2_1	s30-d26_3_1			s30-d26_7_2		s30-d26_9_2. s30-d26_9_3		s30-d26_12_1		s30-d26_14_2	s30-d26_15_2. s30-d26_15_3	s30-d26_16_2. s30-d26_16_3	s30-d26_17_1			
+902	949	turn on	hand	stove						s30-d26_6_1		s30-d26_8_2										s30-d26_19_2	
+961	1088	change temperature	hand	stove		s30-d26_1_1		s30-d26_3_2			s30-d26_7_3	s30-d26_8_3			s30-d26_12_2	s30-d26_13_1	s30-d26_14_3. s30-d26_14_4	s30-d26_15_4		s30-d26_17_2	s30-d26_18_1	s30-d26_19_3	s30-d26_20_1
+1182	1204	take out	hand	spice shaker	spice holder				s30-d26_5_1														
+1222	1259	screw	hand	spice shaker																			
+1280	1378	spice	spice shaker	salt	pot,spice shaker				s30-d26_5_2	s30-d26_6_2									s30-d26_16_4				
+1398	1778	spice	spice shaker	salt	pot,spice shaker																		
+1789	1818	screw	hand	spice shaker		s30-d26_1_2	s30-d26_2_2				s30-d26_7_4	s30-d26_8_4		s30-d26_11_1		s30-d26_13_2		s30-d26_15_5		s30-d26_17_3	s30-d26_18_2	s30-d26_19_4	
+1839	1921	put in	hand	spice shaker	,spice holder			s30-d26_3_3		s30-d26_6_3			s30-d26_9_4		s30-d26_12_3		s30-d26_14_5						s30-d26_20_2
+1941	2250	take out	hand	cauliflower	,fridge							s30-d26_8_5	s30-d26_9_5		s30-d26_12_4	s30-d26_13_3	s30-d26_14_6	s30-d26_15_6	s30-d26_16_5			s30-d26_19_5	
+2277	2962	wash	hand	cauliflower							s30-d26_7_5		s30-d26_9_6		s30-d26_12_5			s30-d26_15_7	s30-d26_16_6	s30-d26_17_4		s30-d26_19_6	
+3036	3053	shake	hand	hand				s30-d26_3_4				s30-d26_8_6		s30-d26_11_2		s30-d26_13_4	s30-d26_14_7						s30-d26_20_3
+3061	3172	take out	hand	cutting board	counter,drawer	s30-d26_1_3	s30-d26_2_3		s30-d26_5_3				s30-d26_9_7			s30-d26_13_5		s30-d26_15_8	s30-d26_16_7		s30-d26_18_3	s30-d26_19_7	
+3218	3236	move	hand	lid	counter			s30-d26_3_5		s30-d26_6_4													
+3243	3529	take out	hand	knife	,drawer					s30-d26_6_5			s30-d26_9_8		s30-d26_12_6	s30-d26_13_6	s30-d26_14_8	s30-d26_15_9	s30-d26_16_8			s30-d26_19_8	
+3603	3703	cut	knife	cauliflower	cutting board												s30-d26_14_9						
+3718	3764	move	knife	cauliflower	counter,cutting board																		
+3889	3936	scratch off	hand	cauliflower	counter,knife																		
+3972	4314	cut	knife	cauliflower	cutting board									s30-d26_11_3									
+4355	4402	cut	knife	cauliflower	cutting board				s30-d26_5_4														
+4486	4550	take apart	hand	cauliflower				s30-d26_3_6															
+4630	5383	cut	knife	cauliflower	cutting board																		
+5423	5465	scratch off	hand	cauliflower	cutting board,knife	s30-d26_1_4	s30-d26_2_4			s30-d26_6_6	s30-d26_7_6	s30-d26_8_7	s30-d26_9_9	s30-d26_11_4	s30-d26_12_7	s30-d26_13_7			s30-d26_16_9	s30-d26_17_5	s30-d26_18_4	s30-d26_19_9	s30-d26_20_4
+5880	6392	add	knife	cauliflower	cutting board,pot	s30-d26_1_5	s30-d26_2_5	s30-d26_3_7			s30-d26_7_7	s30-d26_8_8			s30-d26_12_8	s30-d26_13_8				s30-d26_17_6	s30-d26_18_5	s30-d26_19_10	s30-d26_20_5
+6590	6667	put lid	hand	lid	counter,pot	s30-d26_1_6		s30-d26_3_8		s30-d26_6_7. s30-d26_6_8				s30-d26_11_5									
+6747	7038	throw in garbage	hand	cauliflower				s30-d26_3_9			s30-d26_7_8					s30-d26_13_9							
+7154	7816	wash	hand	cutting board					s30-d26_5_5	s30-d26_6_9													
+7951	8072	wash	hand	knife											s30-d26_12_9	s30-d26_13_10							
+8156	8232	wash	hand	sponge										s30-d26_11_6									
+8248	8307	wring out	hand	sponge							s30-d26_7_9												
+8322	8355	wring out	hand	sponge																			
+8393	8753	clean	sponge	counter																			
+8767	8886	throw in garbage	hand	cauliflower																			
+8916	9094	wash	hand	sponge																			
+9104	9156	wring out	hand	sponge																			
+9294	9315	wash	hand	hand			s30-d26_2_6				s30-d26_7_10									s30-d26_17_7			
+9318	9437	shake	hand	hand				s30-d26_3_10															
+9462	9567	dry	towel	hand					s30-d26_5_6					s30-d26_11_7		s30-d26_13_11					s30-d26_18_6		s30-d26_20_6
+9640	9667	remove lid	hand	lid	pot																		
+9717	9801	put lid	hand	lid	,pot									s30-d26_11_8									
+9889	9924	move	hand	cauliflower	counter,sink																		
+9945	9987	move	hand	cauliflower	counter,sink																		
+10061	10153	open	hand		drawer																		
+11172	11196	remove lid	hand	lid	,pot																		
+11245	11344	put lid	hand	lid	,pot																		
+12549	12573	remove lid	hand	lid	,pot																		
+12572	12622	put lid	hand	lid	,pot																		
+12731	12971	open	hand		cupboard																		
+13427	13465	change temperature	hand	stove										s30-d26_11_9									
+13590	13634	change temperature	hand	stove		s30-d26_1_7																	
+14096	14226	take out	hand	fork	,drawer											s30-d26_13_12							
+14272	14313	remove lid	hand	lid	,pot																		
+14339	14599	poke	fork	cauliflower	pot																		
+14606	14670	put lid	hand	lid	,pot	s30-d26_1_8			s30-d26_5_7		s30-d26_7_11			s30-d26_11_10							s30-d26_18_7		
+14776	14834	wash	hand	fork																			
+14837	14882	shake	hand	fork				s30-d26_3_11															
+14938	14980	shake	hand	hand																			
+15001	15029	shake	hand	hand																			
+15076	15286	take out	hand	plate	counter,cupboard			s30-d26_3_12								s30-d26_13_13							
+15364	15758	take out	hand	colander	drawer,sink			s30-d26_3_13								s30-d26_13_14				s30-d26_17_8	s30-d26_18_8		s30-d26_20_7
+15847	15915	change temperature	hand	stove										s30-d26_11_11									
+15912	16034	remove lid	hand	lid	counter,pot					s30-d26_6_10													
+16062	16154	move	hand	pot	sink,stove																		
+16162	16333	pour	pot	cauliflower	colander,pot	s30-d26_1_9	s30-d26_2_7																
+16419	16510	shake	colander	cauliflower	colander					s30-d26_6_11				s30-d26_11_12									
+16578	16685	shake	colander	cauliflower	colander						s30-d26_7_12												
+16700	16813	add	colander	cauliflower	colander,plate									s30-d26_11_13									
+16825	16854	move	hand	cauliflower	colander,counter				s30-d26_5_8	s30-d26_6_12						s30-d26_13_15				s30-d26_17_9			
+16868	16923	move	hand	colander	,sink		s30-d26_2_8																
+17017	17079	move	hand	lid	counter			s30-d26_3_14			s30-d26_7_13			s30-d26_11_14							s30-d26_18_9		s30-d26_20_8

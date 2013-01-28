@@ -1,0 +1,12 @@
+11	265	take out	hand	knife	counter,drawer
+265	318	close	hand		drawer
+318	496	take out	hand	cutting board	counter,drawer
+551	695	rip off	hand	chive	flower pot
+720	813	wash	hand	chive	
+813	867	shake	hand	chive	
+867	908	move	hand	chive	,cutting board
+926	1055	purge	hand	chive	cutting board
+1078	1381	chop	knife	chive	cutting board
+1381	1422	scratch off	hand	chive	cutting board,knife
+1502	1572	throw in garbage	hand	garbage	
+1575	1764	put in	hand	flower pot	counter,fridge

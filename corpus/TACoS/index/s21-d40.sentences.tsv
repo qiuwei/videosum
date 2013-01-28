@@ -1,0 +1,106 @@
+s21-d40_1_1	She takes out juicer	s21-d40	243	388	lime	391
+s21-d40_1_2	She takes out lime	s21-d40	456	729	lime	707
+s21-d40_1_3	She takes out knife	s21-d40	735	861	lime	839
+s21-d40_1_4	She takes out cutting board	s21-d40	872	946	lime	945
+s21-d40_1_5	She cuts lime in half	s21-d40	957	1023	lime	1041
+s21-d40_1_6	She twists lime on juicer	s21-d40	1059	2905	lime	2941
+s21-d40_2_1	First place your juicer on the counter.	s21-d40	243	342	lime	365
+s21-d40_2_2	Next get one fresh lime stored from the refrigerator.	s21-d40	342	729	lime	715
+s21-d40_2_3	You will need a knife and cutting board to cut the lime in half.	s21-d40	735	861	lime	905
+s21-d40_2_4	Take one half of the lime and press against the juicer to extract all the juice.	s21-d40	872	1023	lime	1117
+s21-d40_2_5	Repeat this process with the other half of the lime.	1059	1541
+s21-d40_2_6	You can rotate the lime on the juicer to extract all the juice.	1059	1541
+s21-d40_2_7	Wash your hands once this process is complete.	s21-d40	1587	2905	lime	3009
+s21-d40_3_1	The woman gets her supplies out.	s21-d40	243	946	lime	985
+s21-d40_3_2	The woman cuts the lime in half.	s21-d40	957	1023	lime	1039
+s21-d40_3_3	She pushes and twist the half lime on the juicer.	s21-d40	1059	1541	lime	1571
+s21-d40_3_4	The woman pushes and twist the other half of the lime onto the juicer.	s21-d40	1587	2574	lime	2601
+s21-d40_3_5	She finishes by washing the lime juice off of her hands.	s21-d40	3027	3124	lime	3235
+s21-d40_5_1	The lady gets a juicer out.	s21-d40	243	342	lime	345
+s21-d40_5_2	The lady gets a lime, knife and cutting board out.	s21-d40	342	946	lime	951
+s21-d40_5_3	The lady cuts the lime in half.	s21-d40	957	1023	lime	1027
+s21-d40_5_4	The lady picks up one half of the lime and rotates and squeezes it on the juicer.	s21-d40	1059	1541	lime	1561
+s21-d40_5_5	The lady picks up the other half of the lime and rotates and squeezes it on the juicer.	s21-d40	1587	2574	lime	2581
+s21-d40_5_6	The lady picks up the first half of the lime and rotates and squeezes it on the juicer again.	s21-d40	2606	2905	lime	2923
+s21-d40_5_7	The lady washes her hands in the sink.	s21-d40	3027	3124	lime	3235
+s21-d40_6_1	The person takes out a juice strainer from the drawer.	s21-d40	243	342	lime	347
+s21-d40_6_2	The person procures a lime from the fridge.	s21-d40	342	729	lime	699
+s21-d40_6_3	The person takes out a knife from the drawer.	s21-d40	735	861	lime	849
+s21-d40_6_4	The person takes out a cutting board from the drawer.	s21-d40	872	946	lime	953
+s21-d40_6_5	The person cuts the lime in half.	s21-d40	957	1023	lime	1029
+s21-d40_6_6	The person grinds each half of the lime into the juice strainer with her palm.	s21-d40	1059	2905	lime	2941
+s21-d40_6_7	The person washes her hands.	s21-d40	2606	3124	lime	3135
+s21-d40_7_1	The person takes out a juice strainer from the drawer.	s21-d40	243	342	lime	359
+s21-d40_7_2	The person procures a lime from the fridge.	s21-d40	342	729	lime	697
+s21-d40_7_3	The person takes out a knife from the drawer.	s21-d40	735	861	lime	845
+s21-d40_7_4	The person takes out a cutting board from the drawer.	s21-d40	872	946	lime	941
+s21-d40_7_5	The person cuts the lime in half.	s21-d40	957	1023	lime	1041
+s21-d40_7_6	The person grinds each half of the lime into the top of the juice strainer with her palm.	s21-d40	1059	2905	lime	2993
+s21-d40_7_7	The person washes her hands.	s21-d40	3027	3124	lime	3137
+s21-d40_8_1	The person gets out a juicer.	s21-d40	243	388	lime	387
+s21-d40_8_2	The person gets out a lime.	s21-d40	456	729	lime	701
+s21-d40_8_3	The person gets out a knife.	s21-d40	735	861	lime	847
+s21-d40_8_4	The person gets out a wooden plate.	s21-d40	872	946	lime	959
+s21-d40_8_5	The person cuts the lime in half.	s21-d40	957	1023	lime	1023
+s21-d40_8_6	The person juices the lime.	s21-d40	1059	2905	lime	2953
+s21-d40_8_7	The person rinses her hands.	s21-d40	3027	3124	lime	3151
+s21-d40_9_1	The person takes out a juice strainer from the drawer.	s21-d40	243	342	lime	347
+s21-d40_9_2	The person procures a lime from the fridge.	s21-d40	342	729	lime	677
+s21-d40_9_3	The person takes out a knife from the drawer.	s21-d40	735	861	lime	849
+s21-d40_9_4	The person takes out a cutting board from the drawer.	s21-d40	872	946	lime	951
+s21-d40_9_5	The person cuts the lime into halves.	s21-d40	957	1023	lime	1033
+s21-d40_9_6	The person attempts to grind each lime half into the top of the juicer with her palm.	s21-d40	1059	2905	lime	2937
+s21-d40_9_7	The person washes her hands.	s21-d40	3027	3124	lime	3143
+s21-d40_10_1	She gets a juicer.	s21-d40	243	342	lime	359
+s21-d40_10_2	She grabs a lime.	s21-d40	342	729	lime	659
+s21-d40_10_3	She grabs a knife and cutting board.	s21-d40	735	946	lime	967
+s21-d40_10_4	She cuts the lime in half.	s21-d40	957	1023	lime	1045
+s21-d40_10_5	She juices the lime.	s21-d40	1059	2905	lime	2929
+s21-d40_12_1	She took out juicer	s21-d40	243	342	lime	350
+s21-d40_12_2	She took out lime	s21-d40	342	729	lime	712
+s21-d40_12_3	She took out knife	s21-d40	735	861	lime	854
+s21-d40_12_4	She cut lime in half	s21-d40	872	1023	lime	1066
+s21-d40_12_5	She twisted lime on juicer	s21-d40	1059	2905	lime	2978
+s21-d40_12_6	She washed her hands	s21-d40	3027	3124	lime	3236
+s21-d40_13_1	The woman takes out a lime.	s21-d40	243	729	lime	739
+s21-d40_13_2	The woman slices the lime in half.	s21-d40	735	1023	lime	1039
+s21-d40_13_3	The woman pushes the first half of lime into a juicer.	s21-d40	1059	1541	lime	1577
+s21-d40_13_4	The woman juices the second half with the juicer.	s21-d40	1587	2574	lime	2617
+s21-d40_13_5	The woman washes her hands.	s21-d40	3027	3124	lime	3233
+s21-d40_14_1	Cut the lime in half.	s21-d40	243	1023	lime	1039
+s21-d40_14_2	Squeeze the lime into container.	s21-d40	1059	1541	lime	1584
+s21-d40_14_3	Get the most out of the lime by juicing the first half again.	s21-d40	1587	2574	lime	2633
+s21-d40_14_4	Squeeze the lime half as hard as you can to get the most.	3027	3124
+s21-d40_14_5	Wash your hands afterwards.	3027	3124
+s21-d40_15_1	The person takes the lemon squeezer out of the drawer.	s21-d40	243	342	lime	343
+s21-d40_15_2	The person takes a lime out of the refrigerator.	s21-d40	342	729	lime	694
+s21-d40_15_3	The person takes a knife out of the drawer.	s21-d40	735	861	lime	866
+s21-d40_15_4	The person takes a round chopping board out of the drawer.	s21-d40	872	946	lime	941
+s21-d40_15_5	The person cuts the lime in half.	s21-d40	957	1023	lime	1023
+s21-d40_15_6	The person squeezes the juice out of both lime halves.	s21-d40	1059	2905	lime	2935
+s21-d40_15_7	The person washes her hands.	s21-d40	3027	3124	lime	3157
+s21-d40_16_1	The person gets the juicer.	s21-d40	243	388	lime	411
+s21-d40_16_2	The person gets the lime, a knife and a cutting board.	s21-d40	456	946	lime	981
+s21-d40_16_3	The person slices the lime in half.	s21-d40	957	1023	lime	1036
+s21-d40_16_4	Take one half of the lime and press on the juicer while rotating the lime.	s21-d40	1059	1541	lime	1563
+s21-d40_16_5	The person squeezes the other half of the lime into the juicer.	s21-d40	1587	2574	lime	2597
+s21-d40_17_1	The person gets out a juicer.	s21-d40	243	342	lime	361
+s21-d40_17_2	The person gets out a lime.	s21-d40	342	729	lime	740
+s21-d40_17_3	The person gets out a knife.	s21-d40	735	861	lime	868
+s21-d40_17_4	The person gets out a wooden plate.	s21-d40	872	946	lime	954
+s21-d40_17_5	The person cuts the lime in half.	s21-d40	957	1023	lime	1066
+s21-d40_17_6	The person juices each half of the lime.	s21-d40	2606	2905	lime	3005
+s21-d40_17_7	The person washes her hands.	s21-d40	2606	3124	lime	3150
+s21-d40_18_1	The person gets a juice strainer from the drawer and places it on the counter.	s21-d40	243	388	lime	383
+s21-d40_18_2	The person gets a lime from the fridge.	s21-d40	456	729	lime	711
+s21-d40_18_3	The person gets a cutting board and a knife from the drawer.	s21-d40	735	946	lime	973
+s21-d40_18_4	The person chops the lime into halves.	s21-d40	957	1023	lime	1047
+s21-d40_18_5	The person grinds each lime half upon the juice strainer.	s21-d40	1059	2905	lime	2961
+s21-d40_18_6	The person washes her hands in the sink.	s21-d40	2606	3124	lime	3165
+s21-d40_19_1	She took out juicer	s21-d40	243	342	lime	345
+s21-d40_19_2	She took out lime	s21-d40	342	729	lime	725
+s21-d40_19_3	She took out knife	s21-d40	735	861	lime	853
+s21-d40_19_4	She took out cutting board	s21-d40	872	946	lime	951
+s21-d40_19_5	She sliced lime in half	s21-d40	957	1023	lime	1041
+s21-d40_19_6	She twisted lime on juicer	s21-d40	1059	2905	lime	2923
+s21-d40_19_7	She washed hands	s21-d40	3027	3124	lime	3131

@@ -1,0 +1,212 @@
+187	268	open	hand		drawer																			
+283	474	take out	hand	lid,pot	counter,drawer																			
+480	561	remove lid	hand	lid	counter,pot	He took out pot							He took out two pots	He gets two pots out of the cupboard. 				He gets two pots.				The person takes two pots with lids from a cabinet and places them onto the stove.		
+638	1306	fill	faucet	water	pot																			
+1399	1450	move	hand	pot	,stove									He fills one pot with water.  	He gets two pots out and puts water in one.									
+1455	1577	turn on	hand	stove		He put water in pot. He put pot on stove	He get a pot and fills in with water. 													He gets two pots and adds water to one.				
+1589	1668	put lid	hand	lid	counter,pot	He turned on stove. He put lid on pot							He put water in pot. He turned on stove	He turns on the stovetop.			The person takes out a pair of metal pot from the drawer, fills one with water, and places them on the stove, turns the stove on, and covers the water filled pot with a lid.	He starts water boiling in one pot.					Add water to pot and place on stove, covered with lid.	The man fills one of two pots with water.
+1740	1858	take out	hand	cutting board	counter,drawer	He took out cutting board	He turns on the stove and covers the pot. 	The person takes out two metal pots from a cabinet, fills one with water, puts it on the stove, turns on the stove, and then covers the water filled pot with a lid.	The person takes out two metal pots from a cabinet, fills one with water, puts it on the stove, turns on the stove, and then covers the water filled pot with a lid.	The person gets out two pots, fills one of the pots with water, puts them on the stove and turns it on.	The person takes out a pair of metal pot from the drawer, fills one with water, and places them on the stove, turns the stove on, and covers the water filled pot with a lid.. The person takes out a cutting board from the drawer.	The person takes out a pair of metal pot from the drawer, fills one with water, and places them on the stove, turns the stove on, and covers the water filled pot with a lid.	He put lid on pot. He took out cutting board			The person takes out a pair of metal pot from the drawer, fills one with water, and places them on the stove, turns the stove on, and covers the water filled pot with a lid.. The person takes out a cutting board from the drawer.	The person takes out a cutting board from the drawer.		The man adds water and heat to a pan.		The man adds water to a pot.	The person fills one pot with water, then returns it to the stove where he places a lid over it and turns on the stove.. The person takes a cutting board from the drawer.		
+1878	2441	take out	hand	cauliflower	cutting board,fridge																			
+2447	2562	take out	hand	knife	drawer	He took out cauliflower					The person procures a cauliflower from the fridge.	The person takes out a cutting board from the drawer, then procures a cauliflower from the fridge.	He took out cauliflower	He get a cauliflower out of the fridge.		The person procures a cauliflower from the fridge.	The person procures a cauliflower from the fridge.							
+2570	2630	take apart	hand	leaves	cutting board														The man takes a cauliflower out of the refrigerator.			The person takes a cauliflower from the fridge and sets it on the cutting board.		
+2664	2717	cut	knife	leaves	cutting board	He took out knife	He gets out the cauliflower, a cutting board, and a knife. 	The person takes out a cutting board from the drawer, a stalk of cauliflower from the fridge, and a knife from another drawer.	The person takes out a cutting board from the drawer, a stalk of cauliflower from the fridge, and a knife from another drawer.	The person gets out a cutting board, a cauliflower, and a knife.			He took out knife		He gets a knife, cutting board, and cauliflower.					He gets a cutting board, knife, and the cauliflower.				
+2724	2752	cut	knife	leaves	cutting board																			
+2822	2891	cut	knife	leaves	cutting board																			
+2963	3026	cut	knife	leaves	cutting board		He removes the leaves from the cauliflower.																	
+3132	3223	cut	knife	cauliflower	cutting board	He took off leaves							He cut off leaves					He gets the cauliflower and chops off its leaves. 						
+3276	3369	cut	knife	cauliflower	cutting board																		Use knife to remove large leaves from cauliflower and cut in half.	
+3440	3524	cut	knife	cauliflower	cutting board																			
+3532	3581	cut	knife	cauliflower	cutting board													He cuts off the piece of cauliflower he needs.				The person gets a knife from a drawer and cuts away the leaves.		
+3612	3632	take apart	knife	cauliflower	cutting board																			
+3731	3789	cut	knife	leaves	cutting board																			
+3801	3853	cut	knife	leaves	cutting board																			
+3879	3915	take apart	knife	leaves																				
+3973	4066	take apart	knife	cauliflower																				
+4132	4182	purge	knife	cauliflower	cutting board																			
+4193	4214	scratch off	hand	cauliflower	cutting board,knife									He chops a large floret off the cauliflower.							The man selects a piece of cauliflower to use.		Use knife to shave down cauliflower to remove unsavory bits.	
+4250	4740	put in	hand	cauliflower	cutting board,fridge																	The person cuts the cauliflower in half and replaces the other half into the fridge.		The man cleans a part of a cauliflower.
+4779	4935	take out	hand	plastic box	counter,fridge	He put away extra cauliflower. He took out butter		The person uses the knife to remove the leaves from the cauliflower, chops it into halves, returns one half to the fridge, and takes out some butter.	The person uses the knife to remove the leaves from the cauliflower, cuts it in half, returns the other to the fridge, and takes out some butter.		The person takes out a knife from the drawer, cuts off the leaves and stems, chops the cauliflower in half, returns half to the fridge and takes out some butter.	The person takes out a knife from the drawer, cuts off the leaves and stems, chops the cauliflower in half, returns half to the fridge and takes out some butter.	He put back extra cauliflower. He took out butter			The person takes out a knife from the drawer, cuts off the leaves and stems, chops the cauliflower in half, returns half to the fridge and takes out some butter.	The person takes out a knife from the drawer, cuts off the leaves and stems, chops the cauliflower in half, returns half to the fridge and takes out some butter.	He puts the rest of the cauliflower back in the fridge.	The man cuts out a useful piece of the cauliflower.					
+5185	5299	throw in garbage	hand	cauliflower,leaves		He threw out scraps	He discards the bad parts of the cauliflower.	The person throws the leaves into the trash.	The person throws the leaves into the trash.	The person cuts all the leaves off the cauliflower, cuts it in half, puts one half back in the fridge and throws away the leaves.										He prepares the cauliflower for cooking and puts the rest away.		The person gets some butter from the fridge and throws the leaves into the trash.		
+5348	5599	wash	hand	cauliflower									He threw away scraps						The man discards the unwanted pieces.					
+5602	5646	shake	hand	cauliflower																				
+5725	5768	wash	hand	hand											He cuts down the cauliflower and rinses it. 		The person throws the stem and leaves into the wastebin, then washes the cauliflower in the sink.							
+5773	5803	shake	hand	hand			He rinses the cauliflower.				The person throws the stem and leaves into the wastebin, then washes the cauliflower in the sink.	The person throws the stem and leaves into the wastebin, then washes the cauliflower in the sink.	He washed cauliflower			The person throws the stem and leaves into the wastebin, then washes the cauliflower in the sink.		He rinses the cauliflower.		He rinses the cauliflower.	The man discards the unwanted pieces and washes the usable piece.			
+5814	5867	dry	towel	hand																			Rinse cauliflower.	
+5949	5975	remove lid	hand	lid	,pot					The person rinses the cauliflower and his hands.														
+5991	6020	put lid	hand	lid	,pot			The person washes the cauliflower in the sink and then dries his hands on a towel.	The person washes the cauliflower in the sink and then dries his hands on a towel.				He washed hands									The person washes the cauliflower half and dries his hands on the towel.		
+6052	6115	open	hand		cupboard																			
+6123	6270	take out	hand	paper box	cupboard																			
+6400	6427	remove lid	hand	lid	,pot																			
+6433	6507	add	paper box	salt	pot													He salts the water.						
+6668	6720	move	hand	paper box	counter		He salts the water. 								He salts the water.					He salts the water.				
+6725	6756	move	hand	lid	counter																The man adds broth to the water.			
+6793	6843	open	hand		cupboard																		Add salt to water and leave pot uncovered.	
+6850	6899	open	hand		cupboard																			The man seasons the water on the stove.
+7418	7475	close	hand		cupboard																			
+7498	7535	open	hand		cupboard																			
+7591	7737	close	hand		cupboard																			
+7752	7942	take out	hand	paper bag	counter,cupboard																			
+8083	8114	move	hand	pot	stove																			
+8660	8900	take out	hand	spoon,wire whisk	counter,drawer			The person takes several condiments from the pantry, and then removes a whisker and a spoon from the drawer.	The person takes several condiments from the pantry, then removes a whisker and a spoon from the drawer.		The person takes several condiments from the pantry, and then a whisker and a spoon from the drawer.	The person takes several condiments from the pantry, and then a whisker and a spoon from the drawer.				The person takes several condiments from the pantry, and then a whisker and a spoon from the drawer.	The person takes several condiments from the pantry, and then a whisker and a spoon from the drawer.							
+9123	9531	take out	hand	ladle	counter,drawer																			
+9573	9769	take out	hand	paper box	fridge																			
+9788	9842	open	hand		cupboard																			
+9854	9903	open	hand		cupboard																			
+10122	10189	close	hand		cupboard						The person takes a utensil from the drawer and then another condiment from the fridge.	The person takes a utensil from the drawer and then another condiment from the fridge.				The person takes a utensil from the drawer and then another condiment from the fridge.	The person takes a utensil from the drawer and then another condiment from the fridge.		The man gets supplies while he waits for the water to heat up.			The person thrice took items from the pantry, and removed an egg beater, a spoon, and a plastic stirring spoon from the drawer.		
+10460	10515	put lid	hand	lid	counter,pot																			
+10722	10823	dry	towel	pot																				
+10874	10946	move	hand	pot	,stove																			
+10982	11018	move	hand	pot	stove																			
+11244	11359	remove lid	hand	lid	counter,plastic box																			
+11367	11399	move	hand	pot	stove					The person adds what I think is salt to the pot with the water, and gets out more supplies as he waits for it to boil.											The man gets supplies while waiting for the water to heat up.			
+11568	11644	cut	spoon	butter	plastic box																			
+11691	11721	add	spoon	butter	plastic box,pot																			
+11829	11877	cut	spoon	butter	plastic box																			
+11882	11901	add	spoon	butter	plastic box,pot		He adds butter to a second pot. 																	
+11938	11996	put lid	hand	lid	counter,plastic box									He puts butter in the second pot. 	He puts butter in the other pot.					He adds butter to the sauce pan.			Add butter to saucepan.	
+12010	12237	put in	hand	plastic box	counter,fridge					The person puts butter in the empty pot.											The man adds butter to the other pan.			
+12412	12468	open	hand		drawer														The man adds butter to the other pot.					After gathering butter and milk, the man heats butter in second pot.
+12524	12604	close	hand		drawer																			
+12919	13149	wash	hand,sponge	spoon																				
+13154	13176	shake	hand	spoon																				
+13181	13254	dry	towel	spoon							The person spoons some butter into the second pot, then returns the rest the fridge, after which he washes the spoon in the sink and dries it on a towel.	The person spoons some butter into the second pot, then returns the rest the fridge, after which he washes the spoon in the sink and dries it on a towel.				The person spoons some butter into the second pot, then returns the rest the fridge, after which he washes the spoon in the sink and dries it on a towel.	The person spoons some butter into the second pot, then returns the rest the fridge, after which he washes the spoon in the sink and dries it on a towel.							
+13374	13714	open	hand	paper bag	counter																			
+13733	13790	screw	hand	paper box																				
+13916	13966	remove lid	hand	lid	counter,pot																			
+14008	14112	add	hand,ladle	cauliflower	cutting board,pot																			
+14123	14178	stir	ladle	cauliflower,water	pot																			
+14181	14198	shake	hand	ladle				The person returns the butter to the fridge, washes the spoon in the sink, and sets the cauliflower into the boiling water of the pot on the stove with a ladle.	The person scoops butter into the second pot, returns the rest to the fridge, then sets the cauliflower into the boiling water of the first pot using a ladle.	The person puts the cauliflower in the pot with the water.				He puts the large floret in the boiling water of the first pot.				He puts the cauliflower in the water.		He adds the cauliflower to the boiling water.				
+14294	14393	change temperature	hand	stove			He adds the cauliflower to the boiling water. 								He adds the cauliflower to the pot with water.				The man places the cauliflower into the boiling water.		The man adds the cauliflower to the water.	The person places the cauliflower into the boiling water of the pot.		
+14399	14458	put lid	hand	lid	counter,pot						The person uses the utensil to put the cauliflower into the boiling water and covers the pot with a lid.	The person uses the utensil to put the cauliflower into the boiling water and covers the pot with a lid.				The person uses the utensil to put the cauliflower into the boiling water and covers the pot with a lid.	The person uses the utensil to put the cauliflower into the boiling water and covers the pot with a lid.						Place cauliflower in the pot's boiling water and cover with lid.	
+14754	14906	change temperature	hand	stove																				
+15506	15784	wash	cleaning brush	cutting board,sink																				
+15842	16049	dry	towel	cutting board																				
+16165	16258	hang up	hand	towel	hook					The person rinses the dishes.														
+16389	16453	change temperature	hand	stove																				
+16765	16817	open	hand		cupboard																			
+16822	17009	take out	hand	jar	cupboard																			
+17019	17054	screw	hand	jar																				
+17069	17114	screw	hand	jar																				
+17124	17193	take out	hand	teaspoon	drawer																			
+17200	17251	remove lid	hand	lid	counter,pot																			
+17255	17289	screw	hand	jar																				
+17307	17412	add	teaspoon	soup powder	jar,pot																			
+17449	17505	screw	hand	jar																				
+17532	17580	put lid	hand	lid	counter,pot									He adds bouillon powder to the boiling water. 	He season the water.			He seasons the cauliflower.		He seasons the cauliflower.	The man seasons the cauliflower in the water.		Add seasoning to boiling cauliflower and replace lid.	
+17627	17904	put in	hand	jar	,cupboard					The person adds something I don't recognize to the pot with the cauliflower.	The person takes another condiment from the pantry, uses a spoon from the drawer to scoop it into the boiling water, then returns the rest to the pantry.	The person cleans off the cutting board in the sink, takes another condiment from the pantry, uses a spoon from the drawer to scoop it into the boiling water, then returns the rest to the pantry.				The person takes another condiment from the pantry, uses a spoon from the drawer to scoop it into the boiling water, then returns the rest to the pantry.	The person takes another condiment from the pantry, uses a spoon from the drawer to scoop it into the boiling water, then returns the rest to the pantry.							
+18098	18252	stir	wire whisk	butter	pot														The man seasons the water.					The man begins to boil the cauliflower and adds seasoning, taking the chance to wash the now-empty cutting board.
+18376	18482	change temperature	hand	stove																				
+18736	18975	take out	hand	plate	counter,cupboard																			
+18983	19016	move	hand	teaspoon	counter,cutting board			The person washes the cutting board, dries it with a towel, then gets several condiments from the pantry and a plate from the cupboard.	The person washes the cutting board, dries it with a towel, then gets several condiments from the pantry and a plate from the cupboard.	The person gets out a plate.	The person procures a plate from the cabinet and sets it on the counter.	The person procures a plate from the cabinet and sets it on the counter.		He gets a plate from the cupboard.		The person procures a plate from the cabinet and sets it on the counter.	The person procures a plate from the cabinet and sets it on the counter.					The person takes a plate out of the cabinet.		
+19315	20379	unknown	???																					The man fiddles with the oven controls.
+20740	21373	stir	wire whisk	butter	pot																The man whisks the melted butter.			
+21446	21784	add	spoon	flour	paper bag,pot																			
+21790	21837	shake	hand	spoon																				
+21868	21956	change temperature	hand	stove											He adds ingredients to the sauce.									
+21969	22330	whisk	wire whisk	butter,flour	pot																			
+22416	22483	close	hand	paper bag	counter																		When the melted butter is browned, add flour and stir until smooth.	
+22540	22598	change temperature	hand	stove																				
+22738	22806	change temperature	hand	stove					The person adds condiments to the second pot and whisks them.															
+22825	22999	whisk	wire whisk	butter,flour	pot																			
+23006	23042	change temperature	hand	stove																				
+23047	23153	whisk	wire whisk	butter,flour	pot																			
+23191	23264	screw	hand	paper box																				
+23270	23366	pour	paper box	milk	paper box,pot																			
+23369	23466	screw	hand	paper box																				
+23471	23510	change temperature	hand	stove						The person adds flour and milk to the butter, stirring regularly.					He adds milk to the sauce.					He adds ingredients to the sauce.				
+23522	23915	whisk	wire whisk	butter,flour,milk	pot									He adds milk to the pot with butter.										
+23916	23943	shake	hand	wire whisk																				
+24040	24098	change temperature	hand	stove															The man whisk the butter with some cream in the other pot.				Add cream to butter-flour mixture and whisk until smooth.	The man adds powder and milk to the the butter sauce, whisks it, and adjust the temperature of the cooktop.
+24138	24391	whisk	wire whisk	butter,flour,milk	pot																The man adds corn starch and cream to the butter.			
+24406	24479	pour	ladle	water	pot																			
+24485	24515	move	hand	pot	stove																			
+24522	24541	shake	hand	ladle																				
+24560	24608	change temperature	hand	stove																				
+24623	24649	move	hand	pot	stove																			
+24658	24818	whisk	wire whisk	flour,milk,water	pot																			
+24840	24942	pour	ladle	water	pot																			
+24990	25234	whisk	wire whisk	flour,milk,water	pot									He takes a small amount of stock from the cauliflower pot and adds it to the pot with milk and butter.										
+25322	25424	take out	hand	fork	,drawer																		Add boiling cauliflower stock to cream sauce and whisk thoroughly.	
+25431	25473	poke	fork	cauliflower	pot																			
+25481	25537	stir	fork	cauliflower,water	pot																			
+25542	25595	flip	fork	cauliflower	pot																			
+25600	25644	put lid	hand	lid	counter,pot																			
+25679	25750	change temperature	hand	stove												The person adds condiments to the second pot on the stove and whisks them.								
+25768	25948	whisk	wire whisk	flour,milk,water	pot																			
+25983	26028	screw	hand	paper box																				
+26035	26081	pour	paper box	milk	paper box,pot																			
+26081	26155	screw	hand	paper box																				
+26166	26351	whisk	wire whisk	flour,milk,water	pot																			
+26360	26412	change temperature	hand	stove																				
+26447	26493	take out	hand	spice shaker	,spice holder						The person adds condiments to the second pot on the stove and whisks them.											The person appears to be making some sort of sauce with various condiments which he poured into the second pot and whisked while it cooked on the stove.		
+26542	26614	screw	hand	spice shaker																				
+26612	26724	spice	spice shaker	spice	pot																			
+26730	26760	screw	hand	spice shaker																				
+26765	26995	whisk	wire whisk	flour,milk,water	pot					The person stirs for a while, then adds pepper to the sauce pot.													Add pepper to cream sauce.	
+27028	27104	add	paper box	salt	pot																			
+27128	27513	whisk	wire whisk	flour,milk,water	pot																			
+27520	27573	shake	hand	wire whisk																				
+27669	27716	put lid	hand	lid	counter,pot																			
+27780	27818	move	hand	paper box	counter																			
+27824	27854	move	hand	paper box	counter		He adds several ingredients to the second pot and mixes. 				The person adds condiments to the second pot on the stove and whisks them, then covers the pot with a lid.	The person adds condiments to the second pot on the stove and whisks them, then covers the pot with a lid.				The person adds condiments to the second pot on the stove and whisks them, then covers the pot with a lid.	The person adds condiments to the second pot on the stove and whisks them, then covers the pot with a lid.				The man continues to whisk the butter and cream while adding water and seasoning.			
+27996	28015	remove lid	hand	lid	,pot																			
+28021	28087	stir	teaspoon	butter,flour,milk	pot																			
+28103	28138	put lid	hand	lid	,pot																			
+28154	28198	taste	teaspoon	butter,flour,milk																				
+28206	28240	taste	hand	butter,flour,milk																			Taste cream sauce to determine if seasoned appropriately.	Cauliflower broth is introduced into the butter sauce, which is then seasoned once more and tasted.
+28435	28456	remove lid	hand	lid	,pot																			
+28462	28522	add	paper box	salt	pot																			
+28528	28569	put lid	hand	lid	,pot																			
+28623	28642	remove lid	hand	lid	,pot																			
+28651	28735	whisk	wire whisk	flour,milk,water	pot																			
+28744	28768	shake	hand	wire whisk																				
+28776	28802	put lid	hand	lid	,pot																			
+28882	28923	change temperature	hand	stove																				
+28949	29020	change temperature	hand	stove																				
+29095	29146	screw	hand	spice shaker																				
+29152	29182	put in	hand	spice shaker	,spice holder																			
+29377	29396	remove lid	hand	lid	,pot																			
+29402	29453	whisk	wire whisk	flour,milk,water	pot																			
+29459	29487	shake	hand	wire whisk																				
+29489	29520	put lid	hand	lid	,pot																			
+29806	30019	put in	hand	paper bag	counter,cupboard																			
+30035	30084	take out	hand	jar	cupboard																			
+30092	30108	screw	hand	jar																				
+30112	30133	smell	hand	?	jar																			
+30138	30157	screw	hand	jar																				
+30164	30230	put in	hand	jar	,cupboard																			
+30306	30363	move	hand	paper box	counter																			
+30371	30437	move	hand	paper box	counter														The man seasons the cream mixture and continues stirring.					
+30547	30585	move	hand	cutting board	counter																			
+30607	30736	wring out	hand	sponge																				
+30902	31014	clean	sponge	counter																				
+31259	31280	remove lid	hand	lid	,pot																			
+31287	31374	poke	fork	cauliflower	pot																			
+31381	31415	put lid	hand	lid	,pot																			
+31493	31886	unknown	???																					
+31983	32256	put in	hand	paper box	counter,fridge																			
+32433	32626	put in	hand	paper box	counter,cupboard						The person wipes down the counter with a rag and then returns the condiments to the pantry.	The person wipes down the counter with a rag and then returns the condiments to the pantry and fridge.				The person wipes down the counter with a rag and then returns the condiments to the pantry.	The person wipes down the counter with a rag and then returns the condiments to the pantry.							
+33425	33483	open	hand		cupboard																			
+33489	33547	open	hand		cupboard																			
+33668	33778	close	hand		cupboard																			The man begins the process of cleaning up while periodically checking what is cooking.
+35555	35590	remove lid	hand	lid	,pot																			
+35630	35665	put lid	hand	lid	,pot																			
+35719	35808	change temperature	hand	stove																				
+36317	36349	remove lid	hand	lid	,pot																			
+36355	36519	poke	fork	cauliflower	pot																			
+36538	36570	put lid	hand	lid	,pot																		Use a fork to check the tenderness of the cauliflower.	
+38776	38822	remove lid	hand	lid	,pot																			
+38829	39046	poke	fork	cauliflower	pot																			
+39064	39105	put lid	hand	lid	,pot																			
+39113	39175	remove lid	hand	lid	cutting board,pot																			
+39180	39229	poke	fork	cauliflower	pot					The person keeps waiting for the cauliflower to cook, cleaning up and putting things away while he waits.									He waits for the pots to cook.		The man waits for the cauliflower to cook.			The man waits impatiently for the cauliflower to be done and then removes it from the boiling water.
+39390	39594	move	fork,spoon	cauliflower	plate,pot																			
+39678	39719	remove lid	hand	lid	counter,pot		He removes the cauliflower and places it on a plate. 								He puts the cauliflower on a plate.			He puts the cauliflower on the plate.		He puts the cauliflower on a plate.		After 30 minutes the person takes the cauliflower from the pot of water.		
+39743	39868	move	ladle	cauliflower	plate,pot																			
+39881	39984	pour	ladle	water	pot									He takes the floret out of the boiling stock and puts it on the plate. 							The puts the cauliflower onto the plate.			
+40017	40296	whisk	wire whisk	flour,milk,water	pot															He adds water to the sauce.				
+40300	40334	shake	hand	wire whisk																				
+40388	40415	move	hand	plate	counter																			
+40451	40593	move	pot	flour,milk,water	plate,pot						The person takes the cauliflower from the pot and puts it on the plate, then pours the sauce from the second pot over it.	The person takes the cauliflower from the pot and puts it on the plate, then pours the sauce from the second pot over it.		He pours the milk and butter mixture over the cauliflower.	He puts some sauce on the cauliflower.	The person takes the cauliflower from the pot and puts it on the plate, then pours the sauce from the second pot over it.	The person takes the cauliflower from the pot and puts it on the plate, then pours the sauce from the second pot over it.	He prepares the sauce.. He puts the sauce on the cauliflower.		He puts sauce on the cauliflower.			Pour creamsauce over plated cauliflower.	
+40800	40875	add	spoon	flour,milk,water	plate,pot		He puts the cream sauce on the cauliflower. 	The person uses the condiments to make a sauce in the second pot, then after a long time removes the cauliflower from the first pot using the ladle to set it on a plate then pours the sauce onto the cauliflower.		The person scoops the cauliflower out onto the plate and pours the sauce onto it.											The man places the sauce onto the cauliflower.	The person pours the sauce onto the cauliflower on the plate.		
+40917	41121	spread	spoon	flour,milk,water	plate				The person removes the cauliflower from the first pot using the ladle to set it on a plate then pours the sauce from the second pot onto the cauliflower.										The man places the cauliflower onto a plate and spoons the cream on top.					The man presents the finished cauliflower and garnishes it with broth-diluted butter sauce.

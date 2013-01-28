@@ -1,0 +1,74 @@
+201	334	take out	hand	knife	counter,drawer
+428	487	close	hand		drawer
+501	609	take out	hand	cutting board	counter,drawer
+753	835	take out	hand	bowl	counter,drawer
+880	954	close	hand		drawer
+1007	1473	take out	hand	orange	fridge
+1537	2613	peel	hand	orange	
+2669	2850	cut	knife	orange	cutting board
+2906	2980	cut	knife	orange	cutting board
+3122	3179	throw in garbage	hand	peel	
+3301	3341	throw in garbage	hand	peel	
+3412	3506	throw in garbage	hand	peel	
+3570	3657	take apart	hand	orange	
+3699	3749	take apart	hand	orange	
+3777	3810	take apart	hand	orange	
+3830	3864	take apart	hand	orange	
+3941	3995	throw in garbage	hand	orange	
+4099	4267	slice	hand	orange	cutting board
+4280	4545	chop	hand	orange	cutting board
+4551	4609	take apart	hand	orange	
+4650	4691	take apart	hand	orange	
+4731	4814	chop	knife	orange	cutting board
+4825	4857	take apart	hand	orange	
+4888	4934	chop	knife	orange	cutting board
+4979	5078	chop	knife	orange	cutting board
+5113	5179	take apart	hand	orange	
+5221	5375	chop	knife	orange	cutting board
+5450	5534	take apart	hand	orange	
+5549	5635	take apart	hand	orange	
+5662	5762	take apart	hand	orange	
+5791	5904	chop	knife	orange	cutting board
+5925	6027	chop	knife	orange	cutting board
+6042	6098	take apart	hand	orange	
+6126	6247	chop	knife	orange	cutting board
+6305	6453	take apart	hand	orange	
+6477	6643	chop	knife	orange	cutting board
+6676	6848	chop	knife	orange	cutting board
+6893	7195	add	knife	orange	bowl,cutting board
+7217	7306	shake	hand	bowl	
+7359	7553	take out	hand	paper bag	counter,cupboard
+7583	7737	take out	hand	teaspoon	drawer
+7832	7911	strew	teaspoon	sugar	bowl
+7967	8021	strew	teaspoon	sugar	bowl
+8050	8202	put in	hand	paper bag	counter,cupboard
+8234	8412	take out	hand	paper box	fridge
+8430	8539	pour	paper box	milk	bowl
+8574	8679	put in	hand	paper box	,fridge
+8705	8767	shake	hand	bowl	
+8793	9187	stir	teaspoon	milk,orange	bowl
+9226	9325	take out	hand	bottle	fridge
+9332	9390	screw	hand	bottle	
+9481	9506	pour	bottle	cream	bowl
+9510	9601	add	teaspoon	cream	bowl,plastic bottle
+9603	9670	add	teaspoon	cream	bowl,plastic bottle
+9670	9833	pour	bottle	cream	bowl
+9901	9956	screw	hand	bottle	
+9970	10091	put in	hand	bottle	,fridge
+10149	10211	clean	sponge	counter	
+10266	10325	wash	hand	sponge	
+10337	10393	wash	hand	hand	
+10417	10479	stir	teaspoon	cream,milk,orange	bowl
+10503	10653	wash	hand	teaspoon	
+10708	10848	dry	sponge	teaspoon	
+10862	10949	put in	hand	teaspoon	,drawer
+11002	11076	wash	hand	knife	
+11082	11099	move	hand	sponge	,faucet
+11099	11135	dry	sponge	knife	
+11135	11153	move	hand	sponge	,faucet
+11190	11253	put in	hand	knife	,drawer
+11284	11376	wash	hand	cutting board	
+11378	11390	move	hand	sponge	,faucet
+11390	11546	dry	sponge	cutting board	
+11546	11568	move	hand	sponge	,faucet
+11605	11750	put in	hand	cutting board	,drawer

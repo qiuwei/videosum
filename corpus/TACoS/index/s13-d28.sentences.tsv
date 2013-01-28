@@ -1,0 +1,126 @@
+s13-d28_1_1	The person got out a cutting board.	s13-d28	266	453	orange	429
+s13-d28_1_2	The person got out a knife.	s13-d28	471	700	orange	730
+s13-d28_1_3	The person got an orange out of the cupboard.	s13-d28	746	1245	orange	1256
+s13-d28_1_4	The person got a plate.	s13-d28	1338	1597	orange	1511
+s13-d28_1_5	The person rinsed the orange in the sink.	s13-d28	1666	1800	orange	1830
+s13-d28_1_6	The person cut the ends off the orange.	s13-d28	1902	2248	orange	2260
+s13-d28_1_7	The person peeled the orange.	s13-d28	2271	2950	orange	3048
+s13-d28_1_8	The person cut the orange in slices.	s13-d28	3127	3635	orange	3662
+s13-d28_1_9	The person cut each slice in quarters.	s13-d28	3685	4441	orange	4496
+s13-d28_1_10	The person put the pieces of orange on the plate.	s13-d28	4482	5402	orange	5446
+s13-d28_2_1	The person takes out a cutting board from the drawer.	s13-d28	266	453	orange	432
+s13-d28_2_2	The person takes out a knife from the drawer.	s13-d28	471	645	orange	648
+s13-d28_2_3	The person takes an orange from the pantry.	s13-d28	645	1245	orange	1292
+s13-d28_2_4	The person procures a plate from the cabinet.	s13-d28	1338	1597	orange	1578
+s13-d28_2_5	The person washes the orange in the sink.	s13-d28	1666	1800	orange	1808
+s13-d28_2_6	The person peels the orange with the knife.	s13-d28	1902	2950	orange	2974
+s13-d28_2_7	The person cuts the orange into slices, quarters the slices, then slides them onto the plate.	s13-d28	3127	5402	orange	5416
+s13-d28_3_1	The man gets a cutting board and knife from the drawer, before walking over and getting an orange and plate out of two different cabinets.	s13-d28	266	1597	orange	1578
+s13-d28_3_2	The man rinses the orange under the sink.	s13-d28	1666	1800	orange	1786
+s13-d28_3_3	The man places the orange on the cutting board and uses the knife to slice off the ends.	s13-d28	1902	2248	orange	2250
+s13-d28_3_4	The man takes the knife and digs it into the orange then begins to peel the orange by going around in a circle.	s13-d28	2271	2950	orange	2966
+s13-d28_3_5	The man takes the orange and starts at one end and makes six slices.	s13-d28	3127	3461	orange	3504
+s13-d28_3_6	The man takes the first slice and cuts it into fours.	s13-d28	3465	3835	orange	3832
+s13-d28_3_7	The man takes the remaining five slices and cuts them into fours.	s13-d28	3840	4441	orange	4518
+s13-d28_3_8	The man gently places the four halves of each slice onto the awaiting plate.	s13-d28	4482	5402	orange	5400
+s13-d28_4_1	He took out cutting board	s13-d28	266	453	orange	426
+s13-d28_4_2	He took out knife	s13-d28	471	645	orange	666
+s13-d28_4_3	He took out orange	s13-d28	645	1245	orange	1290
+s13-d28_4_4	He took out plate	s13-d28	1338	1597	orange	1542
+s13-d28_4_5	He washed orange	s13-d28	1666	1800	orange	1768
+s13-d28_4_6	He peeled orange	s13-d28	1902	2950	orange	3006
+s13-d28_4_7	He sliced orange	s13-d28	3127	3461	orange	3474
+s13-d28_4_8	He cut up slices	s13-d28	3465	4441	orange	4482
+s13-d28_4_9	He put orange on plate	s13-d28	4482	5402	orange	5432
+s13-d28_5_1	He gets a cutting board out of the cupboard.	s13-d28	266	453	orange	404
+s13-d28_5_2	He gets a knife out of the drawer.	s13-d28	471	645	orange	638
+s13-d28_5_3	 He gets an orange out of the cupboard.	s13-d28	645	1245	orange	1196
+s13-d28_5_4	He gets a plate out of the cupboard.	s13-d28	1338	1597	orange	1498
+s13-d28_5_5	He rinses the orange.	s13-d28	1666	1800	orange	1792
+s13-d28_5_6	He cuts the ends off the orange and uses the knife the peel the orange.	s13-d28	1902	2950	orange	3018
+s13-d28_5_7	He cuts the orange into slices.	s13-d28	3127	4441	orange	4494
+s13-d28_5_8	He puts the slices on the plate.	s13-d28	4482	5402	orange	5432
+s13-d28_6_1	The man takes out a cutting board and a knife.	s13-d28	266	700	orange	674
+s13-d28_6_2	The man gets and orange and washes it.	s13-d28	746	1800	orange	1816
+s13-d28_6_3	The man slices off the ends of the orange.	s13-d28	1902	2248	orange	2246
+s13-d28_6_4	The man then peels the orange with a knife.	s13-d28	2271	2950	orange	3064
+s13-d28_6_5	The man slices the orange and puts the pieces onto the plate.	s13-d28	5459	5516	orange	5500
+s13-d28_7_1	The man removes a cutting board and knife from the drawers.	s13-d28	266	700	orange	700
+s13-d28_7_2	He removes an orange and a plate from the cabinets.	s13-d28	746	1597	orange	1604
+s13-d28_7_3	He rinses the orange in the sink.	s13-d28	1666	1800	orange	1834
+s13-d28_7_4	He uses the knife to cut the ends off of the orange.	s13-d28	1902	2248	orange	2248
+s13-d28_7_5	He uses the knife to peel the skin off the orange in a circular fashion.	s13-d28	2271	2950	orange	3004
+s13-d28_7_6	He uses the knife to slice the orange.	s13-d28	3127	3635	orange	3668
+s13-d28_7_7	He cuts each slice of the orange into quarters.	s13-d28	3685	4441	orange	4504
+s13-d28_7_8	He transfers the orange pieces from the cutting board onto the plate.	s13-d28	4482	5402	orange	5412
+s13-d28_8_1	He gets a cutting board.	s13-d28	266	453	orange	430
+s13-d28_8_2	He gets a knife.	s13-d28	471	645	orange	656
+s13-d28_8_3	He gets an orange.	s13-d28	645	1245	orange	1270
+s13-d28_8_4	He rinses the orange.	s13-d28	1338	1800	orange	1820
+s13-d28_8_5	He peels the orange.	s13-d28	1902	2950	orange	2974
+s13-d28_8_6	He cuts up the orange and puts it on a plate.	s13-d28	3127	5402	orange	5420
+s13-d28_9_1	The person takes out a cutting board from the drawer.	s13-d28	266	453	orange	434
+s13-d28_9_2	The person takes out a knife from the drawer.	s13-d28	471	645	orange	646
+s13-d28_9_3	The person takes an orange from the pantry.	s13-d28	645	1245	orange	1298
+s13-d28_9_4	The person procures a plate from the cabinet.	s13-d28	1338	1597	orange	1584
+s13-d28_9_5	The person washes the orange in the sink.	s13-d28	1666	1800	orange	1818
+s13-d28_9_6	The person uses the knife to peel the orange.	s13-d28	1902	2950	orange	2986
+s13-d28_9_7	The person cuts the peeled orange into slices.	s13-d28	3127	3635	orange	3688
+s13-d28_9_8	The person cuts the slices in halves.	s13-d28	3685	4441	orange	4518
+s13-d28_9_9	The person sets the oranges on the plate.	s13-d28	4482	5402	orange	5418
+s13-d28_10_1	He gets a cutting board and a knife from the drawers and an orange and a plate from the cupboard.	s13-d28	266	1597	orange	1572
+s13-d28_10_2	He washes the orange in the sink and places it on the cutting board.	s13-d28	1666	1800	orange	1860
+s13-d28_10_3	He dries his hands and uses his knife to cut off the ends of the orange.	s13-d28	1902	2248	orange	2284
+s13-d28_10_4	He uses the knife to remove the rest of the peel from the orange.	s13-d28	2271	2950	orange	3072
+s13-d28_10_5	He uses the knife to slice the orange into pieces.	s13-d28	3127	3461	orange	3546
+s13-d28_10_6	He slices each piece horizontally and vertically into pieces.	s13-d28	3465	4441	orange	4510
+s13-d28_10_7	He uses the knife and his hand to pick up all of the orange pieces and put them on the plate.	s13-d28	5459	5516	orange	5502
+s13-d28_11_1	Get out a cutting board and knife.	s13-d28	266	645	orange	656
+s13-d28_11_2	Get out a clean plate.	s13-d28	645	1597	orange	1588
+s13-d28_11_3	Rinse the orange in water.	s13-d28	1666	1800	orange	1812
+s13-d28_11_4	Cut off the ends.	1902	2248
+s13-d28_11_5	Use the knife to peel the orange by circling the orange.	1902	2248
+s13-d28_11_6	Cut the orange by slicing the knife in a vertical manner.	s13-d28	2271	3461	orange	3376
+s13-d28_11_7	Cut each piece into four parts.	s13-d28	3465	4005	orange	4030
+s13-d28_11_8	Place orange slices onto plate.	s13-d28	4005	5103	orange	5088
+s13-d28_12_1	He took out cutting board	s13-d28	266	453	orange	454
+s13-d28_12_2	He took out knife	s13-d28	471	700	orange	684
+s13-d28_12_3	He took out orange	s13-d28	746	1245	orange	1267
+s13-d28_12_4	He took out plate	s13-d28	1338	1597	orange	1529
+s13-d28_12_5	He washed orange	s13-d28	1666	1800	orange	1781
+s13-d28_12_6	He cut off top of orange	s13-d28	1902	2248	orange	2257
+s13-d28_12_7	He peeled orange	s13-d28	2271	2950	orange	2962
+s13-d28_12_8	He sliced orange	s13-d28	3127	4579	orange	4562
+s13-d28_12_9	He put orange on plate	s13-d28	5107	5402	orange	5445
+s13-d28_14_1	The person takes a chopping board out of the drawer.	s13-d28	266	453	orange	440
+s13-d28_14_2	The person takes a knife out of the drawer.	s13-d28	471	645	orange	664
+s13-d28_14_3	The person takes out an orange from the cupboard.	s13-d28	645	1245	orange	1216
+s13-d28_14_4	The person takes out a plate from the cupboard.	s13-d28	1338	1597	orange	1480
+s13-d28_14_5	The person washes the orange.	s13-d28	1666	1800	orange	1791
+s13-d28_14_6	The person dries his hands with a towel.	s13-d28	1902	1975	orange	1998
+s13-d28_14_7	The person peels the skin off the orange.	s13-d28	2077	2950	orange	3050
+s13-d28_14_8	The person cuts the peeled orange into small pieces and puts them on the plate.	s13-d28	4779	5402	orange	5418
+s13-d28_15_1	He removes the utensils from the drawer.	s13-d28	266	700	orange	707
+s13-d28_15_2	He removes an orange and plate from the cabinets.	s13-d28	746	1597	orange	1587
+s13-d28_15_3	He washes the orange.	s13-d28	1666	1800	orange	1848
+s13-d28_15_4	He dries his hands on a towel.	s13-d28	1902	1975	orange	2005
+s13-d28_15_5	He slices the ends off of the orange.	s13-d28	2077	2248	orange	2263
+s13-d28_15_6	He peels the orange in a circular motion with a knife.	s13-d28	2271	2950	orange	3020
+s13-d28_15_7	He slices the orange in halves and quarters.	s13-d28	3127	4441	orange	4512
+s13-d28_15_8	He uses the knife to help lift the orange pieces to the plate.	s13-d28	3127	5402	orange	5405
+s13-d28_15_9	He is done preparing the orange and steps back from the counter.	s13-d28	5459	5516	orange	5570
+s13-d28_16_1	The man enters the kitchen and removes a cutting board from the drawer.	s13-d28	266	453	orange	465
+s13-d28_16_2	 The man than retrieves a knife from a different drawer.	s13-d28	471	700	orange	674
+s13-d28_16_3	He walks over to the cabinet and takes out an orange and a plate and places them on the counter.	s13-d28	746	1597	orange	1610
+s13-d28_16_4	 The man washes the orange in the sink and places it on the cutting board.	s13-d28	1666	1800	orange	1854
+s13-d28_16_5	He begins preparing the orange by slicing the ends off.	s13-d28	1902	2248	orange	2254
+s13-d28_16_6	The man peels the skin of the orange off with a knife by going in a circular motion.	s13-d28	2271	2950	orange	2982
+s13-d28_16_7	The man thinly slices the orange.	s13-d28	3127	3635	orange	3596
+s13-d28_16_8	 The man then cuts the thinly sliced pieces into fours.	s13-d28	3685	4579	orange	4552
+s13-d28_16_9	The man places the small pieces of the sliced orange onto a plate.	s13-d28	4482	5402	orange	5419
+s13-d28_16_10	 The man relocates the plate on the counter.	s13-d28	5459	5516	orange	5534
+s13-d28_17_1	The man retrieves a cutting board, a knife, an orange, and a plate.	s13-d28	266	1597	orange	1631
+s13-d28_17_2	The man rinses off the orange and dries his hands on a towel.	s13-d28	1666	1975	orange	2059
+s13-d28_17_3	The man cuts both ends off of the orange.	s13-d28	2077	2248	orange	2308
+s13-d28_17_4	He peels the orange.	s13-d28	2271	2950	orange	3099
+s13-d28_17_5	He cuts the orange into five pieces.	s13-d28	3127	3635	orange	3698

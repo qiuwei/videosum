@@ -1,0 +1,224 @@
+220	544	take out	hand	cauliflower	counter,fridge			She gets out the cauliflower.			The person procures a cauliflower from the fridge.	She took out cauliflower	Cauliflower is removed from the refrigerator.	The person procures a cauliflower from the fridge.	She gets the cauliflower.			She took out cauliflower. She took out knife	The woman takes out a cauliflower.	She gets out the cauliflower. 	She took out cauliflower. She took out knife	A woman walks into the kitchen, opens the refrigerator and takes out cauliflower 	She took out cauliflower	
+582	915	take out	hand	knife	drawer						The person takes out a knife from the drawer.	She took out knife		The person takes out a knife from the drawer.				She took out cutting board. She took out bowl		She gets out a knife, bowl, and cutting board.	She took out cutting board. She took out bowl		She took out knife	
+959	1220	take out	hand	cutting board	counter,drawer									The person takes out a cutting board from the drawer.				She cut off leaves						
+1260	1421	take out	hand	bowl	counter,drawer						The person takes out a cutting board from the drawer. 	She took out cutting board. She took out bowl			She gets a knife and cutting board.	She threw away leaves. She cut off leaves. She took out bowl. She took out cutting board. She took out knife. She took out cauliflower. She cut off end of cauliflower		She threw away leaves. She cut off bottom of cauliflower	The woman removes the outer leaves.	She cuts off the leaves and discards them.	She threw out leaves		She took out cutting board	
+1589	1617	move	hand	cauliflower	counter,cutting board		The woman gathers the supplies.	She gets out the hardware. 	The person gets out a cauliflower, knife,  cutting board and bowl.		The person takes out a metal bowl from the drawer. 		The person removes a knife, a cutting board and a bowl. 	The person takes out a metal bowl from the drawer.	She gets a bowl.	She threw away end						She takes out a knife, cutting board, and a small bowl	She took out bowl	
+1628	1690	cut	knife	leaves	cutting board	The woman pulls out a knife, cutting board and bowl.																		The woman gathers her supplies.
+1738	1788	cut	knife	leaves	cutting board																			
+1793	1845	cut	knife	leaves	cutting board																			
+1877	1930	cut	knife	leaves	cutting board											She threw out scraps 			The woman removes the stem.					
+1956	2013	cut	knife	leaves	cutting board													She threw out scraps						
+2030	2105	cut	knife	leaves	cutting board																			
+2140	2217	cut	knife	leaves	cutting board											She washed cauliflower	clean up cabbage	She washed cauliflower	The woman washes the cauliflower.	She rinses the cauliflower.				
+2383	2467	throw in garbage	hand	leaves																			She cut away leaves	
+2534	2563	throw in garbage	hand	leaves								She cut leaves off cauliflower												
+2586	2662	move	hand	cauliflower	counter,cutting board							She threw away leaves											She threw away leaves	The woman removes the outer leaves.
+2682	2738	cut	knife	stem	cutting board						The person cuts away the leaves from the cauliflower and throws them into the wastebin.			The person cuts the leaves from the cauliflower and throws them into the wastebin.	She trims the leaves and discards them.									
+2772	2805	throw in garbage	hand	stem			The woman removes the outer leaves.	She removes and discards the cauliflower leaves. 					The cauliflower leaves are removed and discarded. 					She chopped cauliflower		She cuts the cauliflower into pieces. 				
+2835	2889	take apart	knife	leaves	cutting board																			
+2915	2953	take apart	knife	leaves	cutting board																		She chopped off stem	
+2972	3028	take apart	knife	leaves	cutting board																		She threw away stem	She removes the stem.
+3058	3100	take apart	knife	leaves	cutting board																			
+3150	3192	take apart	knife	leaves	cutting board															She heats a pan on the stove.				
+3225	3254	cut	knife	leaves	cutting board																			
+3263	3320	cut	knife	leaves	cutting board																			
+3343	3385	move	hand	cauliflower	counter,cutting board																			
+3457	3517	throw in garbage	cutting board,knife	leaves						The woman removes the outer leaves and the stem.												She cuts the leaves and stem from the cauliflower		
+3677	3732	turn over	hand	cutting board	counter	The woman removes the stem and outer leaves.	The woman removes the unwanted parts.				The person cuts away the stems and throws them into the wastebin.		The cauliflower is trimmed and cuttings discarded. 											
+3803	3830	throw in garbage	hand	garbage					The person cuts the leaves and stem off the cauliflower and throws them away.															
+3847	4144	wash	hand	cauliflower																				
+4146	4188	shake	hand	hand																				
+4212	4248	close	hand		drawer																			
+4249	4333	dry	towel	hand		Woman washes the cauliflower. 	She washes the cauliflower.	She rinses the cauliflower. 		The woman washes the cauliflower.	The person washes the cauliflower in the sink and dries her hands on a towel.	She washed cauliflower	The person washes the cauliflower.	The person washes the cauliflower in the sink.	She rinses the cauliflower. 							She rinses the cauliflower off in the sink	She washed cauliflower	The woman cleans off the cauliflower.
+4570	4925	cut	knife	cauliflower	cutting board																			
+4928	5094	cut	knife	cauliflower	cutting board																			
+5103	5166	cut	knife	cauliflower	cutting board																			
+5199	5240	throw in garbage	hand	stem													cut down cabbage in pieces			She creates florets and put them in a bowl. 				
+5353	5473	take out	hand	pan	counter,drawer							She cut up cauliflower	The cauliflower is cut into pieces. 	The person chops the cauliflower on the cutting board and throws some stems in the trash.									She cut up cauliflower	
+5485	5559	turn on	hand	stove					The person rinses the cauliflower and cuts it into chunks.															
+5635	5748	change temperature	hand	stove																			She took out pan	
+5783	5849	change temperature	hand	stove																				
+5880	5922	move	hand	pan	counter,stove														The woman cuts up the cauliflower.					
+6012	6047	move	hand	bowl,cutting board	counter		The woman slices the cauliflower into smaller pieces and gets a pan onto the cook top.		The person gets out a frying pan, puts it on the stove and turns it on.		The person chops the cauliflower on the cutting board, takes out a pan from the drawer, puts it on the stove and turns it on.		A frying pan is selected and placed on the stove.	The person takes a pan from the drawer and turns on the stove.	She gets a pan and turns on the stove.								She turned on stove	The woman cuts up the cauliflower with a knife.
+6074	6459	cut	knife	cauliflower	cutting board												put grille on plate							
+6468	6522	move	hand	stem	counter,cutting board																			
+6546	6589	cut	knife	cauliflower	cutting board																			
+6596	6666	take apart	hand	cauliflower																				
+6708	6741	cut	knife	cauliflower	cutting board																			
+6801	6891	take out	hand	bowl	counter,drawer																			
+6899	6918	add	hand	stem	,bowl																			
+6972	7002	cut	knife	cauliflower	cutting board																			
+7007	7026	add	hand	stem	,bowl																			
+7041	7058	take apart	hand	cauliflower																				
+7066	7093	add	hand	cauliflower	,bowl															She gets ingredients for the sauce.			She took out second bowl	
+7108	7124	add	hand	cauliflower	bowl,cutting board				The person gets out another bowl.															
+7182	7323	add	hand	cauliflower	bowl,cutting board														The woman adds milk to a bowl and oil into a pan.					
+7361	7461	take apart	hand	cauliflower																				
+7486	7511	cut	knife	cauliflower																				
+7517	7536	add	hand	cauliflower	,bowl																			
+7547	7611	cut	knife	cauliflower																				
+7629	7659	add	hand	cauliflower	,bowl																			
+7681	7714	cut	knife	cauliflower																				
+7727	7745	add	hand	cauliflower	,bowl																			
+7804	7856	take apart	hand	cauliflower																				
+7869	7925	cut	knife	cauliflower															The woman seasons the milk.					
+7939	7965	take apart	hand	cauliflower																				
+7979	8000	add	hand	cauliflower	,bowl																			
+8016	8089	cut	knife	cauliflower																				
+8119	8163	cut	knife	cauliflower	cutting board																			
+8194	8250	cut	knife	cauliflower																				
+8254	8281	add	hand	cauliflower	,bowl																			
+8304	8386	cut	knife	cauliflower																				
+8386	8416	take apart	hand	cauliflower																				
+8432	8452	add	hand	cauliflower	,bowl															She mixes up the sauce.				
+8480	8508	add	hand	cauliflower	bowl,cutting board																			
+8531	8677	cut	knife	cauliflower																				
+8685	8706	add	hand	cauliflower	,bowl																			
+8719	8825	cut	knife	cauliflower																				
+8829	8918	cut	knife	cauliflower																				
+8936	8960	take apart	hand	cauliflower																				
+9006	9026	add	hand	cauliflower	bowl,cutting board																			
+9033	9054	add	hand	cauliflower	bowl,cutting board																			
+9068	9092	take apart	hand	cauliflower																				
+9105	9140	cut	knife	cauliflower																				
+9148	9162	add	hand	cauliflower	,bowl																			
+9175	9250	take apart	knife	cauliflower																				
+9256	9374	cut	knife	cauliflower																				
+9393	9462	take apart	hand	cauliflower																				
+9534	9562	take apart	hand	cauliflower																				
+9592	9608	cut	knife	cauliflower																				
+9608	9623	add	hand	cauliflower	,bowl																			
+9635	9680	cut	knife	cauliflower																			She cut up cauliflower	
+9694	9714	add	hand	cauliflower	,bowl																			
+9745	9795	cut	knife	cauliflower																				
+9820	9845	add	hand	cauliflower	,bowl																			
+9886	9932	cut	knife	cauliflower	cutting board														The woman adds the cauliflower and milk mixture to the pan.	She puts the cauliflower and the sauce in a bowl.				
+9949	10057	cut	knife	cauliflower	cutting board																			
+10079	10146	take apart	hand	cauliflower																				
+10166	10191	add	hand	cauliflower	,bowl																			
+10197	10318	cut	knife	cauliflower	cutting board																			
+10330	10354	add	hand	cauliflower	bowl,cutting board																			
+10364	10384	take apart	hand	cauliflower																				
+10388	10413	add	hand	cauliflower	,bowl																			
+10532	10650	throw in garbage	cutting board,knife	garbage		The woman cuts up the cauliflower and separates the unwanted stems.	The woman removes the stems from the pieces.	She cuts up the cauliflower and puts it into a bowl. 	The person trims the cauliflower chunks, putting them in one bowl and trash in the other.	The woman slices the cauliflower and removes the stems from the pieces.	The person takes another metal bowl from the drawer and then cuts parts of the cauliflower into either bowl.		The pieces are trimmed more, cut smaller and placed in the bowl.	The person takes out another metal bowl and cuts stems into one and places the rest of the cauliflower in the other.	She cuts up the cauliflower and puts it in a bowl. 					She covers the pan with a cooking board.				The woman separates the stems from the cauliflower pieces.
+10713	10785	throw in garbage	bowl	stem																			She threw away scraps	
+10824	11035	wash	hand	bowl																				
+11080	11132	shake	hand	hand																				
+11139	11170	shake	hand	bowl,hand										The person pours the crumbs from the cutting board and stems from the bowl into the trash then rinses both in the sink.										
+11212	11455	dry	towel	bowl					The person throws away the trash and rinses the bowl, cutting board and knife.				The trash is discarded and the utensils washed.									She cuts the cauliflower into pieces and puts it into the bowl		
+11468	11592	dry	towel	hand									The bowl is dried.											
+11653	11765	hang up	hand	towel	handle	The woman cleans up the work area.	She cleans up a little before moving on.																	The woman washes up.
+11796	12767	take out	hand	bottle	counter,fridge																			
+12840	13188	take out	hand	bottle	counter,cupboard												take sause from fridge							
+13197	13366	close	hand		cupboard	The woman takes out cream and oil.							Something is removed from the refrigerator and oil is removed from the cabinet.											
+13424	13549	take out	hand	spice shaker	,spice holder																			
+13555	13596	put in	hand	spice shaker	,spice holder																			
+13605	13683	take out	hand	spice shaker	counter,spice holder																			
+13693	13787	take out	hand	spice shaker	counter,spice holder														The woman cleans up while waiting for the cauliflower to cook.					
+13800	13857	screw	hand	bottle																				
+13859	14000	pour	bottle	cream	bowl				The person gets out milk, oil, and spices.															She gathers more supplies.
+14011	14039	screw	hand	bottle											She gets ingredients for the sauce.									
+14051	14082	screw	hand	bottle																				
+14090	14199	pour	bottle	oil	pan												fill bowl with milk							
+14214	14312	screw	hand	bottle																				
+14346	14390	screw	hand	spice shaker			She places cream into the bowl and oil into the pan.	She adds milk to a bowl and oil to the pan. 		The woman adds milk to a bowl and oil to a pan.							pour oil on grille							
+14433	14523	move	spice shaker	spice	,spice shaker																			The woman adds milk to a bowl and oil to a pan.
+14526	14545	spice	hand	spice	,bowl	The cream is added into the bowl and the oil is added into the pan.																		
+14553	14586	move	spice shaker	spice	,spice shaker																			
+14596	14616	add	hand	spice	,bowl																			
+14621	14702	screw	hand	spice shaker																				
+14715	14785	screw	hand	spice shaker													add  spices to the bowl with milk							
+14807	15006	spice	spice shaker	spice	,bowl																			
+15009	15074	screw	hand	spice shaker																		she mixes spices in a small bowl and preps a frying pan on the stove		
+15100	15124	put in	hand	spice shaker	,spice holder																			
+15133	15147	take out	hand	spice shaker	,spice holder																			
+15210	15314	screw	hand	spice shaker																				The woman adds seasoning to the milk.
+15322	15471	take out	hand	fork	drawer														The woman continues to wait for the cauliflower to cook.	She removes the pan from the heat.				
+15485	15780	stir	fork	cream,spice	bowl												blend milk with spices							
+15843	15881	take out	hand	spice shaker	,spice holder																			
+15891	15953	screw	hand	spice shaker																				
+15963	16064	spice	spice shaker	salt	,bowl																			
+16067	16123	spice	spice shaker	salt	,bowl																			
+16131	16166	screw	hand	spice shaker																				
+16166	16250	put in	hand	spice shaker	,spice holder																			
+16256	16373	stir	fork	cream,salt,spice	bowl												add salt to milk							
+16381	16425	shake	hand	fork																				
+16446	16487	add	hand	cauliflower	bowl																			
+16494	16608	stir	fork	cauliflower,cream	bowl	The cream is seasoned thoroughly mixed.	She mixes and seasons the cream.	She seasons the milk and stirs it up. 	The person pours milk into the bowl and oil into the frying pan, then adds spices to the milk and stirs it.	The woman seasons the milk and stirs vigorously. 	The person takes out assorted condiments and adds them to the smaller bowl and mixes them with a fork from the drawer.			The person procures condiments from the fridge, counter and pantry, pours them in the bowl, and mixes it with a fork from the drawer.	She mixes the ingredients in a bowl.				She places the cauliflower onto a plate.	She puts the cauliflower on a plate.				The woman adds more seasoning and mixes the bowl.
+16810	16869	add	fork	cauliflower	bowl,pan																			
+16921	16950	add	hand	cauliflower	bowl																			
+16976	17027	add	hand	cauliflower	bowl,pan																			
+17047	17103	add	hand	cauliflower	bowl																			
+17115	17166	add	hand	cauliflower	bowl,pan																			
+17184	17275	mix	hand	cauliflower,cream	bowl																			
+17289	17311	add	hand	cauliflower	bowl,pan																			
+17331	17466	add	hand	cauliflower	bowl												roll cabbage pieces in milk and put on the grille							
+17482	17546	add	hand	cauliflower	bowl																			
+17559	17618	mix	hand	cauliflower,cream	bowl																			
+17631	17674	add	hand	cauliflower	bowl,pan																			
+17702	17775	add	hand	cauliflower	bowl																			
+17784	17832	add	hand	cauliflower	bowl																			
+17847	17934	add	hand	cauliflower	bowl																			
+17940	17993	mix	hand	cauliflower,cream	bowl																			
+18003	18049	add	hand	cauliflower	bowl,pan																			
+18115	18185	wash	hand	hand																				
+18209	18337	take out	hand	spatula	drawer					The woman adds cauliflower to the milk and places it into the pan.														
+18346	18509	stir	spatula	cauliflower	pan																			She adds cauliflower pieces to the bowl and then into the pan.
+18618	18681	take apart	hand	cauliflower																		she dips the cauliflower into the mixture and puts them in the frying pan		
+18694	18752	take apart	hand	cauliflower																				
+18768	18900	add	hand	cauliflower	bowl,pan																			
+18907	18943	take apart	hand	cauliflower																				
+18965	19100	add	hand	cauliflower	bowl,pan																			
+19108	19382	take apart	hand	cauliflower																				
+19392	19460	add	bowl,spatula	cream	bowl,pan												put rest of the cabbage on the grill							
+19466	19763	stir	spatula	cauliflower,cream	pan	The woman ads the cream and cauliflower to the pan.	She adds the cauliflower and cream to the pan.		The person dunks each cauliflower piece in the milk before putting them in the frying pan, stirring while she adds the cauliflower.	She adds the rest of the cauliflower and milk to the pan.			Cream is added to the bowl, oil to the pan and the pieces are dipped and added to the pan.		She adds the cauliflower and sauce to the pan.									The woman now adds the rest of both bowls to the pan.
+19839	19905	open	hand		drawer																			
+19907	19933	close	hand		drawer												fill with milk sause							
+19956	20039	take out	hand	lid	drawer									The person dips the cauliflower in the sauce in the bowl and places it in the pan on the stove, using a fork and spatula taken from the drawer.										
+20072	20129	put in	hand	lid	,drawer																	she puts the rest of the cauliflower in the pan and pours the mixture on top		
+20134	20207	close	hand		drawer			She puts the milk mixture and cauliflower into the pan and covers it. 																
+20287	20378	wash	hand	hand							The person dips the cauliflower in the condiment mixture and places them into the frying pan with a wooden spatula from the drawer.													
+20386	20487	wash	hand	cutting board																				
+20574	20810	dry	towel	cutting board																				
+20841	20897	put lid	hand	cutting board	pan																			
+20953	21043	move	hand	bowl,fork	counter,sink				The person tries a lid for the pan, sees that it's too small, rinses the cutting board and uses it as an improvised lid.															
+21056	21160	screw	hand	bottle											She covers the pan with a cutting board.		put on top of the grill							
+21303	21436	put in	hand	bottle	,cupboard																			
+21518	21715	hang up	hand	towel	handle																	She covers the pan with the cutting board, and lets it simmer on the stove		
+22454	22498	screw	hand	bottle																				
+22593	22701	screw	hand	bottle																				
+22797	23041	put in	hand	bottle	,fridge																			
+23098	23175	put in	hand	spice shaker	counter,spice holder																			
+23249	23285	remove lid	hand	cutting board	pan																			
+23295	23474	stir	spatula	cauliflower,cream	pan																			
+23484	23513	remove lid	hand	cutting board	pan								The pan is covered and the kitchen is straightened.									She checks and stirs the mixture		
+24698	24763	move	hand	spatula	bowl																			
+24772	24882	throw in garbage	bowl	cauliflower																				
+25014	25045	throw in garbage	hand	garbage																				
+25210	25321	wash	hand	sponge																				
+25330	25468	wring out	hand	sponge																				
+25549	25830	clean	sponge	counter																				
+25916	25983	clean	sponge	counter																				
+26005	26150	clean	sponge	stove																				
+26362	26400	remove lid	hand	cutting board	pan			She cleans up while waiting for the cooking to finish. 		The woman washes up while waiting for the cauliflower to cook.			The counters are wiped.	The person returns the condiments to the fridge and pantry, puts the bowls into the sink, then wipes the countertop with a rag.										
+26409	26758	stir	spatula	cauliflower,cream	pan												mix the grill once again							
+26780	26826	put lid	hand	cutting board	pan																			
+26899	26974	close	hand		drawer		The woman cleans while stirring the cauliflower. 		While the cauliflower cooks, the person puts away the ingredients, puts the dishes in the sink and wipes down the counter.		The person returns the condiments, sets the bowls into the sink, cleans the counter with a rag, then stirs the pot with the wooden spatula and covers the pan with the cutting board.													
+29747	29983	take out	hand	fork	drawer																			
+29999	30037	remove lid	hand	cutting board	pan																			
+30040	30085	put lid	hand	cutting board	pan																			
+30742	31001	change temperature	hand	stove				She stops the cooking.							She takes the pan off the heat and turns off the stove.									The woman washes up then waits for the cauliflower to cook.
+31004	31048	move	hand	cutting board,pan	stove	The woman waits for the cauliflower to cook.																		
+31058	31101	remove lid	hand	cutting board	counter,pan																			
+31143	31206	shake	hand	pan						She removes the pan from the heat when it is finished.												she moves the cauliflower off the stove and turns off the stove		
+31478	31535	poke	fork	cauliflower	pan		The cauliflower is now done cooking so she removes it from the heat.																	
+31545	31597	taste	fork	cauliflower					The person waits for the cauliflower to finish cooking, occasionally checking its progress and stirring it.															
+31715	31776	open	hand		drawer										She tastes a piece. 									
+31877	31963	close	leg		drawer																			
+32149	32234	open	hand		drawer																			
+32250	32456	take out	hand	plate	counter,cupboard																			
+32464	32558	take out	hand	spoon	drawer									The person takes a fork from the drawer and the pan off the stove, tastes the cauliflower and contemplates throwing it in the trash before taking a plate from the cabinet.										
+32603	32992	move	pan,spoon	cauliflower	pan,plate																			
+32995	33043	move	hand	pan	,sink																	she takes a spoon and scoops the cauliflower from the pan onto a plate		
+33051	33086	taste	spoon	cream							The person takes a fork from the drawer, turns off the stove, tastes the cauliflower, considers throwing it all away, then takes out a plate and a spoon, and uses the latter to put the cauliflower on the former.			The person takes out a fork from the drawer and uses it to set the cauliflower on the plate.			put the dish on the plate							
+33176	33219	move	hand	plate		The woman takes the cauliflower out of the pan and into a plate.	The woman removes the cauliflower from the pan and places it onto a plate.	She puts the cauliflower onto a plate. 	The person tries a piece of cauliflower, gets out a plate and scoops the cauliflower onto it.	The woman puts the cauliflower onto the plate.			The person removes a plate and puts the cauliflower on the plate.		She puts the cauliflower on a plate.									The woman removes the cauliflower from the pan.

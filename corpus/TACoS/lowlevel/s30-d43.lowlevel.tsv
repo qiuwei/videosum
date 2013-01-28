@@ -1,0 +1,64 @@
+190	539	take out	hand	bottle,potato	counter,cupboard
+581	618	close	hand		cupboard
+670	738	open	hand		drawer
+751	882	take out	hand	pan	drawer,stove
+921	987	open	hand		drawer
+1003	1092	move	hand	cutting board	counter
+1121	1385	wash	hand	potato	
+1411	1615	wash	hand	potato	
+1619	1681	shake	hand	potato	
+1697	1799	take out	hand	peeler	,drawer
+1813	2694	peel	peeler	potato	
+2748	3680	peel	peeler	potato	
+3792	3871	wash	hand	potato	
+3877	3931	shake	hand	potato	
+3955	3997	shake	hand	hand	
+4036	4108	turn on	hand	stove	
+4113	4205	change temperature	hand	stove	
+4244	4305	screw	hand	bottle	
+4310	4557	pour	bottle	oil	bottle,pan
+4569	4624	screw	hand	bottle	
+4656	4761	spread	pan	oil	pan
+4892	5383	slice	knife	potato	cutting board
+5389	5404	move	hand	potato	cutting board
+5444	5455	move	knife	potato	cutting board
+5470	5971	slice	knife	potato	cutting board
+5979	6018	move	hand	potato	cutting board
+6067	6370	throw in garbage	hand	peel	
+6427	6528	wash	hand	peeler	
+6520	6573	shake	hand	peeler	
+6604	6660	shake	hand	hand	
+6799	6846	move	hand	cutting board	counter
+6912	7166	take out	hand	spatula	,drawer
+7189	7203	move	hand	potato	cutting board,spatula
+7209	7360	add	spatula	potato	pan,spatula
+7373	7445	add	hand	potato	cutting board,pan
+7450	7483	move	spatula	potato	pan
+7494	7554	add	hand	potato	cutting board,pan
+7563	7628	add	hand	potato	cutting board,pan
+7632	7690	add	hand	potato	cutting board,pan
+7701	7727	add	hand	potato	cutting board,pan
+7732	9217	move	spatula	potato	pan
+9231	9254	move	hand	cutting board	counter
+9265	9318	change temperature	hand	stove	
+9389	9574	take out	hand	plate	counter,cupboard
+9620	14529	move	spatula	potato	pan
+14627	14789	take out	hand	bottle	counter,fridge
+14878	17088	move	spatula	potato	pan
+17155	17211	change temperature	hand	stove	
+17287	17435	move	spatula	potato	pan,plate
+17458	17689	move	spatula	potato	pan,plate
+17717	17968	move	spatula	potato	pan,plate
+18000	18255	move	spatula	potato	pan,plate
+18281	18387	move	spatula	potato	pan,plate
+18429	18614	move	spatula	potato	pan,plate
+18638	18775	move	spatula	potato	pan,plate
+18810	18860	move	spatula	potato	pan,plate
+18877	19009	move	spatula	potato	pan,plate
+19255	19326	add	bottle	ketchup	plastic bottle,plate
+19407	19429	take out	hand	spice shaker	,spice holder
+19434	19461	screw	hand	spice shaker	
+19479	19622	spice	spice shaker	salt	plate
+19642	19667	spice	spice shaker	salt	plate
+19667	19806	screw	hand	spice shaker	
+19728	19756	put in	hand	spice shaker	spice holder

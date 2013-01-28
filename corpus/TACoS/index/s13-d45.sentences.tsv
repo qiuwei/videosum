@@ -1,0 +1,104 @@
+s13-d45_1_1	Get out a cutting board.	s13-d45	257	431	pepper	432
+s13-d45_1_2	Get out sharp knife.	s13-d45	431	609	pepper	615
+s13-d45_1_3	Get out a serving dish.	s13-d45	711	999	pepper	986
+s13-d45_1_4	Get a red bell pepper.	s13-d45	1026	1346	pepper	1430
+s13-d45_1_5	Remove tip and core by twisting and pressing on it under running water.	s13-d45	1392	1977	pepper	1990
+s13-d45_1_6	Discard the tip and core.	s13-d45	1979	2171	pepper	2144
+s13-d45_1_7	Wash pepper thoroughly inside and out with running water.	s13-d45	2188	2544	pepper	2548
+s13-d45_1_8	Dry off your hands if needed.	s13-d45	2544	2729	pepper	2749
+s13-d45_1_9	Slice pepper into thin rings by starting at the top and cutting width wise.	s13-d45	2893	3807	pepper	3883
+s13-d45_1_10	Arrange peppers on serving dish.	s13-d45	3897	4051	pepper	4113
+s13-d45_2_1	Prepare your cutting board and knife.	s13-d45	257	999	pepper	911
+s13-d45_2_2	Rinse the pepper with water.	s13-d45	1026	1796	pepper	1863
+s13-d45_2_3	Remove the stem by pressing with your fingers around the stem.	s13-d45	1813	1977	pepper	1971
+s13-d45_2_4	Slice the pepper in thin slices.	s13-d45	1979	2729	pepper	3027
+s13-d45_2_5	Place the peppers into your serving dish, you can include the end piece.	s13-d45	4125	4250	pepper	4239
+s13-d45_3_1	Man pulls out a knife and cutting board.	s13-d45	257	609	pepper	661
+s13-d45_3_2	Man gets a pepper and plate from the cabinets.	s13-d45	711	1475	pepper	1493
+s13-d45_3_3	The man washes the pepper and removes the stem with his fingers.	s13-d45	1601	2582	pepper	2577
+s13-d45_3_4	The man uses the knife to slice the pepper.	s13-d45	2615	3807	pepper	3857
+s13-d45_3_5	He places the pepper slices onto a plate and are ready for use.	s13-d45	2893	4250	pepper	4351
+s13-d45_5_1	He opens the drawer.	257	431
+s13-d45_5_2	He places the cutting board on the counter.	257	431
+s13-d45_5_3	He places a knife on the cutting board.	s13-d45	431	609	pepper	619
+s13-d45_5_4	He grabs a plate and places it on the counter space.	s13-d45	711	999	pepper	1001
+s13-d45_5_5	he grabs a pepper and begins to wash it.	s13-d45	1026	1475	pepper	1563
+s13-d45_5_6	He places the pepper on the cutting board and dries his hands.	s13-d45	1601	2582	pepper	2659
+s13-d45_5_7	He finishes cutting the pepper and places it neatly on the plate.	s13-d45	2615	4051	pepper	4055
+s13-d45_5_8	He steps back from the counter top and puts his hands to the side.	s13-d45	3897	4250	pepper	4351
+s13-d45_6_1	The person gets out a cutting board.	s13-d45	257	431	pepper	439
+s13-d45_6_2	The person gets out a knife.	s13-d45	431	609	pepper	619
+s13-d45_6_3	The person gets out a plate.	s13-d45	711	999	pepper	1017
+s13-d45_6_4	The person gets out a pepper.	s13-d45	1026	1475	pepper	1453
+s13-d45_6_5	The person rinses the pepper and removes the insides.	s13-d45	1601	2582	pepper	2573
+s13-d45_6_6	The person cuts the pepper into slices and puts them on the plate.	s13-d45	4125	4250	pepper	4335
+s13-d45_7_1	He gets a cutting board.	s13-d45	257	431	pepper	403
+s13-d45_7_2	He gets a knife.	s13-d45	431	609	pepper	619
+s13-d45_7_3	He gets a plate and the pepper.	s13-d45	711	1346	pepper	1321
+s13-d45_7_4	He rinses the pepper and removes the top.	s13-d45	1392	2544	pepper	2531
+s13-d45_7_5	He chops the pepper.	s13-d45	2544	3807	pepper	3911
+s13-d45_7_6	He put the pepper on a plate.	s13-d45	2615	4250	pepper	4315
+s13-d45_8_1	He took out cutting board	s13-d45	257	470	pepper	471
+s13-d45_8_2	He took out knife	s13-d45	479	609	pepper	693
+s13-d45_8_3	He took out plate	s13-d45	711	999	pepper	1001
+s13-d45_8_4	He took out pepper	s13-d45	1026	1475	pepper	1439
+s13-d45_8_5	He took off pepper top	s13-d45	1601	2171	pepper	2153
+s13-d45_8_6	He washed pepper	s13-d45	2188	2544	pepper	2545
+s13-d45_8_7	He sliced pepper	s13-d45	2544	3807	pepper	3893
+s13-d45_8_8	He put pepper on plate	s13-d45	3897	4250	pepper	4301
+s13-d45_9_1	The person takes out a cutting board from the drawer	s13-d45	257	431	pepper	401
+s13-d45_9_2	The person takes out a knife from the drawer.	s13-d45	431	609	pepper	603
+s13-d45_9_3	The person procures a plate from the cabinet.	s13-d45	711	999	pepper	939
+s13-d45_9_4	The person takes a bell pepper from the pantry.	s13-d45	1026	1346	pepper	1365
+s13-d45_9_5	The person washes the pepper in the sink, breaks out the stem, disposes it in the trash, and washes the pepper further.	s13-d45	1392	2490	pepper	2515
+s13-d45_9_6	The person dries his hands on a towel.	s13-d45	2490	2729	pepper	2777
+s13-d45_9_7	The person slices the bell pepper on the cutting board.	s13-d45	2893	3807	pepper	3917
+s13-d45_9_8	The person sets the slices of pepper on the plate.	s13-d45	3897	4051	pepper	4133
+s13-d45_10_1	He opens up a drawer and takes out a cutting board and knife.	s13-d45	257	609	pepper	661
+s13-d45_10_2	He goes to the cupboard and takes out a plate and places it on the counter.	s13-d45	711	999	pepper	1015
+s13-d45_10_3	He goes to the cupboard again and takes out a red pepper.	s13-d45	1026	1475	pepper	1463
+s13-d45_10_4	He takes the pepper to the sink and washes it and removes and disposes the top of the pepper.	s13-d45	1601	2582	pepper	2565
+s13-d45_10_5	He places the pepper down on the cutting board and then dries his hands.	s13-d45	2615	2729	pepper	2811
+s13-d45_10_6	He cuts the entire pepper into slices.	s13-d45	2893	3807	pepper	3899
+s13-d45_10_7	He picks up the pepper slices and places them on the plate.	s13-d45	3897	4250	pepper	4351
+s13-d45_12_1	Get a cutting board.	s13-d45	257	431	pepper	418
+s13-d45_12_2	Get a long knife.	s13-d45	431	609	pepper	629
+s13-d45_12_3	Get a medium plate.	s13-d45	711	999	pepper	1031
+s13-d45_12_4	Take the pepper out of the refrigerator.	s13-d45	1026	1346	pepper	1369
+s13-d45_12_5	Rinse the pepper under running water.	s13-d45	1392	1796	pepper	1704
+s13-d45_12_6	Remove the stem from the pepper.	s13-d45	1813	1977	pepper	1980
+s13-d45_12_7	Discard the stem.	s13-d45	1979	2171	pepper	2189
+s13-d45_12_8	Rinse inside of pepper thoroughly.	s13-d45	2188	2490	pepper	2474
+s13-d45_12_9	Place pepper on cutting board.	s13-d45	2490	2582	pepper	2618
+s13-d45_12_10	Dry hands.	2615	2729
+s13-d45_12_11	Hold pepper with one hand and knife with the other.	2615	2729
+s13-d45_12_12	Make thin cuts so to get round slices.	s13-d45	2893	3807	pepper	3816
+s13-d45_12_13	Transfer pepper slices to plate and arrange.	4125	4250
+s13-d45_12_14	All done.	4125	4250
+s13-d45_13_1	He gets a cutting board.	s13-d45	257	431	pepper	445
+s13-d45_13_2	He gets a knife and a plate.	s13-d45	431	999	pepper	957
+s13-d45_13_3	He grabs a pepper.	s13-d45	1026	1346	pepper	1315
+s13-d45_13_4	He rinses the pepper and removes the top.	s13-d45	1392	2490	pepper	2511
+s13-d45_13_5	He cuts the pepper and puts it on a plate.	s13-d45	3897	4250	pepper	4275
+s13-d45_14_1	The person takes a chopping board out of the drawer.	s13-d45	257	431	pepper	418
+s13-d45_14_2	The person takes a knife out of the drawer.	s13-d45	431	609	pepper	629
+s13-d45_14_3	The person takes a plate out of the cupboard.	s13-d45	711	999	pepper	927
+s13-d45_14_4	The person takes a pepper out of the cupboard.	s13-d45	1026	1346	pepper	1290
+s13-d45_14_5	The person washes the pepper and removes its stem.	s13-d45	1392	2490	pepper	2487
+s13-d45_14_6	The person dries his hands on a towel.	s13-d45	2490	2729	pepper	2744
+s13-d45_14_7	The person cuts the pepper into small slices.	s13-d45	2893	3807	pepper	3869
+s13-d45_14_8	The person transfers the pepper slices onto the plate.	s13-d45	3897	4250	pepper	4296
+s13-d45_15_1	He took out cutting board	s13-d45	257	431	pepper	426
+s13-d45_15_2	He took out knife	s13-d45	431	609	pepper	614
+s13-d45_15_3	He took out plate	s13-d45	711	999	pepper	992
+s13-d45_15_4	He took out pepper	s13-d45	1026	1346	pepper	1380
+s13-d45_15_5	He took off top of pepper	s13-d45	1392	2055	pepper	2111
+s13-d45_15_6	He washed pepper	s13-d45	2056	2490	pepper	2517
+s13-d45_15_7	He sliced pepper	s13-d45	2490	3807	pepper	3853
+s13-d45_15_8	He put pepper on plate	s13-d45	2490	4250	pepper	4298
+s13-d45_17_1	Gather cutting board, knife, plate, and pepper on counter.	s13-d45	257	1346	pepper	1389
+s13-d45_17_2	Rinse pepper with water.	s13-d45	1392	1475	pepper	1678
+s13-d45_17_3	Remove top and core of pepper.	s13-d45	1601	1977	pepper	1988
+s13-d45_17_4	Rinse inside of pepper with water.	s13-d45	1979	2490	pepper	2464
+s13-d45_17_5	Cut pepper into rings.	s13-d45	2490	3807	pepper	3815
+s13-d45_17_6	Arrange prepared pepper on plate.	s13-d45	3897	4250	pepper	4290

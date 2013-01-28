@@ -1,0 +1,223 @@
+s26-d69_1_1	The person got out a pan.	s26-d69	160	377	egg	367
+s26-d69_1_2	The person got out the eggs and butter.	s26-d69	425	824	egg	828
+s26-d69_1_3	The person got out a cutting board.	s26-d69	840	973	egg	1014
+s26-d69_1_4	The person got out a knife and some fresh herbs.	s26-d69	980	1555	egg	1611
+s26-d69_1_5	The person rinsed the herbs.	s26-d69	1663	2236	egg	2255
+s26-d69_1_6	The person turned on the burner.	s26-d69	2298	2683	egg	2718
+s26-d69_1_7	The person put a pat of butter in the pan.	s26-d69	2721	3095	egg	3119
+s26-d69_1_8	The person got out seasoning (salt and pepper).	s26-d69	3242	3551	egg	3686
+s26-d69_1_9	The butter is melted.	s26-d69	3739	7595	egg	8065
+s26-d69_1_10	The person cracks the eggs into the pan.	s26-d69	8085	8581	egg	8608
+s26-d69_1_11	The person stirs the eggs.	s26-d69	8666	9428	egg	9517
+s26-d69_1_12	The person seasons the eggs.	s26-d69	9499	10425	egg	10563
+s26-d69_1_13	The person stirs the eggs until they are done.	s26-d69	10520	19657	egg	19819
+s26-d69_1_14	The person puts the eggs on a plate and tops it with herbs.	s26-d69	19778	20896	egg	20976
+s26-d69_2_1	The man takes out eggs and butter.	s26-d69	160	973	egg	950
+s26-d69_2_2	The man cuts off some fresh herbs.	s26-d69	980	1974	egg	1958
+s26-d69_2_3	The man washes the herbs.	s26-d69	1988	2502	egg	2562
+s26-d69_2_4	The man adds butter to a pan.	s26-d69	2528	3095	egg	3262
+s26-d69_2_5	The man waits for the butter to melt.	s26-d69	3242	7595	egg	8186
+s26-d69_2_6	The man cracks the eggs and places them into the pan.	s26-d69	8085	8732	egg	8760
+s26-d69_2_7	The man mixes the eggs.	s26-d69	8767	9556	egg	9624
+s26-d69_2_8	The man seasons the eggs.	s26-d69	9581	10425	egg	10544
+s26-d69_2_9	The man stirs the eggs as they cook.	s26-d69	10520	18811	egg	19062
+s26-d69_2_10	The man takes the eggs out of the pan.	s26-d69	19132	20216	egg	20462
+s26-d69_2_11	The man finishes by putting the herbs onto the eggs.	s26-d69	20436	20896	egg	21106
+s26-d69_4_1	He opens a drawer and gets a pan and places it on the stove then goes to the refrigerator and get butter and eggs.	s26-d69	160	973	egg	988
+s26-d69_4_2	He gets a cutting board out and then he washes and dries his hands.	s26-d69	980	1374	egg	1420
+s26-d69_4_3	He gets a knife out of the drawer and then reaches over to get a plant and begins cutting the leaves.	s26-d69	1394	1974	egg	1952
+s26-d69_4_4	He returns the herb plant and then picks up the herbs and washes them.	s26-d69	1988	2502	egg	2504
+s26-d69_4_5	He turns on the stove and gets a spatula out.	s26-d69	2528	3038	egg	3054
+s26-d69_4_6	He then takes a slice of butter and places in the fry pan.	s26-d69	3062	3358	egg	3374
+s26-d69_4_7	He grabs some spices, covers the butter, and then waits for the butter to melt.	s26-d69	3406	7595	egg	7842
+s26-d69_4_8	He cracks the eggs into the pan and then scrambles them.	s26-d69	8085	9691	egg	9648
+s26-d69_4_9	He then adds spices to the scrambled eggs.	s26-d69	9694	10425	egg	10578
+s26-d69_4_10	He stirs the eggs then cleans up a little then goes back to stir eggs again.	s26-d69	10520	12086	egg	12348
+s26-d69_4_11	He then crops the herbs and stirs the eggs again.	s26-d69	12163	13533	egg	13880
+s26-d69_4_12	He then gets a dish and washes it.	s26-d69	14206	16330	egg	16614
+s26-d69_4_13	While waiting for eggs to cook he cleans up and dries the dish and then puts the eggs on the plate and sprinkles with the herbs and then gets out a fork.	s26-d69	16419	20896	egg	21080
+s26-d69_5_1	He took out pan	s26-d69	160	377	egg	470
+s26-d69_5_2	He took out eggs and butter	s26-d69	425	824	egg	876
+s26-d69_5_3	He took out cutting board	840	1135
+s26-d69_5_4	He washed hands	840	1135
+s26-d69_5_5	He took out knife	s26-d69	1140	1466	egg	1512
+s26-d69_5_6	He cut some herbs	s26-d69	1491	1974	egg	1944
+s26-d69_5_7	He put back unused herbs	1988	2034
+s26-d69_5_8	He washed hands	1988	2034
+s26-d69_5_9	He washed herbs	s26-d69	2095	2363	egg	2346
+s26-d69_5_10	He turned on stove	s26-d69	2424	2768	egg	2822
+s26-d69_5_11	He took out knife	s26-d69	2787	3038	egg	3032
+s26-d69_5_12	He put butter on stove	s26-d69	3062	3095	egg	3182
+s26-d69_5_13	He turned up stove	3242	4011
+s26-d69_5_14	He mixed butter	3242	4011
+s26-d69_6_1	The person takes out a pan from the drawer.	s26-d69	160	377	egg	522
+s26-d69_6_2	The person procures butter and a pair of eggs from the fridge.	s26-d69	425	973	egg	970
+s26-d69_6_3	The person takes out a cutting board from the drawer.	s26-d69	980	1135	egg	1120
+s26-d69_6_4	The person takes out a knife from the drawer and a plant of herbs from the counter.	s26-d69	1140	1555	egg	1704
+s26-d69_6_5	The person cuts off some herbs from the plant, returns the planter to the counter, and then washes the herbs in the sink.	s26-d69	1663	2363	egg	2410
+s26-d69_6_6	The person turns on the stove, takes out a wooden spatula from the drawer, and cuts some butter with it onto the pan.	s26-d69	2424	3095	egg	3274
+s26-d69_6_7	The person gathers several condiments.	s26-d69	4365	4469	egg	4750
+s26-d69_6_8	The person cracks the eggs over the pan and then washes his hands.	s26-d69	4837	8820	egg	8976
+s26-d69_6_9	The person scrambles the eggs with the spatula and adds the condiments.	s26-d69	8899	10425	egg	10600
+s26-d69_6_10	The person throws the shells into the wastebin and once more washes his hands.	s26-d69	10520	11651	egg	11638
+s26-d69_6_11	The person chops the herbs on the cutting board.	s26-d69	11732	12899	egg	13062
+s26-d69_6_12	The person procures a plate from the cabinet.	s26-d69	13044	15758	egg	15810
+s26-d69_6_13	The person sets the scrambled eggs on the plate.	s26-d69	15924	20216	egg	20416
+s26-d69_6_14	The person sprinkles the herbs over the eggs and takes out a fork from the drawer.	s26-d69	20436	20896	egg	20974
+s26-d69_7_1	He took out pan	s26-d69	160	377	egg	460
+s26-d69_7_2	He took out eggs and butter	s26-d69	425	824	egg	904
+s26-d69_7_3	He took out cutting board	s26-d69	840	1135	egg	1138
+s26-d69_7_4	He washed hands	s26-d69	1140	1374	egg	1398
+s26-d69_7_5	He took out knife	s26-d69	1394	1555	egg	1608
+s26-d69_7_6	He cut some herbs	s26-d69	1663	2034	egg	2054
+s26-d69_7_7	He washed herbs	s26-d69	2095	2363	egg	2400
+s26-d69_7_8	He turned on stove	s26-d69	2424	2886	egg	2854
+s26-d69_7_9	He put butter in pan	s26-d69	2926	3095	egg	3188
+s26-d69_7_10	He turned up stove	s26-d69	3242	4011	egg	4036
+s26-d69_7_11	He cracked first egg	3242	8581
+s26-d69_7_12	He cracked second egg	3242	8581
+s26-d69_8_1	Grab a saucepan and place on stove.	s26-d69	160	377	egg	522
+s26-d69_8_2	Grab two eggs and butter.	s26-d69	425	973	egg	968
+s26-d69_8_3	Cut off a few parcels of fresh green Onion.	s26-d69	980	2034	egg	2128
+s26-d69_8_4	Melt your butter in the sauce pan.	s26-d69	2095	3358	egg	3314
+s26-d69_8_5	Grab seasoning of your choice such as salt and pepper.	s26-d69	3406	4011	egg	4002
+s26-d69_8_6	Once butter is completely melted, crack two eggs into pan and start to scramble.	s26-d69	8666	9556	egg	9596
+s26-d69_8_7	Add seasoning to taste.	s26-d69	9581	10313	egg	10354
+s26-d69_8_8	Occasionally stir eggs so they do not stick.	s26-d69	10335	11105	egg	11114
+s26-d69_8_9	Begin to chop your fresh onions.	s26-d69	11156	12899	egg	13148
+s26-d69_8_10	Clean up cooking area.	s26-d69	13044	17629	egg	17802
+s26-d69_8_11	Once eggs are done, place on plate and add onions, enjoy.	s26-d69	17728	20896	egg	20978
+s26-d69_9_1	He gets a frying pan.	s26-d69	160	824	egg	684
+s26-d69_9_2	He gets two eggs.	s26-d69	840	973	egg	994
+s26-d69_9_3	He gets out a cutting board.	s26-d69	980	1135	egg	1136
+s26-d69_9_4	He washes his hands.	s26-d69	1140	1262	egg	1236
+s26-d69_9_5	He gets a knife and some herbs.	s26-d69	1286	1795	egg	1750
+s26-d69_9_6	He puts butter in the frying pan.	s26-d69	1828	3095	egg	3218
+s26-d69_9_7	He spreads the melting butter.	s26-d69	4365	5940	egg	6018
+s26-d69_9_8	He pours out the eggs onto the frying pan.	s26-d69	6861	8581	egg	8656
+s26-d69_9_9	He mixes around the eggs.	s26-d69	4365	9428	egg	9272
+s26-d69_9_10	He puts salt and pepper in the pan.	s26-d69	9499	10425	egg	10466
+s26-d69_9_11	He gets a plate.	s26-d69	10520	15758	egg	15844
+s26-d69_9_12	He puts the scrambled eggs onto the plate.	s26-d69	15924	20216	egg	20280
+s26-d69_10_1	The man takes a frying pan from the cabinet and places it on the stove top.	s26-d69	160	377	egg	530
+s26-d69_10_2	He removes two eggs and butter from the refrigerator.	s26-d69	425	973	egg	970
+s26-d69_10_3	He places some butter in the pan and allows it to melt.	s26-d69	3242	5940	egg	6892
+s26-d69_10_4	He cracks both eggs open in the frying pan, and scrambles them with a wooden spatula.	s26-d69	8666	9556	egg	9582
+s26-d69_10_5	He seasons the eggs with several different spices.	s26-d69	9581	10313	egg	10336
+s26-d69_10_6	He gently moves the eggs around the frying pan with the spatula.	s26-d69	10335	11105	egg	11172
+s26-d69_10_7	He discards the egg shells into the recycling bin.	s26-d69	11156	11510	egg	11398
+s26-d69_10_8	He continues to stir the eggs in the pan every few minutes.	s26-d69	11531	12086	egg	12158
+s26-d69_10_9	He chops some greens on the cutting board.	s26-d69	12163	12899	egg	12870
+s26-d69_10_10	He continues to move the eggs in the frying pan.	s26-d69	13044	15218	egg	15286
+s26-d69_10_11	He gets a plate from the cabinet and places it on the counter.	s26-d69	15329	15758	egg	15908
+s26-d69_10_12	He removes the frying pan from the stove, and places the eggs onto the plate.	s26-d69	15924	20216	egg	20434
+s26-d69_10_13	He places the frying pan and spatula into the sink.	s26-d69	20436	20538	egg	20524
+s26-d69_10_14	He places the chopped greens on top of the scrambled eggs.	s26-d69	20543	20836	egg	20856
+s26-d69_11_1	He gets a pan and two eggs.	s26-d69	160	973	egg	924
+s26-d69_11_2	He gets a cutting board and knife.	s26-d69	980	1555	egg	1532
+s26-d69_11_3	He cuts off some herbs.	s26-d69	1663	2034	egg	2060
+s26-d69_11_4	He washes the herbs.	s26-d69	2095	2363	egg	2360
+s26-d69_11_5	He turn on the stove and adds butter to the pan.	s26-d69	2424	3095	egg	3246
+s26-d69_11_6	He cracks the eggs into the pan.	s26-d69	6861	8732	egg	8732
+s26-d69_11_7	He seasons eggs.	s26-d69	8767	10957	egg	10974
+s26-d69_11_8	He chops the herbs.	s26-d69	11043	12899	egg	12946
+s26-d69_11_9	He finishes cooking and adds the eggs to the plate.	s26-d69	20436	20538	egg	20490
+s26-d69_11_10	He puts the herbs on top of the eggs.	s26-d69	20543	20836	egg	20872
+s26-d69_12_1	The man takes out a frying pan, butter, 2 eggs, and a cutting board.	s26-d69	160	973	egg	980
+s26-d69_12_2	He washes his hands.	s26-d69	980	1262	egg	1270
+s26-d69_12_3	He uses a knife to cut herbs off of an herb plant.	s26-d69	1286	2034	egg	2050
+s26-d69_12_4	He washes the herbs.	s26-d69	2095	2236	egg	2250
+s26-d69_12_5	He adds butter to the frying pan.	s26-d69	2298	3095	egg	3180
+s26-d69_12_6	He cracks an egg into the pan.	s26-d69	3242	8312	egg	8250
+s26-d69_12_7	He stirs the eggs.	s26-d69	980	9428	egg	9460
+s26-d69_12_8	He salts the eggs.	s26-d69	9499	9802	egg	9800
+s26-d69_12_9	He adds pepper.	s26-d69	9810	9990	egg	10010
+s26-d69_12_10	He cuts the herb into small pieces.	s26-d69	10014	12899	egg	13140
+s26-d69_12_11	He stirs the eggs.	s26-d69	13044	15758	egg	15650
+s26-d69_12_12	He puts the cooked eggs onto a plate.	s26-d69	15924	20216	egg	20330
+s26-d69_12_13	He adds the small pieces of the herb to the eggs.	s26-d69	20854	20896	egg	20900
+s26-d69_13_1	This person places pan on the stove top.	s26-d69	160	377	egg	526
+s26-d69_13_2	This person gets 2 eggs and butter from the fridge.	s26-d69	425	824	egg	906
+s26-d69_13_3	this person turns on the stove top to heat the pan.	s26-d69	840	2886	egg	2850
+s26-d69_13_4	this person adds a pad of butter into the pan.	s26-d69	2926	3095	egg	3170
+s26-d69_13_5	the butter in the pan melts.	3242	8312
+s26-d69_13_6	this person cracks the first egg into the pan	3242	8312
+s26-d69_13_7	this person cracks the second egg into the pan	s26-d69	8363	8581	egg	8692
+s26-d69_13_8	this person uses a wooden spoon to break the yolks and stir the eggs.	s26-d69	8363	9556	egg	9612
+s26-d69_13_9	this person adds salt to the pan	s26-d69	9581	9802	egg	9854
+s26-d69_13_10	this person adds pepper to the pan	s26-d69	9810	10048	egg	10096
+s26-d69_13_11	this person adds a third seasoning to the pan.	s26-d69	10057	10313	egg	10306
+s26-d69_13_12	this person gently stirs the egg mix in the pan.	s26-d69	10335	11105	egg	11186
+s26-d69_13_13	this person removes the eggs from the pan and puts them on a plate.	s26-d69	11156	20216	egg	20482
+s26-d69_14_1	He took out pan	s26-d69	160	377	egg	424
+s26-d69_14_2	He took out eggs and butter	s26-d69	425	973	egg	926
+s26-d69_14_3	He washed hands	s26-d69	980	1374	egg	1338
+s26-d69_14_4	He took out knife	s26-d69	1394	1466	egg	1500
+s26-d69_14_5	He took out herb	s26-d69	1491	1555	egg	1714
+s26-d69_14_6	He washed herbs	s26-d69	1663	2363	egg	2342
+s26-d69_14_7	He dried hands	s26-d69	2424	2502	egg	2494
+s26-d69_14_8	He turned on the stove	s26-d69	2528	2886	egg	2842
+s26-d69_14_9	He took out wooden spoon	s26-d69	2926	3038	egg	3044
+s26-d69_14_10	He put butter in pan	s26-d69	3062	3095	egg	3220
+s26-d69_15_1	He took out pan	s26-d69	160	377	egg	462
+s26-d69_15_2	He took out eggs and butter	s26-d69	425	824	egg	886
+s26-d69_15_3	He took out cutting board	s26-d69	840	1135	egg	1094
+s26-d69_15_4	He washed hands	s26-d69	1140	1262	egg	1284
+s26-d69_15_5	He took out knife	s26-d69	1286	1555	egg	1532
+s26-d69_15_6	He cut herbs	s26-d69	1663	1974	egg	1944
+s26-d69_15_7	He put herbs away	s26-d69	1988	2034	egg	2122
+s26-d69_15_8	He rinsed hand	s26-d69	2095	2236	egg	2176
+s26-d69_15_9	He washed herbs	s26-d69	2298	2363	egg	2376
+s26-d69_15_10	He turned on stove	s26-d69	2424	2886	egg	2838
+s26-d69_16_1	He took out pan	160	377
+s26-d69_16_2	He put pan on stove	160	377
+s26-d69_16_3	He took out eggs and butter	s26-d69	425	824	egg	890
+s26-d69_16_4	He took out cutting board	s26-d69	840	1135	egg	1102
+s26-d69_16_5	He washed hands	s26-d69	1140	1262	egg	1274
+s26-d69_16_6	He took out knife	s26-d69	1286	1466	egg	1500
+s26-d69_16_7	He took out herbs	s26-d69	1491	1795	egg	1764
+s26-d69_16_8	He cut off herbs to use	s26-d69	1828	1882	egg	1926
+s26-d69_16_9	He put back extra herbs	s26-d69	1894	2034	egg	2106
+s26-d69_16_10	He rinsed hand	s26-d69	2095	2236	egg	2166
+s26-d69_16_11	He washed herb	s26-d69	2298	2363	egg	2336
+s26-d69_16_12	He turned on stove	s26-d69	2424	2768	egg	2826
+s26-d69_17_1	He goes to the drawer and gets out a fry pan.	s26-d69	160	377	egg	524
+s26-d69_17_2	He goes to the refrigerator gets out some butter and eggs.	s26-d69	425	973	egg	988
+s26-d69_17_3	He goes to the drawer and gets a cutting board out and then washes and dries his hands.	s26-d69	980	1466	egg	1432
+s26-d69_17_4	He goes to the drawer and gets a knife and cuts off some herbs off a plant and rinses them.	s26-d69	1491	2363	egg	2440
+s26-d69_17_5	He turns on the stove.	s26-d69	2787	2886	egg	2914
+s26-d69_17_6	He goes to the drawer and takes out a spatula and cuts a piece of butter off and places it into the pan.	s26-d69	3242	3358	egg	3302
+s26-d69_17_7	He goes and gets some spices and waits for the butter to melt.	s26-d69	3242	8312	egg	8202
+s26-d69_17_8	He cracks the eggs into the pan and then rinses and dries his hands.	s26-d69	8666	8820	egg	8972
+s26-d69_17_9	He scrambles the eggs and adds some spices and then re-stirs.	s26-d69	8899	11254	egg	11282
+s26-d69_17_10	He throws away the egg shells and washes and dries his hands and then stirs the eggs.	s26-d69	11263	12086	egg	12264
+s26-d69_17_11	He chops the herbs and then he stirs the eggs.	s26-d69	12163	15218	egg	15436
+s26-d69_17_12	He goes to the cupboard and gets a plate and rinses it.	s26-d69	15329	16330	egg	16522
+s26-d69_17_13	He stirs the eggs, adjusts the stove, puts the butter and spices away, and then re-stirs the eggs.	s26-d69	16419	19175	egg	19202
+s26-d69_17_14	He dries the plate, returns the towel, and then puts the eggs on the plate.	s26-d69	20436	20538	egg	20566
+s26-d69_17_15	He puts the herbs on top of the eggs and then gets a fork out of the drawer.	s26-d69	20854	20896	egg	21106
+s26-d69_18_1	The person gets a skillet, two eggs, butter, a sharp knife and fresh herbs.	s26-d69	160	1555	egg	1654
+s26-d69_18_2	The person cuts off some fresh herbs and rinses them.	s26-d69	1663	2363	egg	2390
+s26-d69_18_3	The person turns the heat on under the skillet, gets a wooden spoon and uses it to put some butter in the skillet to melt, then gets some spices.	s26-d69	2926	3494	egg	3506
+s26-d69_18_4	The person lets the butter melt completely and moves it around the skillet with the wooden spoon to let it coat the bottom.	s26-d69	3406	7595	egg	7850
+s26-d69_18_5	The person cracks the eggs and drops them in the hot skillet.	s26-d69	8363	8732	egg	8736
+s26-d69_18_6	The person uses the wooden spoon to scramble the eggs while in the skillet.	s26-d69	8767	9556	egg	9602
+s26-d69_18_7	The person adds salt, pepper and other spices to the egg mixture, then scrambles it with the wooden spoon.	s26-d69	9581	12086	egg	12344
+s26-d69_18_8	The person finely chops the fresh herbs.	s26-d69	12163	12899	egg	13140
+s26-d69_18_9	The person lets the egg cook, while periodically scrambling it with the wooden spoon. During this time, he gets a plate and puts the used items away.	s26-d69	13044	18811	egg	19040
+s26-d69_18_10	The person scoops the cooked eggs onto a plate.	s26-d69	19132	20216	egg	20466
+s26-d69_18_11	The person garnishes the eggs with the fresh herbs.	s26-d69	13044	20896	egg	20880
+s26-d69_19_1	The person takes out a pan and puts it on the stove.	s26-d69	160	377	egg	574
+s26-d69_19_2	The person takes eggs and butter out of the fridge.	s26-d69	425	824	egg	866
+s26-d69_19_3	The person takes out a cutting board.	s26-d69	840	1135	egg	1106
+s26-d69_19_4	The person takes out a knife.	s26-d69	1140	1466	egg	1500
+s26-d69_19_5	The person cuts some herbs from a plant.	s26-d69	1491	2034	egg	2136
+s26-d69_19_6	The person adds some butter to the hot pan.	s26-d69	2424	3095	egg	3198
+s26-d69_19_7	The person cracks the eggs into the pan.	s26-d69	3510	8581	egg	8684
+s26-d69_19_8	The person adds spices to the eggs.	s26-d69	8085	10313	egg	10282
+s26-d69_19_9	The person chops the fresh herbs.	s26-d69	10335	12899	egg	13232
+s26-d69_19_10	The person scrambled the eggs around the pan until they are cooked.	s26-d69	13044	19175	egg	19300
+s26-d69_19_11	The person takes out a plate.	s26-d69	19273	19417	egg	19610
+s26-d69_19_12	The person places the cooked eggs onto the plate.	s26-d69	19576	20216	egg	20406
+s26-d69_19_13	The person garnishes the eggs with the fresh herb.	s26-d69	19273	20836	egg	20830
+s26-d69_19_14	The person is done preparing scrambled eggs.	s26-d69	20543	20896	egg	21054

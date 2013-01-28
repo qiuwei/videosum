@@ -1,0 +1,19 @@
+230	431	take out	hand	cutting board	counter,drawer
+431	497	close	hand		drawer
+502	590	take out	hand	knife	cutting board,drawer
+590	638	close	hand		drawer
+689	872	take out	hand	plastic box	counter,fridge
+900	983	remove lid	hand	lid	plastic box
+1015	1358	take out	hand	plate	counter,cupboard
+1407	1420	remove lid	hand	lid	plastic box
+1420	1461	remove from package	hand	kiwi	,plastic box
+1461	1482	put lid	hand	lid	plastic box
+1523	1748	wash	hand	kiwi	
+1762	1787	shake	hand	kiwi	
+1787	1827	move	hand	kiwi	,cutting board
+1866	1977	dry	towel	hand	
+2025	2055	move	hand	cutting board,plate	counter
+2069	2274	cut	knife	kiwi	cutting board
+2274	2508	slice	knife	kiwi	cutting board
+2519	2612	move	knife	kiwi	cutting board,plate
+2655	2723	move	hand	plate	counter

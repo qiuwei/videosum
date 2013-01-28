@@ -1,0 +1,14 @@
+234	488	take out	hand	potato	counter,cupboard		s22-d43_3_1	s22-d43_4_1		s22-d43_6_1. s22-d43_6_2	s22-d43_7_1	s22-d43_8_1	s22-d43_9_1	s22-d43_10_1	s22-d43_11_1	s22-d43_12_1		s22-d43_15_1	s22-d43_16_1				s22-d43_20_1
+517	619	take out	hand	cutting board	counter,drawer				s22-d43_5_1			s22-d43_8_2	s22-d43_9_2	s22-d43_10_2	s22-d43_11_2								s22-d43_20_2
+619	660	close	hand		drawer		s22-d43_3_2		s22-d43_5_2	s22-d43_6_3						s22-d43_12_2	s22-d43_13_1	s22-d43_15_2	s22-d43_16_2				
+677	821	take out	hand	peeler	drawer	s22-d43_1_1	s22-d43_3_3	s22-d43_4_2		s22-d43_6_4	s22-d43_7_2	s22-d43_8_3	s22-d43_9_3	s22-d43_10_3	s22-d43_11_3	s22-d43_12_3		s22-d43_15_3	s22-d43_16_3	s22-d43_17_1	s22-d43_18_1	s22-d43_19_1	s22-d43_20_3
+867	2136	peel	peeler	potato		s22-d43_1_2	s22-d43_3_4			s22-d43_6_5	s22-d43_7_3		s22-d43_9_4		s22-d43_11_4			s22-d43_15_4		s22-d43_17_2	s22-d43_18_2		
+2142	2212	scratch off	hand	peel	cutting board,side peeler				s22-d43_5_3			s22-d43_8_4		s22-d43_10_4									s22-d43_20_4
+2215	2266	move	hand	peel	counter,cutting board			s22-d43_4_3									s22-d43_13_2						
+2274	2306	move	hand	peel	counter,cutting board														s22-d43_16_4			s22-d43_19_2	
+2352	2410	wash	hand	potato		s22-d43_1_3	s22-d43_3_5	s22-d43_4_4	s22-d43_5_4	s22-d43_6_6	s22-d43_7_4	s22-d43_8_5	s22-d43_9_5	s22-d43_10_5	s22-d43_11_5	s22-d43_12_4	s22-d43_13_3	s22-d43_15_5	s22-d43_16_5	s22-d43_17_3			s22-d43_20_5
+2459	2511	open	hand		drawer						s22-d43_7_5												
+2561	2658	throw in garbage	cutting board,peeler	peel			s22-d43_3_6	s22-d43_4_5		s22-d43_6_7	s22-d43_7_6	s22-d43_8_6		s22-d43_10_6	s22-d43_11_6		s22-d43_13_4	s22-d43_15_6					s22-d43_20_6
+2697	2724	shake	hand	potato					s22-d43_5_5	s22-d43_6_8	s22-d43_7_7		s22-d43_9_6						s22-d43_16_6	s22-d43_17_4	s22-d43_18_3	s22-d43_19_3	
+2794	2876	take out	hand	knife	drawer	s22-d43_1_4	s22-d43_3_7					s22-d43_8_7	s22-d43_9_7	s22-d43_10_7	s22-d43_11_7	s22-d43_12_5	s22-d43_13_5		s22-d43_16_7		s22-d43_18_4		s22-d43_20_7
+2894	3175	cut	knife	potato	cutting board	s22-d43_1_5	s22-d43_3_8	s22-d43_4_6	s22-d43_5_6	s22-d43_6_9	s22-d43_7_8	s22-d43_8_8	s22-d43_9_8	s22-d43_10_8	s22-d43_11_8	s22-d43_12_6	s22-d43_13_6	s22-d43_15_7	s22-d43_16_8	s22-d43_17_5	s22-d43_18_5	s22-d43_19_4. s22-d43_19_5	s22-d43_20_8

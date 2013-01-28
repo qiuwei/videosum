@@ -1,0 +1,115 @@
+s25-d23_1_1	He took out carrot	s25-d23	93	298	carrot	320
+s25-d23_1_2	He took out cutting board	s25-d23	348	478	carrot	480
+s25-d23_1_3	He took out knife	s25-d23	478	661	carrot	710
+s25-d23_1_4	He washed carrot	s25-d23	743	911	carrot	903
+s25-d23_1_5	He cut off ends of carrots	s25-d23	982	1090	carrot	1136
+s25-d23_1_6	He washed carrot	s25-d23	1164	2045	carrot	2045
+s25-d23_1_7	He diced carrots	s25-d23	2083	3696	carrot	3711
+s25-d23_3_1	The person gets out a carrot.	s25-d23	93	298	carrot	301
+s25-d23_3_2	The person gets out a cutting board.	s25-d23	348	478	carrot	493
+s25-d23_3_3	The person gets out a knife.	s25-d23	478	661	carrot	677
+s25-d23_3_4	The person rinses the carrot.	s25-d23	743	911	carrot	945
+s25-d23_3_5	The person cuts off the ends of the carrot.	s25-d23	982	1090	carrot	1111
+s25-d23_3_6	The person searches for the trash can, then throws the ends of the carrot away.	s25-d23	1164	1799	carrot	1813
+s25-d23_3_7	The person rinses the carrot again.	s25-d23	1854	2045	carrot	2125
+s25-d23_3_8	The person chops up the carrot.	s25-d23	3702	3775	carrot	3789
+s25-d23_4_1	The person gets out a carrot.	s25-d23	93	298	carrot	319
+s25-d23_4_2	The person gets out a cutting board.	s25-d23	348	478	carrot	491
+s25-d23_4_3	The person gets out a knife.	s25-d23	478	661	carrot	703
+s25-d23_4_4	The person rinses the carrot.	s25-d23	743	911	carrot	945
+s25-d23_4_5	The person cuts off the ends of the carrot.	s25-d23	982	1090	carrot	1115
+s25-d23_4_6	The person searches for a trash can, then throws the ends of the carrot away.	s25-d23	1164	1799	carrot	1801
+s25-d23_4_7	The person rinses the carrot again.	s25-d23	1854	2045	carrot	2051
+s25-d23_4_8	The person chops up the carrot.	s25-d23	2083	3775	carrot	3761
+s25-d23_5_1	The person gets out a carrot.	s25-d23	93	298	carrot	291
+s25-d23_5_2	The person gets out a cutting board.	s25-d23	348	530	carrot	515
+s25-d23_5_3	The person gets out a knife.	s25-d23	549	661	carrot	691
+s25-d23_5_4	The person rinses the carrot.	s25-d23	743	911	carrot	955
+s25-d23_5_5	The person cuts the ends off of the carrot.	s25-d23	982	1090	carrot	1165
+s25-d23_5_6	The person looks for the trash can, then throws away the ends of the carrot.	s25-d23	1164	1799	carrot	1809
+s25-d23_5_7	The person rinses the carrot again.	s25-d23	1854	2045	carrot	2047
+s25-d23_5_8	The person chops up the carrot.	s25-d23	2083	3775	carrot	3791
+s25-d23_6_1	Asian man grabs a carrot from the fridge.	s25-d23	93	298	carrot	249
+s25-d23_6_2	He grabs a cutting board from the drawer.	s25-d23	348	478	carrot	501
+s25-d23_6_3	He grabs a knife from another drawer.	s25-d23	478	661	carrot	685
+s25-d23_6_4	He rinses the carrot from the faucet.	s25-d23	743	911	carrot	883
+s25-d23_6_5	He cuts off the two edges.	s25-d23	982	1090	carrot	1135
+s25-d23_6_6	He searches for something in the drawer, failed attempt, he throws away the edges in trash.	s25-d23	1164	1718	carrot	1767
+s25-d23_6_7	He rinses the carrot again.	s25-d23	1746	2011	carrot	2001
+s25-d23_6_8	He starts chopping the carrot in small pieces.	s25-d23	2011	2045	carrot	2173
+s25-d23_6_9	He finished chopping the carrots in small pieces.	s25-d23	2083	3696	carrot	3733
+s25-d23_6_10	He looks up and says something.	s25-d23	2083	3775	carrot	3747
+s25-d23_7_1	He gets a carrot from the fridge.	s25-d23	93	298	carrot	217
+s25-d23_7_2	He gets a cutting board from the cupboard.	s25-d23	348	478	carrot	459
+s25-d23_7_3	He gets a knife from the drawer.	s25-d23	478	661	carrot	655
+s25-d23_7_4	He rinses the carrot.	s25-d23	743	911	carrot	901
+s25-d23_7_5	He chops the ends off the carrot.	s25-d23	982	1090	carrot	1093
+s25-d23_7_6	He chops the carrot into small slices.	s25-d23	1164	3696	carrot	3719
+s25-d23_8_1	He grabs a carrot.	s25-d23	93	298	carrot	241
+s25-d23_8_2	He gets a cutting board and knife.	s25-d23	348	661	carrot	653
+s25-d23_8_3	He rinses the carrot.	s25-d23	743	911	carrot	915
+s25-d23_8_4	He cuts the ends from the carrot and discards them.	s25-d23	982	1799	carrot	1805
+s25-d23_8_5	He rinses the carrot again.	s25-d23	1854	2011	carrot	2025
+s25-d23_8_6	He chops the carrot.	s25-d23	2011	3696	carrot	3725
+s25-d23_9_1	The person procures a carrot from the fridge.	s25-d23	93	298	carrot	301
+s25-d23_9_2	The person takes out a cutting board from the drawer.	s25-d23	348	478	carrot	485
+s25-d23_9_3	The person takes out a knife from the drawer.	s25-d23	478	661	carrot	675
+s25-d23_9_4	The person washes the carrot in the sink.	s25-d23	743	911	carrot	913
+s25-d23_9_5	The person cuts the ends off the carrot and throws them into the wastebin.	s25-d23	982	1799	carrot	1827
+s25-d23_9_6	The person again washes the carrot in the sink.	s25-d23	1854	2045	carrot	2039
+s25-d23_9_7	The person chops the carrot on the cutting board.	s25-d23	3702	3775	carrot	3757
+s25-d23_10_1	The person gets a carrot from the refrigerator and a cutting board and knife to begin preparation.	s25-d23	93	661	carrot	681
+s25-d23_10_2	The person washes the carrot.	s25-d23	743	911	carrot	963
+s25-d23_10_3	The person carefully cuts a thin slice of carrot from each end and discards.	s25-d23	982	1799	carrot	1823
+s25-d23_10_4	The person washes the carrot a second time.	s25-d23	1854	2045	carrot	2063
+s25-d23_10_5	Using a sharp knife, the person carefully cuts across the carrot creating thin, round slices.	s25-d23	2083	3696	carrot	3733
+s25-d23_10_6	The person presents the finished sliced carrot.	s25-d23	3702	3775	carrot	3805
+s25-d23_12_1	He takes out a carrot	s25-d23	93	298	carrot	326
+s25-d23_12_2	He takes out a cutting board	s25-d23	348	478	carrot	475
+s25-d23_12_3	He takes out a knife	s25-d23	478	661	carrot	675
+s25-d23_12_4	He washes carrot	s25-d23	743	911	carrot	914
+s25-d23_12_5	He cuts off ends	s25-d23	982	1090	carrot	1091
+s25-d23_12_6	He cuts carrot into pieces	s25-d23	3702	3775	carrot	3746
+s25-d23_13_1	The person retrieves a carrot, a cutting board and a chef's knife.	s25-d23	93	661	carrot	713
+s25-d23_13_2	The person washes the carrot.	s25-d23	743	911	carrot	959
+s25-d23_13_3	The person cuts the ends from the carrot.	s25-d23	982	1090	carrot	1107
+s25-d23_13_4	The person washes the carrot again.	s25-d23	1164	2045	carrot	2085
+s25-d23_13_5	The person cuts the carrot into thin lateral slices using the chef's knife.	s25-d23	2083	3696	carrot	3715
+s25-d23_14_1	The man retrieves a Carrot, a cutting board, and a knife.	s25-d23	93	661	carrot	723
+s25-d23_14_2	The man washes the carrot.	s25-d23	743	911	carrot	947
+s25-d23_14_3	The man cuts off the ends of the carrot, and disposes of them.	s25-d23	982	1799	carrot	1862
+s25-d23_14_4	The man washes the carrot again.	s25-d23	1854	2045	carrot	2051
+s25-d23_14_5	The man cuts the carrot into small circular pieces.	s25-d23	2083	3775	carrot	3748
+s25-d23_15_1	The person removes a carrot from the refridgerator.	s25-d23	93	298	carrot	290
+s25-d23_15_2	The person takes out a large knife and a cutting board.	s25-d23	348	661	carrot	672
+s25-d23_15_3	The person washes the carrot.	s25-d23	743	911	carrot	951
+s25-d23_15_4	The person cuts the tip off of the carrot.	s25-d23	982	1090	carrot	1134
+s25-d23_15_5	The person throws the carrot tip away.	s25-d23	1164	1799	carrot	1796
+s25-d23_15_6	The person rinses the carrot again.	s25-d23	1854	2045	carrot	2054
+s25-d23_15_7	The person chops the carrot into thin slices.	s25-d23	3702	3775	carrot	3806
+s25-d23_16_1	The person opens the fridge and removes a carrot.	s25-d23	93	298	carrot	280
+s25-d23_16_2	The person gets a cutting board and a knife out of drawers.	s25-d23	348	661	carrot	686
+s25-d23_16_3	The person washes the carrot.	s25-d23	743	911	carrot	931
+s25-d23_16_4	The person slices a few pieces off of the carrot's tip.	s25-d23	982	1090	carrot	1152
+s25-d23_16_5	The person throws away the tip pieces.	s25-d23	1164	1799	carrot	1879
+s25-d23_16_6	The person rewashes the carrot.	s25-d23	1854	2045	carrot	2085
+s25-d23_16_7	The person slices the carrot into round pieces.	s25-d23	2083	3696	carrot	3728
+s25-d23_17_1	He removes a carrot from the refrigerator.	s25-d23	93	298	carrot	234
+s25-d23_17_2	He places a carving board and carving knife on the counter.	s25-d23	348	661	carrot	718
+s25-d23_17_3	He then washes the carrot off.	s25-d23	743	911	carrot	899
+s25-d23_17_4	He cuts the top and bottom off the carrot and throws them away.	s25-d23	982	1257	carrot	1630
+s25-d23_17_5	He rinses off the carrot a second time.	s25-d23	1679	2011	carrot	2027
+s25-d23_17_6	He carves the carrot into equal pieces until finished.	s25-d23	1164	3775	carrot	3806
+s25-d23_18_1	A man enters the kitchen, retrieves a carrot from the refrigerator, a knife and a cutting board from the drawer and places them all on the counter.	s25-d23	93	661	carrot	721
+s25-d23_18_2	The man washes the carrot.	s25-d23	743	911	carrot	979
+s25-d23_18_3	He cuts the ends off of the carrot and throws them away.	s25-d23	982	1799	carrot	1823
+s25-d23_18_4	He washes the carrot.	s25-d23	1854	2045	carrot	2071
+s25-d23_18_5	He slices the entire length of the carrot crosswise.	s25-d23	2083	3696	carrot	3735
+s25-d23_19_1	Take a carrot out of the refrigerator.	s25-d23	93	298	carrot	321
+s25-d23_19_2	Take a cutting board out and place it on the counter.	s25-d23	348	530	carrot	531
+s25-d23_19_3	Select a knife for cutting the carrot.	s25-d23	549	661	carrot	747
+s25-d23_19_4	Wash the carrot in the kitchen sink.	s25-d23	743	911	carrot	945
+s25-d23_19_5	Slice off both ends of the carrot with the knife.	s25-d23	982	1090	carrot	1181
+s25-d23_19_6	Throw away the ends of carrot that have been cut off.	s25-d23	1164	1799	carrot	1811
+s25-d23_19_7	Rewash the carrot in the kitchen sink.	s25-d23	1854	2045	carrot	2059
+s25-d23_19_8	Use the knife to slice the carrot into thin disks no more than 1/4 inch thick.	s25-d23	2083	3696	carrot	3725

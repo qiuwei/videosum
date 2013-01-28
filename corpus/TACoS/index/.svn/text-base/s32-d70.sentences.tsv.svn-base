@@ -1,0 +1,201 @@
+s32-d70_1_1	Obtain one large orange.	s32-d70	237	742	orange	729
+s32-d70_1_2	organize tools. One knife and One Cutting Board. Rinse if necessary	s32-d70	764	1765	orange	1776
+s32-d70_1_3	Slice orange in half.	s32-d70	1815	1892	orange	1930
+s32-d70_1_4	Obtain juicer. Rinse if necessary.	s32-d70	1935	2675	orange	2679
+s32-d70_1_5	Place Orange Half on Juicer. Twist thoroughly until all juice is extracted.	s32-d70	2768	4621	orange	4643
+s32-d70_1_6	 Obtain cup. Rinse if necessary.	s32-d70	4658	5596	orange	5566
+s32-d70_1_7	Pour juice into cup.	s32-d70	5608	5813	orange	5866
+s32-d70_1_8	Add water to juice, in equal parts with orange extract.	s32-d70	5885	5984	orange	6050
+s32-d70_1_9	Add one table spoon sugar.	s32-d70	6051	6814	orange	6797
+s32-d70_1_10	 This is how you make Tang.	s32-d70	6820	7109	orange	7034
+s32-d70_2_1	She gets an orange.	s32-d70	237	742	orange	727
+s32-d70_2_2	She slices the orange.	s32-d70	764	1892	orange	1907
+s32-d70_2_3	She gets out and rinses the juicer.	s32-d70	1935	2622	orange	2653
+s32-d70_2_4	She finishes juicing.	s32-d70	2646	5071	orange	5083
+s32-d70_2_5	She puts the juice in a glass.	s32-d70	5079	5813	orange	5843
+s32-d70_2_6	She adds water to the glass.	s32-d70	5885	5984	orange	6021
+s32-d70_2_7	She adds sugar to the water.	s32-d70	6051	6814	orange	6859
+s32-d70_3_1	The person procures an orange from the fridge.	s32-d70	237	742	orange	645
+s32-d70_3_2	The person takes out a cutting board from the drawer.	s32-d70	764	915	orange	887
+s32-d70_3_3	The person takes out a knife from the drawer.	s32-d70	922	1356	orange	1363
+s32-d70_3_4	The person washes the knife, the cutting board, and the orange in the sink.	s32-d70	1398	1765	orange	1755
+s32-d70_3_5	The person slices the orange into halves.	s32-d70	1815	1892	orange	1937
+s32-d70_3_6	The person washes her hands, then takes a juice strainer from the drawer and rinses it under the faucet.	s32-d70	1935	2622	orange	2631
+s32-d70_3_7	The person grinds each half into the top of the juice strainer and then washes her hands.	s32-d70	2646	4825	orange	4857
+s32-d70_3_8	The person removes the top of the strainer from the juicer.	s32-d70	4846	5003	orange	5031
+s32-d70_3_9	The person takes a glass from the cupboard.	s32-d70	5043	5353	orange	5371
+s32-d70_3_10	The person rinses the glass with water and then pours the juice from the bottom of the juice strainer into the glass.	s32-d70	5417	5813	orange	5797
+s32-d70_3_11	The person adds some water from the faucet to the juice in the glass.	s32-d70	5885	5984	orange	6021
+s32-d70_3_12	The person takes a package of sugar from the pantry and then takes out a spoon from the drawer.	s32-d70	6051	6449	orange	6441
+s32-d70_3_13	The person puts a scoop of sugar into the juice, stirs the glass, then returns the package of sugar to the pantry.	s32-d70	6820	7109	orange	7025
+s32-d70_4_1	Gather and rinse orange, knife and cutting board.	s32-d70	237	1765	orange	1785
+s32-d70_4_2	Cut orange in half.	s32-d70	1815	1892	orange	1897
+s32-d70_4_3	Gather and rinse citrus juicer.	s32-d70	1935	2622	orange	2647
+s32-d70_4_4	Juice both orange halves.	s32-d70	2646	4621	orange	4671
+s32-d70_4_5	Gather and rinse glass.	s32-d70	4658	5493	orange	5541
+s32-d70_4_6	Pour juice into glass.	s32-d70	5497	5813	orange	5827
+s32-d70_4_7	Add water to glass.	s32-d70	5885	5984	orange	5985
+s32-d70_4_8	Add one tablespoon of sugar to glass and stir.	s32-d70	6051	6771	orange	6795
+s32-d70_5_1	She grabs an orange.	s32-d70	237	742	orange	731
+s32-d70_5_2	She gets a cutting board and knife.	s32-d70	764	1356	orange	1379
+s32-d70_5_3	She rinses everything.	s32-d70	1398	1726	orange	1731
+s32-d70_5_4	She cuts the orange in half.	s32-d70	1736	1892	orange	1923
+s32-d70_5_5	She gets out the juicer.	s32-d70	1935	2297	orange	2339
+s32-d70_5_6	She juices the oranges.	s32-d70	2366	5071	orange	5073
+s32-d70_5_7	She grabs a glass and puts the juice into it.	s32-d70	5079	5813	orange	5837
+s32-d70_5_8	She adds water and sugar to the glass.	s32-d70	6779	6814	orange	6819
+s32-d70_6_1	She gets an orange from the fridge.	s32-d70	237	742	orange	623
+s32-d70_6_2	She cuts the orange in half.	s32-d70	764	1892	orange	1923
+s32-d70_6_3	She gets the juicer from the cupboard	s32-d70	1935	2258	orange	2217
+s32-d70_6_4	She squeezes and twists the orange against the juicer.	s32-d70	2279	4519	orange	4533
+s32-d70_6_5	She gets a glass from the cupboard.	s32-d70	4546	5353	orange	5321
+s32-d70_6_6	She pours the juice in the glass.	s32-d70	5417	5813	orange	5823
+s32-d70_6_7	She adds extra water to the glass of juice.	s32-d70	5885	5984	orange	5981
+s32-d70_6_8	She adds extra sugar to the glass of juice.	s32-d70	6051	6635	orange	6669
+s32-d70_7_1	She took out orange	s32-d70	237	742	orange	651
+s32-d70_7_2	She took out cutting board	s32-d70	764	915	orange	925
+s32-d70_7_3	She took out knife	s32-d70	922	1450	orange	1437
+s32-d70_7_4	She washed orange	s32-d70	1502	1726	orange	1747
+s32-d70_7_5	She cut orange in half	s32-d70	1736	1892	orange	1963
+s32-d70_7_6	She washed hands	s32-d70	1935	2037	orange	2121
+s32-d70_7_7	She took out juicer	s32-d70	2111	2297	orange	2307
+s32-d70_7_8	She washed juicer	s32-d70	2366	2550	orange	2581
+s32-d70_7_9	She twisted orange on juicer	s32-d70	2563	4621	orange	4687
+s32-d70_7_10	She washed hands	s32-d70	4658	4825	orange	4829
+s32-d70_8_1	person gets orange	s32-d70	237	742	orange	637
+s32-d70_8_2	person gets cutting board	s32-d70	764	915	orange	881
+s32-d70_8_3	person gets knife	s32-d70	922	1356	orange	1357
+s32-d70_8_4	person washes orange	s32-d70	1398	1765	orange	1775
+s32-d70_8_5	person cuts orange in half	s32-d70	1815	1892	orange	1937
+s32-d70_8_6	person gets manual juicer	s32-d70	1935	2258	orange	2243
+s32-d70_8_7	person squeezes out juice	s32-d70	4846	5071	orange	5101
+s32-d70_8_8	person gets glass	s32-d70	5079	5353	orange	5407
+s32-d70_8_9	person puts orange juice in glass	s32-d70	5417	5813	orange	5727
+s32-d70_8_10	person adds water	s32-d70	5885	5984	orange	6053
+s32-d70_8_11	person adds sugar	s32-d70	5885	6814	orange	6803
+s32-d70_9_1	Grab a orange, cutting board, and a knife.	s32-d70	237	1356	orange	1403
+s32-d70_9_2	Slice your orange in halves.	s32-d70	1398	1892	orange	1935
+s32-d70_9_3	Using a manual juicer, twist one half of orange at a time on the juicer with pressure.	s32-d70	1935	4621	orange	4677
+s32-d70_9_4	Remove top half of the juicer and place to the side.	s32-d70	2279	5130	orange	5113
+s32-d70_9_5	Poor juice from the orange into a glass and fill the rest of the glass with water.	s32-d70	5156	5984	orange	6033
+s32-d70_9_6	Add one teaspoon sugar to orange juice and stir til dissolved.	s32-d70	6643	6814	orange	6835
+s32-d70_10_1	The woman grabs an orange.	s32-d70	237	742	orange	625
+s32-d70_10_2	The woman grabs a cutting board.	s32-d70	764	915	orange	923
+s32-d70_10_3	The woman grabs a knife and rinses it.	s32-d70	922	1450	orange	1475
+s32-d70_10_4	The woman rinses the cutting board and orange.	s32-d70	1502	1726	orange	1749
+s32-d70_10_5	The woman cuts the orange in half.	s32-d70	1736	1892	orange	1955
+s32-d70_10_6	The woman grabs a manual juicer.	s32-d70	1935	2258	orange	2223
+s32-d70_10_7	The woman rinses the juicer.	s32-d70	2279	2622	orange	2647
+s32-d70_10_8	The woman juices the orange.	s32-d70	2646	4621	orange	4679
+s32-d70_10_9	The woman rinses her hands.	s32-d70	4658	4825	orange	4825
+s32-d70_10_10	The woman grabs a glass.	s32-d70	4658	5353	orange	5341
+s32-d70_10_11	The woman rinses the glass.	s32-d70	5417	5493	orange	5539
+s32-d70_10_12	The woman adds the freshly squeezed juice to the glass and adds water.	s32-d70	5497	5984	orange	6007
+s32-d70_10_13	The woman grabs sugar.	s32-d70	6051	6323	orange	6263
+s32-d70_10_14	The woman grabs a spoon, puts some sugar into the glass, and stirs.	s32-d70	6051	6771	orange	6785
+s32-d70_10_15	The woman puts the sugar back.	s32-d70	6474	7109	orange	7103
+s32-d70_11_1	The person takes out an orange.	s32-d70	237	742	orange	627
+s32-d70_11_2	The person takes out a cutting board.	s32-d70	764	915	orange	875
+s32-d70_11_3	The person takes out a knife.	s32-d70	922	1356	orange	1349
+s32-d70_11_4	The person slices the orange in half width-wise.	s32-d70	1398	1892	orange	1901
+s32-d70_11_5	The person takes out a juice extractor.	s32-d70	1935	2258	orange	2245
+s32-d70_11_6	The person takes each orange half and squeezes the juice out using the juice extractor.	s32-d70	2279	4621	orange	4647
+s32-d70_11_7	The person takes out a glass.	s32-d70	4846	5353	orange	5343
+s32-d70_11_8	The person pours the juice from the extractor into the glass.	s32-d70	5417	5813	orange	5823
+s32-d70_11_9	The person adds water to the glass of orange juice.	s32-d70	5885	5984	orange	6027
+s32-d70_11_10	The person stirs sugar into the juice.	s32-d70	6327	6771	orange	6767
+s32-d70_11_11	The person is done.	s32-d70	6779	6814	orange	6881
+s32-d70_12_1	Girl takes out orange	s32-d70	237	742	orange	655
+s32-d70_12_2	Girl takes out cutting board	s32-d70	764	915	orange	926
+s32-d70_12_3	Girl takes out knife	s32-d70	922	1356	orange	1375
+s32-d70_12_4	Girl washes supplies	s32-d70	1398	1726	orange	1721
+s32-d70_12_5	Girl cuts orange in half	s32-d70	1736	1892	orange	1905
+s32-d70_12_6	Girl takes out juicer	s32-d70	1935	2297	orange	2310
+s32-d70_12_7	Girl twists orange on juicer	s32-d70	2366	4621	orange	4666
+s32-d70_12_8	Girl washes glass	s32-d70	4658	5596	orange	5555
+s32-d70_12_9	Girl pours juice in glass	s32-d70	5608	5813	orange	5833
+s32-d70_12_10	Girl adds sugar to glass	s32-d70	6051	6771	orange	6791
+s32-d70_13_1	The person procures an orange from the fridge.	s32-d70	237	742	orange	663
+s32-d70_13_2	The person takes out a cutting board from the drawer.	s32-d70	764	915	orange	863
+s32-d70_13_3	The person takes out a knife from the drawer.	s32-d70	922	1356	orange	1359
+s32-d70_13_4	The person washes the knife, the cutting board, and the orange in the sink.	s32-d70	1398	1765	orange	1777
+s32-d70_13_5	The person chops the orange in half and then washes her hands.	s32-d70	1815	2037	orange	2055
+s32-d70_13_6	The person takes out a juice strainer from the drawer and washes it in the sink.	s32-d70	2111	2622	orange	2613
+s32-d70_13_7	The person grinds both orange halves into the juice strainer with her palms.	s32-d70	2646	4825	orange	4807
+s32-d70_13_8	The person takes a glass from the cupboard and rinses it.	s32-d70	4658	5493	orange	5517
+s32-d70_13_9	The person pours the juice from the strainer into the glass and adds water.	s32-d70	5497	5984	orange	5985
+s32-d70_13_10	The person takes a package of sugar from the pantry.	s32-d70	6051	6323	orange	6309
+s32-d70_13_11	The person takes out a spoon from the drawer, scoops some sugar into the glass of juice and then stirs it.	s32-d70	5885	6771	orange	6781
+s32-d70_13_12	 The person returns the package of sugar to the pantry.	s32-d70	6820	7109	orange	7123
+s32-d70_14_1	The person takes an orange from the fridge.	s32-d70	237	742	orange	703
+s32-d70_14_2	The person takes a cutting board from a drawer.	s32-d70	764	915	orange	967
+s32-d70_14_3	The person takes a knife from the cutlery drawer.	s32-d70	922	1356	orange	1405
+s32-d70_14_4	The person rinses off the knife, cutting board, and orange in the sink.	s32-d70	1398	1726	orange	1748
+s32-d70_14_5	The person cuts the orange in half on the cutting board with the knife.	s32-d70	1736	1892	orange	1928
+s32-d70_14_6	The person procures a juice strainer from a drawer.	s32-d70	1935	2297	orange	2393
+s32-d70_14_7	The person rinses the juice strainer in the sink.	s32-d70	2366	2675	orange	2677
+s32-d70_14_8	The person grinds, squeezes, and presses each orange slice into the juicer.	s32-d70	2768	4758	orange	4727
+s32-d70_14_9	The person rinses her hands in the sink.	s32-d70	4765	4825	orange	4823
+s32-d70_14_10	The person removes the strainer from the juicer bowl.	s32-d70	4846	5130	orange	5236
+s32-d70_14_11	The person procures a glass from the cupboard and rinses it in the sink.	s32-d70	5156	5493	orange	5526
+s32-d70_14_12	The person pours the strained juice from the bowl into the glass and adds water.	s32-d70	5497	5984	orange	6006
+s32-d70_14_13	The person procures sugar from a cabinet and a spoon from a drawer.	s32-d70	6051	6449	orange	6478
+s32-d70_14_14	The persons puts a scoop of sugar into the glass and stirs it.	s32-d70	6327	6771	orange	6779
+s32-d70_14_15	The person returns the sugar to the pantry.	s32-d70	6820	7109	orange	7159
+s32-d70_15_1	The woman retrieves an orange from the refrigerator and places it in the sink.	s32-d70	237	742	orange	722
+s32-d70_15_2	The woman gets a knife and cutting board from the drawer.	s32-d70	764	1450	orange	1433
+s32-d70_15_3	The woman rinses the orange, cutting board, and knife.	s32-d70	1502	1700	orange	1714
+s32-d70_15_4	The woman slices the orange in half with the knife.	s32-d70	1709	1892	orange	1906
+s32-d70_15_5	The woman gets a juicer bowl from the cabinet and rinses it in the sink.	s32-d70	1935	2550	orange	2567
+s32-d70_15_6	The woman puts one half of the orange onto the juice bowl and presses down to drain the juice.	s32-d70	2563	3698	orange	3722
+s32-d70_15_7	The woman places the second half of the orange on the juicer bowl and presses and turns the orange to the juice is drained.	s32-d70	3751	4519	orange	4535
+s32-d70_15_8	The woman gets a glass from the cabinet and pours the juice from the oranges into the glass.	s32-d70	4846	5813	orange	5764
+s32-d70_15_9	The woman adds water into the glass that contains orange juice.	s32-d70	5885	5984	orange	6004
+s32-d70_15_10	The woman gets the bag of sugar and pours a spoonful into the glass.	s32-d70	6051	6635	orange	6689
+s32-d70_15_11	The woman moves the glass to the center of the counter.	s32-d70	7169	7304	orange	7355
+s32-d70_16_1	She goes to the refrigerator where she takes out an orange which she places in the sink.	s32-d70	237	742	orange	763
+s32-d70_16_2	She takes out a cutting board and a knife, which she washes along with the orange.	s32-d70	764	1765	orange	1794
+s32-d70_16_3	She cuts the orange in half and wets her hands.	s32-d70	1815	2037	orange	2067
+s32-d70_16_4	She takes out the juicer and washes it.	s32-d70	2111	2675	orange	2672
+s32-d70_16_5	She uses the juicer to get the juice out from the oranges.	s32-d70	2768	4758	orange	4739
+s32-d70_16_6	She washes her hands and shakes them to dry them.	s32-d70	4765	4825	orange	4827
+s32-d70_16_7	She removes the top of the juicer, shakes her hands to let juice off, and wipes her hands.	s32-d70	4546	5130	orange	5139
+s32-d70_16_8	She opens the cabinet, gets out a glass, and fills the glass with the orange juice from the juicer.	s32-d70	5156	5813	orange	5866
+s32-d70_16_9	She fills the rest of the glass up with water.	s32-d70	5885	5984	orange	6066
+s32-d70_16_10	She gets sugar from the cabinet and a spoon from the drawer.	s32-d70	6051	6520	orange	6549
+s32-d70_16_11	She puts a spoon of sugar in the juice and mixes it and then puts the sugar back.	s32-d70	6779	6814	orange	6923
+s32-d70_17_1	The woman grabs an orange, a cutting board, and a knife.	s32-d70	237	1356	orange	1391
+s32-d70_17_2	The woman rinses the knife, cutting board and knife under running water.	s32-d70	1398	1700	orange	1712
+s32-d70_17_3	The woman cuts the orange in half.	s32-d70	1709	1892	orange	1899
+s32-d70_17_4	The woman takes out the juicer and rinses it with water.	s32-d70	1935	2550	orange	2577
+s32-d70_17_5	The woman presses the orange halves onto the juicer, rotating them and squeezing out the juice.	s32-d70	2563	4621	orange	4648
+s32-d70_17_6	The woman gets a glass, rinses it out, and pours in the orange juice.	s32-d70	4846	5596	orange	5710
+s32-d70_17_7	The woman adds water, and mixes in a tablespoon of sugar with the orange juice.	s32-d70	6597	6771	orange	6786
+s32-d70_18_1	The person takes an orange from the fridge.	s32-d70	237	742	orange	637
+s32-d70_18_2	The person takes out a cutting board.	s32-d70	764	915	orange	917
+s32-d70_18_3	The person takes out a knife.	s32-d70	922	1356	orange	1379
+s32-d70_18_4	The person washes the knife, the cutting board, and the orange.	s32-d70	1398	1765	orange	1773
+s32-d70_18_5	The person halves the orange with the knife on the cutting board.	s32-d70	1815	1892	orange	1945
+s32-d70_18_6	The person takes a juice strainer from the drawer and rinses it under the faucet.	s32-d70	1935	2622	orange	2647
+s32-d70_18_7	The person grinds each orange half into the juice strainer.	s32-d70	2646	4621	orange	4645
+s32-d70_18_8	The person washes her hands in the sink	s32-d70	4658	4825	orange	4835
+s32-d70_18_9	The person removes the top portion of the strainer from the juicer.	s32-d70	4658	5003	orange	5043
+s32-d70_18_10	The person gets a glass from the cupboard.	s32-d70	5043	5353	orange	5417
+s32-d70_18_11	The person rinses the glass.	s32-d70	5417	5596	orange	5549
+s32-d70_18_12	The person pours the juice from the bottom portion of the juice strainer into the glass.	s32-d70	5608	5813	orange	5833
+s32-d70_18_13	The person adds water to the juice in the glass.	s32-d70	5885	5984	orange	6011
+s32-d70_18_14	The person gets sugar from the pantry.	s32-d70	6051	6323	orange	6331
+s32-d70_18_15	The person takes out a spoon from the drawer, adds a scoop of sugar to the glass of juice and stirs it.	s32-d70	6474	6814	orange	6801
+s32-d70_19_1	The person gets out an orange and puts it in the sink.	s32-d70	237	742	orange	731
+s32-d70_19_2	The person gets out a wooden plate.	s32-d70	764	915	orange	927
+s32-d70_19_3	The person gets out a knife.	s32-d70	922	1356	orange	1355
+s32-d70_19_4	The person rinses the knife, plate and orange.	s32-d70	1398	1726	orange	1749
+s32-d70_19_5	The person cuts the orange in half.	s32-d70	1736	1892	orange	1923
+s32-d70_19_6	The person gets out a juicer and rinses it.	s32-d70	1935	2622	orange	2651
+s32-d70_19_7	The person juices the orange.	s32-d70	2646	4758	orange	4733
+s32-d70_19_8	The person gets out a cup.	s32-d70	4846	5353	orange	5393
+s32-d70_19_9	The person rinses the cup.	s32-d70	5417	5596	orange	5607
+s32-d70_19_10	The person pours the juice into the cup.	s32-d70	5608	5813	orange	5833
+s32-d70_19_11	The person adds water to the juice.	s32-d70	5885	5984	orange	6021
+s32-d70_19_12	The person gets out a bag of sugar.	s32-d70	6051	6323	orange	6315
+s32-d70_19_13	The person gets out a spoon.	s32-d70	6327	6449	orange	6491

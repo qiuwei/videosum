@@ -1,0 +1,91 @@
+206	503	take out	hand	pomegranate	counter,fridge
+513	624	take out	hand	cutting board	counter,drawer
+654	1015	wash	hand	pomegranate	
+1023	1061	shake	hand	pomegranate	
+1097	1143	shake	hand	hand	
+1180	1404	take out	hand	plate	counter,cupboard
+1415	2036	take out	hand	knife	,drawer
+2056	2352	cut	knife	pomegranate	cutting board
+2429	2711	cut	knife	pomegranate	cutting board
+2727	2784	take apart	hand	pomegranate	
+2848	3217	take apart	hand	arils,peel	plate
+3230	3261	take apart	hand	pomegranate	
+3279	4039	take apart	hand	arils,peel	plate
+4054	4088	move	hand	peel	counter,plate
+4094	4486	take apart	hand	arils,peel	plate
+4492	4544	move	hand	peel	counter,plate
+4546	4686	take apart	hand	arils,peel	plate
+4712	5559	take apart	hand	arils,peel	plate
+5581	5615	move	hand	arils	cutting board,plate
+5640	5777	take apart	hand	arils,peel	plate
+5783	5827	take apart	hand	pomegranate	
+5837	5936	take apart	hand	arils,peel	plate
+5964	5992	take apart	hand	pomegranate	
+6013	6555	take apart	hand	arils,peel	plate
+6564	6727	move	hand	peel	counter,plate
+6744	6921	take apart	hand	arils,peel	plate
+6944	7601	take apart	hand	arils,peel	plate
+7629	7714	take apart	hand	pomegranate	
+7720	8166	take apart	hand	arils,peel	plate
+8176	8248	move	hand	peel	counter,plate
+8270	8406	take apart	hand	arils,peel	plate
+8411	8460	take apart	hand	pomegranate	
+8473	8644	take apart	hand	arils,peel	plate
+8655	8706	take apart	hand	pomegranate	
+8734	9334	take apart	hand	arils,peel	plate
+9371	9671	take apart	hand	arils,peel	plate
+9682	9718	move	hand	peel	counter,plate
+9731	9978	take apart	hand	arils,peel	plate
+9988	10010	move	hand	peel	counter,plate
+10035	10656	take apart	hand	arils,peel	plate
+10660	10745	move	hand	peel	counter,plate
+10755	11077	take apart	hand	arils,peel	plate
+11084	11158	take apart	hand	pomegranate	
+11163	11327	take apart	hand	arils,peel	plate
+11334	11399	move	hand	peel	counter,plate
+11414	11483	take apart	hand	arils,peel	plate
+11531	11692	cut	knife	pomegranate	cutting board
+11697	11834	take apart	knife	pomegranate	
+11863	12214	take apart	hand	arils,peel	plate
+12276	12312	move	hand	peel	counter,plate
+12323	12386	take apart	hand	pomegranate	
+12397	12612	take apart	hand	arils,peel	plate
+12653	12720	move	hand	peel	counter,plate
+12733	12802	take apart	hand	arils,peel	plate
+12809	12857	take apart	hand	pomegranate	
+12868	13266	take apart	hand	arils,peel	plate
+13273	13319	move	hand	peel	counter,plate
+13322	13531	take apart	hand	arils,peel	plate
+13537	13591	take apart	hand	pomegranate	
+13604	14231	take apart	hand	arils,peel	plate
+14267	14327	take apart	hand	pomegranate	
+14337	14920	take apart	hand	arils,peel	plate
+14944	15031	take apart	hand	arils,peel	plate
+15052	15368	take apart	hand	arils,peel	plate
+15417	15521	take apart	hand	pomegranate	
+15560	15772	take apart	hand	arils,peel	plate
+15774	15825	take apart	hand	pomegranate	
+15847	15971	take apart	hand	arils,peel	plate
+15977	16013	shake	hand	hand	
+16039	16148	move	hand	peel	counter,plate
+16171	16318	wash	hand	hand	
+16362	16452	wash	hand	cutting board	
+16469	16535	wash	hand	knife	
+16574	16698	wash	hand,sponge	cutting board	
+16817	17003	wash	hand,sponge	cutting board	
+17162	17187	shake	hand	hand	
+17192	17679	throw in garbage	hand	peel	
+17695	17724	take out	hand	sink strainer	sink
+17730	17791	throw in garbage	sink strainer	peel	
+17811	17869	throw in garbage	hand	peel	
+17882	17940	put in	hand	sink strainer	,sink
+17947	18092	wash	hand	sponge	
+18127	18235	wring out	hand	sponge	
+18251	18460	clean	sponge	counter	
+18460	18564	clean	sponge	sink	
+18576	18711	wash	hand	sponge	
+18731	18816	wring out	hand	sponge	
+18849	18879	wring out	hand	sponge	
+19000	19049	shake	hand	sponge	
+19055	19106	put on	hand	sponge	,faucet
+19111	19154	shake	hand	hand	

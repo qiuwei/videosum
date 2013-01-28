@@ -1,0 +1,46 @@
+141	354	take out	hand	plastic box	counter,fridge
+361	373	remove lid	hand	lid	plastic box
+373	453	remove from package	hand	kiwi	,plastic box
+453	502	put in	hand	kiwi	,plastic box
+502	512	remove from package	hand	kiwi	,plastic box
+512	540	put lid	hand	lid	plastic box
+619	732	take out	hand	cutting board	counter,drawer
+780	986	take out	hand	plate	counter,cupboard
+1024	1153	take out	hand	knife	drawer
+1270	1612	wash	hand	kiwi	
+1623	1674	shake	hand	kiwi	
+1725	2729	peel	knife	kiwi	
+2782	2858	cut	knife	kiwi	cutting board
+2865	2910	cut	knife	kiwi	cutting board
+2910	2986	chop	knife	kiwi	cutting board
+3019	3058	move	hand,knife	kiwi	cutting board,plate
+3063	3091	move	hand,knife	kiwi	cutting board,plate
+3131	3163	cut	knife	kiwi	cutting board
+3163	3217	chop	knife	kiwi	cutting board
+3220	3259	move	hand	kiwi	cutting board,plate
+3264	3352	move	hand,knife	kiwi	cutting board,plate
+3370	4425	peel	knife	kiwi	
+4462	4518	cut	knife	kiwi	cutting board
+4558	4586	cut	knife	kiwi	cutting board
+4586	4622	chop	knife	kiwi	cutting board
+4633	4655	move	hand	kiwi	cutting board,plate
+4659	4724	move	hand,knife	kiwi	cutting board,plate
+4753	4778	cut	knife	kiwi	cutting board
+4778	4829	chop	knife	kiwi	cutting board
+4841	4861	move	hand,knife	kiwi	cutting board,plate
+4875	4908	move	hand,knife	kiwi	cutting board,plate
+5176	5256	throw in garbage	hand	peel	
+5296	5425	take out	hand	fork	counter,drawer
+5455	5527	move	hand	cutting board	counter,sink
+5527	5696	wash	hand	cutting board	
+5831	5903	wash	hand	knife	
+5903	5982	shake	hand	knife	
+6068	6323	clean	sponge	counter	
+6383	6503	wash	hand	sponge	
+6503	6574	wring out	hand	sponge	
+6586	6653	wring out	hand,sponge		
+6669	6822	clean	sponge	counter	
+6901	6943	wash	hand	hand	
+6947	6992	shake	hand	hand	
+7001	7107	dry	towel	hand	
+7126	7303	put in	hand	plastic box	counter,fridge

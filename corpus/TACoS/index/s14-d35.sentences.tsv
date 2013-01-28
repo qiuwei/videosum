@@ -1,0 +1,134 @@
+s14-d35_1_1	Person puts plum and knife on counter.	s14-d35	276	683	plum	680
+s14-d35_1_2	Person takes out plate and puts on counter.	s14-d35	728	895	plum	895
+s14-d35_1_3	Person rinses plum.	s14-d35	922	1061	plum	1057
+s14-d35_1_4	Person dries plum.	s14-d35	1061	1223	plum	1220
+s14-d35_1_5	Person takes knife to plum.	s14-d35	1236	1293	plum	1355
+s14-d35_1_6	Person slices around the plum down to the pit.	s14-d35	1346	1462	plum	1448
+s14-d35_1_7	Person twists plum apart.	s14-d35	1462	1551	plum	1515
+s14-d35_1_8	Person slices the plum half with the pit in half.	s14-d35	1590	1646	plum	1633
+s14-d35_1_9	Person cuts the quarter away from the pit.	s14-d35	1646	1846	plum	1834
+s14-d35_1_10	Person slices the pit out of the last quarter.	s14-d35	1867	1962	plum	1942
+s14-d35_1_11	Person slices other plum half into halves.	s14-d35	1973	2055	plum	2040
+s14-d35_1_12	Person throws away pit.	s14-d35	2097	2221	plum	2207
+s14-d35_1_13	Person rinses hands and knife.	s14-d35	2247	2344	plum	2350
+s14-d35_2_1	The person procures a plum from the fridge.	s14-d35	276	566	plum	498
+s14-d35_2_2	The person takes out a knife from the drawer.	s14-d35	576	683	plum	654
+s14-d35_2_3	The person procures a plate from the cabinet.	s14-d35	728	895	plum	846
+s14-d35_2_4	The person washes the plum in the sink.	s14-d35	922	1092	plum	1078
+s14-d35_2_5	The person dries the plum in a towel.	s14-d35	1092	1293	plum	1278
+s14-d35_2_6	The person uses the knife to cut the plum in half and twists it with her hands to break it apart.	s14-d35	1346	1551	plum	1532
+s14-d35_2_7	The person cuts each segment into halves away from the plum core.	s14-d35	1590	2055	plum	2094
+s14-d35_2_8	The person disposes of the core in the trash.	s14-d35	2097	2221	plum	2202
+s14-d35_2_9	The person washes the knife in the sink.	s14-d35	2344	2377	plum	2376
+s14-d35_3_1	The person gets out a plum.	s14-d35	276	566	plum	564
+s14-d35_3_2	The person gets out a knife.	s14-d35	576	683	plum	676
+s14-d35_3_3	The person gets out a plate.	s14-d35	728	895	plum	892
+s14-d35_3_4	The person rinses and dries the plum.	s14-d35	922	1293	plum	1314
+s14-d35_3_5	The person cuts the plum into four quarters and a pit.	s14-d35	1346	2055	plum	2066
+s14-d35_3_6	The person puts the quarters on the plate and throws away the pit.	s14-d35	2097	2221	plum	2236
+s14-d35_3_7	The person rinses the knife.	s14-d35	2247	2377	plum	2404
+s14-d35_4_1	The person gets out a plum.	s14-d35	276	566	plum	550
+s14-d35_4_2	The person gets out a knife.	s14-d35	576	683	plum	676
+s14-d35_4_3	The person gets out a plate.	s14-d35	728	895	plum	898
+s14-d35_4_4	The person rinses and dries the plum.	s14-d35	922	1293	plum	1332
+s14-d35_4_5	The person cuts the plum into four quarters and a pit.	s14-d35	1346	2055	plum	2070
+s14-d35_4_6	The person puts the quarters on the plate and throws away the pit.	s14-d35	2097	2221	plum	2238
+s14-d35_4_7	The person washes her hands.	s14-d35	2247	2377	plum	2402
+s14-d35_5_1	The person gets out a plum.	s14-d35	276	566	plum	544
+s14-d35_5_2	The person gets out a knife.	s14-d35	576	683	plum	676
+s14-d35_5_3	The person gets out a plate.	s14-d35	728	895	plum	888
+s14-d35_5_4	The person rinses the plum.	s14-d35	922	1092	plum	1084
+s14-d35_5_5	The person dries the plum.	s14-d35	1092	1293	plum	1310
+s14-d35_5_6	The person cuts the plum into four quarters and a core.	s14-d35	1346	2055	plum	2060
+s14-d35_5_7	The person puts the quarters on the plate and throws away the core.	s14-d35	2097	2221	plum	2230
+s14-d35_5_8	The person rinses the knife.	s14-d35	2247	2377	plum	2372
+s14-d35_6_1	Lady enters the kitchen and opens the refrigerator. She then pulls out a piece of fruit and places it on the counter with a knife.	s14-d35	276	683	plum	708
+s14-d35_6_2	She then goes into the cupboard and pulls out a plate to cut the fruit up with.	s14-d35	728	895	plum	896
+s14-d35_6_3	She thoroughly washes and dries the piece of fruit then begins to carve into the fruit.	s14-d35	922	1293	plum	1388
+s14-d35_6_4	She splits the piece of fruit in half and places one half on the plate. She then takes the other half and starts to separate it from the seed.	s14-d35	1346	1846	plum	1872
+s14-d35_6_5	She finishes separating both sides from the seed, and then throws away the seed in the trash can. She then starts to wash and dry off the knife she used to cut the price of fruit.	s14-d35	2247	2377	plum	2418
+s14-d35_7_1	The person procures a plum from the fridge.	s14-d35	276	566	plum	504
+s14-d35_7_2	The person takes out a knife from the drawer.	s14-d35	576	683	plum	672
+s14-d35_7_3	 The person procures a plate from the cabinet.	s14-d35	728	895	plum	868
+s14-d35_7_4	The person washes the plum in the sink then dries it in a towel.	s14-d35	922	1223	plum	1262
+s14-d35_7_5	The person slices the plum down the middle then twists it in half.	s14-d35	1236	1551	plum	1544
+s14-d35_7_6	The person cuts the plum in quarters.	s14-d35	1590	2055	plum	2078
+s14-d35_7_7	The person throws the plum's core into the wastebin.	s14-d35	2097	2221	plum	2220
+s14-d35_7_8	The person washes the knife in the sink.	s14-d35	1867	2377	plum	2394
+s14-d35_8_1	She took out plum	s14-d35	276	566	plum	586
+s14-d35_8_2	She took out knife	s14-d35	576	683	plum	676
+s14-d35_8_3	She took out plate	s14-d35	728	895	plum	858
+s14-d35_8_4	She washed plum	s14-d35	922	1092	plum	1078
+s14-d35_8_5	She dried plum	s14-d35	1092	1293	plum	1302
+s14-d35_8_6	She cut plum in half	s14-d35	1346	1551	plum	1596
+s14-d35_8_7	She cut plum in pieces	s14-d35	1590	2055	plum	2100
+s14-d35_8_8	She threw out pit	s14-d35	2097	2221	plum	2236
+s14-d35_9_1	The person procures a plum from the fridge.	s14-d35	276	566	plum	492
+s14-d35_9_2	The person takes out a knife from the drawer.	s14-d35	576	683	plum	662
+s14-d35_9_3	 The person procures a plate from the cabinet.	s14-d35	728	895	plum	862
+s14-d35_9_4	The person washes the plum in the sink then dries it in a towel.	s14-d35	922	1223	plum	1240
+s14-d35_9_5	The person slices the plum down the middle then twists it in half.	s14-d35	1236	1551	plum	1522
+s14-d35_9_6	The person cuts the plum in quarters.	s14-d35	1590	2055	plum	2084
+s14-d35_9_7	The person throws the plum's core into the wastebin.	s14-d35	2097	2221	plum	2230
+s14-d35_9_8	The person washes the knife in the sink.	s14-d35	2247	2377	plum	2380
+s14-d35_10_1	The person removes a plum from the refrigerator.	s14-d35	276	566	plum	568
+s14-d35_10_2	The person removes a knife from the drawer setting it and the plum on the counter.	s14-d35	576	683	plum	678
+s14-d35_10_3	The person retrieves a plate from the cupboard setting it on the counter.	s14-d35	728	895	plum	894
+s14-d35_10_4	The person washes the plum under running water at the sink and dries it.	s14-d35	922	1293	plum	1332
+s14-d35_10_5	Using the knife, the person cuts the plum in half and twists it slightly to separate the two halves.	s14-d35	1346	1551	plum	1546
+s14-d35_10_6	Working first with the half containing the pit, the person cuts the half into two sections, separates the sections slightly, and using the knife carefully cuts the pit free.	s14-d35	1590	1962	plum	1960
+s14-d35_10_7	The person cuts the second half into two sections.	s14-d35	1973	2055	plum	2076
+s14-d35_10_8	The person discards the plum pit.	s14-d35	2097	2221	plum	2236
+s14-d35_10_9	The person washes and dries the knife used to slice the plum.	s14-d35	2247	2377	plum	2418
+s14-d35_11_1	The person takes a plum out of the fridge.	s14-d35	276	566	plum	500
+s14-d35_11_2	The person opens a drawer and retrieves a knife.	s14-d35	576	683	plum	664
+s14-d35_11_3	The person opens a cupboard door and gets a plate out.	s14-d35	728	895	plum	832
+s14-d35_11_4	The person washes the plum and dries it on a towel	s14-d35	922	1293	plum	1292
+s14-d35_11_5	The person slices the plum in two.	s14-d35	1346	1551	plum	1524
+s14-d35_11_6	The person removes the stone from the plum and throws it in the trash.	s14-d35	1590	2221	plum	2214
+s14-d35_11_7	The person rinses the knife, and their hands, and then dries the knife on a towel.	s14-d35	2247	2377	plum	2418
+s14-d35_12_1	She took out plum	s14-d35	276	566	plum	518
+s14-d35_12_2	She took out knife	s14-d35	576	683	plum	673
+s14-d35_12_3	She took out plate	s14-d35	728	895	plum	897
+s14-d35_12_4	She washed plum	s14-d35	922	1061	plum	1058
+s14-d35_12_5	She dried plum	s14-d35	1061	1293	plum	1290
+s14-d35_12_6	She cut plum in half	s14-d35	1346	1551	plum	1536
+s14-d35_12_7	She took pit out of plum	s14-d35	1590	2055	plum	2154
+s14-d35_13_1	The person procures a plum from the fridge.	s14-d35	276	566	plum	504
+s14-d35_13_2	The person takes out a knife from the drawer.	s14-d35	576	683	plum	680
+s14-d35_13_3	The person procures a plate from the cabinet.	s14-d35	728	895	plum	886
+s14-d35_13_4	The person washes the plum in the sink and dries it on a towel.	s14-d35	922	1293	plum	1300
+s14-d35_13_5	The person uses the knife to cut the plum down the middle then twists it in half.	s14-d35	1346	1551	plum	1524
+s14-d35_13_6	The person quarters the halves from the core.	s14-d35	1590	2055	plum	2082
+s14-d35_13_7	The person throws the core into the wastebin.	s14-d35	2097	2221	plum	2238
+s14-d35_13_8	The person washes the knife and her hands in the sink	s14-d35	2247	2377	plum	2378
+s14-d35_14_1	The person gets out a plum.	s14-d35	276	566	plum	576
+s14-d35_14_2	The person gets out a knife.	s14-d35	576	683	plum	686
+s14-d35_14_3	The person gets out a plate.	s14-d35	728	895	plum	908
+s14-d35_14_4	The person rinses the plum.	s14-d35	922	1293	plum	1314
+s14-d35_14_5	The person cuts the plum in half.	s14-d35	1346	1551	plum	1567
+s14-d35_14_6	The person cuts the halves into four quarters and throws away the pit.	s14-d35	2097	2221	plum	2242
+s14-d35_14_7	The person rinses the knife.	s14-d35	2247	2377	plum	2398
+s14-d35_15_1	The person gets out a plum.	s14-d35	276	566	plum	577
+s14-d35_15_2	The person gets out a knife.	s14-d35	576	683	plum	690
+s14-d35_15_3	The person gets out a plate.	s14-d35	728	895	plum	898
+s14-d35_15_4	The person rinses the plum.	s14-d35	922	1293	plum	1339
+s14-d35_15_5	The person cuts the plum into four quarters and a pit.	s14-d35	1346	2055	plum	2057
+s14-d35_15_6	The person throws away the pit.	s14-d35	1590	2221	plum	2236
+s14-d35_15_7	The person rinses the knife.	s14-d35	2247	2377	plum	2419
+s14-d35_17_1	The woman takes out a plum and knife.	s14-d35	276	683	plum	690
+s14-d35_17_2	She takes out a plate.	s14-d35	728	895	plum	892
+s14-d35_17_3	She washes and dries the plum.	s14-d35	922	1293	plum	1269
+s14-d35_17_4	By cutting around the circumference and twisting, she separates the plum in half.	s14-d35	1346	1551	plum	1524
+s14-d35_17_5	She cuts the halves in half producing quarters.	s14-d35	1590	2055	plum	2048
+s14-d35_17_6	She throws away the scraps.	s14-d35	2097	2221	plum	2223
+s14-d35_17_7	She washes and dries the knife.	s14-d35	2247	2377	plum	2419
+s14-d35_19_1	The person gets a plum, a small sharp knife, and a plate.	s14-d35	276	895	plum	896
+s14-d35_19_2	The person washes and dries the plum.	s14-d35	922	1293	plum	1276
+s14-d35_19_3	The person bisects the plum to the pit, then twists the halves in opposite directions to remove one of them from the pit.	s14-d35	1346	1551	plum	1518
+s14-d35_19_4	The person slices in half the half still attached to the pit.	s14-d35	1590	1646	plum	1644
+s14-d35_19_5	The person pulls the pieces of the half apart slightly and uses the knife to slice one of the quarters from the pit.	s14-d35	1646	1846	plum	1850
+s14-d35_19_6	The person slices the second quarter from the pit.	s14-d35	1867	1962	plum	1960
+s14-d35_19_7	The person cuts the remaining half of a plum into two pieces.	s14-d35	1973	2055	plum	2054
+s14-d35_19_8	The person discards the pit.	s14-d35	2097	2221	plum	2168
+s14-d35_19_9	The person washes the knife.	s14-d35	2247	2377	plum	2366

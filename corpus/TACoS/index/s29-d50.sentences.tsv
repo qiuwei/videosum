@@ -1,0 +1,105 @@
+s29-d50_2_1	The person takes a measuring glass from the drawer and fills it with water.	s29-d50	224	736	egg	742
+s29-d50_2_2	The person takes an egg from the fridge and dips it in the water.	s29-d50	793	1198	egg	1168
+s29-d50_2_3	The person takes a pair of cups from the cupboard.	s29-d50	1242	1541	egg	1496
+s29-d50_2_4	The person cracks the egg on the rim of one glass and pours the egg white into it.	s29-d50	1586	2549	egg	2554
+s29-d50_2_5	The person dumps the yolk into the second glass.	s29-d50	2550	2582	egg	2610
+s29-d50_2_6	The person throws the shell into the wastebin.	s29-d50	2631	2726	egg	2724
+s29-d50_3_1	He took out cup	s29-d50	224	335	egg	406
+s29-d50_3_2	He put water in cup	s29-d50	408	736	egg	878
+s29-d50_3_3	He took out egg	s29-d50	793	1035	egg	1046
+s29-d50_3_4	He took out two cups	1068	1541
+s29-d50_3_5	He cracked egg	1068	1541
+s29-d50_3_6	He drained white	1586	2582
+s29-d50_3_7	He put yolk in other cup	1586	2582
+s29-d50_3_8	He threw away shell	s29-d50	2730	2753	egg	2756
+s29-d50_4_1	The man walks to the counter.  He opens a drawer, removes a measuring cup and closes the drawer.	s29-d50	224	335	egg	336
+s29-d50_4_2	He brings the measuring cup to the sink, turns on the water and fills the measuring cup.	408	736
+s29-d50_4_3	He turns off the water and sets the measuring cup on the counter.	408	736
+s29-d50_4_4	He goes to the fridge, opens the door and removes one egg from the fridge.  He closes the fridge.	793	1035
+s29-d50_4_5	He brings the egg to the counter and places it in the measuring cup.	793	1035
+s29-d50_4_6	He removes the egg, sets it on the counter and dries his hands.	s29-d50	1068	1286	egg	1288
+s29-d50_4_7	The man goes to the cupboard, opens the door and removes two small cups.  He closes the cupboard door.	1298	1541
+s29-d50_4_8	He sets the two cups on the counter.	1298	1541
+s29-d50_4_9	He picks up the egg, cracks it open on a cup.  Slowly breaks it apart.	1298	1541
+s29-d50_4_10	He removes the egg white from the egg into one cup by moving the yoke from shell half to shell half.	s29-d50	1586	2549	egg	2550
+s29-d50_4_11	He puts the yoke in the other small cup.	s29-d50	2550	2582	egg	2598
+s29-d50_4_12	He opens the garbage and discards the shell. Closes the garbage door.	s29-d50	2631	2726	egg	2730
+s29-d50_4_13	Straightens the two cups.	s29-d50	2631	2753	egg	2844
+s29-d50_5_1	The person takes a large measuring glass from the drawer.	s29-d50	224	335	egg	334
+s29-d50_5_2	The person fills the measuring glass with water.	s29-d50	408	736	egg	750
+s29-d50_5_3	The person takes an egg from the fridge.	s29-d50	793	1035	egg	976
+s29-d50_5_4	The person dips the egg in the water in the glass.	s29-d50	1068	1198	egg	1176
+s29-d50_5_5	The person takes a pair of cups from the cupboard.	1242	1541
+s29-d50_5_6	The person cracks the egg against the rim against one of the cups.	1242	1541
+s29-d50_5_7	The person drains the egg white into on cup and pours the egg yolk into the second.	s29-d50	1586	2549	egg	2564
+s29-d50_5_8	The person throws the egg shells into the wastebin.	s29-d50	2550	2726	egg	2740
+s29-d50_6_1	He puts water in a pyrex.	s29-d50	224	736	egg	748
+s29-d50_6_2	He rinses the egg and gets two cups.	s29-d50	793	1541	egg	1578
+s29-d50_6_3	He cracks the egg over one cup.	s29-d50	1586	2549	egg	2284
+s29-d50_6_4	He tosses the yolk between the halves of the egg until the whites have went into the cup.	2550	2582
+s29-d50_6_5	He puts the yolk in the other cup.	2550	2582
+s29-d50_6_6	He discards the shell.	s29-d50	2631	2726	egg	2716
+s29-d50_7_1	The person retrieves a clear glass measuring cup from the drawer and at the sink fills the measuring cup about 3/4 full with tap water.	s29-d50	224	736	egg	758
+s29-d50_7_2	The person retrieves one brown egg from the refrigerator.	s29-d50	793	1035	egg	996
+s29-d50_7_3	The person sets the egg in the measuring cup of water letting it bounce once to the bottom of the measuring cup and removing the egg almost immediately.	s29-d50	1068	1198	egg	1174
+s29-d50_7_4	After setting the egg on the counter, the person turns and retrieves two cups from the cupboard behind him setting them on the counter as well.	1242	1541
+s29-d50_7_5	The person carefully cracks the egg on the rim of the first cup, separating the shell into two halves.	1242	1541
+s29-d50_7_6	The person slowly moves the egg yolk from shell half to shell half several times letting the white of the egg drain into the first cup.	s29-d50	1586	2549	egg	2470
+s29-d50_7_7	The person puts the egg yolk into the second cup and discards the egg shell halves in the garbage.	s29-d50	2730	2753	egg	2802
+s29-d50_8_1	Take out a measuring cup and fill it most of the way up with water.	s29-d50	224	736	egg	780
+s29-d50_8_2	Take out an egg and drop it in the water to see if it floats, then take it out.	s29-d50	793	1198	egg	1232
+s29-d50_8_3	Take out two teacups and crack the egg over one of them, holding the shell halves close together to allow the white to run in but keeping the yolk out.	1242	2582
+s29-d50_8_4	Then drop the separated yolk into the second teacup.	1242	2582
+s29-d50_8_5	Discard the empty eggshells.	s29-d50	2730	2753	egg	2844
+s29-d50_10_1	He opens the drawer, takes out a measuring cup and fills it with water.	224	736
+s29-d50_10_2	He places the measuring cup filled with water on the counter then walks to the fridge and opens it.	224	736
+s29-d50_10_3	He takes out an egg, then closes the fridge.	s29-d50	793	1035	egg	992
+s29-d50_10_4	He places the egg in the meauring cup filled with water, then takes the egg out of the measuring cup and places it on the counter.	s29-d50	1068	1198	egg	1176
+s29-d50_10_5	He walks over to a rag then dries his hands on it.	s29-d50	1242	1286	egg	1292
+s29-d50_10_6	He opens the cupboard and takes out two cups then closes the cupboard.	1298	1541
+s29-d50_10_7	He walks to the counter and places the two cups on the counter.	1298	1541
+s29-d50_10_8	He cracks open the egg on the edge of the cup, then seperates the egg yoke from the egg white.	s29-d50	1586	2549	egg	2546
+s29-d50_10_9	He places the egg yoke in the other cup.	s29-d50	2550	2582	egg	2600
+s29-d50_10_10	He takes the egg shells and throws them in the garbage.	s29-d50	2631	2726	egg	2716
+s29-d50_13_1	The person takes out a measuring glass from the drawer.	s29-d50	224	335	egg	356
+s29-d50_13_2	The person fills the measuring glass with water from the faucet.	s29-d50	408	736	egg	762
+s29-d50_13_3	The person procures an egg from the fridge.	s29-d50	793	1035	egg	982
+s29-d50_13_4	The person dips the egg in the water in the measuring glass.	s29-d50	1068	1198	egg	1156
+s29-d50_13_5	The person takes a pair of cups from the cupboard.	s29-d50	1242	1541	egg	1504
+s29-d50_13_6	The person cracks the egg on the rim of one cup and then drains the egg white into it.	s29-d50	1586	2549	egg	2542
+s29-d50_13_7	The person dumps the egg yolk into the second cup.	s29-d50	2550	2582	egg	2598
+s29-d50_13_8	The person throws the shells into the wastebin.	s29-d50	2730	2753	egg	2742
+s29-d50_14_1	He took out cup	s29-d50	224	335	egg	369
+s29-d50_14_2	He put water in cup	s29-d50	408	736	egg	778
+s29-d50_14_3	He took out egg	s29-d50	793	1198	egg	1203
+s29-d50_14_4	He took out two cups	s29-d50	1242	1541	egg	1551
+s29-d50_14_5	He cracked egg	s29-d50	1586	2549	egg	2086
+s29-d50_14_6	He separated egg	s29-d50	2550	2582	egg	2594
+s29-d50_14_7	He threw out shell	s29-d50	2631	2726	egg	2714
+s29-d50_15_1	grabs a pitcher of a drawer	s29-d50	224	335	egg	375
+s29-d50_15_2	fills the pitcher with hot water	s29-d50	408	736	egg	773
+s29-d50_15_3	grabs an egg from the refrigerator and place it in the jar	s29-d50	793	1035	egg	1025
+s29-d50_15_4	remove the egg from the water	s29-d50	1068	1541	egg	1721
+s29-d50_15_5	take two cups, egg shell breaks and separates content in the cups	s29-d50	2550	2753	egg	2845
+s29-d50_16_1	He took out bowl	s29-d50	224	335	egg	357
+s29-d50_16_2	He put water in bowl	s29-d50	408	736	egg	770
+s29-d50_16_3	He took out egg	793	1035
+s29-d50_16_4	He dipped egg in water	793	1035
+s29-d50_16_5	He took out two cups	1068	1541
+s29-d50_16_6	He cracked egg	1068	1541
+s29-d50_16_7	He separated egg	s29-d50	1586	2582	egg	2628
+s29-d50_16_8	He threw out shell	s29-d50	2631	2726	egg	2721
+s29-d50_17_1	The man takes out a measuring cup and fills it with water.	s29-d50	224	736	egg	751
+s29-d50_17_2	He takes out an egg and rinses it in the measuring cup.	s29-d50	793	1198	egg	1156
+s29-d50_17_3	He takes out two cups.	s29-d50	1242	1541	egg	1554
+s29-d50_17_4	He cracks the egg, placing the white in one cup and the yolk in the other.	s29-d50	1586	2582	egg	2604
+s29-d50_17_5	He disposes of the eggshell.	s29-d50	2631	2726	egg	2726
+s29-d50_19_1	He took out cup	s29-d50	224	335	egg	336
+s29-d50_19_2	He put water in cup	s29-d50	408	736	egg	750
+s29-d50_19_3	He took out egg	793	1035
+s29-d50_19_4	He put egg in water	793	1035
+s29-d50_19_5	He took out two cups	1068	1541
+s29-d50_19_6	He cracked egg	1068	1541
+s29-d50_19_7	He drained white into cup	s29-d50	1586	2549	egg	2562
+s29-d50_19_8	He put yolk in other cup	s29-d50	2550	2582	egg	2590
+s29-d50_19_9	He threw away egg shell	s29-d50	2631	2726	egg	2714

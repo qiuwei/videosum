@@ -1,0 +1,71 @@
+194	405	take out	hand	bowl	counter,cupboard
+423	764	take out	hand	egg	counter,fridge
+787	1124	take out	hand	teaspoon	counter,drawer
+1152	1224	wash	hand	bowl	
+1240	1339	shake	hand	bowl	
+1364	1775	open egg	bowl,hand	egg	bowl
+1785	1813	throw in garbage	hand	egg shell	
+1840	2045	open egg	bowl,hand	egg	bowl
+2053	2082	throw in garbage	hand	egg shell	
+2089	2162	wash	hand	hand	
+2167	2200	shake	hand	hand	
+2205	2242	take out	hand	spice shaker	,spice holder
+2249	2298	screw	hand	spice shaker	
+2326	2618	spice	spice shaker	salt	bowl,spice shaker
+2634	2689	screw	hand	spice shaker	
+2693	2725	put in	hand	spice shaker	,spice holder
+2779	2866	wash	hand	teaspoon	
+2871	2924	shake	hand	teaspoon	
+2945	3349	stir	teaspoon	egg	bowl
+3360	3407	stir	teaspoon	egg	bowl
+3413	3475	turn on	hand	stove	
+3485	3559	change temperature	hand	stove	
+3579	3693	take out	hand	pan	,drawer
+3720	3960	take out	hand	bottle	counter,cupboard
+4081	4145	screw	hand	bottle	
+4188	4290	pour	bottle	oil	bottle,pan
+4354	4474	spread	pan	oil	pan
+4524	4569	pour	bottle	oil	bottle,pan
+4607	4678	screw	hand	bottle	
+4705	4908	stir	teaspoon	egg	bowl
+4923	5042	stir	teaspoon	egg	bowl
+5094	5172	spread	pan	oil	pan
+5226	5356	take out	hand	spatula	,drawer
+5471	5567	put in	hand	spatula	,drawer
+5574	5675	stir	teaspoon	egg	bowl
+5779	5918	stir	teaspoon	egg	bowl
+5922	6170	pour	bowl	egg	bowl,pan
+6179	6267	change temperature	hand	stove	
+6278	6581	pour	bowl	egg	bowl,pan
+6755	6974	wash	hand	bowl,teaspoon	
+7029	7124	add	bottle	detergent	bowl,plastic bottle
+7155	7321	wash	sponge	bowl	
+7344	7537	wash	hand	bowl	
+7550	7575	move	hand	sponge	counter
+7597	7654	move	hand	teaspoon	bowl,counter
+7701	7757	take out	hand	spatula	,drawer
+7922	8010	open	hand		drawer
+8471	8521	move	teaspoon	egg	pan
+8589	8713	move	spatula,teaspoon	egg	pan
+8848	8890	take out	hand	spice shaker	,spice holder
+8922	8972	screw	hand	spice shaker	
+8984	9187	spice	spice shaker	pan,spice shaker	
+9194	9236	screw	hand	spice shaker	
+9241	9273	put in	hand	spice shaker	,spice holder
+9342	10127	turn over	spatula,teaspoon	egg	pan
+10153	10665	move	spatula,teaspoon	egg	pan
+10688	10840	turn over	spatula,teaspoon	egg	pan
+10852	11251	move	spatula,teaspoon	egg	pan
+11322	11340	take out	hand	spice shaker	,spice holder
+11348	11370	screw	hand	spice shaker	
+11397	11723	spice	spice shaker	pan,spice shaker	
+11765	11793	screw	hand	spice shaker	
+11805	11839	put in	hand	spice shaker	,spice holder
+12067	12145	change temperature	hand	stove	
+12273	12405	put in	hand	bottle	counter,cupboard
+12446	12479	move	hand	bowl	counter
+12510	12850	move	spatula,teaspoon	egg	bowl,pan
+12854	12873	move	spatula	bowl	counter
+13014	14097	wash	hand,sponge	spatula	
+14116	14185	shake	hand	spatula	
+14210	14307	put in	hand	spatula	,drawer

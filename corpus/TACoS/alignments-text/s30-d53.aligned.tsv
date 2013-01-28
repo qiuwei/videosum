@@ -1,0 +1,47 @@
+195	333	take out	hand	cutting board	counter,drawer	person gets out cutting board	person gets cutting board	She took out cutting board				Takes out a cutting board.							She took out cutting board. She took out knife			She took out cutting board	The person places a cutting board on the counter.
+345	433	take out	hand	knife	counter,drawer	person gets out knife	person gets knife	She took out knife	She gets out a cutting board and a knife. 		Sh gets a cutting board and knife.	Takes out a knife.	She gets a cutting board and knife. 	She opens a drawer and takes out a cutting board and knife.			She gets a cutting board and knife.		She took out avocado			She took out knife	The person places a knife on the counter.
+471	586	take out	hand	avocado	,fridge	person gets out avocado	person gets avocado				She gets an avocado.	Takes an avocado out of the refrigerator.			A woman walks in and takes out a cutting board and knife and sets it on the counter.								
+588	617	remove label	hand	avocado																			
+598	620	remove label	hand	avocado				She took out avocado		The woman takes an avocado out of the refrigerator.									She took out plate			She took out avoado	
+634	899	throw in garbage	hand	label					She gets an avocado. 				She sets an avocado on the counter.	She goes to the refrigerator and takes out an avocado and removes the sticker.					She washed avocado		A woman enters the kitchen, removes a cutting board and knife from the drawer and an avocado from the refrigerator.		The person takes an avocado from the refrigerator.
+971	1191	take out	hand	plate	counter,cupboard			She took out plate			She gets a plate.	Takes a plate out of the cabinet.	She gets a plate.	She goes to the cupboard and takes out plate and places it on the counter.		The person retrieves needed utensils, equipment and the avocado.	She gets the avocado and a plate.		She peeled avocado		She retrieves a plate from the cupboard and places everything on the counter.	She took out plate	
+1215	1414	wash	hand	avocado			person washes avocado				She rinses the avocado.												
+1421	1475	shake	hand	avocado		person washes avocado		She washed avocado		The woman rinses the avocado.			She rinses the avocado. 	She washes the avocado in the sink.	She takes out an avocado and a plate and washes the avocado.		She rinses the avocado.	She takes out a cutting board, a knife, a plate, and an avocado which she washes.	She sliced avocado	Gather plate, cutting board, knife and washed avocado	She washes the avocado.	She washed avocado	The person rinses the avocado with water.
+1520	2370	peel	knife	avocado		person peels avocado	person peels avocado with knife	She peeled avocado	She peels the avocado. 	The woman peels the avocado with a knife.		Peels the avocado.	She peels the avocado. 	She cuts the peel off the avocado.		The person washes and peels the avocado. 	She peels the avocado. 			Peel Avocado with knife.	Using the knife, she peels the rind from the avocado.	She peeled avocado	The person peels the avocado with a knife.
+2409	2516	cut	knife	avocado	cutting board													She cuts the skin off the avocado.					
+2543	2671	cut	knife	avocado	cutting board																		
+2726	2786	cut	knife	avocado																			
+2798	2829	move	hand	plate	counter,cutting board																		
+2846	2862	move	hand	avocado	cutting board,plate																		
+2877	2995	cut	knife	avocado																			
+3082	3922	cut	knife	avocado		person slice avocado	person cuts avocado going around the pit	She cut up avocado	She gets the good parts away from the pit. 	The woman slices the flesh away from the pit.	She cuts the pit away.	Slices up the avocado.	She cuts the avocado from the pit.		She peels the avocado down to the seed.	The person removes the avocado flesh from around the pit. 	She cuts the good part from the pit.	She cuts the outside off the avocado.		Cut avocado away from pit with knife.	Using the knife, she carves all of the avocado from around the pit, allowing the avocado meat to fall onto the plate.	She sliced avocado	The person slices the avocado flesh from the seed.
+4006	4125	wash	hand	hand				She washed hands															
+4139	4170	shake	hand	hand										She cuts the avocado into pieces and places it on the plate and then washes hands.								She washed hands	The person rinses her hands.
+4166	4200	move	hand	knife	counter																		
+4218	4263	shake	hand	hand																Wash Hands			
+4283	4355	take out	hand	spice shaker	,spice holder	person gets out salt and pepper																	
+4416	4476	move	hand	plate	counter,cutting board																She washes her hands.		
+4529	4575	screw	hand	spice shaker																			
+4593	4721	spice	spice shaker	spice	plate,spice shaker																	She added pepper	
+4727	4758	screw	hand	spice shaker				She added pepper															
+4779	4802	screw	hand	spice shaker																			
+4803	4940	spice	spice shaker	salt	plate,spice shaker			She added salt							She washes her hands and seasons the avocado with salt and pepper.								
+4943	4979	screw	hand	spice shaker		person adds salt and pepper to avocado	person puts salt and pepper on avocado		She seasons the avocado. 	The woman seasons the avocado.			She seasons the avocado.	She goes over to counter and gets spices and sprinkles them on top of avocado.		The person seasons the avocado flesh. 	She seasons the avocado. 	She washes her hands and puts salt and pepper on top.		Salt and Pepper avocado		She added salt	The person adds salt and pepper to the sliced avocado.
+4979	5114	take out	hand	fork	,drawer																	She took out fork	
+5151	5240	press	fork	avocado	plate																		
+5372	5445	wash	hand	avocado																			
+5444	5498	shake	hand	avocado										She goes to drawer and takes out fork and tries to smash avocado.									
+5570	5595	shake	hand	hand																attempted to mash with fork, failed.			
+5612	6461	take out	hand	flat grater	,drawer	person gets out grater								She opens the drawer and looks around for a grater.	The woman grates the avocado.								The person gets a grater out of the drawer.
+6504	7872	grate	flat grater	avocado	plate																She lightly salts and peppers the avocado.		
+7985	8120	cut	knife	avocado	plate																		
+8221	10534	grate	flat grater	avocado	plate																		
+10538	10674	scratch off	hand	avocado	flat grater,plate	person grates avocado			She grates the avocado. 	The woman grates the avocado.		Grates the avocado slices on the plate.	She grates the avocado. 	She grates the avocado.		The person grates the avocado flesh. 	She grate the avocado. 	She uses a grinder and a knife to break the avocado up into small pieces.		Grate Avocado with grater to smaller softer pieces	She removes a cheese grater from the drawer and grates the avocado.		The person grates the avocado slices.
+10723	10981	wash	hand	flat grater										She go to the sink and  washes the grater and her hands.									
+10984	11008	shake	hand	hand			person uses grater to cut avocado				She grate the avocado and cleans the grater.										She washes her hands.		The person rinses off the grater.
+11049	12116	press	fork	avocado	plate										The takes a fork and mashes whats left of the avocado.					Mash remaining pieces with fork.			
+12122	12153	screw	hand	spice shaker		person mashes avocado with fork				She mixes the avocado with a fork.				She takes the fork and mashes the avocado.									
+12159	12285	spice	spice shaker	salt	plate,spice shaker											The person mashes the avocado flesh.							
+12294	12321	screw	hand	spice shaker																			
+12339	13166	stir	fork	avocado	plate		person uses fork to mash avocado		She mashes the avocado and adds more salt. 		She mashes the avocado with a fork.					The person mixes in more seasoning.	She mashes and seasons the avocado. 			Add salt and mix with fork			The person smashes the avocado even further with a fork.
+13247	13331	put in	hand	spice shaker	,spice holder					The woman seasons the avocado.			She mashes and salts the avocado. 	She then adds more spices and blends together again.	She adds more salt, mashes some more and puts away the salt and pepper.			She washes her hands, mushes the avocados further with the fork, and beings to put things away such as the salt and pepper.			With a fork she mashes the avocado, adds a bit more salt and finishes mashing the avocado with the fork.		The video ends

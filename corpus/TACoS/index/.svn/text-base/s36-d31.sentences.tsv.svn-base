@@ -1,0 +1,194 @@
+s36-d31_2_1	The person takes a clove of garlic from the pantry.	s36-d31	203	307	garlic	367
+s36-d31_2_2	The person takes out a cutting board from the drawer.	s36-d31	357	540	garlic	561
+s36-d31_2_3	The person takes out a knife from the drawer	s36-d31	545	704	garlic	709
+s36-d31_2_4	The person removes peels from a clove of garlic.	s36-d31	737	1950	garlic	2019
+s36-d31_2_5	The person returns the rest of the garlic to the pantry.	s36-d31	2037	2182	garlic	2197
+s36-d31_2_6	The person chops the garlic on the cutting board.	s36-d31	2301	3344	garlic	3395
+s36-d31_2_7	The person changes his mind and brushes the chopped garlic and the peels onto the cutting board and sweeps them into the trash.	s36-d31	3526	3814	garlic	3835
+s36-d31_2_8	The person washes the cutting board in the sink.	s36-d31	3837	4067	garlic	4127
+s36-d31_2_9	The person takes another clove of garlic from the pantry.	s36-d31	4171	4344	garlic	4367
+s36-d31_2_10	The person takes out another knife from the drawer.	s36-d31	4357	4506	garlic	4515
+s36-d31_2_11	The person peels the garlic clove.	s36-d31	4538	5355	garlic	5417
+s36-d31_2_12	The person chops the garlic on the cutting board.	s36-d31	5427	6290	garlic	6337
+s36-d31_2_13	The person throws the peels into the wastebin.	s36-d31	6306	6612	garlic	6615
+s36-d31_2_14	The person washes his hands.	s36-d31	6625	6851	garlic	6879
+s36-d31_3_1	The person takes a clove of garlic from the pantry.	s36-d31	203	307	garlic	323
+s36-d31_3_2	The person takes out a cutting board from the drawer.	s36-d31	357	540	garlic	535
+s36-d31_3_3	The person takes out a knife from the drawer.	s36-d31	545	704	garlic	701
+s36-d31_3_4	The person removes a bit the husk from the clove of garlic, takes a segment and returns the rest to the pantry.	s36-d31	737	2182	garlic	2227
+s36-d31_3_5	The person chops the garlic on the cutting board.	s36-d31	2301	3344	garlic	3379
+s36-d31_3_6	The person gives up, throws everything in the wastebin, washes off the cutting board, and cleans the countertop.	s36-d31	3526	4067	garlic	4067
+s36-d31_3_7	The person gets another bit of garlic from the pantry and another knife from the drawer.	s36-d31	4171	4506	garlic	4533
+s36-d31_3_8	The person peels the garlic.	s36-d31	4538	5355	garlic	5447
+s36-d31_3_9	The person chops the garlic on the cutting board.	s36-d31	5427	6290	garlic	6361
+s36-d31_3_10	The person sweeps up the bits of husk and disposes them in the wastebin.	s36-d31	6306	6612	garlic	6611
+s36-d31_3_11	The person washes his hands in the sink.	s36-d31	6625	6851	garlic	6833
+s36-d31_3_12	The person dries his hands on a towel.	s36-d31	6873	7019	garlic	7011
+s36-d31_4_1	The person takes a clove of garlic from the pantry.	s36-d31	203	307	garlic	319
+s36-d31_4_2	The person takes out a cutting board from the drawer.	s36-d31	357	540	garlic	557
+s36-d31_4_3	The person takes out a knife from the drawer.	s36-d31	545	704	garlic	707
+s36-d31_4_4	The person removes a bit the husk from the clove of garlic, takes a segment and returns the rest to the pantry.	s36-d31	737	2182	garlic	2199
+s36-d31_4_5	The person chops the garlic on the cutting board.	s36-d31	2301	3344	garlic	3375
+s36-d31_4_6	The person gives up, throws everything in the wastebin, washes off the cutting board, and cleans the countertop.	s36-d31	3526	4067	garlic	4145
+s36-d31_4_7	The person gets another bit of garlic from the pantry and another knife from the drawer.	s36-d31	4171	4506	garlic	4529
+s36-d31_4_8	The person peels the garlic.	s36-d31	4538	5355	garlic	5415
+s36-d31_4_9	The person chops the garlic on the cutting board.	s36-d31	5427	6290	garlic	6295
+s36-d31_4_10	The person sweeps up the bits of husk and disposes them in the wastebin.	s36-d31	6306	6612	garlic	6609
+s36-d31_4_11	The person washes his hands in the sink.	s36-d31	6625	6851	garlic	6867
+s36-d31_4_12	The person dries his hands on a towel.	s36-d31	6873	7019	garlic	7023
+s36-d31_5_1	Garlic is removed from a cabinet.	s36-d31	203	307	garlic	391
+s36-d31_5_2	The person removes a cutting board.	s36-d31	357	540	garlic	553
+s36-d31_5_3	The person selects a knife.	s36-d31	545	704	garlic	705
+s36-d31_5_4	The bulb is broken apart.	s36-d31	737	1950	garlic	2035
+s36-d31_5_5	The garlic is put back in the cabinet.	s36-d31	2037	2182	garlic	2195
+s36-d31_5_6	A clove is peeled.	s36-d31	2301	3344	garlic	3467
+s36-d31_5_7	The peels and garlic are discarded.	s36-d31	3526	3814	garlic	3855
+s36-d31_5_8	The cutting board and counter are wiped.	s36-d31	3837	4067	garlic	4107
+s36-d31_5_9	Another garlic clove is removed from a cabinet.	s36-d31	4171	4410	garlic	4409
+s36-d31_5_10	The clove is peeled.	s36-d31	4417	5355	garlic	5415
+s36-d31_5_11	The garlic is chopped.	s36-d31	5427	6290	garlic	6291
+s36-d31_5_12	The scraps are thrown away.	s36-d31	6306	6612	garlic	6631
+s36-d31_5_13	The person washes and dries their hands.	s36-d31	6873	7019	garlic	7029
+s36-d31_6_1	Person takes out garlic from cupboard	s36-d31	203	307	garlic	375
+s36-d31_6_2	Person takes out cutting board and knife	s36-d31	357	704	garlic	721
+s36-d31_6_3	Person unwraps and peels garlic	s36-d31	737	1950	garlic	2017
+s36-d31_6_4	Person puts remaining garlic away	s36-d31	2037	2182	garlic	2257
+s36-d31_6_5	Person slices garlic	s36-d31	2301	3344	garlic	3375
+s36-d31_6_6	Person throws away garlic and cleans cutting board	s36-d31	3526	4067	garlic	4149
+s36-d31_6_7	Person gets new garlic and a new knife	s36-d31	4171	4506	garlic	4539
+s36-d31_6_8	Person peels garlic	s36-d31	4538	5355	garlic	5415
+s36-d31_6_9	Person slices garlic	s36-d31	5427	6290	garlic	6319
+s36-d31_6_10	Person cleans up and washes hands	s36-d31	6625	7019	garlic	7069
+s36-d31_7_1	He gets a bulb of garlic out of the cupboard.	s36-d31	203	307	garlic	313
+s36-d31_7_2	 He gets a cutting board out of the cupboard.	s36-d31	357	540	garlic	523
+s36-d31_7_3	He gets a knife out of the drawer.	s36-d31	545	704	garlic	713
+s36-d31_7_4	He takes one clove of garlic and puts the rest of the bulb away.	s36-d31	737	2107	garlic	2077
+s36-d31_7_5	He chops the clove into small pieces.	s36-d31	2115	3344	garlic	3381
+s36-d31_7_6	He gets a new clove and peels it.	s36-d31	3526	5355	garlic	5353
+s36-d31_7_7	 He chops the new clove into tiny pieces.	s36-d31	5427	6290	garlic	6309
+s36-d31_8_1	Garlic is removed from a cabinet.	s36-d31	203	307	garlic	435
+s36-d31_8_2	The person removes a cutting board.	s36-d31	357	540	garlic	553
+s36-d31_8_3	The person selects a knife.	s36-d31	545	704	garlic	701
+s36-d31_8_4	The bulb is broken apart.	s36-d31	737	1950	garlic	2009
+s36-d31_8_5	The garlic is put back in the cabinet.	s36-d31	2037	2182	garlic	2191
+s36-d31_8_6	A clove is peeled.	s36-d31	2301	3194	garlic	3259
+s36-d31_8_7	Everything is discarded and the area is cleaned.	s36-d31	3255	4024	garlic	4049
+s36-d31_8_8	Another garlic clove is removed from a cabinet.	s36-d31	4049	4410	garlic	4391
+s36-d31_8_9	The person selects a knife.	s36-d31	4417	4506	garlic	4515
+s36-d31_8_10	The clove is peeled.	s36-d31	4538	5355	garlic	5413
+s36-d31_8_11	The clove is sliced and chopped.	s36-d31	5427	6290	garlic	6289
+s36-d31_8_12	The scraps are thrown away.	s36-d31	6306	6612	garlic	6625
+s36-d31_8_13	The person washes and dries their hands.	s36-d31	6306	7019	garlic	7033
+s36-d31_9_1	The person takes a clove of garlic from the pantry.	s36-d31	203	307	garlic	371
+s36-d31_9_2	The person takes out a cutting board from the drawer.	s36-d31	357	540	garlic	537
+s36-d31_9_3	The person peels some of the garlic and returns the rest to the pantry.	s36-d31	545	2182	garlic	2221
+s36-d31_9_4	The person chops the garlic on the cutting board.	s36-d31	2301	3344	garlic	3367
+s36-d31_9_5	The person stops and throws everything into the wastebin.	s36-d31	3526	3814	garlic	3835
+s36-d31_9_6	The person washes the cutting board in the sink.	s36-d31	3837	4067	garlic	4099
+s36-d31_9_7	The person again takes a clove of garlic from the pantry.	s36-d31	4171	4344	garlic	4369
+s36-d31_9_8	The person takes out a knife from the drawer.	s36-d31	4357	4506	garlic	4509
+s36-d31_9_9	The person peels the garlic.	s36-d31	4538	5355	garlic	5413
+s36-d31_9_10	The person chops the garlic on the cutting board.	s36-d31	5427	6290	garlic	6279
+s36-d31_9_11	The person throws the peels into the wastebin.	s36-d31	6306	6612	garlic	6609
+s36-d31_9_12	The person washes his hands.	s36-d31	6625	6851	garlic	6857
+s36-d31_10_1	A man walks in, opens the cabinet, takes some garlic out, a cutting board, and starts to peel it.	s36-d31	203	1366	garlic	1265
+s36-d31_10_2	He takes out a few cloves and puts the rest back in the cabinet.	s36-d31	1373	2591	garlic	2589
+s36-d31_10_3	He uses a small knife to chop the garlic up in tiny pieces.	s36-d31	2597	2926	garlic	2927
+s36-d31_10_4	He stops, takes the paper shavings from garlic, and what he just chopped and throws it away.	s36-d31	2932	3814	garlic	3733
+s36-d31_10_5	He wipes the counter off and washes the cutting board.	s36-d31	3837	4067	garlic	4167
+s36-d31_10_6	he goes back to the cabinet and takes out more cloves and peels them.	s36-d31	4171	4506	garlic	4707
+s36-d31_10_7	He cuts them into tiny pieces.	s36-d31	4538	5922	garlic	5981
+s36-d31_10_8	He picks the garlic paper up and throws it in the trash and washes his hands.	s36-d31	6306	6687	garlic	6721
+s36-d31_11_1	The person takes a clove of garlic from the pantry.	s36-d31	203	307	garlic	365
+s36-d31_11_2	The person takes out a cutting board from the drawer.	s36-d31	357	540	garlic	543
+s36-d31_11_3	The person takes out a knife from the drawer.	s36-d31	545	704	garlic	697
+s36-d31_11_4	The person peels some of the garlic and returns the rest to the pantry.	s36-d31	737	2182	garlic	2205
+s36-d31_11_5	The person chops the garlic on the cutting board.	s36-d31	2301	3344	garlic	3397
+s36-d31_11_6	The person stops and throws everything into the wastebin.	s36-d31	3526	3814	garlic	3835
+s36-d31_11_7	The person washes the cutting board in the sink.	s36-d31	3837	4067	garlic	4097
+s36-d31_11_8	The person again takes a clove of garlic from the pantry.	s36-d31	4171	4344	garlic	4373
+s36-d31_11_9	The person takes out a knife from the drawer.	s36-d31	4357	4506	garlic	4525
+s36-d31_11_10	The person peels the garlic.	s36-d31	4538	5355	garlic	5367
+s36-d31_11_11	The person chops the garlic on the cutting board.	s36-d31	5427	6290	garlic	6301
+s36-d31_11_12	The person throws the peels into the wastebin.	s36-d31	5943	6612	garlic	6633
+s36-d31_11_13	The person washes his hands.	s36-d31	6692	6789	garlic	6803
+s36-d31_12_1	He took out garlic	s36-d31	203	307	garlic	317
+s36-d31_12_2	He took out cutting board	s36-d31	357	540	garlic	544
+s36-d31_12_3	He took out knife	s36-d31	545	704	garlic	716
+s36-d31_12_4	He peeled the garlic	s36-d31	737	1950	garlic	1982
+s36-d31_12_5	He put away extra garlic	s36-d31	2037	2182	garlic	2192
+s36-d31_12_6	He diced the garlic	s36-d31	2301	3344	garlic	3387
+s36-d31_12_7	He threw garlic away	s36-d31	3526	3814	garlic	3862
+s36-d31_13_1	The person retrieves a head of garlic, a cutting board and a paring knife.	s36-d31	203	1008	garlic	1053
+s36-d31_13_2	The person removes the outer peel and seperates the cloves from the head of garlic using hands.	1029	1950
+s36-d31_13_3	The person places a clove of garlic on the cutting board.	1029	1950
+s36-d31_13_4	The person attempts unsuccessfully to peel and slice the clove of garlic.	s36-d31	2037	3344	garlic	3361
+s36-d31_13_5	The person discards the clove and peel and gets a new clove of garlic.	s36-d31	3837	4410	garlic	4397
+s36-d31_13_6	The person peels the outer skin from the garlic clove using hands and places it on the cutting board.	s36-d31	4417	5355	garlic	5425
+s36-d31_13_7	The person dices the clove of garlic using a paring knife.	s36-d31	5427	6290	garlic	6317
+s36-d31_14_1	The man removes the garlic from the cabinet	s36-d31	203	307	garlic	307
+s36-d31_14_2	The man places a cutting board on the counter	s36-d31	357	540	garlic	551
+s36-d31_14_3	The man gets a knife out of the drawer	s36-d31	545	704	garlic	707
+s36-d31_14_4	The man removes the garlic from its packaging	s36-d31	737	1008	garlic	1029
+s36-d31_14_5	The man peels the garlic	s36-d31	1029	1950	garlic	1975
+s36-d31_14_6	The man returns the unused portion to the cabinet	s36-d31	2037	2182	garlic	2162
+s36-d31_14_7	The man slices the garlic	s36-d31	2301	3344	garlic	3356
+s36-d31_14_8	The man realizes he made an error and throws it all away	s36-d31	3526	3814	garlic	3824
+s36-d31_14_9	The man gets the rest of the garlic out of the cabinet	s36-d31	3526	4344	garlic	4344
+s36-d31_14_10	The man gets a different knife	s36-d31	4357	4506	garlic	4517
+s36-d31_14_11	The man peels the garlic again	s36-d31	4538	5355	garlic	5402
+s36-d31_14_12	The man slices the garlic again	s36-d31	5427	6290	garlic	6283
+s36-d31_14_13	The man washes his hands	s36-d31	6794	6851	garlic	6847
+s36-d31_15_1	The person gets out a bulb of garlic.	s36-d31	203	307	garlic	335
+s36-d31_15_2	The person gets out a wooden plate.	s36-d31	357	584	garlic	587
+s36-d31_15_3	The person gets out a knife.	s36-d31	585	704	garlic	719
+s36-d31_15_4	The person tears off shreds of garlic with his hands.	s36-d31	737	1950	garlic	2043
+s36-d31_15_5	The person puts away the rest of the garlic.	s36-d31	2037	2182	garlic	2231
+s36-d31_15_6	The person tries to dice the shreds of garlic.	s36-d31	2301	3344	garlic	3469
+s36-d31_15_7	The person throws away all the garlic he was working with.	s36-d31	3526	3814	garlic	3849
+s36-d31_15_8	The person rinses the wooden plate.	s36-d31	3837	4067	garlic	4143
+s36-d31_15_9	The person gets the garlic bulb back out.	s36-d31	4171	4460	garlic	4444
+s36-d31_15_10	The person puts his knife back and gets out a different one.	s36-d31	4469	4506	garlic	4560
+s36-d31_15_11	The person manages to extract a clove of garlic from the bulb.	s36-d31	4538	5355	garlic	5418
+s36-d31_15_12	The person chops up the garlic clove.	s36-d31	5427	6290	garlic	6315
+s36-d31_15_13	The person throws away the trash.	s36-d31	6306	6612	garlic	6640
+s36-d31_15_14	The person washes his hands.	s36-d31	6625	6851	garlic	6828
+s36-d31_16_1	The person selects a clove of garlic, cutting board, and knife.	s36-d31	203	704	garlic	733
+s36-d31_16_2	The person takes the clove of garlic out of the bag.	s36-d31	737	1008	garlic	1061
+s36-d31_16_3	The person begins breaking the garlic up with his hands.	s36-d31	1029	1950	garlic	1993
+s36-d31_16_4	The person puts the remaining garlic back in the cabinet.	s36-d31	2037	2182	garlic	2262
+s36-d31_16_5	The person begins to cut up what looks like rotten garlic.	s36-d31	2301	3344	garlic	3351
+s36-d31_16_6	The person throws away the rotten garlic.	s36-d31	3526	3814	garlic	3838
+s36-d31_16_7	The person washes the counter and cutting board.	s36-d31	3837	4067	garlic	4149
+s36-d31_16_8	The person selects a new piece of garlic.	s36-d31	4171	4410	garlic	4419
+s36-d31_16_9	The person selects a bigger knife.	s36-d31	4417	4506	garlic	4533
+s36-d31_16_10	The person peels the skin off the garlic by hand.	s36-d31	4538	5355	garlic	5413
+s36-d31_16_11	The person slices and dices the garlic.	s36-d31	5427	6290	garlic	6340
+s36-d31_16_12	The person cleans off the counter.	s36-d31	6306	6612	garlic	6642
+s36-d31_17_1	He takes out the cutting board	s36-d31	203	540	garlic	530
+s36-d31_17_2	He takes out a small knife	s36-d31	545	704	garlic	696
+s36-d31_17_3	He takes out a head of garlic	s36-d31	737	1008	garlic	1017
+s36-d31_17_4	He peels the head of garlic until he takes out a garlic clove	s36-d31	1029	1950	garlic	2044
+s36-d31_17_5	He cuts off the garlic tip and ends	s36-d31	2037	3344	garlic	3393
+s36-d31_17_6	Slice the garlic width-wise	s36-d31	3837	6228	garlic	6237
+s36-d31_17_7	he is done	s36-d31	6625	6851	garlic	6940
+s36-d31_18_1	The man retrieves a garlic from the cabinet, and a cutting board and knife from the drawer.	s36-d31	203	704	garlic	717
+s36-d31_18_2	The man takes out the garlic from the bag and opens the shell to remove the garlic cloves before returning the other piece of garlic to the cabinet.	s36-d31	737	1950	garlic	2055
+s36-d31_18_3	The man takes the knife and a small clove of garlic and begins to dice it on the cutting board.	s36-d31	2037	3344	garlic	3409
+s36-d31_18_4	The man places the cloves of garlic on the counter onto the cutting board and disposes them into the trash before washing off the cutting board.	s36-d31	3526	3895	garlic	3891
+s36-d31_18_5	The man cleans off the counter before placing the cutting board back down.	s36-d31	3901	4067	garlic	4119
+s36-d31_18_6	The man gets another clove of garlic and begins to peel it with his hand.	s36-d31	4171	5355	garlic	5413
+s36-d31_18_7	The man takes the knife and dices up the clove of garlic on the cutting board.	s36-d31	5427	6290	garlic	6277
+s36-d31_18_8	The man cleans off the counter top and washes his hands.	s36-d31	6306	6687	garlic	6701
+s36-d31_19_1	The person gets out some garlic.	s36-d31	203	307	garlic	345
+s36-d31_19_2	The person gets out a wooden plate.	s36-d31	357	540	garlic	557
+s36-d31_19_3	The person gets out a knife.	s36-d31	545	704	garlic	705
+s36-d31_19_4	The person pulls lots of peel off the garlic.	s36-d31	737	1950	garlic	2037
+s36-d31_19_5	The person puts the rest of the garlic back.	s36-d31	2037	2182	garlic	2227
+s36-d31_19_6	The person tries to dice the garlic peel.	s36-d31	2301	3344	garlic	3385
+s36-d31_19_7	The person throws away all the garlic he was working with.	s36-d31	3526	3814	garlic	3857
+s36-d31_19_8	The person rinses the plate and wipes down the counter.	s36-d31	3526	4067	garlic	4117
+s36-d31_19_9	The person gets the garlic back out.	s36-d31	4171	4410	garlic	4413
+s36-d31_19_10	The person removes a clove of garlic.	s36-d31	4417	5355	garlic	5367
+s36-d31_19_11	The person chops up the garlic.	s36-d31	5427	6290	garlic	6305
+s36-d31_19_12	The person throws away the trash.	s36-d31	6235	6612	garlic	6625

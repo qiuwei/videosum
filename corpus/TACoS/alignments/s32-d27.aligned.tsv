@@ -1,0 +1,110 @@
+311	362	open	hand		cupboard																		
+366	670	take out	hand	onion,plastic bag	,cupboard												s32-d27_14_1		s32-d27_16_1	s32-d27_17_1			
+699	754	throw in garbage	hand	plastic bag							s32-d27_8_1	s32-d27_9_1	s32-d27_10_1	s32-d27_11_1			s32-d27_14_2	s32-d27_15_1	s32-d27_16_2		s32-d27_18_1	s32-d27_19_1	
+867	1355	wash	hand	onion			s32-d27_2_1										s32-d27_14_3	s32-d27_15_2	s32-d27_16_3. s32-d27_16_4. s32-d27_16_5. s32-d27_16_6	s32-d27_17_2			
+1441	1557	wash	hand	hand																			
+1585	1620	dry	sponge	hand		s32-d27_1_1																	
+1647	1713	open	hand		drawer					s32-d27_7_1			s32-d27_10_2									s32-d27_19_2	s32-d27_20_1
+1726	1856	take out	hand	cutting board	counter,drawer			s32-d27_3_1	s32-d27_6_1			s32-d27_9_2									s32-d27_18_2	s32-d27_19_3	
+1904	2099	take out	hand	chef knife	,drawer			s32-d27_3_2					s32-d27_10_3			s32-d27_13_1	s32-d27_14_4	s32-d27_15_3	s32-d27_16_7. s32-d27_16_8	s32-d27_17_3. s32-d27_17_4		s32-d27_19_4	
+2137	2222	wash	hand	chef knife		s32-d27_1_2								s32-d27_11_2							s32-d27_18_3		
+2295	2347	cut ends off	chef knife	onion	cutting board		s32-d27_2_2		s32-d27_6_2	s32-d27_7_2	s32-d27_8_2	s32-d27_9_3	s32-d27_10_4		s32-d27_12_1	s32-d27_13_2					s32-d27_18_4	s32-d27_19_5	
+2361	2585	take apart	hand	onion	onion,sink			s32-d27_3_3					s32-d27_10_5			s32-d27_13_3			s32-d27_16_9			s32-d27_19_6	
+2699	2733	peel	chef knife	onion														s32-d27_15_4					
+2761	3191	peel	hand	onion														s32-d27_15_5					
+3203	3261	peel	chef knife	onion																			
+3290	3487	peel	hand	onion																			
+3500	3685	wash	hand	onion											s32-d27_12_2								
+3693	3726	shake	hand	onion		s32-d27_1_3	s32-d27_2_3		s32-d27_6_3		s32-d27_8_3	s32-d27_9_4	s32-d27_10_6. s32-d27_10_7	s32-d27_11_3	s32-d27_12_3		s32-d27_14_5			s32-d27_17_5	s32-d27_18_5	s32-d27_19_7	s32-d27_20_2
+3810	4515	cut	chef knife	onion																s32-d27_17_6			
+4623	4841	cut	chef knife	onion	cutting board					s32-d27_7_3		s32-d27_9_5					s32-d27_14_6			s32-d27_17_7			
+4990	5183	cut	chef knife	onion	cutting board																		
+5242	5547	chop	chef knife	onion	cutting board				s32-d27_6_4. s32-d27_6_5	s32-d27_7_4		s32-d27_9_6. s32-d27_9_7					s32-d27_14_7			s32-d27_17_8			
+5633	7133	chop	chef knife	onion	cutting board												s32-d27_14_8			s32-d27_17_9			
+7173	7226	scratch off	hand	onion	chef knife,cutting board																		
+7296	7380	wash	hand	hand		s32-d27_1_4			s32-d27_6_6	s32-d27_7_5													
+7530	7585	wash	hand	hand			s32-d27_2_4	s32-d27_3_4			s32-d27_8_4	s32-d27_9_8	s32-d27_10_8	s32-d27_11_4	s32-d27_12_4	s32-d27_13_4					s32-d27_18_6	s32-d27_19_8	s32-d27_20_3
+7595	7624	dry	sponge	hand																			
+7627	7663	shake	hand	hand																			
+7676	7702	dry	sponge	hand																			
+7708	7735	shake	hand	hand																			
+7784	7830	open	hand		cupboard																	s32-d27_19_9	
+7881	8044	take out	hand	bowl	,drawer				s32-d27_6_7	s32-d27_7_6							s32-d27_14_9			s32-d27_17_10			
+8118	8630	move	chef knife	onion	bowl,cutting board																	s32-d27_19_10	
+8652	8707	scratch off	hand	onion	bowl,chef knife	s32-d27_1_5									s32-d27_12_5					s32-d27_17_11			
+8754	8945	fill	faucet	water	bowl											s32-d27_13_5							
+8989	9023	dry	sponge	hand			s32-d27_2_5	s32-d27_3_5			s32-d27_8_5				s32-d27_12_6		s32-d27_14_10					s32-d27_19_11	
+9028	9064	shake	hand	hand																			
+9092	9149	open	hand		cupboard	s32-d27_1_6	s32-d27_2_6		s32-d27_6_8	s32-d27_7_7													
+9160	9392	open	hand		cupboard						s32-d27_8_6	s32-d27_9_9		s32-d27_11_5								s32-d27_19_12	s32-d27_20_4
+9443	9468	take out	hand	spice shaker	,spice holder																		
+9501	9556	screw	hand	spice shaker																s32-d27_17_12			
+9569	10031	spice	spice shaker	salt	bowl,spice shaker																		
+10066	10427	spice	spice shaker	salt	bowl,spice shaker																		
+10438	10478	screw	hand	spice shaker		s32-d27_1_7																	
+10493	10525	put in	hand	spice shaker	spice holder										s32-d27_12_7					s32-d27_17_13		s32-d27_19_13	
+10567	10960	stir	hand	onion	bowl		s32-d27_2_7				s32-d27_8_7						s32-d27_14_11				s32-d27_18_7		s32-d27_20_5
+11018	11228	fill	faucet	water	bowl									s32-d27_11_6			s32-d27_14_12			s32-d27_17_14			
+11248	11630	pour	bowl	water	bowl,sink	s32-d27_1_8									s32-d27_12_8								
+11682	11910	fill	faucet	water	bowl							s32-d27_9_10											
+11934	12447	pour	bowl	water	bowl,sink																		
+12610	12688	wash	hand	hand																			
+12702	12747	dry	hand	hand																			
+12754	12795	shake	hand	hand			s32-d27_2_8			s32-d27_7_8	s32-d27_8_8					s32-d27_13_6							
+12801	12841	shake	bowl	onion	bowl																		s32-d27_20_6
+12854	12897	dry	hand	hand					s32-d27_6_9														
+12954	13048	throw in garbage	hand	garbage				s32-d27_3_6															
+13125	13285	take out	hand	pan	,drawer									s32-d27_11_7									
+13331	13444	wash	hand	pan																			
+13452	13542	pour	hand	water	pan,sink																s32-d27_18_8		
+13558	13580	dry	sponge	pan																			
+13630	13748	turn on	hand	stove																			
+13756	13818	change temperature	hand	stove		s32-d27_1_9		s32-d27_3_7							s32-d27_12_9								
+13994	14241	take out	hand	plastic box	counter,fridge			s32-d27_3_8	s32-d27_6_10	s32-d27_7_9						s32-d27_13_7							
+14249	14410	take out	hand	spatula	,drawer																		
+14456	14566	wash	hand	spatula												s32-d27_13_8					s32-d27_18_9		
+14576	14665	shake	hand	spatula				s32-d27_3_9															
+14711	14808	remove lid	hand	lid	counter,plastic box																		
+14838	14873	move	hand	plastic box	counter											s32-d27_13_9							
+14949	15218	wash	hand,sponge	chef knife																			
+15231	15272	shake	hand	chef knife																			
+15316	15439	cut	chef knife	butter	plastic box																		
+15563	15614	add	chef knife	butter	pan,plastic box	s32-d27_1_10																	
+15731	15757	move	spatula	butter	pan																		
+15779	15949	spread	pan	butter	pan		s32-d27_2_9	s32-d27_3_10	s32-d27_6_11	s32-d27_7_10	s32-d27_8_9			s32-d27_11_8		s32-d27_13_10					s32-d27_18_10		s32-d27_20_7
+15959	16209	move	spatula	butter	pan																		
+16383	16404	take out	hand	spice shaker	,spice holder																		
+16415	16433	screw	hand	spice shaker																			
+16438	16475	spice	spice shaker	salt	bowl,spice shaker										s32-d27_12_10								
+16473	16494	screw	hand	spice shaker								s32-d27_9_11											
+16499	16563	put in	hand	spice shaker	spice holder																		
+16616	16787	add	spatula	onion	bowl,pan																		
+16779	16897	stir	spatula	onion	pan																s32-d27_18_11		
+16990	17017	add	chef knife	butter	pan,plastic box																		
+17076	17129	stir	spatula	onion	pan	s32-d27_1_11				s32-d27_7_11					s32-d27_12_11								s32-d27_20_8
+17140	17413	add	spatula	onion	bowl,pan							s32-d27_9_12		s32-d27_11_9							s32-d27_18_12		
+17442	17839	stir	spatula	onion	pan		s32-d27_2_10		s32-d27_6_12	s32-d27_7_12	s32-d27_8_10					s32-d27_13_11							
+17884	17969	stir	spatula	onion	pan																		
+18222	18299	change temperature	hand	stove				s32-d27_3_11															
+18361	18513	take out	hand	spice shaker	,spice holder																		
+18526	18586	screw	hand	spice shaker																			
+18592	18710	spice	spice shaker	spice	pan,spice shaker																		
+18723	18761	screw	hand	spice shaker																			
+18771	18798	put in	hand	spice shaker	spice holder																		
+18857	19094	stir	spatula	onion	pan		s32-d27_2_11				s32-d27_8_11												
+19104	19141	change temperature	hand	stove								s32-d27_9_13											
+19152	19669	stir	spatula	onion	pan																		
+19743	19809	change temperature	hand	stove																			
+19845	19884	move	hand	chef knife																			
+19901	19960	put lid	hand	lid	counter,plastic box																		
+19976	20017	move	hand	bowl	counter,sink																		s32-d27_20_9
+20038	20170	put in	hand	plastic box	,fridge			s32-d27_3_12		s32-d27_7_13													
+20323	20518	stir	spatula	onion	pan			s32-d27_3_13															
+20522	20651	turn on	hand	stove																			
+20659	20740	stir	spatula	onion	pan																		
+20785	20983	take out	hand	plate	,cupboard											s32-d27_13_12							
+21067	21120	wash	hand	plate																			
+21146	21179	shake	hand	plate																			
+21205	21277	dry	towel	plate				s32-d27_3_14	s32-d27_6_13. s32-d27_6_14	s32-d27_7_14				s32-d27_11_10	s32-d27_12_12	s32-d27_13_13							
+21459	22084	add	spatula	onion	pan,plate	s32-d27_1_12																	
+22237	22276	move	hand	plate	counter		s32-d27_2_12	s32-d27_3_15	s32-d27_6_15	s32-d27_7_15	s32-d27_8_12	s32-d27_9_14		s32-d27_11_11		s32-d27_13_14					s32-d27_18_13		s32-d27_20_10

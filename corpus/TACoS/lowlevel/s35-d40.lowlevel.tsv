@@ -1,0 +1,61 @@
+242	656	take out	hand	lime	,fridge
+716	812	open	hand		drawer
+864	956	wash	hand	lime	
+956	993	shake	hand	lime	
+1027	1120	take out	hand	bowl	,drawer
+1144	1272	shake	hand	bowl	
+1315	1336	shake	hand	hand	
+1391	1453	take out	hand	squeezer	,drawer
+1464	1586	take out	hand	cutting board	counter,drawer
+1603	1675	close	hand		drawer
+1673	1849	take out	hand	knife	cutting board,drawer
+1853	1918	close	hand		drawer
+1991	2055	remove lid	hand	lid	squeezer
+2055	2363	wash	hand	squeezer	
+2434	2598	shake	hand	squeezer	
+2721	2789	move	hand	lid	bowl,cutting board
+2881	2971	cut	knife	lime	cutting board
+3043	3265	put lid	hand	lid	bowl,squeezer
+3329	5692	squeeze	hand	lime	squeezer
+5709	5892	squeeze	hand	lime	squeezer
+5934	6024	squeeze	hand	lime	squeezer
+6024	6085	add	hand	lime	bowl,squeezer
+6134	7042	squeeze	hand	lime	squeezer
+7078	8136	squeeze	hand	lime	squeezer
+8176	8619	squeeze	hand	lime	squeezer
+8619	8668	add	hand	lime	bowl,squeezer
+8768	8860	wash	hand	hand	
+8860	8887	shake	hand	hand	
+8900	8923	shake	hand	hand	
+8971	9080	wash	hand	knife	
+9080	9170	wash	sponge	knife	
+9170	9317	wash	hand	knife	
+9337	9390	shake	hand	knife	
+9423	9515	put in	hand	knife	,drawer
+9599	9743	wash	hand	cutting board	
+9745	9798	shake	hand	cutting board	
+9825	9882	open	hand		drawer
+9892	9989	put in	hand	cutting board	,drawer
+10042	10139	throw in garbage	hand	lime	
+10176	10327	wash	hand	bowl	
+10343	10434	wash	sponge	bowl	
+10459	10651	wash	hand	bowl	
+10651	10700	shake	hand	bowl	
+10744	10816	put in	hand	bowl	,drawer
+10870	11339	take out	hand	glass	counter,cupboard
+11387	11609	remove lid	hand	lid	squeezer
+11609	11656	shake	hand	lid	
+11678	11803	put lid	hand	lid	squeezer
+11835	12015	pour	squeezer	lime	glass
+12065	12139	remove lid	hand	lid	squeezer
+12208	12261	wash	hand	lid	
+12261	12300	wash	hand	bowl	
+12300	12433	wash	hand	lid	
+12433	12791	wash	cleaning brush	lid	
+12791	12861	wash	hand	lid	
+12986	13034	wash	hand	bowl	
+13034	13238	wash	sponge	bowl	
+13253	13512	wash	hand	bowl	
+13512	13580	shake	hand	bowl	
+13628	13682	put lid	hand	lid	squeezer
+13688	13819	put in	hand	squeezer	,drawer

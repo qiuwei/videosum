@@ -1,0 +1,70 @@
+205	486	take out	hand	pomegranate	counter,fridge
+543	700	take out	hand	cutting board	counter,drawer
+708	745	close	hand		drawer
+750	979	take out	hand	knife	counter,drawer
+1030	1101	close	hand		drawer
+1171	1530	take out	hand	bowl	drawer
+1553	1645	wash	hand	bowl	
+1651	1920	wash	hand	pomegranate	bowl
+1928	1969	shake	hand	pomegranate	
+2038	2366	cut	knife	pomegranate	cutting board
+2375	2479	cut	knife	pomegranate	cutting board
+2512	3191	take apart	hand	arils,peel	bowl
+3197	3227	take apart	hand	peel	
+3248	3823	take apart	hand	arils,peel	bowl
+3897	3935	move	hand	peel	bowl,cutting board
+3970	4000	move	hand	arils	bowl,cutting board
+4004	4335	take apart	hand	arils,peel	bowl
+4342	4452	move	hand	peel	bowl,cutting board
+4458	5005	take apart	hand	arils,peel	bowl
+5013	5062	move	hand	peel	bowl,cutting board
+5068	5293	take apart	hand	arils,peel	bowl
+5299	5329	move	hand	peel	bowl,cutting board
+5336	5738	take apart	hand	arils,peel	bowl
+5786	5843	take apart	hand	pomegranate	
+5887	6039	take apart	hand	arils,peel	bowl
+6059	6093	move	hand	peel	bowl,cutting board
+6113	6229	take apart	hand	arils,peel	bowl
+6242	6382	move	hand	peel	bowl,cutting board
+6408	7204	take apart	hand	arils,peel	bowl
+7285	7661	take apart	hand	arils,peel	bowl
+7749	7813	take apart	hand	arils,peel	bowl
+7822	7868	move	hand	peel	bowl,cutting board
+7882	8457	take apart	hand	arils,peel	bowl
+8469	8508	move	hand	peel	bowl,cutting board
+8520	8814	take apart	hand	arils,peel	bowl
+8828	8885	take apart	hand	pomegranate	
+8892	10345	take apart	hand	arils,peel	bowl
+10357	11057	move	hand	peel	bowl,cutting board
+11076	11176	wash	hand	hand	
+11187	11301	dry	sponge	hand	
+11344	11375	take out	hand	spice shaker	spice holder
+11382	11412	screw	hand	spice shaker	
+11442	11583	spice	spice shaker	salt	bowl
+11592	11635	screw	hand	spice shaker	
+11641	11680	put in	hand	spice shaker	,spice holder
+11735	11902	take out	hand	spice shaker	spice holder
+11909	11950	screw	hand	spice shaker	
+11950	12025	spice	spice shaker	spice	bowl
+12032	12087	screw	hand	spice shaker	
+12091	12114	put in	hand	spice shaker	,spice holder
+12119	12140	take out	hand	spice shaker	spice holder
+12147	12175	screw	hand	spice shaker	
+12179	12301	spice	spice shaker	spice	bowl
+12308	12364	screw	hand	spice shaker	
+12366	12397	put in	hand	spice shaker	,spice holder
+12424	12560	take out	hand	spoon	drawer
+12567	12973	mix	spoon	arils,spice	bowl
+13023	13181	wash	hand	knife	
+13188	13275	dry	sponge	knife	
+13298	13393	put in	hand	knife	,drawer
+13405	13468	move	hand	peel	counter,cutting board
+13586	13742	throw in garbage	cutting board,hand	peel	
+13761	13955	wash	hand	cutting board	
+13967	14101	dry	hand	cutting board	
+14292	14584	clean	detergent,sponge	cutting board	
+14601	14775	wash	hand	sponge	
+14784	14838	clean	cleaning brush	cutting board	
+14854	14991	wash	hand	cutting board	
+15072	15223	dry	towel	cutting board	
+15252	15345	put in	hand	cutting board	,drawer

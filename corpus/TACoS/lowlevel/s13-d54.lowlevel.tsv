@@ -1,0 +1,41 @@
+264	404	take out	hand	cutting board	counter,drawer
+404	486	close	hand		drawer
+489	513	move	hand	cutting board	counter
+553	955	take out	hand	bowl,plate	counter,cupboard
+982	1549	take out	hand	mango	fridge
+1569	1600	remove label	hand	mango	
+1630	1737	throw in garbage	hand	label	
+1754	1815	move	hand	mango	,cutting board
+1841	1970	take out	hand	knife	drawer
+1970	2056	put in	hand	knife	,drawer
+2056	2248	take out	hand	peeler	cutting board,drawer
+2309	2377	move	hand	bowl,plate	counter
+2430	3349	peel	peeler	mango	
+3364	3428	move	hand	mango	cutting board,plate
+3439	3554	take out	hand	knife	cutting board,drawer
+3554	3574	close	hand		drawer
+3590	3683	wash	hand	hand	
+3698	3804	dry	towel	hand	
+3868	3917	cut	knife	mango	cutting board
+3923	3955	scratch off	hand	mango	bowl,knife
+4005	4159	cut	knife	mango	cutting board
+4189	4685	cut	knife	mango	cutting board
+4685	6096	cut	knife	mango	cutting board
+6096	6168	add	hand,knife	stone	bowl,cutting board
+6217	6281	cut	knife	mango	cutting board
+6302	6406	cut	knife	mango	cutting board
+6457	6533	cut	knife	mango	cutting board
+6569	6695	cut	knife	mango	cutting board
+6696	6748	add	hand,knife	mango	bowl,cutting board
+6758	6837	add	hand,knife	mango	bowl,cutting board
+6857	6909	cut	knife	mango	cutting board
+6941	7080	cut	knife	mango	cutting board
+7177	7245	move	hand	plate	counter
+7334	7399	move	hand,knife	mango	cutting board,plate
+7431	7516	move	hand,knife	mango	cutting board,plate
+7580	7633	move	hand,knife	mango	cutting board,plate
+7650	7690	move	hand,knife	mango	cutting board,plate
+7821	7864	move	hand,knife	mango	cutting board,plate
+7918	7976	move	hand,knife	mango	cutting board,plate
+8002	8033	move	hand,knife	mango	cutting board,plate
+8097	8124	move	hand	plate	counter

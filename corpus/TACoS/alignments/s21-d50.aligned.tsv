@@ -1,0 +1,9 @@
+217	441	take out	hand	cup	counter,cupboard		s21-d50_6_1	s21-d50_7_1	s21-d50_10_1	s21-d50_11_1	s21-d50_13_1	s21-d50_14_1	s21-d50_15_1	s21-d50_17_1	s21-d50_18_1	s21-d50_19_1
+475	630	take out	hand	egg	,cupboard	s21-d50_5_1. s21-d50_5_2	s21-d50_6_2	s21-d50_7_2	s21-d50_10_2	s21-d50_11_2	s21-d50_13_2	s21-d50_14_2. s21-d50_14_3	s21-d50_15_2	s21-d50_17_2. s21-d50_17_3. s21-d50_17_4	s21-d50_18_2. s21-d50_18_3. s21-d50_18_4	s21-d50_19_2. s21-d50_19_3
+678	1115	open egg	eggshell	egg white	cup,eggshell	s21-d50_5_3	s21-d50_6_3	s21-d50_7_3	s21-d50_10_3	s21-d50_11_3	s21-d50_13_3	s21-d50_14_4	s21-d50_15_3	s21-d50_17_5	s21-d50_18_5	s21-d50_19_4
+1128	1159	add	eggshell	yolk	cup,eggshell	s21-d50_5_4	s21-d50_6_4	s21-d50_7_4	s21-d50_10_4	s21-d50_11_4	s21-d50_13_4	s21-d50_14_5	s21-d50_15_4	s21-d50_17_6	s21-d50_18_6	s21-d50_19_5
+1183	1248	add	hand	egg white	cup,eggshell	s21-d50_5_5										s21-d50_19_6
+1248	1280	shake	hand	eggshell					s21-d50_10_5							
+1287	1369	throw in garbage	hand	eggshell		s21-d50_5_6	s21-d50_6_5	s21-d50_7_5	s21-d50_10_6	s21-d50_11_5	s21-d50_13_5	s21-d50_14_6	s21-d50_15_5		s21-d50_18_7	s21-d50_19_7
+1390	1534	wash	hand	hand		s21-d50_5_7	s21-d50_6_6	s21-d50_7_6		s21-d50_11_6	s21-d50_13_6		s21-d50_15_6	s21-d50_17_7	s21-d50_18_8	
+1540	1606	shake	hand	hand					s21-d50_10_7			s21-d50_14_7				s21-d50_19_8

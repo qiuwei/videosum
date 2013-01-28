@@ -1,0 +1,38 @@
+276	737	take out	hand	paper box	counter,fridge	s35-d55_1_1	s35-d55_2_1	s35-d55_3_1	s35-d55_4_1	s35-d55_6_1	s35-d55_7_1	s35-d55_10_1	s35-d55_12_1	s35-d55_13_1	s35-d55_14_1		s35-d55_16_1	s35-d55_17_1	s35-d55_18_1	s35-d55_19_1	s35-d55_20_1
+797	1067	take out	hand	plate	,cupboard	s35-d55_1_2		s35-d55_3_2		s35-d55_6_2		s35-d55_10_2	s35-d55_12_2		s35-d55_14_2	s35-d55_15_1	s35-d55_16_2	s35-d55_17_2	s35-d55_18_2	s35-d55_19_2	s35-d55_20_2
+1138	1226	wash	hand	plate		s35-d55_1_3			s35-d55_4_2				s35-d55_12_3		s35-d55_14_3		s35-d55_16_3	s35-d55_17_3	s35-d55_18_3		
+1254	1332	shake	hand	plate										s35-d55_13_2						s35-d55_19_3	
+1349	1381	move	hand	fig	paper box,plate																s35-d55_20_3
+1415	1757	wash	hand	fig	plate				s35-d55_4_3			s35-d55_10_3	s35-d55_12_4		s35-d55_14_4		s35-d55_16_4	s35-d55_17_4	s35-d55_18_4		
+1808	1929	shake	hand	fig,plate																	s35-d55_20_4
+1929	2021	move	hand	plate	,counter	s35-d55_1_4		s35-d55_3_3		s35-d55_6_3				s35-d55_13_3		s35-d55_15_2				s35-d55_19_4	
+2039	2275	put in	hand	paper box	counter,fridge	s35-d55_1_5	s35-d55_2_2	s35-d55_3_4	s35-d55_4_4	s35-d55_6_4	s35-d55_7_2		s35-d55_12_5	s35-d55_13_4	s35-d55_14_5	s35-d55_15_3	s35-d55_16_5	s35-d55_17_5	s35-d55_18_5	s35-d55_19_5	
+2329	2475	take out	hand	knife	,drawer																
+2475	2577	put in	hand	knife	,drawer																
+2577	2669	take out	hand	knife	,drawer	s35-d55_1_6		s35-d55_3_5		s35-d55_6_5			s35-d55_12_6		s35-d55_14_6		s35-d55_16_6	s35-d55_17_6	s35-d55_18_6	s35-d55_19_6	
+2696	2931	take out	hand	cutting board	counter,drawer	s35-d55_1_7		s35-d55_3_6	s35-d55_4_5	s35-d55_6_6	s35-d55_7_3	s35-d55_10_4	s35-d55_12_7	s35-d55_13_5	s35-d55_14_7		s35-d55_16_7	s35-d55_17_7	s35-d55_18_7	s35-d55_19_7	s35-d55_20_5
+2974	3022	wash	hand	knife																	
+3022	3096	shake	hand	knife		s35-d55_1_8		s35-d55_3_7		s35-d55_6_7			s35-d55_12_8	s35-d55_13_6	s35-d55_14_8			s35-d55_17_8	s35-d55_18_8	s35-d55_19_8	
+3121	3149	move	hand	fig	cutting board,plate		s35-d55_2_3		s35-d55_4_6							s35-d55_15_4		s35-d55_17_9		s35-d55_19_9	
+3166	3365	cut	knife	fig	cutting board			s35-d55_3_8	s35-d55_4_7	s35-d55_6_8	s35-d55_7_4		s35-d55_12_9		s35-d55_14_9		s35-d55_16_8		s35-d55_18_9		s35-d55_20_6
+3438	3666	slice	knife	fig	cutting board																
+3675	3741	move	hand	fig	cutting board,plate																
+3750	3813	move	hand	fig	cutting board,plate																
+3838	3948	slice	knife	fig	cutting board																
+3948	4031	move	hand	fig	cutting board,plate																
+4058	4149	slice	knife	fig	cutting board																
+4155	4217	move	hand	fig	cutting board,plate																
+4242	4346	slice	knife	fig	cutting board																
+4351	4413	move	hand	fig	cutting board,plate																
+4476	4537	slice	knife	fig	cutting board																
+4560	4611	move	hand	fig	cutting board,plate	s35-d55_1_9	s35-d55_2_4	s35-d55_3_9	s35-d55_4_8	s35-d55_6_9			s35-d55_12_10		s35-d55_14_10	s35-d55_15_5	s35-d55_16_9	s35-d55_17_10	s35-d55_18_10	s35-d55_19_10	s35-d55_20_7
+4646	5411	arrange	hand	fig	plate	s35-d55_1_10			s35-d55_4_9				s35-d55_12_11		s35-d55_14_11						
+5421	5445	move	hand	plate	counter		s35-d55_2_5	s35-d55_3_10		s35-d55_6_10	s35-d55_7_5	s35-d55_10_5		s35-d55_13_7		s35-d55_15_6	s35-d55_16_10	s35-d55_17_11	s35-d55_18_11		s35-d55_20_8
+5542	5641	throw in garbage	hand	fig																	
+5641	5733	throw in garbage	cutting board,knife	garbage				s35-d55_3_11		s35-d55_6_11			s35-d55_12_12		s35-d55_14_12	s35-d55_15_7		s35-d55_17_12	s35-d55_18_12		s35-d55_20_9
+5808	5988	wash	hand	cutting board,knife					s35-d55_4_10			s35-d55_10_6	s35-d55_12_13								
+6022	6116	shake	hand	cutting board,knife													s35-d55_16_11				
+6126	6256	put in	hand	knife	,drawer																
+6283	6418	put in	hand	cutting board	,drawer			s35-d55_3_12	s35-d55_4_11	s35-d55_6_12	s35-d55_7_6		s35-d55_12_14	s35-d55_13_8	s35-d55_14_13	s35-d55_15_8	s35-d55_16_12	s35-d55_17_13	s35-d55_18_13		s35-d55_20_10
+6460	6534	wash	hand	hand				s35-d55_3_13		s35-d55_6_13			s35-d55_12_15						s35-d55_18_14		s35-d55_20_11
+6586	6713	dry	towel	hand			s35-d55_2_6								s35-d55_14_14	s35-d55_15_9	s35-d55_16_13	s35-d55_17_14			s35-d55_20_12

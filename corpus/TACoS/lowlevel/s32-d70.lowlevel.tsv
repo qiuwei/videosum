@@ -1,0 +1,43 @@
+237	742	take out	hand	orange	fridge,sink
+764	915	take out	hand	cutting board	counter,drawer
+922	1356	take out	hand	knife	drawer
+1398	1450	wash	hand	knife	
+1502	1565	wash	hand	cutting board	
+1565	1587	shake	hand	cutting board	
+1604	1700	wash	hand	orange	
+1709	1726	shake	hand	orange	
+1736	1765	shake	hand	knife,orange	
+1815	1892	cut	knife	orange	cutting board
+1935	1998	wash	hand	hand	
+2005	2037	dry	sponge	hand	
+2111	2258	take out	hand	squeezer	drawer
+2279	2297	remove lid	hand	lid	squeezer
+2366	2484	wash	hand	lid	
+2497	2550	wash	hand	squeezer	
+2563	2622	shake	hand	lid,squeezer	
+2646	2675	put lid	hand	lid	squeezer
+2768	2824	squeeze	squeezer	orange	squeezer
+2868	3698	squeeze	squeezer	orange	squeezer
+3751	4519	squeeze	squeezer	orange	squeezer
+4546	4621	squeeze	squeezer	orange	squeezer
+4658	4758	wash	hand	hand	
+4765	4825	shake	hand	hand	
+4846	4874	remove lid	hand	lid	
+4878	5003	shake	hand	lid	
+5043	5071	shake	hand	hand	
+5079	5130	dry	towel	hand	
+5156	5353	take out	hand	glass	cupboard
+5417	5493	wash	hand	glass	
+5497	5596	shake	hand	glass	
+5608	5813	pour	squeezer	orange	glass
+5885	5984	fill	faucet	water	,glass
+6051	6087	dry	towel	hand	
+6122	6323	take out	hand	paper bag	counter,cupboard
+6327	6449	take out	hand	teaspoon	drawer
+6474	6520	open	hand	paper bag	counter
+6597	6635	add	teaspoon	sugar	glass,paper bag
+6643	6771	stir	teaspoon	orange	glass
+6779	6814	close	hand	paper bag	counter
+6820	7109	put in	hand	paper bag	counter,cupboard
+7169	7248	move	hand	teaspoon	glass,squeezer
+7262	7304	move	hand	glass	counter

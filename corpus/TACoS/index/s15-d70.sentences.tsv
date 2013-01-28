@@ -1,0 +1,181 @@
+s15-d70_1_1	Person takes out orange.	s15-d70	221	494	orange	401
+s15-d70_1_2	Person washes orange.	s15-d70	597	697	orange	698
+s15-d70_1_3	Person takes out orange juicer.	s15-d70	697	1032	orange	1043
+s15-d70_1_4	Person takes out knife and cutting board.	s15-d70	1036	1428	orange	1411
+s15-d70_1_5	Person cuts orange in half.	s15-d70	1438	1591	orange	1578
+s15-d70_1_6	Person makes cuts in half an orange from peel to peel.	s15-d70	1694	1950	orange	1946
+s15-d70_1_7	Person twists and squeezes first half of orange on juicer.	s15-d70	2013	3431	orange	3445
+s15-d70_1_8	Person makes cuts in second half of orange from peel to peel.	s15-d70	3521	3677	orange	3661
+s15-d70_1_9	Person twists and squeezes second half of orange over juicer.	s15-d70	3772	5042	orange	5037
+s15-d70_1_10	Person twists and squeezes first half of orange over juicer again.	5123	5447
+s15-d70_1_11	Person throws away the peel.	5123	5447
+s15-d70_1_12	Person pours juice into cup.	s15-d70	5537	6194	orange	6278
+s15-d70_1_13	Person scrapes pulp into cup.	s15-d70	6223	7699	orange	7701
+s15-d70_1_14	Person stirs pulp and juice together.	s15-d70	7718	8209	orange	8198
+s15-d70_2_1	The person procures an orange from the fridge.	s15-d70	221	494	orange	471
+s15-d70_2_2	The person washes the orange in the sink.	s15-d70	597	767	orange	749
+s15-d70_2_3	The person takes out a juice strainer from the drawer.	s15-d70	851	1073	orange	1059
+s15-d70_2_4	The person takes out a knife from the drawer.	s15-d70	1119	1293	orange	1299
+s15-d70_2_5	The person takes out a cutting board from the drawer.	s15-d70	1307	1428	orange	1407
+s15-d70_2_6	The person cuts the orange in half.	s15-d70	1438	1591	orange	1593
+s15-d70_2_7	The person grinds each half of the orange into the juice strainer with her palm	s15-d70	1694	5447	orange	5467
+s15-d70_2_8	The person throws the orange peels into the wastebin.	s15-d70	5537	5588	orange	5587
+s15-d70_2_9	The person removes the top of the juice strainer from the bottom.	s15-d70	5671	5866	orange	5893
+s15-d70_2_10	The person takes a glass from the cupboard.	s15-d70	5950	6194	orange	6115
+s15-d70_2_11	The person pours the juice from the bottom portion of the strainer into the glass.	s15-d70	6223	6335	orange	6383
+s15-d70_2_12	The person takes out a spoon from the drawer.	s15-d70	6419	6568	orange	6567
+s15-d70_2_13	The person uses the spoon to scoop the pulp out of the top part of the juice strainer into the glass.	s15-d70	6588	7699	orange	7739
+s15-d70_2_14	The person places the spoon, the juicer, the knife, and the cutting board into the sink.	s15-d70	7718	7850	orange	7871
+s15-d70_2_15	The person takes out a spoon from the drawer, stirs the juice in the glass, and places the spoon in the sink.	s15-d70	8217	8242	orange	8261
+s15-d70_3_1	She gets an orange.	s15-d70	221	494	orange	581
+s15-d70_3_2	She washes the orange.	s15-d70	597	697	orange	727
+s15-d70_3_3	She gets the juicer, a knife, and a cutting board.	s15-d70	697	1454	orange	1459
+s15-d70_3_4	She cuts the orange in half.	s15-d70	1471	1591	orange	1615
+s15-d70_3_5	After scoring each half, she juices them.	s15-d70	1694	5447	orange	5545
+s15-d70_3_6	She grabs a glass and pours the juice into it.	s15-d70	5537	6335	orange	6375
+s15-d70_3_7	She puts the pulp in the glass.	s15-d70	6419	7766	orange	7815
+s15-d70_3_8	She stirs the juice.	s15-d70	8251	8279	orange	8313
+s15-d70_4_1	The person takes an orange from the fridge.	s15-d70	221	494	orange	539
+s15-d70_4_2	The person washes the orange under the faucet.	s15-d70	597	767	orange	739
+s15-d70_4_3	The person takes out a juice strainer from the drawer.	s15-d70	851	1073	orange	1077
+s15-d70_4_4	The person takes out a knife from the drawer.	s15-d70	1119	1293	orange	1283
+s15-d70_4_5	The person takes out a cutting board from the drawer.	s15-d70	1307	1428	orange	1429
+s15-d70_4_6	The person slices the orange into halves.	s15-d70	1438	1591	orange	1603
+s15-d70_4_7	The person takes an orange slice and grinds it into the juice strainer.	s15-d70	1694	3431	orange	3495
+s15-d70_4_8	The person grinds the second orange slice into the juice strainer.	s15-d70	3521	5447	orange	5471
+s15-d70_4_9	The person removes the top part of the strainer from the juicer.	s15-d70	5537	5866	orange	5901
+s15-d70_4_10	The person takes a glass from the cupboard.	s15-d70	5950	6194	orange	6145
+s15-d70_4_11	The person pours the juice from the bottom part of the strainer into the glass.	s15-d70	6223	6335	orange	6395
+s15-d70_4_12	The person takes a spoon from the drawer and uses it to scoop the pulp from the top part of the strainer into the glass with the juice.	s15-d70	6419	7699	orange	7721
+s15-d70_4_13	The person puts the knife, the juice strainer, and the cutting board into the sink.	s15-d70	7718	7850	orange	7871
+s15-d70_4_14	The person takes another spoon from the drawer and stirs the pulp into the juice.	s15-d70	7791	8242	orange	8249
+s15-d70_5_1	Take orange directly from fridge and wash it.	s15-d70	221	767	orange	819
+s15-d70_5_2	Assemble knife, cutting board and manual juicer.	s15-d70	851	1454	orange	1457
+s15-d70_5_3	Cut orange in half and cut slits into the pulp.	s15-d70	1471	1950	orange	1977
+s15-d70_5_4	Push down and rotate half of the orange on the juicer to get all juice.	s15-d70	2013	3431	orange	3475
+s15-d70_5_5	Repeat with other half of orange.	s15-d70	3521	5588	orange	5571
+s15-d70_5_6	Make sure all juice exits the strainer and pour into glass.	s15-d70	5671	6335	orange	6447
+s15-d70_5_7	Use a spoon to scoop pulp from juicer.	s15-d70	6419	7850	orange	7937
+s15-d70_5_8	Stir and enjoy.	s15-d70	7885	8279	orange	8305
+s15-d70_6_1	The woman selects an orange and washes it.	s15-d70	221	767	orange	801
+s15-d70_6_2	The woman slices the orange in half.	s15-d70	851	1950	orange	2027
+s15-d70_6_3	The woman pushes and twist the orange into the juicer.	s15-d70	2013	5447	orange	5545
+s15-d70_6_4	She places the juice into the glass.	s15-d70	5537	6335	orange	6313
+s15-d70_6_5	The woman scoops the pulp into the glass.	s15-d70	6419	7766	orange	7777
+s15-d70_6_6	She mixes the juice and pulp.	s15-d70	8251	8279	orange	8313
+s15-d70_7_1	Person removes one orange from refrigerator.	s15-d70	221	494	orange	545
+s15-d70_7_2	Moving to sink the person rinses the orange under running water and sets it on the counter.	s15-d70	597	767	orange	785
+s15-d70_7_3	From a drawer, the person retrieves an orange juicer, cutting board and knife which she places on counter near orange.	s15-d70	851	1454	orange	1449
+s15-d70_7_4	The person slices the orange into two halves.	s15-d70	1471	1591	orange	1599
+s15-d70_7_5	The person makes small cuts in the first orange half and presses the half on the juicer, twisting and squeezing to extract as much juice and pulp as possible.	s15-d70	1694	3431	orange	3481
+s15-d70_7_6	The person repeats the same procedure with the second half of the orange; making the small cuts to make juicing easier and twisting and squeezing the orange half on the juicer to extract all of the juice and pulp.	s15-d70	3521	5447	orange	5463
+s15-d70_7_7	The person discards the orange rind halves in the garbage.	s15-d70	5537	5588	orange	5577
+s15-d70_7_8	The person removes the top half of the juicer and pours the juice from the bottom half into a glass she retrieves from the cupboard.	s15-d70	5671	6335	orange	6361
+s15-d70_7_9	Using a spoon, the person gathers the pulp from the top half of the juicer and adds it to the juice from the orange in the glass.	s15-d70	6419	7766	orange	7751
+s15-d70_7_10	The person moves the cutting board, juicer, knife and spoon to the sink.	s15-d70	7791	7850	orange	7893
+s15-d70_7_11	Retrieving a fork from the drawer, the person mixes the pulp and juice together in the glass.	s15-d70	7885	8279	orange	8293
+s15-d70_8_1	She took out orange	s15-d70	221	494	orange	475
+s15-d70_8_2	She washed orange	s15-d70	597	767	orange	807
+s15-d70_8_3	She took out juicer	s15-d70	851	1176	orange	1153
+s15-d70_8_4	She took out knife	s15-d70	1191	1293	orange	1299
+s15-d70_8_5	She took out cutting board	s15-d70	1307	1428	orange	1433
+s15-d70_8_6	She cut orange in half	s15-d70	1438	1591	orange	1683
+s15-d70_8_7	She twisted orange on juicer	s15-d70	1694	5042	orange	5109
+s15-d70_8_8	She threw away orange	s15-d70	5123	5588	orange	5589
+s15-d70_8_9	She took out glass	s15-d70	5671	6194	orange	6181
+s15-d70_8_10	She poured juice in glass	s15-d70	6223	6335	orange	6397
+s15-d70_9_1	She gets out an orange from the refrigerator and washes it in the sink.	s15-d70	221	767	orange	785
+s15-d70_9_2	She gets out a juice squeezer and a cutting board.	851	1591
+s15-d70_9_3	She cuts the orange into half.	851	1591
+s15-d70_9_4	She puts the orange on the squeezer, uses the knife to loosen up the insides of the orange, and uses the juice squeezer to remove the juice from one half of the orange.	s15-d70	1694	3431	orange	3485
+s15-d70_9_5	She does the same to the other half of the orange.	s15-d70	3521	5447	orange	5477
+s15-d70_9_6	She throws the peels away in the trash.	s15-d70	5537	5588	orange	5625
+s15-d70_9_7	She removes the top from the juicer, gets out a glass from the cabinet, and pours the juice from the juicer into the glass.	s15-d70	5671	6335	orange	6311
+s15-d70_9_8	She uses the spoon to get juice and pulp from the top of the juicer and put it in the glass.	s15-d70	6419	7699	orange	7727
+s15-d70_9_9	She puts the knife, cutting board, and juicer into the sink.	s15-d70	7718	7850	orange	7929
+s15-d70_9_10	She gets out a fork and mixes around the orange juice.	s15-d70	7885	8279	orange	8313
+s15-d70_10_1	She takes one orange out of the refrigerator.	s15-d70	221	494	orange	637
+s15-d70_10_2	She washes the orange in the sink and sets it on the counter.	s15-d70	597	767	orange	777
+s15-d70_10_3	She places a juicer on the counter.	s15-d70	851	1176	orange	1207
+s15-d70_10_4	She takes out a cutting board and a small knife.	s15-d70	1191	1454	orange	1469
+s15-d70_10_5	She cuts the orange in half on the cutting board.	1471	1591
+s15-d70_10_6	She takes half of the orange and places it over the juicer.	1471	1591
+s15-d70_10_7	She takes the same orange and makes small cuts in the orange.	s15-d70	1694	1950	orange	2009
+s15-d70_10_8	She juices a halve of the orange.	s15-d70	2013	2919	orange	2951
+s15-d70_10_9	She takes the over orange halve and places it over the juicer.	s15-d70	2977	3677	orange	3675
+s15-d70_10_10	She completely squeezes the juice out of the orange.	s15-d70	3772	5042	orange	5073
+s15-d70_10_11	She grabs the previous orange halve and squeezes more juice out of it.	s15-d70	5123	5447	orange	5465
+s15-d70_10_12	She removes the orange juicer lid and places it over the cutting board.	s15-d70	5537	5866	orange	5915
+s15-d70_10_13	She grabs a drinking glass and pours the orange juice into the glass.	s15-d70	5950	6335	orange	6325
+s15-d70_10_14	She grabs a spoon and uses it to take out the remaining orange from the juicer and places it in the cup.	s15-d70	6419	7699	orange	7737
+s15-d70_10_15	Finally, she grabs a fork and stirs the orange juice in the cup.	s15-d70	7791	8279	orange	8277
+s15-d70_11_1	She took out orange	s15-d70	221	494	orange	521
+s15-d70_11_2	She washed orange	s15-d70	597	767	orange	773
+s15-d70_11_3	She took out juicer	s15-d70	851	1073	orange	1083
+s15-d70_11_4	She took out knife and cutting board	s15-d70	1119	1454	orange	1483
+s15-d70_11_5	She cut orange in half	s15-d70	1471	1591	orange	1695
+s15-d70_11_6	She twisted orange on juicer	1694	5588
+s15-d70_11_7	She threw away orange	1694	5588
+s15-d70_11_8	She took out glass	s15-d70	5671	6194	orange	6171
+s15-d70_11_9	She poured juice in glass	s15-d70	6223	6335	orange	6403
+s15-d70_12_1	She took out orange	s15-d70	221	494	orange	434
+s15-d70_12_2	She washed orange	s15-d70	597	767	orange	752
+s15-d70_12_3	She took out juicer	s15-d70	851	1073	orange	1057
+s15-d70_12_4	She took out knife and board	s15-d70	1119	1428	orange	1416
+s15-d70_12_5	She cut orange in half	s15-d70	1438	1591	orange	1637
+s15-d70_12_6	She twisted orange on juicer	s15-d70	1694	5447	orange	5523
+s15-d70_12_7	She threw away scraps	s15-d70	5537	5588	orange	5585
+s15-d70_12_8	She took out glass	s15-d70	5671	6194	orange	6232
+s15-d70_12_9	She poured juice in glass	s15-d70	6223	6335	orange	6342
+s15-d70_14_1	She took out orange	s15-d70	221	494	orange	461
+s15-d70_14_2	She washed orange	s15-d70	597	767	orange	786
+s15-d70_14_3	She took out juicer	s15-d70	851	1073	orange	1086
+s15-d70_14_4	She took out cutting board and knife	s15-d70	1119	1428	orange	1437
+s15-d70_14_5	She cut orange in half	s15-d70	1438	1591	orange	1636
+s15-d70_14_6	She twisted orange on juicer	s15-d70	1694	5588	orange	5572
+s15-d70_14_7	She took out glass	s15-d70	5671	6194	orange	6140
+s15-d70_14_8	She poured juice in glass	s15-d70	6223	6335	orange	6364
+s15-d70_15_1	She took out orange	s15-d70	221	494	orange	504
+s15-d70_15_2	She washed orange	s15-d70	597	697	orange	706
+s15-d70_15_3	She took out juicer	s15-d70	697	1032	orange	1018
+s15-d70_15_4	She took out knife	s15-d70	1036	1293	orange	1319
+s15-d70_15_5	She took out cutting board	s15-d70	1307	1428	orange	1433
+s15-d70_15_6	She cut orange in half	s15-d70	1438	1591	orange	1592
+s15-d70_15_7	She twisted orange on juicer	s15-d70	1694	5447	orange	5515
+s15-d70_15_8	She threw away orange	s15-d70	5537	5588	orange	5599
+s15-d70_15_9	She took out glass	s15-d70	5671	6194	orange	6141
+s15-d70_15_10	She poured juice in glass	s15-d70	6223	6335	orange	6366
+s15-d70_17_1	The person gets out an orange.	s15-d70	221	494	orange	555
+s15-d70_17_2	The person rinses the orange.	s15-d70	597	767	orange	771
+s15-d70_17_3	The person gets out a juicer.	s15-d70	851	1073	orange	1073
+s15-d70_17_4	The person gets out a knife.	s15-d70	1119	1293	orange	1304
+s15-d70_17_5	The person gets out a cutting board.	s15-d70	1307	1428	orange	1433
+s15-d70_17_6	The person cuts the orange in half.	s15-d70	1438	1591	orange	1594
+s15-d70_17_7	The person makes some shallow cuts in one half, then juices it.	s15-d70	1694	3431	orange	3482
+s15-d70_17_8	The person makes shallow cuts in the second half and juices it.	s15-d70	3521	5042	orange	5086
+s15-d70_17_9	The person throws away the orange halves.	s15-d70	5123	5588	orange	5591
+s15-d70_17_10	The person gets out a cup.	s15-d70	5671	6194	orange	6169
+s15-d70_17_11	The person pours the juice into the cup.	s15-d70	6223	6335	orange	6379
+s15-d70_17_12	The person gets out a spoon.	s15-d70	6419	6568	orange	6578
+s15-d70_17_13	The person scrapes the pulp out of the juicer and into the glass of juice.	s15-d70	6588	7766	orange	7754
+s15-d70_17_14	The person puts the dishes in the sink.	s15-d70	7791	7850	orange	7845
+s15-d70_17_15	The person gets out another spoon and stirs the juice.	s15-d70	7718	8242	orange	8240
+s15-d70_18_1	Girl goes to the fridge and gets an orange and washes it.	s15-d70	221	494	orange	627
+s15-d70_18_2	The girl gets a knife and cuts the orange in half.	s15-d70	597	1591	orange	1643
+s15-d70_18_3	She cuts some of the middle before squeezing it in a juicer.	s15-d70	1694	1950	orange	2019
+s15-d70_18_4	The girl squeezes both halves extra well.	s15-d70	2013	5866	orange	5923
+s15-d70_18_5	The girl gets a glass and pours the fresh squeezed orange juice.	s15-d70	5950	6335	orange	6287
+s15-d70_18_6	She takes the pulp that was left and puts it in the glass.	s15-d70	6419	6918	orange	6927
+s15-d70_19_1	The person procures an orange from the crisper.	s15-d70	221	494	orange	519
+s15-d70_19_2	The person washes the orange under the faucet.	s15-d70	597	767	orange	791
+s15-d70_19_3	The person takes a juice strainer from a drawer.	s15-d70	851	1073	orange	1119
+s15-d70_19_4	The person gets a knife and a cutting board from the drawer.	s15-d70	1119	1428	orange	1417
+s15-d70_19_5	The person cuts the orange in half.	s15-d70	1438	1591	orange	1629
+s15-d70_19_6	The person grinds each half into the juice strainer.	s15-d70	1694	5447	orange	5511
+s15-d70_19_7	The person disposes of the orange halves into the trash.	s15-d70	5537	5588	orange	5615
+s15-d70_19_8	The person removes the strainer from the juicer.	s15-d70	5671	5866	orange	5869
+s15-d70_19_9	The person procures a glass from the cupboard.	s15-d70	5950	6194	orange	6169
+s15-d70_19_10	The person pours the juice from the bottom of the juice strainer into the glass.	s15-d70	6223	6335	orange	6369
+s15-d70_19_11	The person gets a spoon from the cutlery drawer.	s15-d70	6419	6568	orange	6583
+s15-d70_19_12	The person uses the spoon to scoop pulp from the strainer into the glass.	s15-d70	6976	7699	orange	7737
+s15-d70_19_13	The person places the strainer, the cutting board, and the knife into the sink.	s15-d70	7718	7850	orange	7879

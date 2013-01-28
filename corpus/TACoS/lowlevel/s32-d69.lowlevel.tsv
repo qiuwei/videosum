@@ -1,0 +1,83 @@
+204	640	take out	hand	egg	counter,fridge
+714	874	take out	hand	bowl	counter,drawer
+880	919	close	hand		drawer
+938	1133	take out	hand	wire whisk	counter,drawer
+1178	1231	wash	hand	bowl	
+1231	1278	shake	hand	bowl	
+1303	1344	move	hand	egg	,sink
+1355	1393	shake	hand	bowl	
+1414	1456	dry	towel	bowl	
+1519	1595	wash	hand	egg	
+1601	1641	shake	hand	egg	
+1667	1765	open egg	hand	egg	bowl
+1783	1869	wash	hand	hand	
+1869	1892	dry	sponge	hand	
+1921	1985	throw in garbage	hand	eggshell	
+1995	2098	open egg	hand	egg	bowl
+2127	2163	throw in garbage	hand	eggshell	
+2187	2255	wash	hand	hand	
+2280	2332	wash	hand	wire whisk	
+2336	2375	shake	hand	wire whisk	
+2453	2481	take out	hand	spice shaker	spice holder
+2488	2501	screw	hand	spice shaker	
+2514	2570	spice	spice shaker	salt	bowl
+2572	2600	screw	hand	spice shaker	
+2600	2632	put in	hand	spice shaker	,spice holder
+2632	2658	take out	hand	spice shaker	spice holder
+2663	2679	screw	hand	spice shaker	
+2741	2774	spice	hand	spice shaker	bowl
+2780	2820	screw	hand	spice shaker	
+2827	2849	put in	hand	spice shaker	,spice holder
+2899	3528	whisk	wire whisk	egg	bowl
+3621	3779	take out	hand	pan	drawer,stove
+3783	3871	turn on	hand	stove	
+3886	3928	change temperature	hand	stove	
+4018	4152	open	hand		fridge
+4177	4246	open	hand		cupboard
+4354	4412	close	hand		cupboard
+4427	4665	take out	hand	plastic box	counter,fridge
+4665	4797	take out	hand	knife	,drawer
+4825	4924	change temperature	hand	stove	
+4967	5017	wash	hand	knife	
+5017	5067	shake	hand	knife	
+5081	5164	remove lid	hand	lid	counter,plastic box
+5219	5308	cut	knife	butter	plastic box
+5329	5573	add	knife	butter	pan,plastic box
+5595	5660	change temperature	hand	stove	
+5669	5716	move	hand	plastic bag	counter
+5742	5907	whisk	wire whisk	egg	bowl
+5922	6093	spread	pan	butter	pan
+6113	6178	open	hand		drawer
+6178	6304	take out	hand	spatula	,drawer
+6318	6638	spread	pan	butter	pan
+6741	6826	wash	hand	spatula	
+6826	6854	shake	hand	spatula	
+6873	6965	dry	towel	spatula	
+6974	7007	move	hand	spatula	,counter
+7067	7279	take out	hand	plate	,cupboard
+7295	7343	close	hand		cupboard
+7361	7434	move	hand	plate	,counter
+7434	7481	spread	pan	butter	pan
+7487	7585	whisk	wire whisk	egg	bowl
+7590	7747	add	bowl	egg	bowl,pan
+7770	7828	move	hand	bowl,wire whisk	,sink
+7858	8093	move	spatula	egg	pan
+8166	8844	move	spatula	egg	pan
+8851	8951	turn over	spatula	egg	pan
+8980	9074	move	spatula	egg	pan
+9101	9594	add	spatula	cheese	pan,plate
+9618	9857	turn over	spatula	egg	pan
+10486	10731	turn over	spatula	egg	pan
+10848	10939	change temperature	hand	stove	
+10973	11019	move	spatula	egg	pan
+11093	11283	take out	hand	plate	,cupboard
+11297	11351	wash	hand	plate	
+11351	11380	shake	hand	plate	
+11385	11408	move	hand	towel	,handle
+11408	11469	dry	towel	plate	
+11474	11530	move	hand	towel	,handle
+11613	11785	move	spatula	egg	pan,plate
+11838	11941	move	hand	pan	,stove
+12018	12092	move	hand	knife	counter,sink
+12112	12152	put lid	hand	lid	counter,plastic box
+12172	12320	put in	hand	plastic box	counter,fridge

@@ -1,0 +1,154 @@
+s14-d27_1_1	The woman grabs an onion out of the pantry.	s14-d27	112	289	onion	235
+s14-d27_1_2	The woman grabs a cutting board, 2 knives and a bowl.	s14-d27	289	743	onion	754
+s14-d27_1_3	The woman peels the onion.	s14-d27	743	3550	onion	3567
+s14-d27_1_4	The woman washes off the onion.	s14-d27	3618	3751	onion	3758
+s14-d27_1_5	The woman chops the onion into fine, small pieces.	s14-d27	3751	5691	onion	5741
+s14-d27_1_6	The woman rinses her hands and knives off.	s14-d27	5753	5956	onion	5961
+s14-d27_1_7	The woman properly discards the peels.	s14-d27	6065	6133	onion	6132
+s14-d27_2_1	The person selects an onion from the cabinet.	s14-d27	112	289	onion	288
+s14-d27_2_2	The woman places a cutting board on the counter.	s14-d27	289	419	onion	426
+s14-d27_2_3	The woman selects a small paring knife and a medium knife.	s14-d27	424	586	onion	612
+s14-d27_2_4	The woman puts a bowl on the counter.	s14-d27	608	779	onion	762
+s14-d27_2_5	The person peels the onion with the paring knife.	s14-d27	834	3550	onion	3574
+s14-d27_2_6	The person rinses off the onion.	s14-d27	3618	3751	onion	3760
+s14-d27_2_7	The person slices the onion in half.	s14-d27	3751	3876	onion	3904
+s14-d27_2_8	The person rinses off the paring knife.	s14-d27	3960	4029	onion	4028
+s14-d27_2_9	The person cuts one half of the onion length-wise with the paring knife.	s14-d27	4050	4315	onion	4320
+s14-d27_2_10	The woman uses the larger knife to further dice the onion.	s14-d27	4340	4806	onion	4824
+s14-d27_2_11	The person uses the paring knife to slice the second half of the onion lengthwise.	s14-d27	4833	5127	onion	5138
+s14-d27_2_12	The person uses the larger knife to dice the second half of the onion.	s14-d27	5193	5691	onion	5720
+s14-d27_2_13	The person rinses off both knives.	s14-d27	5753	5956	onion	6068
+s14-d27_2_14	The video ends.	s14-d27	6065	6133	onion	6130
+s14-d27_3_1	The person gets out an onion.	s14-d27	112	289	onion	280
+s14-d27_3_2	The person gets out a wooden plate.	s14-d27	289	419	onion	406
+s14-d27_3_3	The person gets out two knives.	s14-d27	424	586	onion	614
+s14-d27_3_4	The person gets out a bowl.	s14-d27	608	779	onion	766
+s14-d27_3_5	The person peels the onion.	s14-d27	834	3550	onion	3572
+s14-d27_3_6	The person rinses the onion.	s14-d27	3618	3751	onion	3768
+s14-d27_3_7	The person chops up the onion.	s14-d27	3751	5691	onion	5742
+s14-d27_3_8	The person rinses the knife.	s14-d27	5753	5956	onion	5994
+s14-d27_3_9	The person throws away the peel.	s14-d27	6065	6133	onion	6130
+s14-d27_4_1	She gets an onion.	s14-d27	112	289	onion	304
+s14-d27_4_2	She gets the utensils needed.	s14-d27	289	586	onion	578
+s14-d27_4_3	She peels the onion.	s14-d27	608	3550	onion	3606
+s14-d27_4_4	She rinses the onion.	s14-d27	3618	3801	onion	3790
+s14-d27_4_5	She chops the onion.	s14-d27	3804	5691	onion	5734
+s14-d27_4_6	She cleans up.	s14-d27	5753	5956	onion	6048
+s14-d27_5_1	Get your onion and place on counter.	s14-d27	112	289	onion	310
+s14-d27_5_2	Get a cutting board, two knives and a bowl.	s14-d27	289	743	onion	760
+s14-d27_5_3	Use a knife to peel the onion over the bowl.	s14-d27	743	3550	onion	3616
+s14-d27_5_4	Rinse the onion off in the sink.	s14-d27	3618	3801	onion	3802
+s14-d27_5_5	Cut onion in half.	s14-d27	3804	3876	onion	3974
+s14-d27_5_6	Rinse knife and slice onion.	s14-d27	3960	4315	onion	4496
+s14-d27_5_7	Use other knife to cut onion in pieces.	s14-d27	4340	4883	onion	4950
+s14-d27_5_8	Repeat the steps for the other half of the onion.	s14-d27	4916	5691	onion	5774
+s14-d27_5_9	Rinse your knives and discard peels in the trash.	s14-d27	6065	6133	onion	6130
+s14-d27_6_1	She gets a onion, cutting board and knife.	s14-d27	112	586	onion	564
+s14-d27_6_2	She peels the onion and rinses it.	s14-d27	608	3751	onion	3770
+s14-d27_6_3	She chops it in half.	s14-d27	3751	3876	onion	3902
+s14-d27_6_4	She minces each half.	s14-d27	3960	5655	onion	5648
+s14-d27_6_5	She cleans up.	s14-d27	5753	6133	onion	6130
+s14-d27_7_1	She gets an onion.	s14-d27	112	289	onion	304
+s14-d27_7_2	She gets a cutting board and a knife.	s14-d27	289	586	onion	558
+s14-d27_7_3	She peels the onion.	s14-d27	608	3550	onion	3614
+s14-d27_7_4	She chops the onions.	s14-d27	3618	5623	onion	5632
+s14-d27_7_5	She cleans the knife.	s14-d27	5623	5956	onion	6010
+s14-d27_8_1	She took out onion	s14-d27	112	289	onion	240
+s14-d27_8_2	She took out cutting board	s14-d27	289	419	onion	418
+s14-d27_8_3	She took out knife	s14-d27	424	586	onion	564
+s14-d27_8_4	She took out bowl	s14-d27	608	743	onion	740
+s14-d27_8_5	She peeled onion	s14-d27	743	3550	onion	3576
+s14-d27_8_6	She washed onion	s14-d27	3618	3751	onion	3752
+s14-d27_8_7	She diced onion	s14-d27	3751	5691	onion	5748
+s14-d27_10_1	The person takes an onion from the pantry.	s14-d27	112	289	onion	260
+s14-d27_10_2	The person takes out a cutting board from the drawer.	s14-d27	289	386	onion	392
+s14-d27_10_3	The person takes out a pair of knives from the drawer.	s14-d27	386	586	onion	584
+s14-d27_10_4	The person takes out a metal bowl from the drawer.	s14-d27	608	743	onion	744
+s14-d27_10_5	The person uses the smaller knife to peel the onion into the bowl.	s14-d27	743	3550	onion	3586
+s14-d27_10_6	The person washes the onion in the sink.	s14-d27	3618	3751	onion	3764
+s14-d27_10_7	The person uses the large knife to cut the onion into halves and then rinses the smaller knife in the sink.	s14-d27	3751	4029	onion	4028
+s14-d27_10_8	The person alternates using each knife to slice and dice the onion halves.	s14-d27	4050	5691	onion	5718
+s14-d27_10_9	The person washes both knives in the sink.	s14-d27	5753	5956	onion	5960
+s14-d27_10_10	The person throws the peels into the wastebin.	s14-d27	5669	6133	onion	6130
+s14-d27_11_1	The person uses the large knife to cut the onion into halves and then rinses the smaller knife in the sink.	112	4029
+s14-d27_11_2	The person washes the onion in the sink.	112	4029
+s14-d27_11_3	The person uses the smaller knife to peel the onion into the bowl.	112	4029
+s14-d27_11_4	The person takes out a metal bowl from the drawer.	112	4029
+s14-d27_11_5	The person takes out a cutting board from the drawer.	112	4029
+s14-d27_11_6	The person takes out a pair of knives from the drawer.	112	4029
+s14-d27_11_7	The person takes an onion from the pantry.	112	4029
+s14-d27_11_8	The person alternates using each knife to slice and dice the onion halves.	s14-d27	4050	5691	onion	5712
+s14-d27_11_9	The person washes both knives in the sink.	s14-d27	5753	5956	onion	5964
+s14-d27_11_10	The person throws the peels into the wastebin.	s14-d27	6065	6133	onion	6130
+s14-d27_12_1	Retrieve an onion from the cupboard.	112	289
+s14-d27_12_2	Place the onion on the counter.	112	289
+s14-d27_12_3	Retrieve a cutting board and knife.	s14-d27	289	586	onion	564
+s14-d27_12_4	Have a stainless steel bowl ready.	s14-d27	608	779	onion	789
+s14-d27_12_5	Use the knife to peel the outer layer of skin from the onion into the bowl.	s14-d27	834	3550	onion	3572
+s14-d27_12_6	Gently rinse the onion.	s14-d27	3618	3728	onion	3733
+s14-d27_12_7	Place the onion on the cutting board and slice it in half, down the middle.	s14-d27	3728	3876	onion	3957
+s14-d27_12_8	Wash the knife.	s14-d27	5753	5956	onion	5998
+s14-d27_12_9	Dispose of the onion peel.	s14-d27	6065	6133	onion	6132
+s14-d27_13_1	An onion is removed from a cabinet.	s14-d27	112	289	onion	280
+s14-d27_13_2	The person removes a cutting board.	s14-d27	289	386	onion	394
+s14-d27_13_3	The person selects two knives.	s14-d27	386	586	onion	558
+s14-d27_13_4	A bowl is removed.	s14-d27	608	743	onion	758
+s14-d27_13_5	The onion is peeled over the bowl.	s14-d27	743	3550	onion	3574
+s14-d27_13_6	The onion is rinsed.	s14-d27	3618	3751	onion	3758
+s14-d27_13_7	The onion is cut in half.	s14-d27	3751	3876	onion	3916
+s14-d27_13_8	The onion is chopped.	s14-d27	3960	5655	onion	5658
+s14-d27_13_9	The knives are washed.	s14-d27	3960	5956	onion	5968
+s14-d27_13_10	The person discarded the scraps.	s14-d27	6065	6133	onion	6130
+s14-d27_14_1	The person gets out an onion.	s14-d27	112	289	onion	280
+s14-d27_14_2	The person gets out a wooden plate.	s14-d27	289	386	onion	385
+s14-d27_14_3	The person gets out two knives.	s14-d27	386	586	onion	577
+s14-d27_14_4	The person gets out a bowl.	s14-d27	608	743	onion	753
+s14-d27_14_5	The person peels the onion.	s14-d27	743	3550	onion	3576
+s14-d27_14_6	The person rinses the onion.	s14-d27	3618	3751	onion	3747
+s14-d27_14_7	The person cuts the onion in half.	s14-d27	3751	3876	onion	3905
+s14-d27_14_8	The person dices each half of the onion.	s14-d27	3960	5655	onion	5667
+s14-d27_14_9	The person rinses the knives.	s14-d27	5669	5956	onion	6037
+s14-d27_14_10	The person throws away the onion peel.	s14-d27	6065	6133	onion	6132
+s14-d27_15_1	She takes out an onion from the refrigerator and a knife, a wooden circular cutting board, and a metal bowl from the drawers.	s14-d27	112	779	onion	776
+s14-d27_15_2	She uses a knife to remove the outside covering of the onion.	s14-d27	834	3550	onion	3607
+s14-d27_15_3	She washes and rubs the onion under the faucet,	s14-d27	3618	3751	onion	3774
+s14-d27_15_4	She puts the onion on the cutting board and takes the knife to cut it in half.	s14-d27	3751	3876	onion	3953
+s14-d27_15_5	She washes the knife and then cuts the two sides of the onion horizontally and vertically into fine pieces.	s14-d27	3960	5655	onion	5676
+s14-d27_15_6	She washes the silverware and puts them to the side.	s14-d27	5669	5956	onion	6051
+s14-d27_15_7	She goes to the trash can to throw away the outside of the onion which she removed.	s14-d27	6065	6133	onion	6132
+s14-d27_16_1	She took out onion	s14-d27	112	289	onion	263
+s14-d27_16_2	She took out cutting board	s14-d27	289	419	onion	414
+s14-d27_16_3	She took out knife	s14-d27	424	586	onion	548
+s14-d27_16_4	She took out bowl	s14-d27	608	743	onion	737
+s14-d27_16_5	She peeled onion	s14-d27	743	3550	onion	3589
+s14-d27_16_6	She washed onion	s14-d27	3618	3728	onion	3729
+s14-d27_16_7	She cut onion in half	s14-d27	3728	3876	onion	3966
+s14-d27_16_8	She washed knife	s14-d27	3960	4029	onion	4067
+s14-d27_16_9	She diced onion	s14-d27	4050	5691	onion	5705
+s14-d27_16_10	She washed knife	s14-d27	5669	5956	onion	5949
+s14-d27_17_1	The person gets and onion out of the cupboard and a places it on the counter with a cutting board.	s14-d27	112	386	onion	397
+s14-d27_17_2	The person selects a large knife and a small knife from the drawer.	s14-d27	386	586	onion	551
+s14-d27_17_3	The person gets a small mixing bowl out of the drawer and places it on the counter.	s14-d27	608	743	onion	725
+s14-d27_17_4	The person cuts off the top end of the onion.	s14-d27	743	779	onion	908
+s14-d27_17_5	The person peels the onion, cutting off the skin.	s14-d27	834	3508	onion	3523
+s14-d27_17_6	The person slices the onion in half.	s14-d27	3508	4029	onion	4093
+s14-d27_17_7	The person dices the onion halves.	s14-d27	4050	5691	onion	5735
+s14-d27_17_8	The person rinses the large knife.	s14-d27	5753	5956	onion	6065
+s14-d27_18_1	The person retrieves an onion from the pantry.	s14-d27	112	289	onion	310
+s14-d27_18_2	The person takes out a cutting board.	s14-d27	289	386	onion	392
+s14-d27_18_3	The person takes two knives from out of a drawer.	s14-d27	386	586	onion	588
+s14-d27_18_4	The person takes a bowl from the drawer.	s14-d27	608	779	onion	780
+s14-d27_18_5	The person peels the onion with a paring knife.	s14-d27	834	3550	onion	3660
+s14-d27_18_6	The person washes the onion under the faucet.	s14-d27	3618	3751	onion	3758
+s14-d27_18_7	The person halves the onion with a large knife.	s14-d27	3751	3876	onion	3956
+s14-d27_18_8	The person slices and dices the onion on the cutting board.	s14-d27	3960	5691	onion	5726
+s14-d27_18_9	The person rinses the knives in the sink.	s14-d27	5753	5956	onion	5958
+s14-d27_18_10	The person prepares to put the peels in the bowl into the trashbin.	s14-d27	6065	6133	onion	6130
+s14-d27_19_1	She took out onion	s14-d27	112	289	onion	254
+s14-d27_19_2	She took out cutting board	s14-d27	289	386	onion	394
+s14-d27_19_3	She took out two knives	s14-d27	386	586	onion	592
+s14-d27_19_4	She took out bowl	s14-d27	608	743	onion	760
+s14-d27_19_5	She peeled onion	s14-d27	743	3550	onion	3646
+s14-d27_19_6	She washed onion	s14-d27	3618	3801	onion	3790
+s14-d27_19_7	She chopped onion in half	s14-d27	3804	3876	onion	3980
+s14-d27_19_8	She diced onion	s14-d27	3960	5691	onion	5742

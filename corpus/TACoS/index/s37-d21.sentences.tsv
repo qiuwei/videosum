@@ -1,0 +1,178 @@
+s37-d21_1_1	Man gets cucumber from the refrigerator and places it on the counter.	s37-d21	201	445	cucumber	468
+s37-d21_1_2	Man gets a knife, then a cutting board and plate and places them on the counter.	s37-d21	454	1367	cucumber	1383
+s37-d21_1_3	The man unwraps the cucumber.	s37-d21	1394	2192	cucumber	2255
+s37-d21_1_4	He thoroughly washes the cucumber and places it on the cutting board.	s37-d21	2256	2505	cucumber	2549
+s37-d21_1_5	He cuts the cucumber in half and removes the end.	s37-d21	2572	2709	cucumber	2725
+s37-d21_1_6	He removes a peeler from a drawer and peels one of the cucumber halfs.	s37-d21	2737	3931	cucumber	4013
+s37-d21_1_7	He then cuts the peeled half lengthwise in half again and chops it into fine slices.	s37-d21	4163	7975	cucumber	7983
+s37-d21_1_8	He places the slices on the plate and arranges in a single layer.	s37-d21	8063	8572	cucumber	8579
+s37-d21_1_9	The man gets salt, pepper, and another type of seasoning from the kitchen cabinets.	s37-d21	8706	10509	cucumber	10545
+s37-d21_1_10	He then sprinkles the slices with the seasoning.	s37-d21	10509	11043	cucumber	11089
+s37-d21_2_1	The person gets out a cucumber in plastic wrap.	s37-d21	201	445	cucumber	445
+s37-d21_2_2	The person gets out a knife.	s37-d21	454	703	cucumber	675
+s37-d21_2_3	The person gets out a cutting board.	s37-d21	726	897	cucumber	891
+s37-d21_2_4	The person gets out a plate.	s37-d21	904	1367	cucumber	1349
+s37-d21_2_5	The person unwraps the cucumber.	s37-d21	1394	2192	cucumber	2213
+s37-d21_2_6	The person rinses the cucumber.	s37-d21	2256	2505	cucumber	2557
+s37-d21_2_7	The person cuts the cucumber in half.	s37-d21	2572	2642	cucumber	2649
+s37-d21_2_8	The person gets out a vegetable peeler.	s37-d21	2662	2984	cucumber	2999
+s37-d21_2_9	The person peels one half of the cucumber.	s37-d21	3064	3931	cucumber	3955
+s37-d21_2_10	The person chops up the peeled cucumber half and puts the pieces on the plate.	s37-d21	4163	8456	cucumber	8493
+s37-d21_2_11	The person adds some kind of spice to the cucumber.	s37-d21	8456	10865	cucumber	10963
+s37-d21_3_1	He took out cucumber	s37-d21	201	445	cucumber	353
+s37-d21_3_2	He took out knife	s37-d21	454	703	cucumber	663
+s37-d21_3_3	He took out cutting board	s37-d21	726	897	cucumber	919
+s37-d21_3_4	He took out plate	s37-d21	904	1367	cucumber	1341
+s37-d21_3_5	He washed cucumber	s37-d21	1394	2505	cucumber	2555
+s37-d21_3_6	He cut cucumber in half	s37-d21	2572	2642	cucumber	2665
+s37-d21_3_7	He cut off end of the cucumber	s37-d21	2662	2709	cucumber	2763
+s37-d21_3_8	He peeled cucumber	s37-d21	2737	3931	cucumber	4003
+s37-d21_3_9	He chopped up cucumber	s37-d21	4163	5969	cucumber	5983
+s37-d21_4_1	He gets out a cucumber.	s37-d21	201	445	cucumber	447
+s37-d21_4_2	He gets a knife and cutting board.	s37-d21	454	897	cucumber	903
+s37-d21_4_3	He unwraps the cucumber.	s37-d21	904	2192	cucumber	2285
+s37-d21_4_4	He rinses the cucumber.	s37-d21	2256	2505	cucumber	2557
+s37-d21_4_5	He peels half the cucumber and then chops it.	s37-d21	5970	8456	cucumber	8463
+s37-d21_4_6	He seasons the cucumber and put the spices away.	s37-d21	8456	10865	cucumber	10947
+s37-d21_5_1	He gets a cucumber.	s37-d21	201	445	cucumber	461
+s37-d21_5_2	He gets a knife and cutting board.	s37-d21	454	964	cucumber	943
+s37-d21_5_3	He gets a plate.	s37-d21	1029	1367	cucumber	1377
+s37-d21_5_4	He removes the wrapping from the cucumber.	s37-d21	1394	2192	cucumber	2261
+s37-d21_5_5	He rinses the cucumber.	s37-d21	2256	2505	cucumber	2557
+s37-d21_5_6	He chops and peels the first half of the cucumber.	s37-d21	2572	8572	cucumber	8699
+s37-d21_5_7	He seasons the cucumbers.	s37-d21	10903	11043	cucumber	10983
+s37-d21_6_1	He grabs a cucumber.	s37-d21	201	445	cucumber	303
+s37-d21_6_2	He gets a knife and a cutting board.	s37-d21	454	897	cucumber	903
+s37-d21_6_3	He takes the plastic off the cucumber and discards it.	s37-d21	904	2334	cucumber	2329
+s37-d21_6_4	He rinses the cucumber.	s37-d21	2361	2505	cucumber	2563
+s37-d21_6_5	He peels half the cucumber and chops it.	s37-d21	2572	7907	cucumber	7929
+s37-d21_6_6	He puts the cucumber on the plate.	s37-d21	7907	8456	cucumber	8511
+s37-d21_6_7	He seasons the cucumber and puts the spices away.	s37-d21	10903	11043	cucumber	10993
+s37-d21_7_1	Take the cucumber out of the refrigerator	201	445
+s37-d21_7_2	Choose a good, sharp knife	201	445
+s37-d21_7_3	Take out a cutting board	s37-d21	454	703	cucumber	769
+s37-d21_7_4	Take out a dish for cut cucumber	726	1367
+s37-d21_7_5	Take off the wrapper	726	1367
+s37-d21_7_6	Wash the cucumber thoroughly	s37-d21	1394	2334	cucumber	2361
+s37-d21_7_7	Cut the cucumber in half	s37-d21	2361	2505	cucumber	2555
+s37-d21_7_8	Use a peeler to take off outer skin	s37-d21	2572	2709	cucumber	2771
+s37-d21_7_9	Once skin peeled off cut down the middle	s37-d21	2737	3931	cucumber	4115
+s37-d21_7_10	Now being to cut pieces off each half	s37-d21	4163	4253	cucumber	4303
+s37-d21_7_11	Put pieces in a clean dish and begin cutting other side	s37-d21	2572	6021	cucumber	6067
+s37-d21_7_12	Season if desired	s37-d21	6075	8882	cucumber	8921
+s37-d21_8_1	The man goes to the refrigerator and takes out a cucumber.	s37-d21	201	445	cucumber	397
+s37-d21_8_2	He places the cucumber on the counter and takes out a knife and a cutting board.	s37-d21	454	897	cucumber	869
+s37-d21_8_3	He places the cucumber on the cutting board.	s37-d21	904	964	cucumber	953
+s37-d21_8_4	The man goes to the cabinet and takes out a white plate.	s37-d21	1029	1367	cucumber	1351
+s37-d21_8_5	First, he uses his hands to take off the plastic covering the cucumber.	s37-d21	1394	2192	cucumber	2165
+s37-d21_8_6	He washes the cucumber in the sink.	s37-d21	2256	2505	cucumber	2519
+s37-d21_8_7	First, he cuts the cucumber in half and sets one halve aside.	s37-d21	2572	2642	cucumber	2655
+s37-d21_8_8	He cuts off the tip of the cucumber and takes out a peeler.	s37-d21	2662	2984	cucumber	3035
+s37-d21_8_9	He uses the peeler to peel the cucumber halve.	s37-d21	3064	3931	cucumber	3993
+s37-d21_8_10	He cuts the cucumber into another halve and begins to cut the cucumber in slices.	s37-d21	4163	5075	cucumber	4883
+s37-d21_8_11	He places the pieces of cucumber on the white plate.	s37-d21	4307	6514	cucumber	6647
+s37-d21_8_12	He places the remaining pieces from the cutting board onto the plate.	s37-d21	6578	8456	cucumber	8489
+s37-d21_8_13	He places two spices on the counter.	s37-d21	8899	9224	cucumber	9225
+s37-d21_8_14	He grabs a third spice and sprinkles it over the cucumber pieces.	s37-d21	9271	10254	cucumber	10353
+s37-d21_9_1	The man takes a cucumber out of the refrigerator.	s37-d21	201	445	cucumber	325
+s37-d21_9_2	He takes a knife out of a drawer.	s37-d21	454	703	cucumber	671
+s37-d21_9_3	He also takes out a cutting board and places it under the cucumber.	s37-d21	726	964	cucumber	947
+s37-d21_9_4	He gets a plate out of the cupboard and puts it on the counter.	s37-d21	1029	1367	cucumber	1371
+s37-d21_9_5	He peels the plastic covering from the cucumber and discards it.	s37-d21	1394	2334	cucumber	2317
+s37-d21_9_6	He opens a drawer and takes out a peeler.	s37-d21	2361	2984	cucumber	2985
+s37-d21_9_7	He peels the cucumber.	s37-d21	3064	3931	cucumber	3981
+s37-d21_9_8	He slices the cucumber half down the middle	s37-d21	4163	4253	cucumber	4243
+s37-d21_9_9	He carefully cuts one fourth of the cucumber into smaller slices.	s37-d21	4307	5929	cucumber	5929
+s37-d21_9_10	He places the sliced cucumber on the plate.	s37-d21	5075	6514	cucumber	6527
+s37-d21_9_11	He chops the other peeled side into slices.	s37-d21	6578	7975	cucumber	7977
+s37-d21_9_12	He places them all on the plate.	s37-d21	8063	8456	cucumber	8473
+s37-d21_9_13	He gets salt and pepper and places them next to the cutting board.	s37-d21	8456	9111	cucumber	9121
+s37-d21_9_14	He gets another spice and sprinkles it on the chopped cucumber.	s37-d21	8706	11043	cucumber	10981
+s37-d21_10_1	He took out cucumber	s37-d21	201	445	cucumber	373
+s37-d21_10_2	He took out knife	s37-d21	454	703	cucumber	677
+s37-d21_10_3	He took out cutting board	s37-d21	726	897	cucumber	903
+s37-d21_10_4	He took out plate	s37-d21	904	1367	cucumber	1313
+s37-d21_10_5	He washed cucumber	s37-d21	1394	2505	cucumber	2537
+s37-d21_10_6	He took out peeler	s37-d21	2572	2984	cucumber	2993
+s37-d21_10_7	He peeled cucumber	s37-d21	3064	3931	cucumber	4015
+s37-d21_10_8	He sliced cucumber	s37-d21	5952	6103	cucumber	6109
+s37-d21_10_9	He put cucumber on plate	s37-d21	6108	6514	cucumber	6557
+s37-d21_11_1	the person takes out a cutting board and a sharp knife	201	1367
+s37-d21_11_2	the person takes out a plate	201	1367
+s37-d21_11_3	the person washes the Cucumber	s37-d21	1394	2505	cucumber	2583
+s37-d21_11_4	the person cuts the Cucumber in half and cuts off the end	2572	2984
+s37-d21_11_5	the person gets a peeler and peels the skin off of the Cucumber	2572	2984
+s37-d21_11_6	the person slices the Cucumber half in half	s37-d21	3064	5169	cucumber	5297
+s37-d21_11_7	the person slices the Cucumber	s37-d21	6578	8128	cucumber	8209
+s37-d21_11_8	the person puts the Cucumber slices on a plate	s37-d21	8456	9661	cucumber	9935
+s37-d21_12_1	He takes a cucumber out of the refrigerator.	s37-d21	201	445	cucumber	337
+s37-d21_12_2	Takes a plate out of the cabinet.	s37-d21	454	1367	cucumber	1299
+s37-d21_12_3	Removes the wrapper from the cucumber.	s37-d21	1394	2192	cucumber	2229
+s37-d21_12_4	Washes the cucumber in the sink.	s37-d21	2256	2505	cucumber	2537
+s37-d21_12_5	Grates half of the cucumber.	s37-d21	2572	3931	cucumber	4004
+s37-d21_12_6	Slices the cucumber half down the middle	s37-d21	4163	4253	cucumber	4326
+s37-d21_12_7	Chops up 1st half of the cucumber	s37-d21	4307	5929	cucumber	5924
+s37-d21_12_8	Places the slices on the plate.	s37-d21	5188	6514	cucumber	6543
+s37-d21_12_9	Chops up the 2nd half of the cucumber.	s37-d21	4163	7975	cucumber	7944
+s37-d21_12_10	Places the last remaining slices on the plate.	s37-d21	8063	8572	cucumber	8560
+s37-d21_12_11	Sprinkles seasoning on the cucumber slices.	s37-d21	9155	10509	cucumber	10498
+s37-d21_13_1	He gets a cucumber out of the fridge.	s37-d21	201	445	cucumber	391
+s37-d21_13_2	 He gets a knife out of the drawer.	s37-d21	454	703	cucumber	649
+s37-d21_13_3	He gets a cutting board out of the cupboard.	s37-d21	726	897	cucumber	889
+s37-d21_13_4	 He gets a plate out of the cupboard.	s37-d21	904	1367	cucumber	1295
+s37-d21_13_5	He remove the cucumber from its packaging.	s37-d21	1394	2192	cucumber	2191
+s37-d21_13_6	He chops the cucumber in half.	s37-d21	2256	2642	cucumber	2623
+s37-d21_13_7	He gets a peeler out of the drawer.	s37-d21	2662	2984	cucumber	2997
+s37-d21_13_8	He peels one half of the cucumber.	s37-d21	3064	3931	cucumber	4093
+s37-d21_13_9	He slices the peeled half of the cucumber and puts the pieces on a plate.	s37-d21	6578	8456	cucumber	8445
+s37-d21_13_10	He adds spices to the cucumber pieces on the plate.	s37-d21	10509	10865	cucumber	10883
+s37-d21_14_1	The man got a cucumber out of the refrigerator and placed it on the counter.	s37-d21	201	445	cucumber	455
+s37-d21_14_2	The man got a knife out of the drawer and placed it on the counter.	s37-d21	454	703	cucumber	667
+s37-d21_14_3	The man got a cutting board out of the drawer and placed it on the counter.	s37-d21	726	897	cucumber	915
+s37-d21_14_4	The man got a plate out of the cupboard and placed it on the counter.	s37-d21	904	1367	cucumber	1386
+s37-d21_14_5	The man removed the plastic from the cucumber and placed the plastic in the garbage.	s37-d21	1394	2192	cucumber	2271
+s37-d21_14_6	The man rinsed the cucumber.	s37-d21	2256	2505	cucumber	2551
+s37-d21_14_7	The man cut the cucumber in half and placed one half to the side.	s37-d21	2572	2709	cucumber	2772
+s37-d21_14_8	The man got a peeler out of the drawer.	s37-d21	2737	2984	cucumber	3043
+s37-d21_14_9	The man peeled one-half of the cucumber.	s37-d21	3064	3931	cucumber	4092
+s37-d21_14_10	The man sliced on half of the cucumber in half lengthwise.	s37-d21	4163	4253	cucumber	4239
+s37-d21_14_11	The man sliced the cut quarters of the cucumber.	s37-d21	5952	7975	cucumber	8023
+s37-d21_14_12	The man placed the cucumber slices on the plate.	s37-d21	8063	8572	cucumber	8721
+s37-d21_14_13	The man got salt an pepper from the spice rack.	s37-d21	8456	9111	cucumber	9134
+s37-d21_14_14	The man seasoned the cucumber slices and put the spices back.	s37-d21	8456	11043	cucumber	11061
+s37-d21_15_1	To prepare the man gets a cucumber, a knife, a cutting board, and a plate.	s37-d21	201	1367	cucumber	1355
+s37-d21_15_2	The man removes the packaging from the cucumber and throws it away.	s37-d21	1394	2334	cucumber	2304
+s37-d21_15_3	The man washes the outside of the cucumber.	s37-d21	2361	2505	cucumber	2536
+s37-d21_15_4	The man cuts the cucumber in half and removes the stem.	s37-d21	2572	2709	cucumber	2711
+s37-d21_15_5	With a peeler the man removes the skin from half of the cucumber.	s37-d21	2737	3931	cucumber	4065
+s37-d21_15_6	The man thinly slices the cucumber and places it on the plate.	s37-d21	4163	8456	cucumber	8456
+s37-d21_15_7	The man adds seasoning to the cucumber slices.	s37-d21	8706	10425	cucumber	10457
+s37-d21_16_1	The man sets up his station by grabbing a cucumber, a cutting board, and a knife.	s37-d21	201	964	cucumber	949
+s37-d21_16_2	The man removes the cucumber from its protective packaging.	s37-d21	1029	2192	cucumber	2200
+s37-d21_16_3	The man washes the cucumber.	s37-d21	2256	2505	cucumber	2562
+s37-d21_16_4	The man cuts the cucumber in half and peels the first half.	s37-d21	2572	3931	cucumber	3969
+s37-d21_16_5	The man thinly slices the first half of the cucumber and puts it on a plate.	s37-d21	4307	8456	cucumber	8460
+s37-d21_16_6	The man adds seasoning to the sliced cucumber.	s37-d21	9155	10425	cucumber	10438
+s37-d21_17_1	The man retrieves a cucumber, a knife, a plate, and a cuttingboard and unwraps the cucumber.	s37-d21	201	2334	cucumber	2390
+s37-d21_17_2	He rinses the cucumber off in the sink.	s37-d21	2361	2505	cucumber	2594
+s37-d21_17_3	He cuts the cucumber in half and removes the tip.	s37-d21	2572	2820	cucumber	2836
+s37-d21_17_4	He peels one half of the cucumber.	s37-d21	2820	3931	cucumber	4016
+s37-d21_17_5	He cuts the half into a smaller half.	s37-d21	4163	4253	cucumber	4321
+s37-d21_17_6	He dices each smaller half individually and moves the pieces to the plate.	s37-d21	4163	8572	cucumber	8573
+s37-d21_17_7	He retrieves spices and has a conversation off-camera.	s37-d21	8456	9661	cucumber	10157
+s37-d21_17_8	He seasons the cucumber with unknown spices.	s37-d21	10317	11043	cucumber	11128
+s37-d21_19_1	The man grabs a sealed cucumber.	s37-d21	201	445	cucumber	313
+s37-d21_19_2	The man grabs a knife.	s37-d21	454	703	cucumber	699
+s37-d21_19_3	The man grabs a cutting board.	s37-d21	726	964	cucumber	941
+s37-d21_19_4	The man grabs a plate.	s37-d21	1029	1367	cucumber	1285
+s37-d21_19_5	The man rids the cucumber of its seal/wrapper.	s37-d21	1394	2192	cucumber	2231
+s37-d21_19_6	The man disposes the seal/wrapper.	s37-d21	2256	2334	cucumber	2327
+s37-d21_19_7	The man rinses the cucumber.	s37-d21	2361	2505	cucumber	2533
+s37-d21_19_8	The man cuts the cucumber into two cylindrical halves.	s37-d21	2572	2642	cucumber	2675
+s37-d21_19_9	The man grabs a peeler.	s37-d21	2662	2984	cucumber	2981
+s37-d21_19_10	The man peels one half of the cucumber.	s37-d21	3064	3931	cucumber	4119
+s37-d21_19_11	The man finely chops the peeled half of the cucumber into thin, semi circle slices and places them onto plate.	s37-d21	4163	8572	cucumber	8585
+s37-d21_19_12	The man grabs what appears to be salt and pepper and places them on counter.	s37-d21	8706	9111	cucumber	9121
+s37-d21_19_13	The man grabs another seasoning and seasons the cucumber slices.	s37-d21	8456	10425	cucumber	10455
+s37-d21_19_14	The man returns the salt, pepper and seasoning back to their original places.	10903	11043
+s37-d21_19_15	The man has completed his assigned task.	10903	11043

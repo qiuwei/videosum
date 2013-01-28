@@ -1,0 +1,11 @@
+303	693	take out	hand	bundle	fridge
+768	878	remove rubber band	hand	rubber band	bundle
+906	1048	wash	hand	bundle	
+1048	1113	wring out	hand	bundle	sink
+1215	1326	take out	hand	cutting board	counter,drawer
+1326	1353	close	hand		drawer
+1357	1583	take out	hand	knife	counter,drawer
+1612	1695	wring out	hand	bundle	sink
+1695	1742	move	hand	bundle	,cutting board
+1778	2965	chop	knife	bundle	cutting board
+3002	3103	throw in garbage	hand	parsley	

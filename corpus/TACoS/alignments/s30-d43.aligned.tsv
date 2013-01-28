@@ -1,0 +1,64 @@
+190	539	take out	hand	bottle,potato	counter,cupboard		s30-d43_3_1	s30-d43_5_1	s30-d43_6_1	s30-d43_7_1	s30-d43_8_1	s30-d43_9_1			s30-d43_12_1	s30-d43_13_1	s30-d43_14_1. s30-d43_14_2	s30-d43_15_1		s30-d43_18_1		
+581	618	close	hand		cupboard									s30-d43_11_1								
+670	738	open	hand		drawer														s30-d43_17_1			
+751	882	take out	hand	pan	drawer,stove		s30-d43_3_2			s30-d43_7_2	s30-d43_8_2		s30-d43_10_1		s30-d43_12_2		s30-d43_14_3	s30-d43_15_2	s30-d43_17_2	s30-d43_18_2		
+921	987	open	hand		drawer																	
+1003	1092	move	hand	cutting board	counter			s30-d43_5_2		s30-d43_7_3	s30-d43_8_3	s30-d43_9_2		s30-d43_11_2	s30-d43_12_3		s30-d43_14_4		s30-d43_17_3	s30-d43_18_3	s30-d43_19_1	s30-d43_20_1
+1121	1385	wash	hand	potato																		
+1411	1615	wash	hand	potato								s30-d43_9_3			s30-d43_12_4							
+1619	1681	shake	hand	potato			s30-d43_3_3		s30-d43_6_2	s30-d43_7_4	s30-d43_8_4			s30-d43_11_3		s30-d43_13_2	s30-d43_14_5	s30-d43_15_3	s30-d43_17_4	s30-d43_18_4	s30-d43_19_2	s30-d43_20_2
+1697	1799	take out	hand	peeler	,drawer			s30-d43_5_3		s30-d43_7_5	s30-d43_8_5		s30-d43_10_2		s30-d43_12_5		s30-d43_14_6		s30-d43_17_5	s30-d43_18_5		
+1813	2694	peel	peeler	potato													s30-d43_14_7					
+2748	3680	peel	peeler	potato			s30-d43_3_4	s30-d43_5_4	s30-d43_6_3	s30-d43_7_6	s30-d43_8_6	s30-d43_9_4		s30-d43_11_4	s30-d43_12_6	s30-d43_13_3	s30-d43_14_8	s30-d43_15_4	s30-d43_17_6	s30-d43_18_6	s30-d43_19_3	s30-d43_20_3
+3792	3871	wash	hand	potato						s30-d43_7_7					s30-d43_12_7	s30-d43_13_4	s30-d43_14_9			s30-d43_18_7		
+3877	3931	shake	hand	potato			s30-d43_3_5				s30-d43_8_7	s30-d43_9_5		s30-d43_11_5					s30-d43_17_7			
+3955	3997	shake	hand	hand																		
+4036	4108	turn on	hand	stove																		
+4113	4205	change temperature	hand	stove				s30-d43_5_5		s30-d43_7_8					s30-d43_12_8			s30-d43_15_5	s30-d43_17_8			
+4244	4305	screw	hand	bottle																		
+4310	4557	pour	bottle	oil	bottle,pan					s30-d43_7_9					s30-d43_12_9	s30-d43_13_5		s30-d43_15_6	s30-d43_17_9			
+4569	4624	screw	hand	bottle					s30-d43_6_4		s30-d43_8_8		s30-d43_10_3							s30-d43_18_8		
+4656	4761	spread	pan	oil	pan		s30-d43_3_6	s30-d43_5_6				s30-d43_9_6		s30-d43_11_6	s30-d43_12_10						s30-d43_19_4	s30-d43_20_4
+4892	5383	slice	knife	potato	cutting board																	
+5389	5404	move	hand	potato	cutting board																	
+5444	5455	move	knife	potato	cutting board																	
+5470	5971	slice	knife	potato	cutting board																	
+5979	6018	move	hand	potato	cutting board		s30-d43_3_7	s30-d43_5_7	s30-d43_6_5	s30-d43_7_10	s30-d43_8_9		s30-d43_10_4	s30-d43_11_7	s30-d43_12_11	s30-d43_13_6		s30-d43_15_7		s30-d43_18_9	s30-d43_19_5	
+6067	6370	throw in garbage	hand	peel						s30-d43_7_11	s30-d43_8_10	s30-d43_9_7			s30-d43_12_12	s30-d43_13_7				s30-d43_18_10	s30-d43_19_6	s30-d43_20_5
+6427	6528	wash	hand	peeler											s30-d43_12_13							
+6520	6573	shake	hand	peeler							s30-d43_8_11			s30-d43_11_8								
+6604	6660	shake	hand	hand			s30-d43_3_8	s30-d43_5_8							s30-d43_12_14							
+6799	6846	move	hand	cutting board	counter																	
+6912	7166	take out	hand	spatula	,drawer										s30-d43_12_15							
+7189	7203	move	hand	potato	cutting board,spatula																	
+7209	7360	add	spatula	potato	pan,spatula																	
+7373	7445	add	hand	potato	cutting board,pan																	
+7450	7483	move	spatula	potato	pan																	
+7494	7554	add	hand	potato	cutting board,pan																	
+7563	7628	add	hand	potato	cutting board,pan																	
+7632	7690	add	hand	potato	cutting board,pan			s30-d43_5_9														
+7701	7727	add	hand	potato	cutting board,pan		s30-d43_3_9		s30-d43_6_6			s30-d43_9_8	s30-d43_10_5			s30-d43_13_8		s30-d43_15_8		s30-d43_18_11	s30-d43_19_7	s30-d43_20_6
+7732	9217	move	spatula	potato	pan																	
+9231	9254	move	hand	cutting board	counter						s30-d43_8_12			s30-d43_11_9								
+9265	9318	change temperature	hand	stove																		
+9389	9574	take out	hand	plate	counter,cupboard		s30-d43_3_10	s30-d43_5_10			s30-d43_8_13		s30-d43_10_6					s30-d43_15_9		s30-d43_18_12		
+9620	14529	move	spatula	potato	pan		s30-d43_3_11	s30-d43_5_11						s30-d43_11_10								s30-d43_20_7
+14627	14789	take out	hand	bottle	counter,fridge		s30-d43_3_12				s30-d43_8_14		s30-d43_10_7					s30-d43_15_10		s30-d43_18_13		
+14878	17088	move	spatula	potato	pan																	s30-d43_20_8
+17155	17211	change temperature	hand	stove		s30-d43_1_1. s30-d43_1_2. s30-d43_1_3. s30-d43_1_4. s30-d43_1_5. s30-d43_1_6. s30-d43_1_7. s30-d43_1_8. s30-d43_1_9. s30-d43_1_10	s30-d43_3_13							s30-d43_11_11							s30-d43_19_8	
+17287	17435	move	spatula	potato	pan,plate																	
+17458	17689	move	spatula	potato	pan,plate								s30-d43_10_8									
+17717	17968	move	spatula	potato	pan,plate																	
+18000	18255	move	spatula	potato	pan,plate																	
+18281	18387	move	spatula	potato	pan,plate																	
+18429	18614	move	spatula	potato	pan,plate																	
+18638	18775	move	spatula	potato	pan,plate																	
+18810	18860	move	spatula	potato	pan,plate																	
+18877	19009	move	spatula	potato	pan,plate	s30-d43_1_11	s30-d43_3_14	s30-d43_5_12	s30-d43_6_7			s30-d43_9_9		s30-d43_11_12		s30-d43_13_9		s30-d43_15_11		s30-d43_18_14	s30-d43_19_9	s30-d43_20_9
+19255	19326	add	bottle	ketchup	plastic bottle,plate				s30-d43_6_8			s30-d43_9_10				s30-d43_13_10		s30-d43_15_12			s30-d43_19_10	
+19407	19429	take out	hand	spice shaker	,spice holder																	
+19434	19461	screw	hand	spice shaker																		
+19479	19622	spice	spice shaker	salt	plate	s30-d43_1_12																
+19642	19667	spice	spice shaker	salt	plate		s30-d43_3_15		s30-d43_6_9		s30-d43_8_15	s30-d43_9_11	s30-d43_10_9			s30-d43_13_11				s30-d43_18_15		
+19667	19806	screw	hand	spice shaker																		
+19728	19756	put in	hand	spice shaker	spice holder			s30-d43_5_13						s30-d43_11_13							s30-d43_19_11	s30-d43_20_10

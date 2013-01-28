@@ -1,0 +1,32 @@
+231	357	take out	hand	knife	counter,drawer
+366	412	take out	hand	peeler	counter,drawer
+418	449	move	hand	knife	,counter
+462	541	open	hand		cupboard
+553	754	take out	hand	potato	,cupboard
+760	806	move	hand	knife	,counter
+813	828	move	hand	peeler	,counter
+833	855	move	hand	potato	,counter
+875	1503	peel	peeler	potato	
+1521	2297	peel	peeler	potato	
+2370	2440	wash	hand	potato	
+2444	2471	shake	hand	hand	
+2478	2577	take out	hand	cutting board	counter,drawer
+2618	2711	take out	hand	pot	drawer,stove
+2723	2758	close	hand		drawer
+2766	2787	remove lid	hand	lid	counter,pot
+2838	3025	fill	faucet	water	,pot
+3047	3067	take out	hand	spice shaker	,spice holder
+3078	3090	screw	hand	spice shaker	
+3090	3132	spice	spice shaker	salt	pot,spice shaker
+3137	3181	screw	hand	spice shaker	
+3181	3214	put in	hand	spice shaker	,spice holder
+3223	3338	move	hand	pot	counter,stove
+3356	3393	change temperature	hand	stove	
+3400	3440	turn on	hand	stove	
+3440	3507	change temperature	hand	stove	
+3553	3597	cut	knife	potato	cutting board
+3623	3677	cut	knife	potato	cutting board
+3689	3738	cut	knife	potato	cutting board
+3738	3791	cut	knife	potato	cutting board
+3795	3898	add	hand	potato	cutting board,pot
+3905	3938	put lid	hand	lid	counter,pot

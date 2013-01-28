@@ -1,0 +1,90 @@
+s14-d26_1_1	The person gets out a cauliflower.	s14-d26	165	383	cauliflower	394
+s14-d26_1_2	The person gets out a knife.	s14-d26	422	556	cauliflower	560
+s14-d26_1_3	The person gets out a silver bowl and a blue bowl.	s14-d26	572	932	cauliflower	948
+s14-d26_1_4	The person cuts pieces off the bottom of the cauliflower and puts them in the blue bowl.	s14-d26	1005	3339	cauliflower	3323
+s14-d26_1_5	The person pulls off pieces of the cauliflower, trims them and puts them in the silver bowl.	s14-d26	3339	6413	cauliflower	6403
+s14-d26_1_6	The person trims more stuff off the cauliflower, and puts the trimmed pieces in the blue bowl.	s14-d26	6417	6593	cauliflower	6605
+s14-d26_1_7	The person pulls off more pieces of cauliflower, trims them and puts them in the silver bowl.	s14-d26	6594	7585	cauliflower	7599
+s14-d26_1_8	The person trims a few more pieces from the cauliflower, and puts them in the blue bowl.	s14-d26	7585	7890	cauliflower	7903
+s14-d26_1_9	The person continues to pull off pieces of cauliflower, trim them and put them in the silver bowl until the cauliflower is used up.	s14-d26	7891	11865	cauliflower	11866
+s14-d26_1_10	The person scoops the stray trimmings into the blue bowl, and throws its contents away.	s14-d26	11902	12409	cauliflower	12410
+s14-d26_3_1	She gets out the cauliflower.	s14-d26	165	383	cauliflower	409
+s14-d26_3_2	She gets out the needed equipment.	s14-d26	422	932	cauliflower	999
+s14-d26_3_3	She removes the bad parts of the cauliflower.	s14-d26	1005	3082	cauliflower	3073
+s14-d26_3_4	She puts the good parts of the cauliflower in the colander.	s14-d26	3086	11865	cauliflower	11851
+s14-d26_3_5	She cleans up and discards the waste.	s14-d26	12426	12455	cauliflower	12481
+s14-d26_7_1	A woman enters the kitchen, retrieves a cauliflower from the pantry and places it on the counter.	s14-d26	165	383	cauliflower	419
+s14-d26_7_2	She removes a knife, a colander and a bowl from the drawer and places them on the counter.	s14-d26	422	932	cauliflower	965
+s14-d26_7_3	She cut off and removed the base and all the leaves from the cauliflower placing them into the bowl.	s14-d26	1005	3339	cauliflower	3315
+s14-d26_7_4	She removes small flowerettes from the cauliflower bunch, and places them into the colander.	s14-d26	3339	12084	cauliflower	12081
+s14-d26_7_5	She cleans up.	s14-d26	11902	12455	cauliflower	12481
+s14-d26_8_1	Cauliflower is removed from the cabinet.	s14-d26	165	383	cauliflower	383
+s14-d26_8_2	The person removes a knife.	s14-d26	422	523	cauliflower	533
+s14-d26_8_3	The person removes a colander.	s14-d26	528	680	cauliflower	689
+s14-d26_8_4	The person removes a bowl.	s14-d26	689	932	cauliflower	937
+s14-d26_8_5	The cauliflower leaves are trimmed.	s14-d26	1005	2638	cauliflower	2697
+s14-d26_8_6	The stalk is removed.	s14-d26	2672	2948	cauliflower	2957
+s14-d26_8_7	The cauliflower is trimmed, cut into pieces and placed in the colander.	s14-d26	2949	11865	cauliflower	11871
+s14-d26_8_8	The scraps are discarded.	s14-d26	11902	12409	cauliflower	12395
+s14-d26_9_1	Cauliflower is removed from the cabinet.	s14-d26	165	383	cauliflower	407
+s14-d26_9_2	The person removes a knife.	s14-d26	422	523	cauliflower	535
+s14-d26_9_3	The person removes a colander.	s14-d26	528	680	cauliflower	689
+s14-d26_9_4	The person removes a bowl.	s14-d26	689	932	cauliflower	937
+s14-d26_9_5	The cauliflower leaves are trimmed off and placed in the bowl.	s14-d26	1005	2638	cauliflower	2739
+s14-d26_9_6	The stalk is removed and placed in the bowl.	s14-d26	2672	2968	cauliflower	2979
+s14-d26_9_7	The cauliflower is cut into pieces, trimmed and placed in the colander.	s14-d26	3039	11865	cauliflower	11879
+s14-d26_9_8	The scraps are discarded.	s14-d26	11902	12409	cauliflower	12431
+s14-d26_10_1	She took out cauliflower	s14-d26	165	383	cauliflower	345
+s14-d26_10_2	She took out knife	s14-d26	422	556	cauliflower	543
+s14-d26_10_3	She took out bowl	s14-d26	572	680	cauliflower	683
+s14-d26_10_4	She took out second bowl	s14-d26	689	932	cauliflower	909
+s14-d26_10_5	She cut off bottom of cauliflower	s14-d26	1005	1111	cauliflower	1107
+s14-d26_10_6	She cut off leaves	s14-d26	1120	2638	cauliflower	2773
+s14-d26_10_7	She cut off stem	s14-d26	2672	2968	cauliflower	2967
+s14-d26_10_8	She cut cauliflower into pieces	s14-d26	3039	5085	cauliflower	5093
+s14-d26_12_1	She took out cauliflower	s14-d26	165	383	cauliflower	357
+s14-d26_12_2	She took out knife	s14-d26	422	523	cauliflower	529
+s14-d26_12_3	She took out bowl	s14-d26	528	680	cauliflower	700
+s14-d26_12_4	She cut off leaves	s14-d26	689	2638	cauliflower	2743
+s14-d26_12_5	She cut off stem	s14-d26	2672	2968	cauliflower	2969
+s14-d26_12_6	She cut cauliflower into pieces	s14-d26	5104	11865	cauliflower	11884
+s14-d26_14_1	She took out cauliflower	s14-d26	165	383	cauliflower	323
+s14-d26_14_2	She took out knife	s14-d26	422	523	cauliflower	517
+s14-d26_14_3	She took out bowl	s14-d26	528	680	cauliflower	683
+s14-d26_14_4	She took out plastic bowl	s14-d26	689	932	cauliflower	925
+s14-d26_14_5	She cut leaves off cauliflower	s14-d26	1005	2541	cauliflower	2547
+s14-d26_14_6	She cut stem off cauliflower	s14-d26	2560	2948	cauliflower	2955
+s14-d26_14_7	She cut up cauliflower	s14-d26	3039	6954	cauliflower	6996
+s14-d26_15_1	She took out cauliflower	s14-d26	165	383	cauliflower	361
+s14-d26_15_2	She took out a knife	s14-d26	422	556	cauliflower	553
+s14-d26_15_3	She took out a bowl	s14-d26	572	680	cauliflower	705
+s14-d26_15_4	She took out second bowl	s14-d26	689	932	cauliflower	935
+s14-d26_15_5	She took off leaves	s14-d26	1005	2968	cauliflower	3005
+s14-d26_15_6	She cut cauliflower into pieces	s14-d26	11902	12084	cauliflower	12072
+s14-d26_15_7	She threw away scraps	s14-d26	12101	12455	cauliflower	12451
+s14-d26_16_1	Woman walks to refrigerator.	165	383
+s14-d26_16_2	Woman takes out cauliflower and places it on the counter.	165	383
+s14-d26_16_3	Woman takes paring knife out of drawer and places it on the counter.	s14-d26	422	556	cauliflower	554
+s14-d26_16_4	Woman takes colander and bowl out of cabinet and places them on the counter.	s14-d26	572	932	cauliflower	947
+s14-d26_16_5	The woman uses the paring knife to trim the leaves off of the cauliflower and puts them in the bowl.	s14-d26	1005	2638	cauliflower	2645
+s14-d26_16_6	The woman uses the paring knife to cut the stem from the bottom of the cauliflower and places it in the bowl.	s14-d26	2672	2968	cauliflower	2971
+s14-d26_16_7	The woman trims each cauliflower floret off the main bunch and puts each floret in the colander.	s14-d26	2949	11865	cauliflower	11916
+s14-d26_16_8	The woman cleans the work surface crumbs into the bowl.	s14-d26	7007	12084	cauliflower	12084
+s14-d26_16_9	The woman throws the contents of the bowl into the garbage receptacle.	s14-d26	12426	12455	cauliflower	12481
+s14-d26_18_1	The person gets a cauliflower from the pantry.	s14-d26	165	383	cauliflower	347
+s14-d26_18_2	The person removes a paring knife from a cutlery drawer.	s14-d26	422	556	cauliflower	573
+s14-d26_18_3	The person takes a colander from a drawer.	s14-d26	572	680	cauliflower	759
+s14-d26_18_4	The person takes a plastic bowl from a drawer and sets it on the countertop.	s14-d26	689	932	cauliflower	989
+s14-d26_18_5	The person uses the paring knife to remove the leaves from the cauliflower as well as the stem.	s14-d26	1005	2968	cauliflower	2997
+s14-d26_18_6	The person puts the stems and leaves into the plastic bowl.	s14-d26	3039	3256	cauliflower	3253
+s14-d26_18_7	The person cuts the cauliflower into sections and places them into the colander.	s14-d26	3039	11865	cauliflower	11915
+s14-d26_18_8	The person disposes of the stem and leaves in the plastic bowl into the trash.	s14-d26	11902	12409	cauliflower	12417
+s14-d26_19_1	The woman removed the cauliflower from the cabinet and places it on the counter.	s14-d26	165	383	cauliflower	401
+s14-d26_19_2	She removes a knife and bowls from the drawer and puts them on the counter.	s14-d26	422	932	cauliflower	947
+s14-d26_19_3	She cuts all of the leaves off of the base of the cauliflower.	s14-d26	1005	2638	cauliflower	2747
+s14-d26_19_4	She cuts the stem off the cauliflower.	s14-d26	2672	2968	cauliflower	2971
+s14-d26_19_5	She cuts individual florets off the cauliflower and trims them with a knife.	s14-d26	3039	4159	cauliflower	4147
+s14-d26_19_6	She continues trimming individual florets and placing them in a bowl.	s14-d26	4172	4854	cauliflower	4865
+s14-d26_19_7	She finishes cutting up the individual cauliflower florets and placing them in the bowl.	s14-d26	3039	11865	cauliflower	11869
+s14-d26_19_8	She sweeps the remnants off the counter into the bowl.	s14-d26	11902	12084	cauliflower	12093
+s14-d26_19_9	She empties the cauliflower cuttings into the recycling bin.	s14-d26	12426	12455	cauliflower	12481

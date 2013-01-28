@@ -1,0 +1,12 @@
+263	526	take out	hand	plum	,fridge
+526	592	move	hand	towel	counter
+594	688	wash	hand	plum	
+688	728	shake	hand	plum	
+777	872	dry	towel	plum	
+917	1024	take out	hand	knife	drawer,towel
+1024	1073	close	hand		drawer
+1080	1222	take out	hand	cutting board	counter,drawer
+1232	1267	move	hand	plum	cutting board,towel
+1337	1554	cut	knife	plum	cutting board
+1575	1663	take apart	hand	plum	
+1696	2239	cut	knife	plum	cutting board

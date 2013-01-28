@@ -1,0 +1,47 @@
+210	500	take out	hand	leek	counter,fridge
+513	623	take out	hand	cutting board	counter,drawer
+623	678	close	hand		drawer
+684	789	take out	hand	knife	cutting board,drawer
+840	1111	wash	hand	leek	
+1162	1253	cut	knife	leek	cutting board
+1253	1287	move	hand	leek	cutting board
+1354	2582	chop	knife	leek	cutting board
+2582	2613	move	hand	leek	counter,cutting board
+2613	2668	scratch off	hand	leek	cutting board,knife
+2668	2719	move	hand	leek	cutting board
+2815	2952	take out	hand	pan	drawer,stove
+2963	3328	turn on	hand	stove	
+3336	3520	change temperature	hand	stove	
+3581	3712	take out	hand	bottle	,cupboard
+3731	3799	screw	hand	bottle	
+3799	3904	pour	bottle	oil	pan
+3911	3980	screw	hand	bottle	
+4021	4101	open	hand		drawer
+4101	4201	take out	hand	spatula	drawer
+4240	4961	spread	spatula	oil	pan
+4983	5092	add	hand	leek	cutting board,pan
+5092	5194	stir	spatula	leek	pan
+5255	5354	add	hand,knife	leek	cutting board,pan
+5354	5383	scratch off	hand	leek	knife,pan
+5392	5447	gather	hand,knife	leek	cutting board
+5447	5530	add	hand,knife	leek	cutting board,pan
+5578	5643	add	hand,knife	leek	cutting board,pan
+5643	5664	scratch off	hand	leek	knife,pan
+5665	5716	add	hand	leek	cutting board,pan
+5716	6388	stir	spatula	leek	pan
+6422	6460	take out	hand	spice shaker	spice holder
+6535	6577	screw	hand	spice shaker	
+6587	6645	spice	spice shaker	salt	pan
+6645	6703	screw	hand	spice shaker	
+6710	6748	screw	hand	spice shaker	
+6748	6815	spice	spice shaker	spice	pan
+6853	6891	spice	spice shaker	spice	pan
+6897	6945	screw	hand	spice shaker	
+6956	7784	stir	spatula	leek	pan
+7816	8034	take out	hand	plate	counter,cupboard
+8040	8134	stir	spatula	leek	pan
+8134	8198	change temperature	hand	stove	
+8214	8342	stir	spatula	leek	pan
+8383	8409	move	hand	bottle	counter
+8425	8968	move	spatula	leek	pan,plate
+8977	9105	arrange	spatula	leek	plate

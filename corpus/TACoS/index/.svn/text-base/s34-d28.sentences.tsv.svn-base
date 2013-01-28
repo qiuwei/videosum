@@ -1,0 +1,161 @@
+s34-d28_1_1	The person gets out a knife.	s34-d28	201	487	orange	478
+s34-d28_1_2	The person gets out a wooden plate and a bowl.	s34-d28	501	954	orange	918
+s34-d28_1_3	The person gets out an orange.	s34-d28	1007	1473	orange	1542
+s34-d28_1_4	The person peels the orange.	s34-d28	1537	2980	orange	2994
+s34-d28_1_5	The person throws away the orange peel.	s34-d28	3122	3506	orange	3497
+s34-d28_1_6	The person breaks the orange into quarters.	s34-d28	3570	3995	orange	4016
+s34-d28_1_7	The person cuts the orange into chunks.	s34-d28	4099	6848	orange	6878
+s34-d28_1_8	The person scrapes the pieces of orange into the bowl.	s34-d28	6893	7195	orange	7215
+s34-d28_1_9	The person adds sugar to the orange pieces.	s34-d28	7217	8202	orange	8219
+s34-d28_1_10	The person adds cream to the oranges.	s34-d28	8234	8679	orange	8714
+s34-d28_1_11	The person stirs the orange pieces.	s34-d28	8705	9187	orange	9200
+s34-d28_1_12	The person adds milk to the orange pieces.	s34-d28	9226	10091	orange	10105
+s34-d28_1_13	The person washes and puts away the dishes he used.	s34-d28	10149	11750	orange	11746
+s34-d28_2_1	The person gets out a knife.	s34-d28	201	487	orange	473
+s34-d28_2_2	The person gets out a wooden plate.	s34-d28	501	609	orange	635
+s34-d28_2_3	The person gets out a bowl.	s34-d28	753	954	orange	925
+s34-d28_2_4	The person gets out an orange.	s34-d28	1007	1473	orange	1493
+s34-d28_2_5	The person peels the orange.	s34-d28	1537	2980	orange	3085
+s34-d28_2_6	The person throws away the peel.	s34-d28	3122	3506	orange	3497
+s34-d28_2_7	The person breaks the orange into quarters.	s34-d28	3570	3864	orange	3891
+s34-d28_2_8	The person cuts the orange quarters into pieces.	s34-d28	3941	6848	orange	6893
+s34-d28_2_9	The person puts the orange pieces in the bowl.	s34-d28	6893	7195	orange	7233
+s34-d28_2_10	The person adds sugar to the orange pieces.	s34-d28	7217	8021	orange	8113
+s34-d28_2_11	The person adds milk and cream to the orange pieces.	s34-d28	8050	10091	orange	10087
+s34-d28_2_12	The person rinses and puts away the dishes.	s34-d28	10149	11750	orange	11741
+s34-d28_3_1	He gets out the needed equipment.	s34-d28	201	954	orange	945
+s34-d28_3_2	He gets an orange.	s34-d28	1007	1473	orange	1553
+s34-d28_3_3	He peels the orange.	s34-d28	1537	2613	orange	2673
+s34-d28_3_4	He discards the peels.	s34-d28	2669	3506	orange	3539
+s34-d28_3_5	He chops the orange and puts it into a bowl.	s34-d28	3570	7195	orange	7229
+s34-d28_3_6	He puts sugar on the oranges.	s34-d28	7217	8021	orange	8043
+s34-d28_3_7	He puts milk on the oranges.	s34-d28	8050	8539	orange	8583
+s34-d28_3_8	He stirs them up and adds cream.	s34-d28	8574	9956	orange	9979
+s34-d28_3_9	He cleans up.	s34-d28	9970	11750	orange	11743
+s34-d28_5_1	The person takes out a knife.	s34-d28	201	334	orange	335
+s34-d28_5_2	The person takes out a cutting board.	s34-d28	428	609	orange	613
+s34-d28_5_3	The person takes out a bowl.	s34-d28	753	835	orange	833
+s34-d28_5_4	The person takes out an orange.	s34-d28	880	1473	orange	1499
+s34-d28_5_5	The person uses his hands to peel the orange.	s34-d28	1537	2613	orange	2665
+s34-d28_5_6	The person separates the orange into quarters.	s34-d28	2669	3864	orange	3965
+s34-d28_5_7	The person takes each quarter of orange and separates them into individual slices then chops each slice with-wise.	s34-d28	3941	6848	orange	6899
+s34-d28_5_8	The person places the orange pieces into the bowl.	s34-d28	6893	7195	orange	7217
+s34-d28_5_9	The person sprinkles sugar on top of the oranges.	s34-d28	7217	8021	orange	8037
+s34-d28_5_10	The person adds a little bit of milk to the oranges.	s34-d28	8050	8539	orange	8547
+s34-d28_5_11	The person mixes the oranges, sugar and milk with a spoon.	s34-d28	8574	9187	orange	9187
+s34-d28_5_12	The person adds yogurt(?) to the oranges.	s34-d28	9226	9833	orange	9913
+s34-d28_5_13	The person is done.	s34-d28	9901	10211	orange	10255
+s34-d28_6_1	The man takes out a knife.	s34-d28	201	487	orange	507
+s34-d28_6_2	The man takes out a cutting board and bowl.	s34-d28	501	954	orange	945
+s34-d28_6_3	The man takes the orange out of the refrigerator.	s34-d28	1007	1473	orange	1585
+s34-d28_6_4	The man peels the orange with his finger.	s34-d28	1537	2613	orange	2679
+s34-d28_6_5	The man slices the orange and places it into the bowl.	s34-d28	2669	6848	orange	6913
+s34-d28_6_6	The man adds sugar to the bowl.	s34-d28	6893	8202	orange	8199
+s34-d28_6_7	The man adds milk and cream to the bowl and mixes it in.	s34-d28	8234	10091	orange	10079
+s34-d28_6_8	The man washes up.	s34-d28	10266	11750	orange	11813
+s34-d28_8_1	He gets out the equipment.	s34-d28	201	835	orange	839
+s34-d28_8_2	He gets an orange.	s34-d28	880	954	orange	1227
+s34-d28_8_3	He peels the orange.	s34-d28	1007	2613	orange	2735
+s34-d28_8_4	He discards the rind.	s34-d28	2669	3506	orange	3511
+s34-d28_8_5	He separates the slices.	s34-d28	3570	3864	orange	3953
+s34-d28_8_6	He chops the slices and puts them in a bowl.	s34-d28	3941	7195	orange	7221
+s34-d28_8_7	He adds sugar to the oranges.	s34-d28	7217	8021	orange	8037
+s34-d28_8_8	He adds milk to the oranges.	s34-d28	8050	8539	orange	8567
+s34-d28_8_9	He stirs the bowl.	s34-d28	8574	9187	orange	9205
+s34-d28_8_10	He adds cream to the bowl.	s34-d28	9226	9833	orange	9897
+s34-d28_8_11	He cleans up.	s34-d28	10149	11750	orange	11785
+s34-d28_10_1	Take out a small knife, a cutting board, a bowl, and an orange.	s34-d28	201	1473	orange	1551
+s34-d28_10_2	Peel the orange with your hands, using the knife for any difficult spots.	s34-d28	1537	2980	orange	3011
+s34-d28_10_3	Discard the orange peel, separate the orange into four sections, removing and discarding the inner white part.	s34-d28	3122	3995	orange	4031
+s34-d28_10_4	Separate the orange into individual sections and cut all of these into small chunks.	s34-d28	4099	6848	orange	6909
+s34-d28_10_5	Put the cut orange chunks in the bowl and take out sugar and a spoon, sprinkle two spoonful of sugar on the oranges and put away the sugar.	s34-d28	6893	8202	orange	8223
+s34-d28_10_6	Take out a box of milk product and add some to the oranges, then put it away and get a different milk product and add it to the oranges, then swirl and stir with a spoon.	s34-d28	8234	10091	orange	10139
+s34-d28_10_7	Wash your hands, and wash and put away the spoon, the knife, and the cutting board.	s34-d28	9901	11568	orange	11595
+s34-d28_11_1	He took out knife	s34-d28	201	334	orange	335
+s34-d28_11_2	He took out cutting board	s34-d28	428	609	orange	613
+s34-d28_11_3	He took out bowl	s34-d28	753	835	orange	841
+s34-d28_11_4	He took out orange	s34-d28	880	1473	orange	1457
+s34-d28_11_5	He peeled orange	s34-d28	1537	2980	orange	3103
+s34-d28_11_6	He threw away peel	s34-d28	3122	3506	orange	3507
+s34-d28_11_7	He broke orange into pieces	s34-d28	3570	3995	orange	3975
+s34-d28_12_1	Get a plate, a small knife and a bowl.	s34-d28	201	334	orange	264
+s34-d28_12_2	Get the orange out of the refridgerator	s34-d28	428	954	orange	1034
+s34-d28_12_3	Peel the orange	s34-d28	1007	1473	orange	1609
+s34-d28_12_4	Cut the bottom off the orange	s34-d28	1537	3506	orange	3482
+s34-d28_12_5	Tear the orange into quarters, disposing of the middle.	s34-d28	3570	3864	orange	3923
+s34-d28_12_6	Tear each quarter in half and cut the resulting eighths into three pieces.	s34-d28	4099	6848	orange	6874
+s34-d28_12_7	Dump the orange pieces into the bowl.	s34-d28	6893	7306	orange	7321
+s34-d28_12_8	Get some sugar from the cabinet and a spoon.	s34-d28	7359	7737	orange	7779
+s34-d28_12_9	Spread a spoon and a half of sugar evenly over the orange pieces in the bowl.	s34-d28	7832	8021	orange	8027
+s34-d28_12_10	Get some milk out of the refrigerator and pour a small amount over the oranges.	s34-d28	8050	8539	orange	8559
+s34-d28_12_11	Stir the oranges with the spoon.	s34-d28	8574	9187	orange	9178
+s34-d28_12_12	Get some cream out of the refrigerator and pour a small amount onto the oranges.	s34-d28	9226	9833	orange	9900
+s34-d28_12_13	Stir the oranges again.	s34-d28	10149	10653	orange	10587
+s34-d28_12_14	Clean up.	s34-d28	11605	11750	orange	11814
+s34-d28_13_1	Takes a knife out of the drawer.	s34-d28	201	487	orange	491
+s34-d28_13_2	Takes out a cutting board.	s34-d28	501	609	orange	679
+s34-d28_13_3	Takes out a bowl.	s34-d28	753	835	orange	849
+s34-d28_13_4	Takes an orange of the refrigerator.	s34-d28	880	1473	orange	1447
+s34-d28_13_5	Peels the skin off the orange.	s34-d28	1537	2980	orange	3067
+s34-d28_13_6	Slices up the orange and puts the pieces into a bowl.	s34-d28	3941	7195	orange	7199
+s34-d28_13_7	Sprinkles some kind of powder on the oranges.	s34-d28	7217	8021	orange	8055
+s34-d28_13_8	Pours a liquid on the oranges.	s34-d28	8050	8539	orange	8565
+s34-d28_13_9	Stirs it all together.	s34-d28	8574	9187	orange	9209
+s34-d28_13_10	Pours a different liquid on the oranges.	s34-d28	9226	9833	orange	9891
+s34-d28_14_1	He took out knife	s34-d28	201	334	orange	337
+s34-d28_14_2	He took out cutting board	s34-d28	428	609	orange	607
+s34-d28_14_3	He took out bowl	s34-d28	753	835	orange	814
+s34-d28_14_4	He took out orange	s34-d28	880	1473	orange	1476
+s34-d28_14_5	He peeled orange	s34-d28	1537	2613	orange	2620
+s34-d28_14_6	He threw away peel	s34-d28	2669	3341	orange	3348
+s34-d28_14_7	He broke up orange	s34-d28	3412	3864	orange	3926
+s34-d28_14_8	He threw away seeds	s34-d28	3941	3995	orange	3991
+s34-d28_14_9	He cut orange	s34-d28	3122	6848	orange	6873
+s34-d28_14_10	He put orange in bowl	s34-d28	6893	7195	orange	7191
+s34-d28_15_1	He took out knife	s34-d28	201	334	orange	320
+s34-d28_15_2	He took out cutting board	s34-d28	428	609	orange	663
+s34-d28_15_3	He took out bowl	s34-d28	753	835	orange	829
+s34-d28_15_4	He took out orange	s34-d28	880	1473	orange	1462
+s34-d28_15_5	He peeled orange	s34-d28	1537	2613	orange	2713
+s34-d28_15_6	He threw out peels	s34-d28	2669	3341	orange	3345
+s34-d28_15_7	He separated orange	s34-d28	3412	3864	orange	3922
+s34-d28_15_8	He cut up orange	s34-d28	4099	6848	orange	6880
+s34-d28_15_9	He put orange in bowl	s34-d28	6893	7195	orange	7202
+s34-d28_15_10	He took out sugar	s34-d28	7217	7553	orange	7531
+s34-d28_15_11	He put sugar in bowl	s34-d28	7583	8021	orange	8069
+s34-d28_15_12	He poured juice in bowl	s34-d28	8050	8539	orange	8546
+s34-d28_15_13	He mixed up oranges	s34-d28	8574	9187	orange	9191
+s34-d28_16_1	He opens drawers to take out a knife, a circular cutting board, and a metal bowl.	s34-d28	201	954	orange	957
+s34-d28_16_2	He gets an orange from the refrigerator and goes back to the counter with it.	s34-d28	1007	1473	orange	1572
+s34-d28_16_3	He uses his fingers to rip off the peels of the orange.	s34-d28	1537	2613	orange	2692
+s34-d28_16_4	He uses a knife to cut off remaining areas which he does not want attached to the orange.	s34-d28	2669	2980	orange	3116
+s34-d28_16_5	He opens the drawer for the trash and throws away all remnants of the peel.	s34-d28	3122	3506	orange	3516
+s34-d28_16_6	He uses his fingers to tear the orange apart into several pieces and throws one pieces away into the trash.	s34-d28	3570	3995	orange	3996
+s34-d28_16_7	He uses the knife and his fingers to tear the pieces of oranges apart and then cut them into smaller pieces.	s34-d28	3941	6848	orange	6942
+s34-d28_16_8	He uses the knife to brush all of the pieces of oranges from the cutting board into the metal pot.	s34-d28	6893	7195	orange	7225
+s34-d28_16_9	He goes to the cabinet and gets out a container of sugar and then spoons some sugar onto the oranges.	s34-d28	7217	8202	orange	8183
+s34-d28_16_10	He goes to the refrigerator and gets out a carton of milk and pours some milk onto the oranges.	s34-d28	8234	8679	orange	8637
+s34-d28_16_11	He shakes the bowl and then uses the spoon to mix around the ingredients that are inside the bowl.	s34-d28	8705	9187	orange	9241
+s34-d28_16_12	He goes back to the refrigerator and gets out some cream (white liquid substance) which he pours on top of the mixture in the bowl.	s34-d28	9901	10091	orange	10106
+s34-d28_16_13	He uses a rag to clean the area around the bowl and then washes his hands before using a spoon to mix the ingredients some more.	s34-d28	9901	10479	orange	10470
+s34-d28_16_14	He individually washes the spoon, knife, and cutting board before putting them back in their original spots.	s34-d28	10708	11750	orange	11769
+s34-d28_17_1	He broke orange into parts	s34-d28	201	3864	orange	3942
+s34-d28_17_2	He chopped up orange	4099	6027
+s34-d28_17_3	He peeled orange	4099	6027
+s34-d28_17_4	He threw away peel	4099	6027
+s34-d28_17_5	He took out an orange	4099	6027
+s34-d28_17_6	Took out bowl	4099	6027
+s34-d28_17_7	Took out knife	4099	6027
+s34-d28_17_8	Took out cutting board	4099	6027
+s34-d28_18_1	The gentleman enters the kitchen and retrieves a knife from the drawer.	s34-d28	201	487	orange	489
+s34-d28_18_2	He then proceeds to get a cutting board and silver bowl from another drawer.	s34-d28	501	954	orange	937
+s34-d28_18_3	The man gets an orange from the refrigerator.	s34-d28	1007	1473	orange	1465
+s34-d28_18_4	He uses his fingers to peel the skin of the orange.	s34-d28	1537	2613	orange	2643
+s34-d28_18_5	He takes a knife and cuts off the tip of the peeled orange, before cleaning up the scraps.	s34-d28	2669	2980	orange	3041
+s34-d28_18_6	He uses his hand and breaks the orange apart.	s34-d28	3122	3657	orange	3677
+s34-d28_18_7	He then takes the two parts that he broke apart and breaks each one into two, so there are 4 halves.	s34-d28	3699	3810	orange	3811
+s34-d28_18_8	He then takes the knife and makes slices into the orange halves.	s34-d28	6042	6247	orange	6267
+s34-d28_18_9	After all the halves are sliced smaller, he picks up the cutting board and places the pieces into the waiting silver bowl.	s34-d28	6305	7195	orange	7183
+s34-d28_18_10	He shakes the bowl with the oranges, then goes to retrieve some sugar from the cabinet. He then puts two teaspoons of sugar on the oranges.	s34-d28	7217	8021	orange	8073
+s34-d28_18_11	He then retrieves milk from the refrigerator and pours some into the bowl.	s34-d28	8050	8539	orange	8541
+s34-d28_18_12	He then uses a spoon to mix the oranges with the sugar and milk.	s34-d28	8574	9187	orange	9211

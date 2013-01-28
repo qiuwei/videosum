@@ -1,0 +1,14 @@
+244	674	take out	hand	carrot	counter,fridge
+703	822	take out	hand	peeler	,drawer
+840	909	take out	hand	peeler	counter,drawer
+918	964	take out	hand	knife	counter,drawer
+964	999	close	hand		drawer
+999	1119	take out	hand	cutting board	counter,drawer
+1183	1291	wash	hand	carrot	
+1291	1339	shake	hand	carrot	
+1382	1404	cut	knife	carrot	cutting board
+1491	2164	peel	peeler	carrot	
+2226	2309	cut	knife	carrot	cutting board
+2338	2388	move	hand	peeler	counter,cutting board
+2407	2712	slice	knife	carrot	cutting board
+2728	2756	scratch off	hand	carrot	cutting board,knife

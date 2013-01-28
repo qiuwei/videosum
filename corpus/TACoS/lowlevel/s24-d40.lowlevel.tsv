@@ -1,0 +1,32 @@
+222	441	take out	hand	plastic bag	fridge
+441	537	remove from package	hand	lime	plastic bag
+564	661	wash	hand	lime	
+661	723	shake	hand	lime	
+723	804	dry	towel	lime	
+848	984	take out	hand	cutting board	counter,drawer
+996	1101	take out	hand	knife	drawer
+1101	1274	cut	knife	lime	cutting board
+1338	1512	take out	hand	squeezer	drawer
+1559	1680	squeeze	squeezer	lime	squeezer
+1689	1725	squeeze	hand	lime	squeezer
+1729	2350	squeeze	squeezer	lime	squeezer
+2358	2421	squeeze	hand	lime	squeezer
+2426	2548	squeeze	squeezer	lime	squeezer
+2550	2642	squeeze	hand	lime	squeezer
+2647	2775	squeeze	squeezer	lime	squeezer
+2798	3021	squeeze	squeezer	lime	squeezer
+3057	3123	squeeze	squeezer	lime	squeezer
+3130	3197	squeeze	hand	lime	squeezer
+3204	3374	squeeze	squeezer	lime	squeezer
+3534	3759	squeeze	hand	lime	squeezer
+3765	4042	squeeze	squeezer	lime	squeezer
+4056	4179	squeeze	hand	lime	squeezer
+4183	4543	squeeze	squeezer	lime	squeezer
+4584	4826	squeeze	hand	lime	squeezer
+4835	5092	squeeze	squeezer	lime	squeezer
+5117	5185	squeeze	hand	lime	squeezer
+5198	5347	squeeze	squeezer	lime	squeezer
+5363	5489	squeeze	hand	lime	squeezer
+5495	5807	squeeze	squeezer	lime	squeezer
+5815	6037	squeeze	hand	lime	squeezer
+6158	6266	throw in garbage	hand	peel	

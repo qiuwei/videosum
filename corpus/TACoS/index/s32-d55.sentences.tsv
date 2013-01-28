@@ -1,0 +1,146 @@
+s32-d55_1_1	She took out fig	s32-d55	169	324	figs	320
+s32-d55_1_2	She took out cutting board	s32-d55	363	643	figs	645
+s32-d55_1_3	She took out peeler	s32-d55	668	928	figs	925
+s32-d55_1_4	She washed fig	s32-d55	970	1166	figs	1197
+s32-d55_1_5	She took out knife	s32-d55	1177	1730	figs	1738
+s32-d55_1_6	She cut off top of fig	s32-d55	1746	1866	figs	1884
+s32-d55_1_7	She peeled fig	s32-d55	1943	4174	figs	4212
+s32-d55_1_8	She took out plate	s32-d55	4204	4555	figs	4560
+s32-d55_1_9	She cut up fig	s32-d55	4607	5149	figs	5200
+s32-d55_2_1	A woman enters the kitchen and removes a fig from the refrigerator.	169	643
+s32-d55_2_2	She removes a cutting board from the drawer and places it on the counter top.	169	643
+s32-d55_2_3	She removes a knife from the drawer and then washes the fig, the knife and the cutting board.	s32-d55	668	1730	figs	1677
+s32-d55_2_4	She cuts the end off of the fig with the knife and then peels the fig with the peeler.	s32-d55	1746	4174	figs	4209
+s32-d55_2_5	She cuts the other end off of the fig and retrieves a plate from the cupboard and rinses it off.	s32-d55	4204	4801	figs	4801
+s32-d55_2_6	She transfer the fig from the cutting board to the plate and places the cutting board and knife in the sink.	s32-d55	5185	5600	figs	5827
+s32-d55_3_1	She gets the fig out of the fridge.	s32-d55	169	429	figs	431
+s32-d55_3_2	She gets the cutting board out of the cupboard.	s32-d55	442	643	figs	775
+s32-d55_3_3	She gets the peeler out of the drawer.	s32-d55	668	1166	figs	1069
+s32-d55_3_4	She rinses the fig, peeler and cutting board in the sink.	s32-d55	1177	1577	figs	1603
+s32-d55_3_5	She gets a knife out of the drawer.	s32-d55	1581	1866	figs	1873
+s32-d55_3_6	She peels the fig.	s32-d55	1943	4319	figs	4313
+s32-d55_3_7	She gets a bowl out of the cupboard.	s32-d55	4358	4673	figs	4705
+s32-d55_3_8	She slices the fig and places the slices in the bowl.	s32-d55	4807	5297	figs	5335
+s32-d55_5_1	A woman enters the kitchen and retrieves a fig from the refrigerator.	s32-d55	169	643	figs	597
+s32-d55_5_2	She removes a cutting board and a peeler from the drawer and places them on the counter.	s32-d55	668	1166	figs	1081
+s32-d55_5_3	She washes the fig, the knife and the cutting board.	s32-d55	1177	1730	figs	1701
+s32-d55_5_4	She removes a knife from the drawer and cuts the end off of the fig.	s32-d55	1746	1866	figs	2075
+s32-d55_5_5	Using the peeler she peels the fig.	s32-d55	1943	4174	figs	4211
+s32-d55_5_6	She retrieves a plate from the cupboard, rinses it off and places it on the counter.	s32-d55	4204	4833	figs	4825
+s32-d55_5_7	She slices the fig and transfers the slices to the clean plate.	s32-d55	5330	5600	figs	5827
+s32-d55_6_1	The woman takes a fig out of the refrigerator.	s32-d55	169	928	figs	1067
+s32-d55_6_2	The woman washes the figs.	s32-d55	970	1577	figs	1643
+s32-d55_6_3	She removes the stem.	s32-d55	1581	1866	figs	2107
+s32-d55_6_4	The woman peels the fig.	s32-d55	1943	4174	figs	4243
+s32-d55_6_5	She slices the fig with the knife and places it onto a plate.	s32-d55	4851	5297	figs	5415
+s32-d55_7_1	The person takes a fig from the fridge.	s32-d55	169	429	figs	447
+s32-d55_7_2	The person takes out a cutting board from the drawer.	s32-d55	442	643	figs	789
+s32-d55_7_3	The person takes out a peeler from the drawer.	s32-d55	668	1166	figs	1089
+s32-d55_7_4	The person washes the fig, the peeler, and the cutting board in the sink.	s32-d55	1177	1577	figs	1587
+s32-d55_7_5	The person takes out a knife from the drawer and washes it in the sink.	1581	1866
+s32-d55_7_6	The person cuts the stem from the fig.	1581	1866
+s32-d55_7_7	The person uses the peeler to peel the fig.	s32-d55	1943	4174	figs	4229
+s32-d55_7_8	The person washes her hands.	s32-d55	4204	4555	figs	4481
+s32-d55_7_9	The person procures a bowl from the cabinet.	s32-d55	4607	4673	figs	4731
+s32-d55_7_10	The person slices the fig on the cutting board and sets it in the bowl.	s32-d55	4204	5297	figs	5317
+s32-d55_7_11	The person throws the peels into the wastebin.	s32-d55	4724	5600	figs	5665
+s32-d55_8_1	She took out figs	s32-d55	169	429	figs	487
+s32-d55_8_2	She took out cutting board	s32-d55	442	643	figs	775
+s32-d55_8_3	She took out peeler	s32-d55	668	928	figs	1055
+s32-d55_8_4	She washed fig	s32-d55	970	1261	figs	1327
+s32-d55_8_5	She washed cutting board	s32-d55	1284	1398	figs	1547
+s32-d55_8_6	She took out knife	s32-d55	1546	1866	figs	1945
+s32-d55_8_7	She peeled fig	1943	4319
+s32-d55_8_8	She washed hands	1943	4319
+s32-d55_8_9	She took out plate	s32-d55	4358	4673	figs	4739
+s32-d55_8_10	She sliced fig	s32-d55	4724	5297	figs	5337
+s32-d55_9_1	The person procures a fig from the fridge.	s32-d55	169	429	figs	437
+s32-d55_9_2	The person takes out a cutting board from the drawer.	s32-d55	442	643	figs	795
+s32-d55_9_3	The person takes out a peeler from the drawer.	s32-d55	668	928	figs	1045
+s32-d55_9_4	The person washes the peeler, the fig, and the cutting board in the sink.	s32-d55	970	1577	figs	1571
+s32-d55_9_5	The person takes out a knife from the drawer, rinses it, then cuts off the stem of the fig.	s32-d55	1581	1866	figs	2017
+s32-d55_9_6	The person peels the fig.	s32-d55	1943	4174	figs	4197
+s32-d55_9_7	The person washes her hands, procures a plate from the cabinet, and then rinses it off.	s32-d55	4204	4833	figs	4865
+s32-d55_9_8	The person slices the fig on the cutting board and sets it on the plate.	s32-d55	4724	5297	figs	5289
+s32-d55_9_9	The person throws the peels into the wastebin.	s32-d55	5330	5600	figs	5703
+s32-d55_10_1	The person procures a fig from the fridge.	s32-d55	169	429	figs	483
+s32-d55_10_2	The person takes out a cutting board from the drawer.	s32-d55	442	643	figs	785
+s32-d55_10_3	The person takes out a peeler from the drawer.	s32-d55	668	928	figs	1047
+s32-d55_10_4	The person washes the plum, the peeler, and the cutting board in the sink.	s32-d55	970	1577	figs	1611
+s32-d55_10_5	The person takes out a knife, washes it, and then cuts the stem from the fig.	s32-d55	1581	1866	figs	2015
+s32-d55_10_6	The person uses the peeler to peel the fig.	s32-d55	1943	4319	figs	4339
+s32-d55_10_7	The person washes her hands.	s32-d55	4358	4555	figs	4469
+s32-d55_10_8	The person procures a bowl from the cabinet and rinses it off.	s32-d55	4607	4833	figs	4871
+s32-d55_10_9	The person slices the fig on the cutting board and sets it in the bowl.	s32-d55	4851	5297	figs	5373
+s32-d55_10_10	The person throws the peels into the wastebin.	s32-d55	5330	5600	figs	5681
+s32-d55_12_1	Girl takes out fig	s32-d55	169	324	figs	313
+s32-d55_12_2	Girl takes out cutting board	s32-d55	363	643	figs	639
+s32-d55_12_3	Girl takes out peeler	s32-d55	668	928	figs	940
+s32-d55_12_4	Girl washes fig	s32-d55	970	1261	figs	1265
+s32-d55_12_5	girl takes out knife	s32-d55	1284	1787	figs	1816
+s32-d55_12_6	Girl cuts off top of fig	s32-d55	1812	1866	figs	1935
+s32-d55_12_7	Girl peels fig	s32-d55	1943	4140	figs	4129
+s32-d55_12_8	Girl washes hands	s32-d55	4143	4319	figs	4305
+s32-d55_12_9	Girl takes out plate	s32-d55	4358	4673	figs	4685
+s32-d55_12_10	Girl cuts fig	s32-d55	4851	5297	figs	5284
+s32-d55_12_11	Girl throws away fig top	s32-d55	5330	5541	figs	5552
+s32-d55_13_1	The person procures a fig from the fridge.	s32-d55	169	429	figs	465
+s32-d55_13_2	The person takes out a cutting board from the drawer.	s32-d55	442	643	figs	761
+s32-d55_13_3	The person takes out a peeler from the drawer.	s32-d55	668	928	figs	1037
+s32-d55_13_4	The person washes the fig, the peeler, and the cutting board in the sink.	s32-d55	970	1577	figs	1585
+s32-d55_13_5	The person takes out a knife from the drawer.	1581	1866
+s32-d55_13_6	The person uses the knife to cut the end of the fig.	1581	1866
+s32-d55_13_7	The person uses the peeler to peel the fig.	s32-d55	1943	4287	figs	4249
+s32-d55_13_8	The person washes her hands.	s32-d55	4287	4319	figs	4443
+s32-d55_13_9	The person procures a bowl from the cabinet and rinses it in the sink.	s32-d55	4358	4801	figs	4817
+s32-d55_13_10	The person slices the fig on the cutting board and sets them into the bowl.	s32-d55	4724	5297	figs	5313
+s32-d55_13_11	The person throws the peels into the wastebin.	s32-d55	5554	5600	figs	5647
+s32-d55_14_1	She takes the fig from the fridge	s32-d55	169	324	figs	336
+s32-d55_14_2	She takes out the cutting board	s32-d55	363	643	figs	629
+s32-d55_14_3	she takes out a fruit peeler	s32-d55	668	928	figs	933
+s32-d55_14_4	she takes out a knife	s32-d55	970	1730	figs	1757
+s32-d55_14_5	She cuts the tip off the fig	s32-d55	1746	1866	figs	1884
+s32-d55_14_6	She peels the fig	s32-d55	1943	4013	figs	4054
+s32-d55_14_7	She cuts the end off of the fig	s32-d55	4066	4140	figs	4156
+s32-d55_14_8	She slices the fig width-wise	s32-d55	4143	5149	figs	5176
+s32-d55_16_1	The woman sets up her station by getting a fig, a cutting board and a peeler.	s32-d55	169	928	figs	916
+s32-d55_16_2	The woman washes the fig, cutting board and peeler.	s32-d55	970	1398	figs	1471
+s32-d55_16_3	With a small knife the woman cuts off the top of the fig, and with the peeler removes the peel.	s32-d55	1546	4013	figs	4022
+s32-d55_16_4	The woman cuts of the bottom of the fig.	s32-d55	4066	4140	figs	4141
+s32-d55_16_5	The woman gets a bowl from the cupboard.	s32-d55	4143	4673	figs	4682
+s32-d55_16_6	The woman slices the fig and places it in the bowl.	s32-d55	4724	5149	figs	5165
+s32-d55_16_7	The woman throws away the fig peelings.	s32-d55	5330	5541	figs	5530
+s32-d55_17_1	She gets a fig from the refrigerator, a cutting board from the drawer, and a peeler from another drawer.	s32-d55	169	928	figs	935
+s32-d55_17_2	She washes the peeler, fig, and cutting board in the sink.	s32-d55	970	1398	figs	1551
+s32-d55_17_3	She gets a knife from the drawer and washes it.	s32-d55	1546	1787	figs	1829
+s32-d55_17_4	She cuts off the top with a knife and uses the peeler to peel the skin off of the fig.	s32-d55	1812	4013	figs	4095
+s32-d55_17_5	She cuts the end off the fig.	s32-d55	4066	4174	figs	4201
+s32-d55_17_6	She washes her hands in the sink and uses the towel and shakes them to dry them.	s32-d55	4204	4319	figs	4363
+s32-d55_17_7	She gets a bowl from the cabinet and washes it.	s32-d55	4358	4673	figs	4705
+s32-d55_17_8	She uses the knife to cut the fig into four pieces, which she places on the cutting board.	s32-d55	4724	5149	figs	5181
+s32-d55_17_9	She puts the peeler in the sink and disposes of the peels in the trash.	s32-d55	5330	5541	figs	5572
+s32-d55_17_10	She puts the cutting board and the knife in the sink and picks up a sponge.	s32-d55	5330	5600	figs	5687
+s32-d55_18_1	The girl opens the refrigerator and takes out a fig.	s32-d55	169	429	figs	463
+s32-d55_18_2	The girl opens the drawer, takes out the cutting board, and set it onto the counter.	s32-d55	442	643	figs	777
+s32-d55_18_3	The girl sets the fig on the cutting board.	s32-d55	668	928	figs	851
+s32-d55_18_4	The girl opens the drawer, removes the peeler and closes the drawer.	s32-d55	970	1166	figs	1073
+s32-d55_18_5	The girl rinses the fig, peeler, and cutting board.	s32-d55	1177	1577	figs	1563
+s32-d55_18_6	The girl opens the drawer and takes out the knife.	1581	1866
+s32-d55_18_7	Th girl rinses the knife.	1581	1866
+s32-d55_18_8	The girl cuts the stem off of the fig.	1581	1866
+s32-d55_18_9	The girl picks up the peeler and peels the skin off of the fig.	s32-d55	1943	4174	figs	4187
+s32-d55_18_10	The girl picks up the knife and cuts the end off the fig.	4204	4319
+s32-d55_18_11	The girl washes and dries her hands.	4204	4319
+s32-d55_18_12	The girl opens the cupboard, removes a bowl, rinses it, and places it on the counter.	s32-d55	4358	4833	figs	4821
+s32-d55_18_13	Using the knife, the girl slices the fig into four pieces.	s32-d55	5185	5297	figs	5371
+s32-d55_18_14	The girl throws the leftover skin away.	5554	5600
+s32-d55_18_15	The girl washes the dishes.	5554	5600
+s32-d55_19_1	The person takes a fig from the fridge.	s32-d55	169	429	figs	453
+s32-d55_19_2	The person takes out a cutting board and places the fig on it.	s32-d55	442	928	figs	851
+s32-d55_19_3	The person takes out a peeler from the drawer.	s32-d55	970	1166	figs	1097
+s32-d55_19_4	The person washes the fig, the peeler, and the cutting board.	s32-d55	1177	1577	figs	1627
+s32-d55_19_5	The person takes a knife from the drawer and rinses it in the sink.	s32-d55	1581	1866	figs	1943
+s32-d55_19_6	The person cuts the top of the fig off with the knife and then uses the peeler to remove the skin of the fig.	s32-d55	1943	4319	figs	4409
+s32-d55_19_7	The person washes her hands, gets a small bowl from the cabinet and then rinses the bowl in the sink.	s32-d55	4358	4833	figs	4823
+s32-d55_19_8	The person cuts the fig into slices.	s32-d55	4807	5541	figs	5481
+s32-d55_19_9	The person dumps the fig peels into the trash.	s32-d55	5554	5600	figs	5699

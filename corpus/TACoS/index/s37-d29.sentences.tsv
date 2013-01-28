@@ -1,0 +1,110 @@
+s37-d29_1_1	Get a knife and cutting board.	s37-d29	177	420	herbs	439
+s37-d29_1_2	Place fresh herbs on to cutting board.	s37-d29	505	1064	herbs	1065
+s37-d29_1_3	Cut the herbs into small pieces.	s37-d29	1076	1761	herbs	1776
+s37-d29_1_4	Find a plate or dish of appropriate size.	s37-d29	1766	2279	herbs	2319
+s37-d29_1_5	Move herbs from cutting board to the dish.	s37-d29	2298	2565	herbs	2592
+s37-d29_3_1	The man pulls out a knife and cutting board.	s37-d29	177	420	herbs	463
+s37-d29_3_2	The man selects some herbs.	s37-d29	505	966	herbs	973
+s37-d29_3_3	The man uses the knife to slice the herbs into small pieces.	s37-d29	976	1875	herbs	1919
+s37-d29_3_4	The man moves the chopped herbs onto a plate.	s37-d29	1955	2565	herbs	2591
+s37-d29_3_5	He washes the knife when he is finished.	s37-d29	2613	2931	herbs	3009
+s37-d29_4_1	He took out cutting board	s37-d29	177	287	herbs	277
+s37-d29_4_2	He took out knife	s37-d29	291	420	herbs	411
+s37-d29_4_3	He took out herbs	s37-d29	505	966	herbs	945
+s37-d29_4_4	He chopped herbs	s37-d29	976	1815	herbs	1831
+s37-d29_4_5	He took out plate	s37-d29	1838	2279	herbs	2277
+s37-d29_4_6	He put herbs in plate	s37-d29	2298	2565	herbs	2585
+s37-d29_5_1	The person takes a cutting board out of a drawer.	s37-d29	177	287	herbs	301
+s37-d29_5_2	The person takes a knife out of a drawer.	s37-d29	291	420	herbs	431
+s37-d29_5_3	The person gathers herbs from a container and brings them over to the cutting board.	s37-d29	505	966	herbs	967
+s37-d29_5_4	The person evenly lines up the herbs on the cutting board and cuts them in half.	s37-d29	976	1153	herbs	1165
+s37-d29_5_5	The person puts both piles of herbs together and uses the knife to line them up evenly.	s37-d29	1153	1209	herbs	1293
+s37-d29_5_6	The person, using a short sawing motion, cuts the herbs into small pieces.	s37-d29	1239	1761	herbs	1767
+s37-d29_5_7	The person removes the small bits of the herbs that have clung to the knife and puts the herbs into a small pile.	s37-d29	1766	1875	herbs	1891
+s37-d29_5_8	The person goes to the cabinets and gets a small plate which he brings over to the cutting board.	s37-d29	1955	2279	herbs	2279
+s37-d29_5_9	The person uses the knife to scoop up the herbs and places them onto the small plate.	s37-d29	2298	2565	herbs	2571
+s37-d29_5_10	The person rinsed the knife off.	s37-d29	2613	2689	herbs	2697
+s37-d29_5_11	The person dried the knife off and placed it on the cutting board.	s37-d29	2724	2840	herbs	2853
+s37-d29_6_1	First prepare your cuttingboard and knife.	s37-d29	177	420	herbs	501
+s37-d29_6_2	Line up your herbs so you can easily cut them together.	s37-d29	505	1064	herbs	1057
+s37-d29_6_3	Pressing down on the herbs make very small slices.	s37-d29	1076	1209	herbs	1469
+s37-d29_6_4	Continue this through the entire group of herbs.	s37-d29	1239	1875	herbs	1939
+s37-d29_6_5	Transfer the freshly cut herbs into a small dish.	s37-d29	1955	2472	herbs	2485
+s37-d29_7_1	selects cuttingboard	s37-d29	177	287	herbs	295
+s37-d29_7_2	selects knife	s37-d29	291	420	herbs	441
+s37-d29_7_3	takes grren onions out from side ounter	s37-d29	505	966	herbs	951
+s37-d29_7_4	Finely chops green onions	s37-d29	976	1875	herbs	1903
+s37-d29_7_5	gets a plate from the cubbard	s37-d29	1955	2279	herbs	2277
+s37-d29_7_6	Transfers onions to plate	s37-d29	2480	2565	herbs	2631
+s37-d29_7_7	Wash and dry knife	s37-d29	2613	2840	herbs	2889
+s37-d29_9_1	The man takes out a cutting knife and cutting board and places them on the counter.	s37-d29	177	420	herbs	457
+s37-d29_9_2	Next, he places fresh herbs on the cutting board.	s37-d29	505	966	herbs	1015
+s37-d29_9_3	First, he cuts the herbs in half.	976	1209
+s37-d29_9_4	He takes the halves and places the pieces together and begins to cut.	976	1209
+s37-d29_9_5	He cuts the herbs in tiny pieces on the cutting board.	s37-d29	1239	1815	herbs	1805
+s37-d29_9_6	The man takes out a small plate from the cabinet and places it on the counter.	s37-d29	1838	2279	herbs	2291
+s37-d29_9_7	He takes the herbs from the cutting board and places them on the small plate.	s37-d29	2298	2565	herbs	2537
+s37-d29_9_8	He rinses and dries the knife and places it on the cutting board.	s37-d29	2850	2931	herbs	2931
+s37-d29_10_1	The person takes out a cutting board and puts it on the counter.	s37-d29	177	332	herbs	329
+s37-d29_10_2	The person takes out a knife and puts it on the counter.	s37-d29	332	420	herbs	437
+s37-d29_10_3	The person gathers herbs together and brings them to the cutting board.	s37-d29	505	1064	herbs	1063
+s37-d29_10_4	The person chops the herbs.	s37-d29	1076	1875	herbs	1911
+s37-d29_10_5	The person takes out a small plate and puts the herbs on the plate.	s37-d29	2298	2565	herbs	2573
+s37-d29_10_6	The person rinses and dries the knife.	s37-d29	2850	2931	herbs	3009
+s37-d29_11_1	The person takes out a cutting board from the drawer.	s37-d29	177	287	herbs	289
+s37-d29_11_2	The person takes out a knife from the drawer.	s37-d29	291	420	herbs	425
+s37-d29_11_3	The person takes some herb stalks from a plant on the counter.	s37-d29	505	966	herbs	935
+s37-d29_11_4	The person chops the herbs on the cutting board.	s37-d29	976	1875	herbs	1903
+s37-d29_11_5	The person procures a plate from the cabinet.	s37-d29	1955	2279	herbs	2279
+s37-d29_11_6	The person sets the chopped herbs on the plate.	s37-d29	1955	2565	herbs	2577
+s37-d29_11_7	The person washes the knife in the sink.	s37-d29	2613	2689	herbs	2731
+s37-d29_12_1	The person takes the chopping board out of the drawer.	s37-d29	177	287	herbs	295
+s37-d29_12_2	The person takes the knife out of the drawer.	s37-d29	291	420	herbs	435
+s37-d29_12_3	The person chops the herbs into small pieces.	s37-d29	505	1875	herbs	1891
+s37-d29_12_4	The person takes a small plate out of the cupboard.	s37-d29	1955	2279	herbs	2295
+s37-d29_12_5	The person moves the chopped herbs onto the plate.	s37-d29	2298	2565	herbs	2601
+s37-d29_12_6	The person rinses the knife.	s37-d29	2613	2689	herbs	2724
+s37-d29_12_7	The person wipes the knife dry with a cloth.	s37-d29	2724	2840	herbs	2864
+s37-d29_13_1	The person takes out a cutting board from the drawer.	s37-d29	177	287	herbs	289
+s37-d29_13_2	The person takes out a knife from the drawer.	s37-d29	291	420	herbs	429
+s37-d29_13_3	The person procures some fresh herbs from a plant out of frame.	s37-d29	505	966	herbs	963
+s37-d29_13_4	 The person chops the herbs on the cutting board.	s37-d29	976	1875	herbs	1903
+s37-d29_13_5	The person procures a plate from the cabinet.	s37-d29	1955	2279	herbs	2273
+s37-d29_13_6	The person sets the chopped herbs on the plate.	s37-d29	2298	2565	herbs	2523
+s37-d29_13_7	The person washes the knife in the sink and then dries it on a towel.	s37-d29	2724	2840	herbs	2863
+s37-d29_14_1	The person takes a chopping board out of the drawer.	s37-d29	177	287	herbs	296
+s37-d29_14_2	The person takes out a knife from the drawer.	s37-d29	291	420	herbs	442
+s37-d29_14_3	The person picks out some herbs.	s37-d29	505	843	herbs	914
+s37-d29_14_4	The person chops the herbs into small pieces.	s37-d29	893	1815	herbs	1828
+s37-d29_14_5	The person gets a small plate from the cupboard.	s37-d29	1838	2279	herbs	2246
+s37-d29_14_6	The person moves the chopped herbs onto the plate.	s37-d29	2298	2565	herbs	2582
+s37-d29_14_7	The person rinses the knife.	s37-d29	2613	2747	herbs	2746
+s37-d29_14_8	The person wipes the knife dry with a towel.	s37-d29	2747	2840	herbs	2864
+s37-d29_15_1	Man takes out cutting board.	s37-d29	177	287	herbs	296
+s37-d29_15_2	Man takes out kitchen knife.	s37-d29	291	420	herbs	421
+s37-d29_15_3	Man gets green vegetables.	s37-d29	505	966	herbs	991
+s37-d29_15_4	Man cuts vegetables in half.	s37-d29	976	1153	herbs	1146
+s37-d29_15_5	Man chops vegetables.	s37-d29	1153	1815	herbs	1794
+s37-d29_15_6	Man gets plate and brings it to cutting board	s37-d29	1838	2279	herbs	2273
+s37-d29_15_7	Man puts vegetables on plate	s37-d29	2298	2472	herbs	2522
+s37-d29_15_8	Man washes knife	s37-d29	2613	2689	herbs	2693
+s37-d29_15_9	Man dries knife with towel	s37-d29	2613	2840	herbs	2839
+s37-d29_16_1	The person gets out a cutting board.	s37-d29	177	287	herbs	284
+s37-d29_16_2	The person gets out a knife.	s37-d29	291	420	herbs	425
+s37-d29_16_3	The person gets out some herbs.	s37-d29	505	966	herbs	976
+s37-d29_16_4	The person chops up the herbs.	s37-d29	976	1815	herbs	1839
+s37-d29_16_5	The person gets out a small plate.	s37-d29	1838	2279	herbs	2284
+s37-d29_16_6	The person puts the herbs on the plate.	s37-d29	2480	2565	herbs	2589
+s37-d29_16_7	The person washes and dries the knife.	s37-d29	2724	2823	herbs	2831
+s37-d29_17_1	The person opened a drawer	177	287
+s37-d29_17_2	The person took a cutting board out of the drawer	177	287
+s37-d29_17_3	The person took a knife out of the drawer	s37-d29	291	420	herbs	407
+s37-d29_17_4	The person put herbs on the cutting board.	s37-d29	505	1064	herbs	1040
+s37-d29_17_5	The person chopped the herbs	s37-d29	1076	1875	herbs	1920
+s37-d29_17_6	The person put the herbs on a plate	s37-d29	2613	2931	herbs	2925
+s37-d29_18_1	The person removes a cutting board from the drawer.	s37-d29	177	287	herbs	285
+s37-d29_18_2	The person removes a large knife from the drawer.	s37-d29	291	420	herbs	425
+s37-d29_18_3	The person procures some sprigs of herbs from the countertop off screen.	s37-d29	505	966	herbs	981
+s37-d29_18_4	The person chops the herbs on the cutting board with the knife.	s37-d29	976	1875	herbs	1905
+s37-d29_18_5	The person gets a plate from the cabinet and scoops the herbs onto the plate.	s37-d29	1955	2565	herbs	2577
+s37-d29_18_6	The person rinses the knife under the faucet, dries it with the towel, and then puts it back on the dirty cutting board.	s37-d29	2613	2840	herbs	2859

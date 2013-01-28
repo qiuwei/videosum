@@ -1,0 +1,84 @@
+s22-d48_1_1	Person rinsed a pepper.	s22-d48	241	713	chilli	713
+s22-d48_1_2	Person dried a pepper.	s22-d48	713	862	chilli	875
+s22-d48_1_3	Person got a knife.	s22-d48	931	1054	chilli	1042
+s22-d48_1_4	Person sliced a pepper.	s22-d48	1086	2255	chilli	2313
+s22-d48_1_5	Person discards scraps.	s22-d48	2291	2356	chilli	2465
+s22-d48_4_1	She gets the chili.	s22-d48	241	455	chilli	463
+s22-d48_4_2	She gets a cutting board and then washes the chili.	s22-d48	475	741	chilli	775
+s22-d48_4_3	She gets a knife.	s22-d48	766	1054	chilli	1047
+s22-d48_4_4	She chops the pepper.	s22-d48	1086	2255	chilli	2265
+s22-d48_4_5	She discards the top of the pepper.	s22-d48	2291	2356	chilli	2347
+s22-d48_5_1	Take out the chili	s22-d48	241	455	chilli	451
+s22-d48_5_2	Get out a cutting board.	s22-d48	475	605	chilli	619
+s22-d48_5_3	Rinse and dry the chili.	s22-d48	655	862	chilli	899
+s22-d48_5_4	Select a sharp knife.	s22-d48	931	1054	chilli	1021
+s22-d48_5_5	Slice chili into small pieces.	s22-d48	1086	2255	chilli	2253
+s22-d48_5_6	Dispose of stem.	s22-d48	2291	2356	chilli	2377
+s22-d48_6_1	She gets a pepper.	s22-d48	241	455	chilli	369
+s22-d48_6_2	She washes the pepper.	s22-d48	475	741	chilli	745
+s22-d48_6_3	She gets a knife.	s22-d48	766	1054	chilli	1057
+s22-d48_6_4	She cuts the pepper.	s22-d48	1086	2255	chilli	2263
+s22-d48_6_5	She discards the top of the pepper.	s22-d48	2291	2356	chilli	2379
+s22-d48_7_1	the person gets a pepper out of the cupboard.	s22-d48	241	455	chilli	461
+s22-d48_7_2	the person gets out a cutting board.	s22-d48	475	605	chilli	617
+s22-d48_7_3	The person washes and dries the pepper.	s22-d48	655	862	chilli	921
+s22-d48_7_4	The person gets out a knife.	s22-d48	931	1054	chilli	1069
+s22-d48_7_5	The person cuts the pepper into slices.	s22-d48	1086	2255	chilli	2265
+s22-d48_7_6	The person throws away the top of the pepper.	s22-d48	2291	2356	chilli	2409
+s22-d48_8_1	The person gets out a chili.	s22-d48	241	455	chilli	457
+s22-d48_8_2	The person gets out a wooden plate.	s22-d48	475	605	chilli	617
+s22-d48_8_3	The person rinses the chili.	s22-d48	655	862	chilli	879
+s22-d48_8_4	The person gets out a knife.	s22-d48	931	1054	chilli	1065
+s22-d48_8_5	The person chops up the chili.	s22-d48	1086	2255	chilli	2253
+s22-d48_8_6	The person throws away the top of the chili.	s22-d48	2291	2356	chilli	2349
+s22-d48_9_1	The person takes a chili from the pantry.	s22-d48	241	455	chilli	411
+s22-d48_9_2	The person takes out a cutting board from the drawer.	s22-d48	475	605	chilli	593
+s22-d48_9_3	The person washes the chili in the sink.	s22-d48	655	741	chilli	737
+s22-d48_9_4	The person dries the chili pepper in a towel.	s22-d48	766	862	chilli	887
+s22-d48_9_5	The person takes out a knife from the drawer.	s22-d48	931	1054	chilli	1039
+s22-d48_9_6	The person chops the chili pepper on the cutting board.	s22-d48	1086	2255	chilli	2259
+s22-d48_9_7	The person throws the stem into the wastebin.	s22-d48	2291	2356	chilli	2371
+s22-d48_10_1	A chili is removed from a cabinet.	s22-d48	241	455	chilli	451
+s22-d48_10_2	The person removes a cutting board.	s22-d48	475	605	chilli	617
+s22-d48_10_3	The person washes and dries the chili.	s22-d48	655	862	chilli	889
+s22-d48_10_4	The person selects a knife.	s22-d48	931	1054	chilli	1055
+s22-d48_10_5	The chili is sliced into rounds.	s22-d48	1086	2255	chilli	2257
+s22-d48_10_6	The scraps are thrown away.	2291	2356
+s22-d48_10_7	The chili is ready.	2291	2356
+s22-d48_11_1	She gets a pepper.	s22-d48	241	455	chilli	373
+s22-d48_11_2	She gets a cutting board.	s22-d48	475	605	chilli	585
+s22-d48_11_3	She rinses the pepper.	s22-d48	655	741	chilli	751
+s22-d48_11_4	She gets a knife.	s22-d48	766	1054	chilli	1045
+s22-d48_11_5	She chops the pepper.	s22-d48	1086	2255	chilli	2253
+s22-d48_11_6	She discards the top.	s22-d48	2291	2356	chilli	2363
+s22-d48_12_1	Find a fresh chilli and prepare a cutting board for use later.	s22-d48	241	605	chilli	652
+s22-d48_12_2	Wash chilli thoroughly.	s22-d48	655	741	chilli	752
+s22-d48_12_3	Be sure to dry the chili to remove excess water before cutting.	s22-d48	766	862	chilli	910
+s22-d48_12_4	Grab a knife and begin to cut the chilli with your fingers pointed inward to avoid cutting them.	s22-d48	931	1054	chilli	1098
+s22-d48_12_5	When done, dispose of the stem of the chilli.	s22-d48	1086	2356	chilli	2344
+s22-d48_15_1	Takes pepper out of refrigerator	s22-d48	241	455	chilli	325
+s22-d48_15_2	Takes out cutting board	s22-d48	475	605	chilli	568
+s22-d48_15_3	Washes and drys pepper	s22-d48	655	713	chilli	703
+s22-d48_15_4	Begins to dice pepper in little pieces	s22-d48	713	1054	chilli	1054
+s22-d48_15_5	Throws stem and end piece away	s22-d48	1086	2255	chilli	2281
+s22-d48_16_1	The woman takes a pepper from the refrigerator.	s22-d48	241	455	chilli	390
+s22-d48_16_2	The woman places a cutting board on the counter.	s22-d48	475	605	chilli	630
+s22-d48_16_3	The woman washes the pepper.	s22-d48	655	741	chilli	732
+s22-d48_16_4	The woman dries the pepper.	766	862
+s22-d48_16_5	The woman places the pepper on the cutting board.	766	862
+s22-d48_16_6	The woman takes a knife out of a drawer.	s22-d48	931	1054	chilli	1064
+s22-d48_16_7	The woman slices the pepper.	s22-d48	1086	2255	chilli	2255
+s22-d48_16_8	The woman disposes of the seed pod.	s22-d48	2291	2356	chilli	2360
+s22-d48_17_1	The person gets a chili from the pantry.	s22-d48	241	455	chilli	382
+s22-d48_17_2	The person gets out a cutting board.	s22-d48	475	605	chilli	621
+s22-d48_17_3	The person rinses the chili pepper in the sink.	s22-d48	655	713	chilli	722
+s22-d48_17_4	The person procures a knife from the cutlery drawer.	s22-d48	713	1054	chilli	1068
+s22-d48_17_5	The person slices the chili pepper on the cutting board with the knife.	s22-d48	1086	2255	chilli	2271
+s22-d48_17_6	The person disposes of the chili pepper's stem in the wastebasket.	s22-d48	2291	2356	chilli	2348
+s22-d48_19_1	The woman opens the cabinet and removes the chile.	s22-d48	241	455	chilli	369
+s22-d48_19_2	The woman lays the chile on the counter, opens the cabinet, and removes the cutting board.	s22-d48	475	605	chilli	581
+s22-d48_19_3	The woman washes and dries the chile.	655	862
+s22-d48_19_4	The woman places the chile on the cutting board.	655	862
+s22-d48_19_5	The woman opens the drawer and removes the knife.	s22-d48	931	1054	chilli	1055
+s22-d48_19_6	Beginning at the stemless end, the woman slices the chile into fine horizontal pieces.	s22-d48	1086	2255	chilli	2253
+s22-d48_19_7	The woman throws away the stem of the chile.	s22-d48	2291	2356	chilli	2393

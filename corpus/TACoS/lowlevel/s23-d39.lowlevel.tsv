@@ -1,0 +1,33 @@
+188	316	take out	hand	cutting board	counter,drawer
+346	443	take out	hand	knife	cutting board,drawer
+468	652	take out	hand	plate	counter,cupboard
+692	851	take out	hand	leek	cupboard
+908	1021	wash	hand	leek	
+1021	1047	shake	hand	leek	
+1071	1104	move	hand	leek	cutting board,sink
+1120	1158	cut	knife	leek	cutting board
+1243	1531	take apart	hand	leek	
+1582	1620	move	hand	leek	,cutting board
+1632	1961	wash	hand	leek	
+2049	2089	move	hand	leek	,cutting board
+2106	2136	cut	knife	leek	cutting board
+2145	2186	move	hand	leek	cutting board,plate
+2350	2578	cut	knife	leek	cutting board
+2596	3353	slice	knife	leek	cutting board
+3442	3481	scratch off	hand	leek	cutting board,knife
+3481	4370	slice	knife	leek	cutting board
+4371	4428	scratch off	hand	leek	cutting board,knife
+4479	4531	move	hand	leek	counter,plate
+4531	4569	move	hand	plate	counter
+4625	4742	move	hand	leek	cutting board,plate
+4827	4909	gather	hand,knife	leek	cutting board
+4909	4968	move	hand,knife	leek	cutting board,plate
+4968	5003	scratch off	hand	leek	knife,plate
+5012	5071	gather	hand,knife	leek	cutting board
+5071	5113	move	hand,knife	leek	cutting board,plate
+5113	5152	scratch off	hand	leek	knife,plate
+5160	5202	shake	hand	hand,knife	
+5219	5272	gather	knife	leek	cutting board
+5289	5314	move	hand,knife	leek	cutting board,plate
+5314	5351	scratch off	hand	leek	knife,plate
+5360	5397	shake	hand	hand	

@@ -1,0 +1,19 @@
+219	484	take out	hand	plastic paper bag	counter,fridge
+528	717	take out	hand	plate	counter,cupboard
+777	871	take out	hand	cutting board	counter,drawer
+897	1006	take out	hand	knife	cutting board,drawer
+1006	1058	close	hand		drawer
+1087	1268	wash	hand	hand	
+1268	1300	shake	hand	hand	
+1300	1318	move	hand	sponge	,faucet
+1318	1389	dry	sponge	hand	
+1389	1420	move	hand	sponge	,faucet
+1457	1582	remove from package	hand	bread	cutting board,plastic paper bag
+1620	1802	slice	knife	bread	cutting board
+1823	1851	move	hand	bread	cutting board,plate
+1881	1986	slice	knife	bread	cutting board
+2000	2032	put on	hand	bread	bread,cutting board
+2160	2256	package	hand	bread	cutting board,plastic paper bag
+2257	2274	move	hand	plastic paper bag	counter
+2283	2372	move	hand	knife	cutting board,plastic paper bag
+2432	2534	throw in garbage	cutting board,hand	garbage	

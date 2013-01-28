@@ -1,0 +1,82 @@
+s37-d25_1_1	Person takes out bread.	s37-d25	183	476	bread	478
+s37-d25_1_2	Person takes out cutting board.	s37-d25	488	596	bread	598
+s37-d25_1_3	Person takes out knife.	s37-d25	603	807	bread	811
+s37-d25_1_4	Person places loaf on cutting board.	s37-d25	818	936	bread	935
+s37-d25_1_5	Person cuts a half inch piece from top of loaf down to cutting board.	s37-d25	968	1304	bread	1293
+s37-d25_2_1	He gets out the bread.	s37-d25	183	476	bread	489
+s37-d25_2_2	He gets out a cutting board.	s37-d25	488	596	bread	601
+s37-d25_2_3	He gets out a knife.	s37-d25	603	807	bread	801
+s37-d25_2_4	He removes the bread from the bag.	s37-d25	818	936	bread	985
+s37-d25_2_5	He slices off one slice of bread.	s37-d25	968	1304	bread	1339
+s37-d25_3_1	He took out break	s37-d25	183	476	bread	499
+s37-d25_3_2	He took out cutting board	s37-d25	488	596	bread	615
+s37-d25_3_3	He took out knife	s37-d25	603	807	bread	835
+s37-d25_3_4	He sliced bread	818	1304
+s37-d25_3_5	He stood over bread	818	1304
+s37-d25_4_1	He gets a loaf of bread.	s37-d25	183	476	bread	511
+s37-d25_4_2	He gets out a cutting board.	s37-d25	488	646	bread	655
+s37-d25_4_3	He gets a knife.	s37-d25	653	807	bread	803
+s37-d25_4_4	He takes out the loaf.	s37-d25	818	936	bread	1013
+s37-d25_4_5	He starts cutting slices of bread.	s37-d25	968	1304	bread	1337
+s37-d25_5_1	Person pulls out loaf of bread.	183	476
+s37-d25_5_2	Person closes refrigerator door.	183	476
+s37-d25_5_3	Person puts down loaf of bread on counter.	183	476
+s37-d25_5_4	Person puts cutting board on counter	s37-d25	488	596	bread	605
+s37-d25_5_5	Person puts knife on cutting board.	s37-d25	603	807	bread	813
+s37-d25_5_6	person unwraps load of bread.	818	936
+s37-d25_5_7	person puts loaf on cutting board.	818	936
+s37-d25_5_8	Person cuts one slice of bread from loaf.	968	1304
+s37-d25_5_9	Person puts knife down.	968	1304
+s37-d25_6_1	The person procures a loaf of bread from the fridge.	s37-d25	183	476	bread	427
+s37-d25_6_2	The person takes out a cutting board from the drawer.	s37-d25	488	596	bread	603
+s37-d25_6_3	The person takes out a knife from the drawer.	s37-d25	603	807	bread	789
+s37-d25_6_4	The person unwraps the loaf of bread and sets it on the cutting board.	s37-d25	818	936	bread	939
+s37-d25_6_5	The person uses the knife to slice a piece of bread from the loaf.	s37-d25	968	1304	bread	1355
+s37-d25_7_1	the person gets the bread	s37-d25	183	476	bread	379
+s37-d25_7_2	the person gets a cutting board	s37-d25	488	596	bread	611
+s37-d25_7_3	the person gets a large knife	s37-d25	603	807	bread	833
+s37-d25_7_4	the person unwraps the bread	s37-d25	818	936	bread	1009
+s37-d25_7_5	the person slices the bread	s37-d25	968	1304	bread	1411
+s37-d25_8_1	The person procures a loaf of bread from the fridge.	183	476
+s37-d25_8_2	The person sets the loaf of bread on the countertop.	183	476
+s37-d25_8_3	The person takes out a cutting board from the drawer.	s37-d25	488	596	bread	595
+s37-d25_8_4	The person takes out a knife from the drawer.	s37-d25	603	807	bread	783
+s37-d25_8_5	The person removes the loaf of bread from its wrapper.	s37-d25	818	936	bread	933
+s37-d25_8_6	The person uses the knife to slice a piece of bread from the loaf.	s37-d25	968	1304	bread	1333
+s37-d25_9_1	The person procures a loaf of bread from the fridge.	s37-d25	183	476	bread	429
+s37-d25_9_2	The person takes out a cutting board from the drawer.	s37-d25	488	596	bread	607
+s37-d25_9_3	The person takes out a knife from the drawer.	s37-d25	603	807	bread	789
+s37-d25_9_4	The person unwraps the loaf of bread and sets it on the cutting board.	s37-d25	818	936	bread	941
+s37-d25_9_5	The person uses the knife to slice a piece of bread from the loaf.	s37-d25	968	1304	bread	1359
+s37-d25_10_1	He gets the loaf of bread out of the fridge.	s37-d25	183	476	bread	411
+s37-d25_10_2	He gets the cutting board out of the cupboard.	s37-d25	488	596	bread	595
+s37-d25_10_3	He gets a knife out of the drawer.	s37-d25	603	807	bread	799
+s37-d25_10_4	He takes the loaf of bread out of its packaging.	s37-d25	818	936	bread	945
+s37-d25_10_5	He cuts a slice off the loaf of bread.	s37-d25	968	1304	bread	1317
+s37-d25_12_1	The man gets the bread out of the refrigerator.	s37-d25	183	476	bread	480
+s37-d25_12_2	The man gets out a cutting board and a knife.	s37-d25	488	807	bread	842
+s37-d25_12_3	The man unwraps the bread and puts it on the cutting board.	s37-d25	818	936	bread	948
+s37-d25_12_4	The man cuts the bread.	968	1304
+s37-d25_12_5	The man sets the bread aside on the cutting board.	968	1304
+s37-d25_13_1	The person takes the ingredient from the refrigerator and brings it to the counter.	s37-d25	183	476	bread	471
+s37-d25_13_2	The person takes out a cutting board.	s37-d25	488	646	bread	647
+s37-d25_13_3	The person takes out a chef's knife and places it with the cutting board.	s37-d25	653	807	bread	825
+s37-d25_13_4	The person removes the bread from the packaging and places it on the cutting board.	818	936
+s37-d25_13_5	The person holds the bread firmly in his left hand.	818	936
+s37-d25_13_6	The person carefully carves a half inch slice of bread from the end of the loaf.	s37-d25	968	1304	bread	1371
+s37-d25_14_1	The person gets out a loaf of bread in plastic wrap.	s37-d25	183	476	bread	481
+s37-d25_14_2	The person gets out a cutting board.	s37-d25	488	646	bread	658
+s37-d25_14_3	The person gets out a knife.	s37-d25	653	807	bread	799
+s37-d25_14_4	The person unwraps the bread.	s37-d25	818	936	bread	969
+s37-d25_14_5	The person cuts off a slice of bread.	s37-d25	968	1304	bread	1330
+s37-d25_15_1	The man opens the fridge	183	476
+s37-d25_15_2	The man takes bread out of the fridge.	183	476
+s37-d25_15_3	The man takes a cutting board out of a drawer.	s37-d25	488	646	bread	661
+s37-d25_15_4	The man takes a large knife out of a drawer.	s37-d25	653	807	bread	838
+s37-d25_15_5	The man places the loaf of bread on the cutting board.	s37-d25	818	936	bread	984
+s37-d25_15_6	The man cuts, with a sawing motion, a thin slice of bread.	s37-d25	968	1304	bread	1363
+s37-d25_17_1	Take loaf of bread from the fridge.	s37-d25	183	476	bread	362
+s37-d25_17_2	Gather cutting board and knife on counter.	s37-d25	488	807	bread	804
+s37-d25_17_3	Place bread on cutting board.	818	936
+s37-d25_17_4	Hold the bread steady with left hand and take knife with the right.	818	936
+s37-d25_17_5	Cut slice of bread off the loaf.	s37-d25	968	1304	bread	1346

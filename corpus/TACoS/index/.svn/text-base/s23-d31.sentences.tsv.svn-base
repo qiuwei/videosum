@@ -1,0 +1,94 @@
+s23-d31_1_1	The person takes out a cutting board.	s23-d31	214	342	garlic	323
+s23-d31_1_2	The person took out a knife.	s23-d31	361	485	garlic	477
+s23-d31_1_3	The person took out a plate and the garlic bulb.	s23-d31	526	918	garlic	960
+s23-d31_1_4	The person took a clove of garlic.	s23-d31	918	1045	garlic	1055
+s23-d31_1_5	The person put the bulb back in the cupboard.	s23-d31	1064	1135	garlic	1130
+s23-d31_1_6	The person removed the outer layer of the garlic.	s23-d31	1188	1367	garlic	1377
+s23-d31_1_7	Using the flat side of the knife, the person hit the cloves to remove more skin.	s23-d31	1367	1580	garlic	1580
+s23-d31_1_8	The person removed the skin/peel from each clove.	s23-d31	1601	1992	garlic	2005
+s23-d31_1_9	The person cut the ends off of each clove.	s23-d31	2072	2371	garlic	2365
+s23-d31_1_10	The person diced the garlic.	s23-d31	2403	3053	garlic	3167
+s23-d31_3_1	The person stores unneeded garlic in the cabinet.	214	1135
+s23-d31_3_2	The person retrieves a plate and garlic from the cabinet.	214	1135
+s23-d31_3_3	The person places a knife onto the cutting board.	214	1135
+s23-d31_3_4	The person retrieves a cutting board.	214	1135
+s23-d31_3_5	The person prepares and chops garlic.	1188	3053
+s23-d31_3_6	This concludes demonstration.	1188	3053
+s23-d31_4_1	Gather your cutting board, knife, bowl and bulb of garlic on the counter.	s23-d31	214	918	garlic	944
+s23-d31_4_2	Take two cloves of garlic from the bulb and return the bulb to the pantry.	s23-d31	918	1135	garlic	1124
+s23-d31_4_3	Crush each clove of garlic with the flat side of your knife.	s23-d31	1188	1580	garlic	1572
+s23-d31_4_4	Peel outer layer from garlic and discard it in the bowl.	s23-d31	1601	1992	garlic	2002
+s23-d31_4_5	Cut off the ends of the cloves and discard in bowl.	s23-d31	2072	2371	garlic	2398
+s23-d31_4_6	Chop by alternating cutting horizontally and vertically across the cloves until you reach the desired size for your chopped garlic.	s23-d31	2403	3053	garlic	3098
+s23-d31_5_1	The person gathers a knive, a board, a garlic bulb, and a plate to get ready to prepare the garlic.	s23-d31	214	918	garlic	904
+s23-d31_5_2	The person removes one section from the garlic bulb and returns the remainder of the bulb to the cabinet.	s23-d31	918	1135	garlic	1126
+s23-d31_5_3	The person cleans the outer skin from two cloves of the garlic and places them on the board for further preparation.	s23-d31	1188	1414	garlic	1414
+s23-d31_5_4	The person smashes the two cloves with the knife and removes the garlic's inner skin, which he places onto the plate.	s23-d31	1429	1992	garlic	2010
+s23-d31_5_5	The person uses the knife to remove the inedible ends of the garlic cloves and places the cut ends on the plate.	s23-d31	2072	2371	garlic	2388
+s23-d31_5_6	The person does a first rough chop of the garlic after lining them up on the board and then, using his finger, removes the garlic that has clung to the knife.	s23-d31	2403	2569	garlic	2580
+s23-d31_5_7	The person continues to chop the garlic until it gets to the desired size and, once reached, removes any garlic that has stuck to the knife completing the task assigned.	s23-d31	2694	3053	garlic	3104
+s23-d31_6_1	the person gets a cutting board and a sharp knife	s23-d31	214	485	garlic	496
+s23-d31_6_2	the person gets a plate	s23-d31	526	1135	garlic	1114
+s23-d31_6_3	the person smashes the Garlic on the cutting board with the knife	s23-d31	1188	1819	garlic	1712
+s23-d31_6_4	the person cuts one end of the Garlic and discards	s23-d31	1837	2569	garlic	2566
+s23-d31_6_5	the person slices and dices the Garlic	s23-d31	2694	3053	garlic	3208
+s23-d31_7_1	He obtains a plate, a clove of garlic, a knife, and a cuttingboard.	s23-d31	214	918	garlic	956
+s23-d31_7_2	He separates a small amount of garlic from the rest of the clove.	s23-d31	918	1045	garlic	1082
+s23-d31_7_3	He breaks the smaller portion apart and moves two parts from it to the cuttingboard.	s23-d31	1064	1414	garlic	1406
+s23-d31_7_4	He presses the garlic with the flat side of the knife.	s23-d31	1429	1580	garlic	1620
+s23-d31_7_5	He peels the garlic partially with his fingers.	s23-d31	1601	1992	garlic	2008
+s23-d31_7_6	He dices the garlic into much smaller pieces with the knife.	s23-d31	2072	3053	garlic	3140
+s23-d31_9_1	The person takes out a cutting board from the drawer.	s23-d31	214	342	garlic	362
+s23-d31_9_2	The person takes out a knife from the drawer.	s23-d31	361	485	garlic	458
+s23-d31_9_3	The person procures a plate from the cabinet and a clove of garlic from the pantry.	s23-d31	526	918	garlic	966
+s23-d31_9_4	The person takes a segment from the clove and returns the rest of the garlic to the pantry.	s23-d31	918	1135	garlic	1160
+s23-d31_9_5	The person peels the garlic and places the peel on the plate.	s23-d31	1188	1992	garlic	2022
+s23-d31_9_6	The person chops the garlic on the cutting board.	s23-d31	2072	3053	garlic	3138
+s23-d31_10_1	He obtains a large knife, a cuttingboard, a plate, and the garlic.	s23-d31	214	918	garlic	964
+s23-d31_10_2	He separates the garlic into smaller pieces, then places two of those pieces on the cuttingboard.	s23-d31	918	1414	garlic	1422
+s23-d31_10_3	He slices one piece of the garlic into smaller pieces.	s23-d31	1429	1819	garlic	1728
+s23-d31_10_4	He breaks the garlic apart even more on the plate.	s23-d31	1837	1992	garlic	2052
+s23-d31_10_5	He dices the larger pieces of garlic into much smaller pieces.	s23-d31	2072	3053	garlic	3206
+s23-d31_11_1	The person takes out a cutting board from the drawer.	s23-d31	214	342	garlic	362
+s23-d31_11_2	The person takes out a knife from the drawer.	s23-d31	361	429	garlic	442
+s23-d31_11_3	The person takes a plate from the cabinet and a clove of garlic from the pantry.	s23-d31	429	918	garlic	924
+s23-d31_11_4	The person removes a clove from the garlic and returns the rest to the pantry.	s23-d31	918	1135	garlic	1158
+s23-d31_11_5	The person removes the peels from the garlic, sets them on the plate, and then chops the garlic on the cutting board.	s23-d31	1188	3053	garlic	3140
+s23-d31_12_1	The person took out cutting board	s23-d31	214	342	garlic	327
+s23-d31_12_2	The person took out knife	s23-d31	361	429	garlic	437
+s23-d31_12_3	The person took out garlic	s23-d31	429	918	garlic	936
+s23-d31_12_4	The person put back unused garlic	s23-d31	918	1135	garlic	1127
+s23-d31_12_5	The person peeled the garlic	s23-d31	1188	1414	garlic	1405
+s23-d31_12_6	The person diced the garlic	s23-d31	1429	3053	garlic	3166
+s23-d31_13_1	Takes cutting board out of drawer.	s23-d31	214	342	garlic	338
+s23-d31_13_2	Takes knife out of drawer.	s23-d31	361	429	garlic	440
+s23-d31_13_3	Takes plate and garlic out of cabinet.	s23-d31	429	918	garlic	960
+s23-d31_13_4	Flattens garlic with knife.	s23-d31	918	1580	garlic	1594
+s23-d31_13_5	Chops up the garlic pieces.	s23-d31	1601	3053	garlic	3112
+s23-d31_14_1	The person places a cutting board and sharp knife on the counter.	s23-d31	214	485	garlic	460
+s23-d31_14_2	The person selects a plate and clove of garlic from the cabinet.	s23-d31	526	918	garlic	958
+s23-d31_14_3	The person uses his fingers to break apart the garlic clove.	s23-d31	918	1414	garlic	1407
+s23-d31_14_4	The person taps each piece of garlic with the knife of the blade twice.	s23-d31	1429	1580	garlic	1583
+s23-d31_14_5	The person peels each piece of garlic.	s23-d31	1601	1992	garlic	2017
+s23-d31_14_6	The person trims each piece of garlic.	s23-d31	2072	2371	garlic	2366
+s23-d31_14_7	The person begins to dice the garlic.	s23-d31	2403	2569	garlic	2575
+s23-d31_14_8	The person continues to dice the garlic.	s23-d31	2694	2831	garlic	2838
+s23-d31_14_9	The person finishes by chopping the garlic into a fine mince.	s23-d31	2858	3053	garlic	3150
+s23-d31_15_1	The man enters the kitchen and gets a cutting board and knife from the cabinet.	s23-d31	214	485	garlic	519
+s23-d31_15_2	 The man retrieves a plate and a garlic clove from a cabinet across the room.	s23-d31	526	918	garlic	952
+s23-d31_15_3	The man takes a half from the clove and returns the other half back to the cabinet.	s23-d31	918	1135	garlic	1138
+s23-d31_15_4	  The man takes the half of the clove and dices it thinly with a knife before putting the diced pieces on the plate.	1188	3053
+s23-d31_15_5	The man puts the knife back on the cutting board.	1188	3053
+s23-d31_17_1	He prepares a cuttingboard, a knife, a plate, and a clove of garlic.	s23-d31	214	1045	garlic	982
+s23-d31_17_2	He breaks the garlic apart into smaller pieces on the plate.	s23-d31	1064	1414	garlic	1407
+s23-d31_17_3	He uses the knife to press the garlic between it and the cuttingboard.	s23-d31	1429	1580	garlic	1637
+s23-d31_17_4	He breaks the garlic apart more on to the plate and then puts the larger pieces back on to the cuttingboard.	s23-d31	1601	1992	garlic	2100
+s23-d31_17_5	He dices the garlic into much smaller pieces and is finished.	s23-d31	2072	3053	garlic	3214
+s23-d31_19_1	The person gets a cutting board, a sharp knife, a plate and a head of garlic.	s23-d31	214	918	garlic	970
+s23-d31_19_2	The person removes two cloves from the head of garlic.	s23-d31	918	1045	garlic	1068
+s23-d31_19_3	The person peels away the loose exterior skin of the cloves.	s23-d31	1064	1367	garlic	1378
+s23-d31_19_4	The person lays the cloves on the cutting board and uses the flat side of the knife to crush them, pressing down on the knife with the heel of his hand.	s23-d31	1367	1580	garlic	1586
+s23-d31_19_5	The person peels off the stiff exterior skin of the garlic cloves and discards it.	s23-d31	1601	1992	garlic	2006
+s23-d31_19_6	The person slices off the tips and bases of the cloves of garlic and discards them.	s23-d31	2072	2371	garlic	2374
+s23-d31_19_7	The person lays the garlic cloves on the cutting board and finely slices them.	s23-d31	2403	2569	garlic	2570
+s23-d31_19_8	The person repeats slicing the garlic cloves from different angles until the garlic is minced into tiny chunks.	s23-d31	2694	3053	garlic	3104

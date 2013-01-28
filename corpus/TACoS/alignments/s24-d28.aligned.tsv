@@ -1,0 +1,25 @@
+246	947	take out	hand	net bag	counter,fridge	s24-d28_1_1	s24-d28_2_1	s24-d28_5_1	s24-d28_6_1	s24-d28_7_1	s24-d28_8_1	s24-d28_9_1	s24-d28_10_1	s24-d28_11_1			s24-d28_15_1	s24-d28_16_1	s24-d28_18_1. s24-d28_18_2. s24-d28_18_3	s24-d28_19_1
+963	1248	take out	hand	knife		s24-d28_1_2	s24-d28_2_2		s24-d28_6_2		s24-d28_8_2			s24-d28_11_2	s24-d28_13_1	s24-d28_14_1		s24-d28_16_2	s24-d28_18_4	s24-d28_19_2
+1318	1400	cut	knife	net bag	counter			s24-d28_5_2												
+1400	1507	remove from package	hand	orange	net bag								s24-d28_10_2					s24-d28_16_3		
+1514	1543	move	hand	net bag	counter										s24-d28_13_2				s24-d28_18_5	
+1560	1648	wash	hand	orange		s24-d28_1_3				s24-d28_7_2	s24-d28_8_3	s24-d28_9_2								s24-d28_19_3
+1648	1704	shake	hand	hand			s24-d28_2_3	s24-d28_5_3	s24-d28_6_3								s24-d28_15_2			
+1704	1741	shake	hand	orange																
+1771	1904	dry	towel	orange			s24-d28_2_4				s24-d28_8_4		s24-d28_10_3	s24-d28_11_3		s24-d28_14_2		s24-d28_16_4	s24-d28_18_6	
+1972	2018	open	hand		cupboard															
+2021	2246	take out	hand	plate	counter,cupboard	s24-d28_1_4		s24-d28_5_4	s24-d28_6_4		s24-d28_8_5		s24-d28_10_4	s24-d28_11_4	s24-d28_13_3	s24-d28_14_3	s24-d28_15_3	s24-d28_16_5	s24-d28_18_7	s24-d28_19_4
+2292	2489	cut	knife	orange															s24-d28_18_8	
+2489	2595	take apart	hand	orange			s24-d28_2_5													
+2595	2636	cut	knife	orange																
+2656	2746	peel	hand	orange			s24-d28_2_6					s24-d28_9_3				s24-d28_14_4				
+2917	3717	cut	knife	orange												s24-d28_14_5. s24-d28_14_6				
+3741	4658	peel	hand	orange			s24-d28_2_7			s24-d28_7_3	s24-d28_8_6	s24-d28_9_4				s24-d28_14_7				
+4664	5661	peel	knife	orange															s24-d28_18_9	
+5667	5799	peel	hand	orange				s24-d28_5_5												
+5799	5840	move	hand	peel	counter,plate	s24-d28_1_5			s24-d28_6_5	s24-d28_7_4			s24-d28_10_5	s24-d28_11_5	s24-d28_13_4	s24-d28_14_8	s24-d28_15_4	s24-d28_16_6		s24-d28_19_5
+5882	6090	take apart	hand	orange					s24-d28_6_6	s24-d28_7_5		s24-d28_9_5		s24-d28_11_6			s24-d28_15_5	s24-d28_16_7		
+6130	6176	peel	hand	orange			s24-d28_2_8				s24-d28_8_7	s24-d28_9_6	s24-d28_10_6						s24-d28_18_10	s24-d28_19_6
+6776	6922	throw in garbage	hand	peel		s24-d28_1_6		s24-d28_5_6	s24-d28_6_7		s24-d28_8_8		s24-d28_10_7	s24-d28_11_7		s24-d28_14_9	s24-d28_15_6	s24-d28_16_8	s24-d28_18_11	s24-d28_19_7
+6979	7061	take apart	hand	orange																
+7061	7124	take apart	hand	orange		s24-d28_1_7			s24-d28_6_8	s24-d28_7_6	s24-d28_8_9		s24-d28_10_8	s24-d28_11_8	s24-d28_13_5. s24-d28_13_6	s24-d28_14_10		s24-d28_16_9	s24-d28_18_12. s24-d28_18_13	

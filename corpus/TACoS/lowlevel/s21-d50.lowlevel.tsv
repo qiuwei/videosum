@@ -1,0 +1,9 @@
+217	441	take out	hand	cup	counter,cupboard
+475	630	take out	hand	egg	,cupboard
+678	1115	open egg	eggshell	egg white	cup,eggshell
+1128	1159	add	eggshell	yolk	cup,eggshell
+1183	1248	add	hand	egg white	cup,eggshell
+1248	1280	shake	hand	eggshell	
+1287	1369	throw in garbage	hand	eggshell	
+1390	1534	wash	hand	hand	
+1540	1606	shake	hand	hand	

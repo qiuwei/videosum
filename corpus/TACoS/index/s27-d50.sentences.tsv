@@ -1,0 +1,119 @@
+s27-d50_1_1	He took out a glass	s27-d50	233	485	egg	486
+s27-d50_1_2	He took out a second smaller glass	s27-d50	541	760	egg	768
+s27-d50_1_3	He took out egg	816	1014
+s27-d50_1_4	He cracked egg	816	1014
+s27-d50_1_5	He separated egg	s27-d50	1024	2195	egg	2177
+s27-d50_1_6	He threw away egg shell	s27-d50	2210	2336	egg	2327
+s27-d50_2_1	The person gets out two glasses.	s27-d50	233	760	egg	779
+s27-d50_2_2	The person gets out an egg.	s27-d50	816	1014	egg	1009
+s27-d50_2_3	The person cracks the egg carefully over the larger glass.	1024	1960
+s27-d50_2_4	The person pours the egg back and forth, holding the yolk in the shells and letting the white drain into the large glass.	1024	1960
+s27-d50_2_5	The person pours the yolk into the small glass.	s27-d50	2001	2195	egg	2179
+s27-d50_2_6	The person throws away the shell.	s27-d50	2210	2336	egg	2341
+s27-d50_4_1	Person sets large mug on counter.	s27-d50	233	485	egg	473
+s27-d50_4_2	Person sets smaller glass on table.	s27-d50	541	760	egg	767
+s27-d50_4_3	Egg is cracked open.	s27-d50	816	1014	egg	1075
+s27-d50_4_4	Egg white is full removed into larger glass mug.	s27-d50	1024	1960	egg	1979
+s27-d50_4_5	Yolk is dropped into smaller glass.	s27-d50	2001	2195	egg	2137
+s27-d50_4_6	Egg shell is thrown away.	s27-d50	2210	2336	egg	2291
+s27-d50_5_1	The person procures a large glass from the cupboard.	s27-d50	233	485	egg	435
+s27-d50_5_2	The person procures a small glass from the cupboard.	s27-d50	541	760	egg	713
+s27-d50_5_3	The person procures an egg from the fridge.	816	1014
+s27-d50_5_4	The person cracks the egg against the rim of the large glass.	816	1014
+s27-d50_5_5	The person carefully holds the egg in half and drains the white into the large glass.	s27-d50	1024	1960	egg	1999
+s27-d50_5_6	The person dumps the egg yolk into the small glass.	s27-d50	2001	2195	egg	2193
+s27-d50_5_7	The person disposes of the egg shells into the trash.	s27-d50	2210	2336	egg	2305
+s27-d50_6_1	The man places a glass on the counter.	s27-d50	233	485	egg	589
+s27-d50_6_2	Next, he places a tiny glass cup on the counter.	s27-d50	541	760	egg	821
+s27-d50_6_3	Next, he takes out one egg from the refrigerator and cracks it on the counter.	s27-d50	816	1014	egg	1069
+s27-d50_6_4	He slowly open the cracked egg and pours only the egg white in the bigger glass cup.	s27-d50	1024	1960	egg	1751
+s27-d50_6_5	He places the yellow part of the egg into the smaller glass cup.	s27-d50	2001	2195	egg	2171
+s27-d50_6_6	He throws the egg shell in the trash.	s27-d50	2210	2336	egg	2307
+s27-d50_7_1	The person gets out two glasses.	s27-d50	233	760	egg	761
+s27-d50_7_2	The person gets out an egg.	816	1014
+s27-d50_7_3	The person cracks the egg in half over the larger glass.	816	1014
+s27-d50_7_4	The person pours the egg carefully back and forth, keeping the yolk in the shells and letting the white pour into the larger glass.	s27-d50	1024	1960	egg	1987
+s27-d50_7_5	The person pours the yolk into the smaller glass.	s27-d50	2001	2195	egg	2183
+s27-d50_7_6	The person throws away the shell.	s27-d50	2210	2336	egg	2349
+s27-d50_8_1	The person takes a glass mug from the cupboard.	s27-d50	233	485	egg	445
+s27-d50_8_2	The person takes a small glass from the cupboard.	s27-d50	541	760	egg	725
+s27-d50_8_3	The person procures an egg from the fridge.	s27-d50	816	1014	egg	995
+s27-d50_8_4	The person cracks the egg on the rim of the mug and then drains the egg white into it.	s27-d50	1024	1960	egg	1995
+s27-d50_8_5	The person dumps the egg yolk into the second glass.	s27-d50	2001	2195	egg	2171
+s27-d50_8_6	The person throws the shells into the wastebin.	s27-d50	2210	2336	egg	2371
+s27-d50_9_1	The person takes a glass mug from the cupboard.	s27-d50	233	485	egg	439
+s27-d50_9_2	The person takes a small glass from the cupboard.	s27-d50	541	760	egg	713
+s27-d50_9_3	The person procures an egg from the fridge.	s27-d50	816	1014	egg	987
+s27-d50_9_4	The person cracks the egg on the rim of the mug and then drains the egg white into it.	s27-d50	1024	1960	egg	1983
+s27-d50_9_5	The person dumps the egg yolk into the second glass.	s27-d50	2001	2195	egg	2169
+s27-d50_9_6	The person throws the shells into the wastebin.	s27-d50	2210	2336	egg	2347
+s27-d50_10_1	He walks to the cupboard, opens it, takes out a glass then closes the cupboard.	233	485
+s27-d50_10_2	He walks to the counter and places the glass on the counter.	233	485
+s27-d50_10_3	He walks back to the cupboard, opens it, takes out a smaller glass, then closes the cupboard.	541	760
+s27-d50_10_4	He walks back over to the counter and places the smaller glass on the counter next to the bigger glass.	541	760
+s27-d50_10_5	He walks to the fridge, opens it and takes out an egg.	s27-d50	816	1014	egg	987
+s27-d50_10_6	He walks to the counter and breaks the egg on the edge of the bigger glass, then seperates the egg white into the glass.	s27-d50	1024	1960	egg	1981
+s27-d50_10_7	He places the egg yolk into the smaller glass.	s27-d50	2001	2195	egg	2169
+s27-d50_10_8	He takes the egg shells and throw them in the garbage.	s27-d50	2210	2336	egg	2427
+s27-d50_11_1	The person takes a glass mug from the cupboard.	s27-d50	233	485	egg	403
+s27-d50_11_2	The person takes a small glass from the cupboard.	s27-d50	541	760	egg	719
+s27-d50_11_3	The person procures an egg from the fridge.	s27-d50	816	1014	egg	987
+s27-d50_11_4	The person cracks the egg on the rim of the mug and then drains the egg white into it.	s27-d50	1024	1960	egg	1993
+s27-d50_11_5	The person dumps the egg yolk into the second glass.	s27-d50	2001	2195	egg	2179
+s27-d50_11_6	The person throws the shells into the wastebin.	s27-d50	2210	2336	egg	2361
+s27-d50_12_1	The person takes out two drinking glasses.	s27-d50	233	760	egg	775
+s27-d50_12_2	The person cracks one egg.	s27-d50	816	1014	egg	1307
+s27-d50_12_3	The person carefully opens the egg over one mug, catching the yolk in one half of the shell.	1024	1960
+s27-d50_12_4	The person pours only the whites of the eggs into the mug.	1024	1960
+s27-d50_12_5	The person puts the yolk into the other glass and throws away the shell.	s27-d50	2001	2336	egg	2425
+s27-d50_13_1	The person goes to the cabinet, gets a mug and places it on the counter.	s27-d50	233	485	egg	489
+s27-d50_13_2	The person goes to the cabinet, gets a small glass and places it on the counter.	s27-d50	541	760	egg	771
+s27-d50_13_3	The person goes to the refrigerator and gets an egg and brings it over to the counter.	816	1014
+s27-d50_13_4	The person taps the egg on the side of the mug to slightly break the shell.	816	1014
+s27-d50_13_5	The person uses his thumbs to separate the egg shell into two parts while holding it over the mug so it can catch any egg white that comes out.	816	1014
+s27-d50_13_6	The person continues to slowly separate the egg into two parts while more of the egg white fall into the mug.	816	1014
+s27-d50_13_7	Having completed the separation of the egg shell, the person captures the egg yolk into the egg shell that is in his left hand.	816	1014
+s27-d50_13_8	The person moves the egg yolk into the egg shell he is holding in his right hand.	1024	1960
+s27-d50_13_9	The person is using the egg shell that is his left hand to remove any egg white that is clinging to the egg shell that contains the egg yolk.	1024	1960
+s27-d50_13_10	The person moves the egg yolk into the egg shell he is holding in his left hand.	1024	1960
+s27-d50_13_11	The person is using the egg shell he is holding in his right hand to remove any egg white that is clinging to the egg shell that contains the egg yolk he is holding in his left hand.	1024	1960
+s27-d50_13_12	The person carefully places the egg yolk into the small glass.	s27-d50	2001	2195	egg	2135
+s27-d50_13_13	The person throws the egg shells into the trash.	s27-d50	2210	2336	egg	2301
+s27-d50_14_1	Man goes to cabinet chooses a beer mug, closes cabinet door	233	485
+s27-d50_14_2	Walks to the counter sets the glass down on the counter	233	485
+s27-d50_14_3	The man goes back to the cabinet, chooses a juice glass and shuts cabinet door.	541	760
+s27-d50_14_4	The man goes back to the counter and sets the glass down on the counter next to the larger glass.	541	760
+s27-d50_14_5	The man goes to the refrigerator and grabs and egg, he closes the refrigerator door.	816	1014
+s27-d50_14_6	The man walks back to the counter preparing to crack the egg on the side of the large glass.	816	1014
+s27-d50_14_7	The man cracks the egg over the glass allowing the white of the egg to fall into the glass while keeping the yolk inside the eggshell.	816	1014
+s27-d50_14_8	The man carefully pours the egg back and forth into both sides of the eggshell to allow all the white to fall into the large glass.	s27-d50	1024	1960	egg	1977
+s27-d50_14_9	The man now pours the egg yolk into the smaller glass by picking up the glass and allowing the yolk to slide into it.	s27-d50	2001	2195	egg	2181
+s27-d50_14_10	The man now takes the empty eggshell and opens the trash cabinet and puts the eggshells in the trash and shuts the trash door.	2210	2336
+s27-d50_14_11	The man is now complete and looks at his work and I assume he explains that he separated the egg into yolk and whites, he stands in front of the counter not touching it.	2210	2336
+s27-d50_15_1	Person gets out two cups and one egg.	233	1014
+s27-d50_15_2	Person gently opens up egg over first cup.	233	1014
+s27-d50_15_3	Person allows some egg white to drain into the first cup.	233	1014
+s27-d50_15_4	Person keeps egg yolk in one half.	1024	1960
+s27-d50_15_5	Person gently moves egg yolk into the second half of the egg shell.	1024	1960
+s27-d50_15_6	Person uses second half of egg shell to cut excess egg white from the egg yolk.	1024	1960
+s27-d50_15_7	Person gently puts egg yolk into the second cup.	s27-d50	2001	2195	egg	2128
+s27-d50_15_8	Person discards egg shells.	s27-d50	2210	2336	egg	2298
+s27-d50_16_1	The person takes out a tall glass from the cupboard.	s27-d50	233	485	egg	413
+s27-d50_16_2	The person takes out a short glass from the cupboard.	s27-d50	541	760	egg	695
+s27-d50_16_3	The person takes out an egg from the refrigerator.	816	1014
+s27-d50_16_4	The person cracks the egg open.	816	1014
+s27-d50_16_5	The person lets the egg yolk flow into the tall glass while he moves the yolk between the two eggshell halves.	s27-d50	1024	1960	egg	1974
+s27-d50_16_6	The person pours the egg yolk into the short glass.	s27-d50	2001	2195	egg	2138
+s27-d50_16_7	The person discards the eggshells.	s27-d50	2210	2336	egg	2316
+s27-d50_17_1	The person sets up two separate glasses on the counter.	s27-d50	233	760	egg	770
+s27-d50_17_2	The person cracks an egg.	s27-d50	816	1014	egg	1177
+s27-d50_17_3	The person holds the yolk in the shell and drops the egg white into the first glass.	s27-d50	1024	1960	egg	1976
+s27-d50_17_4	The person puts the yolk into the second glass.	s27-d50	2001	2195	egg	2166
+s27-d50_17_5	The person throws the egg shell into the garbage.	s27-d50	2210	2336	egg	2323
+s27-d50_18_1	Grab a glass.	s27-d50	233	485	egg	555
+s27-d50_18_2	Grab a smaller glass.	s27-d50	541	760	egg	787
+s27-d50_18_3	Get your egg from the refrigerator.	s27-d50	816	1014	egg	1039
+s27-d50_18_4	Crack the egg on the side of the bigger glass, slightly for the egg white to run out.	1024	1960
+s27-d50_18_5	Toggle the egg yolk back and forth over the glass so the remaining egg white falls into glass.	1024	1960
+s27-d50_18_6	Drop yolk from egg shell into smaller glass.	2001	2336
+s27-d50_18_7	Discard egg shell into trash.	2001	2336

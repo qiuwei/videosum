@@ -1,0 +1,106 @@
+257	354	open	hand		drawer
+354	490	take out	hand	cutting board	counter,drawer
+633	679	take out	hand	bowl	counter,drawer
+711	788	close	hand		drawer
+788	1031	take out	hand	knife	cutting board,drawer
+1047	1329	take out	hand	broccoli	,fridge
+1542	1609	put in	hand	broccoli	,fridge
+1609	1842	take out	hand	plastic bag	,fridge
+1848	2188	remove from package	hand	broccoli	plastic bag
+2249	2375	throw in garbage	hand	plastic bag	
+2488	2552	move	hand	broccoli	bowl,cutting board
+2578	2847	cut	knife	broccoli	cutting board
+2859	2898	take apart	hand	broccoli	cutting board
+2919	3082	cut	knife	broccoli	cutting board
+3120	3570	cut	knife	broccoli	cutting board
+3575	3908	cut	knife	broccoli	bowl
+4008	4177	throw in garbage	hand	broccoli	
+4185	4241	wash	hand	hand	
+4330	4358	fill	faucet	water	,bowl
+4365	4385	add	hand	broccoli	bowl,cutting board
+4390	4411	add	hand	broccoli	bowl,cutting board
+4411	4449	add	hand	broccoli	bowl,cutting board
+4466	4482	add	hand	broccoli	bowl,cutting board
+4482	4507	add	hand	broccoli	bowl,cutting board
+4516	4557	add	hand	broccoli	bowl,cutting board
+4576	4599	add	hand	broccoli	bowl,cutting board
+4599	4661	add	hand	broccoli	bowl,cutting board
+4737	4911	change temperature	faucet	water	bowl
+5004	5156	take out	hand	lid,pot	,drawer
+5223	5346	wash	hand	pot	
+5375	5547	fill	faucet	water	,pot
+5707	5763	turn on	hand	stove	
+5763	5943	change temperature	hand	stove	
+6121	6145	add	hand	broccoli	bowl,pot
+6165	6194	add	hand	broccoli	bowl,pot
+6198	6246	add	hand	broccoli	bowl,pot
+6258	6325	add	hand	broccoli	bowl,pot
+6329	6403	add	hand	broccoli	bowl,pot
+6406	6462	add	hand	broccoli	bowl,pot
+6489	6515	add	hand	broccoli	bowl,pot
+6616	6660	pour	bowl	water	sink
+6671	6787	wash	hand	bowl	
+6888	6937	wash	hand	knife	
+6959	7047	put in	hand	knife	,drawer
+7057	7149	fill	faucet	water	,bowl
+7186	7305	pour	bowl	water	pot
+7404	7461	take out	hand	spice shaker	,spice holder
+7471	7544	screw	hand	spice shaker	
+7555	7769	spice	spice shaker	salt	pot
+7775	7850	screw	hand	spice shaker	
+7860	7900	put in	hand	spice shaker	,spice holder
+7960	8041	put lid	hand	lid	pot
+8214	8381	wash	hand	cutting board	
+8381	8460	shake	hand	cutting board	
+8473	8518	open	hand		drawer
+8531	8602	put in	hand	cutting board	,drawer
+8734	8773	move	hand	bowl	counter
+8884	9780	clean	cleaning brush	counter	
+9859	9915	wash	hand	cleaning brush	
+9948	10113	wash	hand	hand	
+10113	10134	move	hand	sponge	,faucet
+10134	10257	dry	sponge	hand	
+10257	10276	move	hand	sponge	,faucet
+10302	10347	shake	hand	bowl	
+10403	10470	remove lid	hand	lid	pot
+10588	10649	put lid	hand	lid	pot
+11118	11213	open	hand		cupboard
+11225	11286	open	hand		cupboard
+11293	11349	open	hand		cupboard
+11352	11391	open	hand		cupboard
+11395	11653	take out	hand	plate	,cupboard
+11778	11828	wash	hand	plate	
+11828	11954	shake	hand	plate	
+12201	12245	remove lid	hand	lid	pot
+12245	12368	shake	hand	lid	
+12492	12635	move	hand	lid	,counter
+13134	13208	put lid	hand	lid	pot
+13406	13484	take out	hand	spice shaker	counter,spice holder
+13956	14010	remove lid	hand	lid	pot
+14010	14185	shake	hand	lid	
+14185	14248	move	hand	lid	,counter
+14254	14395	take out	hand	fork	,drawer
+15001	15062	put lid	hand	lid	pot
+15075	15161	move	hand	pot	counter,stove
+15238	15762	pour	pot	water	sink
+15932	16005	pour	pot	water	sink
+16074	16136	remove lid	hand	pot	
+16161	16183	move	hand	plate	counter
+16183	16205	move	hand	bowl	counter
+16205	16228	move	hand	pot	counter
+16290	16332	move	hand	broccoli	plate,pot
+16405	16507	move	fork	broccoli	plate,pot
+16512	16586	move	fork	broccoli	plate,pot
+16597	16655	move	fork	broccoli	plate,pot
+16660	16732	move	fork	broccoli	plate,pot
+16744	16838	move	fork	broccoli	plate,pot
+16843	16894	move	fork	broccoli	plate,pot
+16914	16967	move	fork	broccoli	plate,pot
+16978	17021	move	fork	broccoli	pot
+17026	17074	move	fork	broccoli	plate,pot
+17116	17264	move	fork	broccoli	plate,pot
+17351	17562	arrange	hand	broccoli	plate
+17618	17669	screw	hand	spice shaker	
+17686	17948	spice	spice shaker	spice	plate
+17948	17983	screw	hand	spice shaker	
+17983	18043	put in	hand	spice shaker	,spice holder

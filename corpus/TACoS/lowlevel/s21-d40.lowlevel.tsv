@@ -1,0 +1,12 @@
+243	342	take out	hand	squeezer	counter,drawer
+342	388	close	hand		drawer
+456	729	take out	hand	lime	fridge
+735	861	take out	hand	knife	drawer
+872	946	take out	hand	cutting board	counter,drawer
+957	1023	cut	knife	lime	cutting board
+1059	1541	squeeze	squeezer	lime	squeezer
+1587	2574	squeeze	squeezer	lime	squeezer
+2606	2735	squeeze	squeezer	lime	squeezer
+2735	2793	squeeze	hand	lime	squeezer
+2795	2905	squeeze	hand	lime	squeezer
+3027	3124	wash	hand	hand	

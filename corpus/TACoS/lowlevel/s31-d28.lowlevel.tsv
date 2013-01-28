@@ -1,0 +1,28 @@
+202	495	take out	hand	orange	fridge
+621	740	take out	hand	cutting board	counter,drawer
+740	793	close	hand		drawer
+802	940	take out	hand	spoon	cutting board,drawer
+949	1221	take out	hand	knife	cutting board,drawer
+1280	1771	cut	knife	orange	cutting board
+1805	3334	peel	spoon	orange	
+3334	3384	take apart	hand	orange,peel	
+3384	3552	take apart	hand	orange,peel	
+3566	3597	move	hand	peel	counter,cutting board
+3662	3702	move	hand	spoon	counter,cutting board
+3740	3994	cut	knife	orange	cutting board
+4071	4232	take out	hand	plate	counter,cupboard
+4242	4268	move	hand	orange	cutting board,plate
+4268	4309	move	hand	orange	cutting board,plate
+4309	4378	move	hand	orange	cutting board,plate
+4434	4675	wash	hand	spoon	
+4675	4716	shake	hand	spoon	
+4739	4804	dry	towel	spoon	
+4822	4865	put in	hand	spoon	,drawer
+4907	5056	wash	hand	knife	
+5056	5086	shake	hand	spoon	
+5114	5190	dry	towel	knife	
+5211	5254	put in	hand	knife	,drawer
+5284	5353	throw in garbage	hand	peel	
+5410	5568	wash	hand	cutting board	
+5568	5670	shake	hand	cutting board	
+5675	5737	put in	hand	cutting board	,drawer

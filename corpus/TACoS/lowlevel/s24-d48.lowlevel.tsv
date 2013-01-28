@@ -1,0 +1,10 @@
+188	401	take out	hand	plastic bag	,fridge
+415	572	remove from package	hand	chilli	plastic bag
+616	728	put in	hand	plastic bag	counter,fridge
+787	907	take out	hand	cutting board	counter,drawer
+910	986	close	hand		drawer
+992	1121	take out	hand	knife	,drawer
+1226	2003	slice	knife	chilli	cutting board
+2017	2135	gather	knife	chilli	cutting board
+2142	2186	scratch off	hand	chilli	cutting board,knife
+2237	2315	throw in garbage	hand	chilli	

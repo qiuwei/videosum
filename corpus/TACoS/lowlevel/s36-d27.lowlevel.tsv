@@ -1,0 +1,20 @@
+165	363	take out	hand	onion	,drawer
+396	531	take out	hand	cutting board	counter,drawer
+544	686	take out	hand	knife	,drawer
+757	876	cut	knife	onion	cutting board
+925	1107	peel	hand	onion	
+1171	1204	cut	knife	onion	cutting board
+1248	1451	peel	hand	onion	
+1505	1610	peel	hand	onion	
+1636	1787	move	knife	peel	counter,cutting board
+1815	1990	slice	knife	onion	cutting board
+2011	2163	chop	knife	onion	cutting board
+2202	2378	slice	knife	onion	cutting board
+2402	2608	chop	knife	onion	cutting board
+2959	3021	open	hand		drawer
+3026	3243	take out	hand	plate	counter,cupboard
+3312	3465	move	knife	onion	cutting board,plate
+3535	3580	open	hand		cupboard
+3760	3834	close	hand		cupboard
+3852	3996	take out	hand	lemon juice container	,drawer
+4099	4243	pour	lemon juice container	lemon juice	plate

@@ -1,0 +1,13 @@
+237	508	take out	hand	plastic paper bag	counter,cupboard
+578	861	take out	hand	plate	counter,cupboard
+904	1330	remove from package	hand	bread	plastic paper bag
+1357	1518	take out	hand	knife	drawer
+1560	1788	slice	knife	bread	plastic paper bag
+1865	1959	take out	hand	cutting board	counter,drawer
+1977	2024	move	hand	bread,plastic paper bag	counter,cutting board
+2071	2206	slice	knife	bread	cutting board
+2304	2520	slice	knife	bread	cutting board
+2591	2622	move	hand	bread	cutting board,plate
+2646	2672	move	hand	bread	cutting board,plate
+2676	2702	move	hand	plate	counter
+2715	2899	package	hand	bread	plastic paper bag

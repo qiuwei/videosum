@@ -1,0 +1,104 @@
+s27-d21_1_1	Open the refrigerator and get the cucumber.	240	559
+s27-d21_1_2	Place cucumber on the counter.	240	559
+s27-d21_1_3	Open drawer and find a cutting board.	s27-d21	567	876	cucumber	857
+s27-d21_1_4	Wash cucumber and place on cutting board.	s27-d21	912	1420	cucumber	1453
+s27-d21_1_5	Open drawer and find a chef's knife.	s27-d21	1447	1753	cucumber	1765
+s27-d21_1_6	Cut cucumber into lengthwise strips.	s27-d21	1884	2646	cucumber	2884
+s27-d21_1_7	Gather strips and hold them together as you cut the cucumber into cubes using a perpendicular cut.	s27-d21	3126	4207	cucumber	4316
+s27-d21_2_1	A man enters the kitchen, retrieves a cucumber from the refrigerator and places it on the counter.	s27-d21	240	559	cucumber	572
+s27-d21_2_2	He removes a cutting board and a knife from the drawer and places them on the counter.	s27-d21	567	1220	cucumber	1260
+s27-d21_2_3	He washes the cucumber and removes a second knife from the drawer.	s27-d21	1226	1753	cucumber	1778
+s27-d21_2_4	He cuts the cucumber six times lengthwise.	s27-d21	1884	2646	cucumber	2758
+s27-d21_2_5	Stacking the six lengthwise slices, he then cuts the cucumber twenty crosswise.	3126	4207
+s27-d21_2_6	He sets down the knife.	3126	4207
+s27-d21_3_1	person gets cucumber	s27-d21	240	559	cucumber	480
+s27-d21_3_2	person gets cutting board	s27-d21	567	876	cucumber	848
+s27-d21_3_3	person gets knife	s27-d21	912	1095	cucumber	1170
+s27-d21_3_4	person washes cucumber	s27-d21	1181	1467	cucumber	1458
+s27-d21_3_5	person dices cucumber	s27-d21	1493	4207	cucumber	4266
+s27-d21_4_1	The person gets out a cucumber.	s27-d21	240	559	cucumber	550
+s27-d21_4_2	The person gets out a cutting board.	s27-d21	567	813	cucumber	840
+s27-d21_4_3	The person gets out a knife.	s27-d21	813	1095	cucumber	1114
+s27-d21_4_4	The person rinses the cucumber.	s27-d21	1181	1420	cucumber	1434
+s27-d21_4_5	The person gets out another knife.	s27-d21	1447	1753	cucumber	1734
+s27-d21_4_6	The person cuts the cucumber lengthwise into slices.	s27-d21	1884	2646	cucumber	2754
+s27-d21_4_7	The person chops up the cucumber.	s27-d21	3126	4207	cucumber	4184
+s27-d21_5_1	He gets a cucumber.	s27-d21	240	559	cucumber	576
+s27-d21_5_2	He gets a cutting board and knife.	s27-d21	567	1095	cucumber	1108
+s27-d21_5_3	He washes the cucumber.	s27-d21	1181	1420	cucumber	1396
+s27-d21_5_4	He gets a larger knife.	s27-d21	1447	1753	cucumber	1734
+s27-d21_5_5	He chops the cucumber.	s27-d21	1884	4207	cucumber	4256
+s27-d21_6_1	The man takes out a cucumber.	s27-d21	240	559	cucumber	574
+s27-d21_6_2	The man takes out a cutting board and a knife.	s27-d21	567	1095	cucumber	1116
+s27-d21_6_3	The man gets another knife.	s27-d21	1181	1753	cucumber	1782
+s27-d21_6_4	The man slices one half of the cucumber.	s27-d21	1884	2228	cucumber	2332
+s27-d21_6_5	The man then slices the other half.	s27-d21	2341	2646	cucumber	2796
+s27-d21_6_6	The man cuts the slices into smaller pieces.	s27-d21	3126	4207	cucumber	4338
+s27-d21_7_1	He grabs a cucumber.	s27-d21	240	559	cucumber	480
+s27-d21_7_2	He grabs a cutting board and knife.	s27-d21	567	1095	cucumber	1104
+s27-d21_7_3	He rinses the cucumber.	s27-d21	1181	1420	cucumber	1452
+s27-d21_7_4	He chops the cucumber.	1447	4207
+s27-d21_7_5	He sets the knife down.	1447	4207
+s27-d21_8_1	He gets a cucumber.	s27-d21	240	559	cucumber	480
+s27-d21_8_2	He gets a cutting board.	s27-d21	567	876	cucumber	850
+s27-d21_8_3	He gets a knife.	s27-d21	912	1095	cucumber	1112
+s27-d21_8_4	He rinses the cucumber.	s27-d21	1181	1420	cucumber	1416
+s27-d21_8_5	He gets a bigger knife.	s27-d21	1447	1753	cucumber	1738
+s27-d21_8_6	He chops the cucumber.	s27-d21	1884	4207	cucumber	4272
+s27-d21_10_1	He gets a cucumber.	s27-d21	240	559	cucumber	560
+s27-d21_10_2	He gets a cutting board and knife.	s27-d21	567	1095	cucumber	1104
+s27-d21_10_3	He rinses the cucumber.	s27-d21	1181	1420	cucumber	1396
+s27-d21_10_4	He gets a bigger knife.	s27-d21	1447	1753	cucumber	1708
+s27-d21_10_5	He chops the cucumber.	s27-d21	1884	4207	cucumber	4214
+s27-d21_11_1	The man begins by selecting a cucumber from the fridge.	s27-d21	240	559	cucumber	606
+s27-d21_11_2	Next, he rinses the cucumber with water.	s27-d21	567	1420	cucumber	1430
+s27-d21_11_3	Next, using a large knife, he cuts the cucumber into long thin slices.	s27-d21	1447	2646	cucumber	2708
+s27-d21_11_4	Using the same knife, he then cuts down through the slices creating small chunks.	s27-d21	3126	4135	cucumber	3788
+s27-d21_11_5	He finishes after all of the cucumber has been cut.	s27-d21	4135	4207	cucumber	4254
+s27-d21_12_1	He took out cucumber	s27-d21	240	559	cucumber	511
+s27-d21_12_2	He took out cutting board	s27-d21	567	876	cucumber	860
+s27-d21_12_3	He took out knife	s27-d21	912	1095	cucumber	1115
+s27-d21_12_4	He washed cucumber	s27-d21	1181	1420	cucumber	1404
+s27-d21_12_5	He cut cucumber long ways	s27-d21	1447	2228	cucumber	2292
+s27-d21_12_6	He diced cucumber	s27-d21	2341	4207	cucumber	4252
+s27-d21_13_1	Takes out fresh cucumber	s27-d21	240	559	cucumber	628
+s27-d21_13_2	Takes out chopping board	s27-d21	567	876	cucumber	850
+s27-d21_13_3	Washes cucumber	s27-d21	912	1359	cucumber	1388
+s27-d21_13_4	Takes out chopping knife	s27-d21	1359	1753	cucumber	1770
+s27-d21_13_5	Slices cucumber lengthwise	s27-d21	1884	2646	cucumber	2730
+s27-d21_13_6	Keeping cucumber together, cuts crosswise	s27-d21	3126	4207	cucumber	4198
+s27-d21_14_1	He takes a cucumber from the fridge	s27-d21	240	559	cucumber	557
+s27-d21_14_2	He takes out a cutting board	s27-d21	567	876	cucumber	873
+s27-d21_14_3	He takes out a knife	s27-d21	912	1095	cucumber	1090
+s27-d21_14_4	He washed the cucumber	s27-d21	1181	1420	cucumber	1428
+s27-d21_14_5	He slices half of it lenghtwise	s27-d21	1447	2228	cucumber	2292
+s27-d21_14_6	He turns it around and slices the other half also lengthwise	s27-d21	2341	2646	cucumber	2647
+s27-d21_14_7	He holds it down and chops it into little squares	s27-d21	3126	4135	cucumber	4145
+s27-d21_15_1	The person gets out a cucumber.	s27-d21	240	559	cucumber	554
+s27-d21_15_2	The person gets out a cutting board.	s27-d21	567	813	cucumber	842
+s27-d21_15_3	The person gets out a knife.	s27-d21	813	1095	cucumber	1107
+s27-d21_15_4	The person rinses the cucumber.	s27-d21	1181	1420	cucumber	1444
+s27-d21_15_5	The person gets out another knife.	s27-d21	1447	1753	cucumber	1745
+s27-d21_15_6	The person cuts the cucumber into slices lengthwise.	s27-d21	1884	2646	cucumber	2881
+s27-d21_15_7	The person cuts the slices into small pieces.	s27-d21	4135	4207	cucumber	4248
+s27-d21_16_1	He took out cucumber	s27-d21	240	559	cucumber	523
+s27-d21_16_2	He took out cutting board	s27-d21	567	813	cucumber	775
+s27-d21_16_3	He took out knife	s27-d21	813	1095	cucumber	1110
+s27-d21_16_4	He washed cucumber	s27-d21	1181	1420	cucumber	1424
+s27-d21_16_5	He took out second knife	s27-d21	1447	1753	cucumber	1726
+s27-d21_16_6	He chopped cucumber	s27-d21	1884	4135	cucumber	4148
+s27-d21_17_1	A cucumber is removed from the refrigerator and placed on the counter.	s27-d21	240	559	cucumber	561
+s27-d21_17_2	The person removed a small cutting board.	s27-d21	567	813	cucumber	794
+s27-d21_17_3	The person picked out a knife for chopping.	s27-d21	813	1095	cucumber	1101
+s27-d21_17_4	The cucumber was washed and placed on the cutting board.	s27-d21	1181	1467	cucumber	1470
+s27-d21_17_5	The person chooses another knife for slicing.	s27-d21	1493	1753	cucumber	1755
+s27-d21_17_6	The cucumber is thinly sliced lengthwise.	s27-d21	1884	2646	cucumber	2576
+s27-d21_17_7	The cucumber was turned sideways and sliced to form chunks.	3126	4207
+s27-d21_17_8	A completed chopped cucumber.	3126	4207
+s27-d21_19_1	The man opens the refrigerator and removes a cucumber.	s27-d21	240	559	cucumber	516
+s27-d21_19_2	The man removes a cutting board and knife from the drawer.	s27-d21	567	1095	cucumber	1094
+s27-d21_19_3	The man rinses the cucumber in the sink.	s27-d21	1181	1420	cucumber	1424
+s27-d21_19_4	The man chooses a larger knife from the drawer.	s27-d21	1447	1753	cucumber	1830
+s27-d21_19_5	The man slices the cucumber lengthwise into narrow slices.	s27-d21	1884	2646	cucumber	2668
+s27-d21_19_6	The man stacks the cucumber slices and cuts them crosswise into small pieces.	4135	4207
+s27-d21_19_7	The man places the knife on the counter.	4135	4207

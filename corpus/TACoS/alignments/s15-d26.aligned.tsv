@@ -1,0 +1,224 @@
+220	544	take out	hand	cauliflower	counter,fridge			s15-d26_4_1			s15-d26_7_1	s15-d26_8_1	s15-d26_9_1	s15-d26_10_1	s15-d26_11_1			s15-d26_14_1. s15-d26_14_2	s15-d26_15_1	s15-d26_16_1	s15-d26_17_1. s15-d26_17_2	s15-d26_18_1	s15-d26_19_1	
+582	915	take out	hand	knife	drawer						s15-d26_7_2	s15-d26_8_2		s15-d26_10_2				s15-d26_14_3. s15-d26_14_4		s15-d26_16_2	s15-d26_17_3. s15-d26_17_4		s15-d26_19_2	
+959	1220	take out	hand	cutting board	counter,drawer									s15-d26_10_3				s15-d26_14_5						
+1260	1421	take out	hand	bowl	counter,drawer						s15-d26_7_3	s15-d26_8_3. s15-d26_8_4			s15-d26_11_2	s15-d26_12_1. s15-d26_12_2. s15-d26_12_3. s15-d26_12_4. s15-d26_12_5. s15-d26_12_6. s15-d26_12_7		s15-d26_14_6. s15-d26_14_7	s15-d26_15_2	s15-d26_16_3	s15-d26_17_5		s15-d26_19_3	
+1589	1617	move	hand	cauliflower	counter,cutting board		s15-d26_3_1	s15-d26_4_2	s15-d26_5_1		s15-d26_7_4		s15-d26_9_2	s15-d26_10_4	s15-d26_11_3	s15-d26_12_8						s15-d26_18_2	s15-d26_19_4	
+1628	1690	cut	knife	leaves	cutting board	s15-d26_2_1																		s15-d26_20_1
+1738	1788	cut	knife	leaves	cutting board																			
+1793	1845	cut	knife	leaves	cutting board																			
+1877	1930	cut	knife	leaves	cutting board											s15-d26_12_9			s15-d26_15_3					
+1956	2013	cut	knife	leaves	cutting board													s15-d26_14_8						
+2030	2105	cut	knife	leaves	cutting board																			
+2140	2217	cut	knife	leaves	cutting board											s15-d26_12_10	s15-d26_13_1	s15-d26_14_9	s15-d26_15_4	s15-d26_16_4				
+2383	2467	throw in garbage	hand	leaves																			s15-d26_19_5	
+2534	2563	throw in garbage	hand	leaves								s15-d26_8_5												
+2586	2662	move	hand	cauliflower	counter,cutting board							s15-d26_8_6											s15-d26_19_6	s15-d26_20_2
+2682	2738	cut	knife	stem	cutting board						s15-d26_7_5			s15-d26_10_5	s15-d26_11_4									
+2772	2805	throw in garbage	hand	stem			s15-d26_3_2	s15-d26_4_3					s15-d26_9_3					s15-d26_14_10		s15-d26_16_5				
+2835	2889	take apart	knife	leaves	cutting board																			
+2915	2953	take apart	knife	leaves	cutting board																		s15-d26_19_7	
+2972	3028	take apart	knife	leaves	cutting board																		s15-d26_19_8	s15-d26_20_3
+3058	3100	take apart	knife	leaves	cutting board																			
+3150	3192	take apart	knife	leaves	cutting board															s15-d26_16_6				
+3225	3254	cut	knife	leaves	cutting board																			
+3263	3320	cut	knife	leaves	cutting board																			
+3343	3385	move	hand	cauliflower	counter,cutting board																			
+3457	3517	throw in garbage	cutting board,knife	leaves						s15-d26_6_1												s15-d26_18_3		
+3677	3732	turn over	hand	cutting board	counter	s15-d26_2_2	s15-d26_3_3				s15-d26_7_6		s15-d26_9_4											
+3803	3830	throw in garbage	hand	garbage					s15-d26_5_2															
+3847	4144	wash	hand	cauliflower																				
+4146	4188	shake	hand	hand																				
+4212	4248	close	hand		drawer																			
+4249	4333	dry	towel	hand		s15-d26_2_3	s15-d26_3_4	s15-d26_4_4		s15-d26_6_2	s15-d26_7_7	s15-d26_8_7	s15-d26_9_5	s15-d26_10_6	s15-d26_11_5							s15-d26_18_4	s15-d26_19_9	s15-d26_20_4
+4570	4925	cut	knife	cauliflower	cutting board																			
+4928	5094	cut	knife	cauliflower	cutting board																			
+5103	5166	cut	knife	cauliflower	cutting board																			
+5199	5240	throw in garbage	hand	stem													s15-d26_13_2			s15-d26_16_7				
+5353	5473	take out	hand	pan	counter,drawer							s15-d26_8_8	s15-d26_9_6	s15-d26_10_7									s15-d26_19_10	
+5485	5559	turn on	hand	stove					s15-d26_5_3															
+5635	5748	change temperature	hand	stove																			s15-d26_19_11	
+5783	5849	change temperature	hand	stove																				
+5880	5922	move	hand	pan	counter,stove														s15-d26_15_5					
+6012	6047	move	hand	bowl,cutting board	counter		s15-d26_3_5		s15-d26_5_4		s15-d26_7_8		s15-d26_9_7	s15-d26_10_8	s15-d26_11_6								s15-d26_19_12	s15-d26_20_5
+6074	6459	cut	knife	cauliflower	cutting board												s15-d26_13_3							
+6468	6522	move	hand	stem	counter,cutting board																			
+6546	6589	cut	knife	cauliflower	cutting board																			
+6596	6666	take apart	hand	cauliflower																				
+6708	6741	cut	knife	cauliflower	cutting board																			
+6801	6891	take out	hand	bowl	counter,drawer																			
+6899	6918	add	hand	stem	,bowl																			
+6972	7002	cut	knife	cauliflower	cutting board																			
+7007	7026	add	hand	stem	,bowl																			
+7041	7058	take apart	hand	cauliflower																				
+7066	7093	add	hand	cauliflower	,bowl															s15-d26_16_8			s15-d26_19_13	
+7108	7124	add	hand	cauliflower	bowl,cutting board				s15-d26_5_5															
+7182	7323	add	hand	cauliflower	bowl,cutting board														s15-d26_15_6					
+7361	7461	take apart	hand	cauliflower																				
+7486	7511	cut	knife	cauliflower																				
+7517	7536	add	hand	cauliflower	,bowl																			
+7547	7611	cut	knife	cauliflower																				
+7629	7659	add	hand	cauliflower	,bowl																			
+7681	7714	cut	knife	cauliflower																				
+7727	7745	add	hand	cauliflower	,bowl																			
+7804	7856	take apart	hand	cauliflower																				
+7869	7925	cut	knife	cauliflower															s15-d26_15_7					
+7939	7965	take apart	hand	cauliflower																				
+7979	8000	add	hand	cauliflower	,bowl																			
+8016	8089	cut	knife	cauliflower																				
+8119	8163	cut	knife	cauliflower	cutting board																			
+8194	8250	cut	knife	cauliflower																				
+8254	8281	add	hand	cauliflower	,bowl																			
+8304	8386	cut	knife	cauliflower																				
+8386	8416	take apart	hand	cauliflower																				
+8432	8452	add	hand	cauliflower	,bowl															s15-d26_16_9				
+8480	8508	add	hand	cauliflower	bowl,cutting board																			
+8531	8677	cut	knife	cauliflower																				
+8685	8706	add	hand	cauliflower	,bowl																			
+8719	8825	cut	knife	cauliflower																				
+8829	8918	cut	knife	cauliflower																				
+8936	8960	take apart	hand	cauliflower																				
+9006	9026	add	hand	cauliflower	bowl,cutting board																			
+9033	9054	add	hand	cauliflower	bowl,cutting board																			
+9068	9092	take apart	hand	cauliflower																				
+9105	9140	cut	knife	cauliflower																				
+9148	9162	add	hand	cauliflower	,bowl																			
+9175	9250	take apart	knife	cauliflower																				
+9256	9374	cut	knife	cauliflower																				
+9393	9462	take apart	hand	cauliflower																				
+9534	9562	take apart	hand	cauliflower																				
+9592	9608	cut	knife	cauliflower																				
+9608	9623	add	hand	cauliflower	,bowl																			
+9635	9680	cut	knife	cauliflower																			s15-d26_19_14	
+9694	9714	add	hand	cauliflower	,bowl																			
+9745	9795	cut	knife	cauliflower																				
+9820	9845	add	hand	cauliflower	,bowl																			
+9886	9932	cut	knife	cauliflower	cutting board														s15-d26_15_8	s15-d26_16_10				
+9949	10057	cut	knife	cauliflower	cutting board																			
+10079	10146	take apart	hand	cauliflower																				
+10166	10191	add	hand	cauliflower	,bowl																			
+10197	10318	cut	knife	cauliflower	cutting board																			
+10330	10354	add	hand	cauliflower	bowl,cutting board																			
+10364	10384	take apart	hand	cauliflower																				
+10388	10413	add	hand	cauliflower	,bowl																			
+10532	10650	throw in garbage	cutting board,knife	garbage		s15-d26_2_4	s15-d26_3_6	s15-d26_4_5	s15-d26_5_6	s15-d26_6_3	s15-d26_7_9		s15-d26_9_8	s15-d26_10_9	s15-d26_11_7					s15-d26_16_11				s15-d26_20_6
+10713	10785	throw in garbage	bowl	stem																			s15-d26_19_15	
+10824	11035	wash	hand	bowl																				
+11080	11132	shake	hand	hand																				
+11139	11170	shake	hand	bowl,hand										s15-d26_10_10										
+11212	11455	dry	towel	bowl					s15-d26_5_7				s15-d26_9_9									s15-d26_18_5		
+11468	11592	dry	towel	hand									s15-d26_9_10											
+11653	11765	hang up	hand	towel	handle	s15-d26_2_5	s15-d26_3_7																	s15-d26_20_7
+11796	12767	take out	hand	bottle	counter,fridge																			
+12840	13188	take out	hand	bottle	counter,cupboard												s15-d26_13_4							
+13197	13366	close	hand		cupboard	s15-d26_2_6							s15-d26_9_11											
+13424	13549	take out	hand	spice shaker	,spice holder																			
+13555	13596	put in	hand	spice shaker	,spice holder																			
+13605	13683	take out	hand	spice shaker	counter,spice holder																			
+13693	13787	take out	hand	spice shaker	counter,spice holder														s15-d26_15_9					
+13800	13857	screw	hand	bottle																				
+13859	14000	pour	bottle	cream	bowl				s15-d26_5_8															s15-d26_20_8
+14011	14039	screw	hand	bottle											s15-d26_11_8									
+14051	14082	screw	hand	bottle																				
+14090	14199	pour	bottle	oil	pan												s15-d26_13_5							
+14214	14312	screw	hand	bottle																				
+14346	14390	screw	hand	spice shaker			s15-d26_3_8	s15-d26_4_6		s15-d26_6_4							s15-d26_13_6							
+14433	14523	move	spice shaker	spice	,spice shaker																			s15-d26_20_9
+14526	14545	spice	hand	spice	,bowl	s15-d26_2_7																		
+14553	14586	move	spice shaker	spice	,spice shaker																			
+14596	14616	add	hand	spice	,bowl																			
+14621	14702	screw	hand	spice shaker																				
+14715	14785	screw	hand	spice shaker													s15-d26_13_7							
+14807	15006	spice	spice shaker	spice	,bowl																			
+15009	15074	screw	hand	spice shaker																		s15-d26_18_6		
+15100	15124	put in	hand	spice shaker	,spice holder																			
+15133	15147	take out	hand	spice shaker	,spice holder																			
+15210	15314	screw	hand	spice shaker																				s15-d26_20_10
+15322	15471	take out	hand	fork	drawer														s15-d26_15_10	s15-d26_16_12				
+15485	15780	stir	fork	cream,spice	bowl												s15-d26_13_8							
+15843	15881	take out	hand	spice shaker	,spice holder																			
+15891	15953	screw	hand	spice shaker																				
+15963	16064	spice	spice shaker	salt	,bowl																			
+16067	16123	spice	spice shaker	salt	,bowl																			
+16131	16166	screw	hand	spice shaker																				
+16166	16250	put in	hand	spice shaker	,spice holder																			
+16256	16373	stir	fork	cream,salt,spice	bowl												s15-d26_13_9							
+16381	16425	shake	hand	fork																				
+16446	16487	add	hand	cauliflower	bowl																			
+16494	16608	stir	fork	cauliflower,cream	bowl	s15-d26_2_8	s15-d26_3_9	s15-d26_4_7	s15-d26_5_9	s15-d26_6_5	s15-d26_7_10			s15-d26_10_11	s15-d26_11_9				s15-d26_15_11	s15-d26_16_13				s15-d26_20_11
+16810	16869	add	fork	cauliflower	bowl,pan																			
+16921	16950	add	hand	cauliflower	bowl																			
+16976	17027	add	hand	cauliflower	bowl,pan																			
+17047	17103	add	hand	cauliflower	bowl																			
+17115	17166	add	hand	cauliflower	bowl,pan																			
+17184	17275	mix	hand	cauliflower,cream	bowl																			
+17289	17311	add	hand	cauliflower	bowl,pan																			
+17331	17466	add	hand	cauliflower	bowl												s15-d26_13_10							
+17482	17546	add	hand	cauliflower	bowl																			
+17559	17618	mix	hand	cauliflower,cream	bowl																			
+17631	17674	add	hand	cauliflower	bowl,pan																			
+17702	17775	add	hand	cauliflower	bowl																			
+17784	17832	add	hand	cauliflower	bowl																			
+17847	17934	add	hand	cauliflower	bowl																			
+17940	17993	mix	hand	cauliflower,cream	bowl																			
+18003	18049	add	hand	cauliflower	bowl,pan																			
+18115	18185	wash	hand	hand																				
+18209	18337	take out	hand	spatula	drawer					s15-d26_6_6														
+18346	18509	stir	spatula	cauliflower	pan																			s15-d26_20_12
+18618	18681	take apart	hand	cauliflower																		s15-d26_18_7		
+18694	18752	take apart	hand	cauliflower																				
+18768	18900	add	hand	cauliflower	bowl,pan																			
+18907	18943	take apart	hand	cauliflower																				
+18965	19100	add	hand	cauliflower	bowl,pan																			
+19108	19382	take apart	hand	cauliflower																				
+19392	19460	add	bowl,spatula	cream	bowl,pan												s15-d26_13_11							
+19466	19763	stir	spatula	cauliflower,cream	pan	s15-d26_2_9	s15-d26_3_10		s15-d26_5_10	s15-d26_6_7			s15-d26_9_12		s15-d26_11_10									s15-d26_20_13
+19839	19905	open	hand		drawer																			
+19907	19933	close	hand		drawer												s15-d26_13_12							
+19956	20039	take out	hand	lid	drawer									s15-d26_10_12										
+20072	20129	put in	hand	lid	,drawer																	s15-d26_18_8		
+20134	20207	close	hand		drawer			s15-d26_4_8																
+20287	20378	wash	hand	hand							s15-d26_7_11													
+20386	20487	wash	hand	cutting board																				
+20574	20810	dry	towel	cutting board																				
+20841	20897	put lid	hand	cutting board	pan																			
+20953	21043	move	hand	bowl,fork	counter,sink				s15-d26_5_11															
+21056	21160	screw	hand	bottle											s15-d26_11_11		s15-d26_13_13							
+21303	21436	put in	hand	bottle	,cupboard																			
+21518	21715	hang up	hand	towel	handle																	s15-d26_18_9		
+22454	22498	screw	hand	bottle																				
+22593	22701	screw	hand	bottle																				
+22797	23041	put in	hand	bottle	,fridge																			
+23098	23175	put in	hand	spice shaker	counter,spice holder																			
+23249	23285	remove lid	hand	cutting board	pan																			
+23295	23474	stir	spatula	cauliflower,cream	pan																			
+23484	23513	remove lid	hand	cutting board	pan								s15-d26_9_13									s15-d26_18_10		
+24698	24763	move	hand	spatula	bowl																			
+24772	24882	throw in garbage	bowl	cauliflower																				
+25014	25045	throw in garbage	hand	garbage																				
+25210	25321	wash	hand	sponge																				
+25330	25468	wring out	hand	sponge																				
+25549	25830	clean	sponge	counter																				
+25916	25983	clean	sponge	counter																				
+26005	26150	clean	sponge	stove																				
+26362	26400	remove lid	hand	cutting board	pan			s15-d26_4_9		s15-d26_6_8			s15-d26_9_14	s15-d26_10_13										
+26409	26758	stir	spatula	cauliflower,cream	pan												s15-d26_13_14							
+26780	26826	put lid	hand	cutting board	pan																			
+26899	26974	close	hand		drawer		s15-d26_3_11		s15-d26_5_12		s15-d26_7_12													
+29747	29983	take out	hand	fork	drawer																			
+29999	30037	remove lid	hand	cutting board	pan																			
+30040	30085	put lid	hand	cutting board	pan																			
+30742	31001	change temperature	hand	stove				s15-d26_4_10							s15-d26_11_12									s15-d26_20_14
+31004	31048	move	hand	cutting board,pan	stove	s15-d26_2_10																		
+31058	31101	remove lid	hand	cutting board	counter,pan																			
+31143	31206	shake	hand	pan						s15-d26_6_9												s15-d26_18_11		
+31478	31535	poke	fork	cauliflower	pan		s15-d26_3_12																	
+31545	31597	taste	fork	cauliflower					s15-d26_5_13															
+31715	31776	open	hand		drawer										s15-d26_11_13									
+31877	31963	close	leg		drawer																			
+32149	32234	open	hand		drawer																			
+32250	32456	take out	hand	plate	counter,cupboard																			
+32464	32558	take out	hand	spoon	drawer									s15-d26_10_14										
+32603	32992	move	pan,spoon	cauliflower	pan,plate																			
+32995	33043	move	hand	pan	,sink																	s15-d26_18_12		
+33051	33086	taste	spoon	cream							s15-d26_7_13			s15-d26_10_15			s15-d26_13_15							
+33176	33219	move	hand	plate		s15-d26_2_11	s15-d26_3_13	s15-d26_4_11	s15-d26_5_14	s15-d26_6_10			s15-d26_9_15		s15-d26_11_14									s15-d26_20_15

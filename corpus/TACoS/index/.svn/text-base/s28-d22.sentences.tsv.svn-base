@@ -1,0 +1,117 @@
+s28-d22_1_1	He took out cutting board	260	523	611
+s28-d22_1_2	He took out peeler	673	747	744
+s28-d22_1_3	He took out knife	807	1038	981
+s28-d22_1_4	He took out carrot	1087	1239	1263
+s28-d22_1_5	He washed carrot	1258	1493
+s28-d22_1_6	He cut off ends of carrot	1258	1493
+s28-d22_1_7	He peeled carrot	1530	2496	2578
+s28-d22_1_8	He cut up carrot	2588	3707	3897
+s28-d22_1_9	He threw away peels	4054	4362	4465
+s28-d22_3_1	person gets out cutting board	260	408	388
+s28-d22_3_2	person gets out peeler and knife	421	747	756
+s28-d22_3_3	person gets carrot	807	1038	1032
+s28-d22_3_4	person washes carrot	1087	1239	1286
+s28-d22_3_5	person cuts ends of carrot off	1258	1493	1518
+s28-d22_3_6	person peels outer layer of carrot	1530	2318	2276
+s28-d22_3_7	person slice carrot	2318	3707	3720
+s28-d22_4_1	The person takes a chopping board out of the drawer.	260	408	380
+s28-d22_4_2	The person takes a peeler out of the drawer.	421	523	534
+s28-d22_4_3	The person takes a knife out of the drawer.	673	747	760
+s28-d22_4_4	The person takes a carrot out of the refrigerator.	807	1038	1028
+s28-d22_4_5	The person washes the carrot.	1087	1239	1254
+s28-d22_4_6	The person chops off the top and end of the carrot.	1258	1493	1512
+s28-d22_4_7	The person peels the carrot.	1530	2215	2262
+s28-d22_4_8	The person cuts the carrot into small slices.	2218	3707	3702
+s28-d22_4_9	The person discards the unwanted parts of the carrot.	4054	4216	4218
+s28-d22_5_1	He opens up draw and takes out a cutting board, peeler, and a knife.	260	747	744
+s28-d22_5_2	He goes to the refrigerator and takes out a carrot.	807	1038	1080
+s28-d22_5_3	He goes to the sink and washes the carrot.	1087	1362	1368
+s28-d22_5_4	He puts the carrot on the cutting board and cuts off the ends of the carrot.	1410	1493	1488
+s28-d22_5_5	He picks up the peeler and peels the carrot.	1530	2353	2346
+s28-d22_5_6	He picks up the knife and slices and cuts the carrot.	2401	3520	3666
+s28-d22_5_7	He picks up all the carrot skin into a pile and throws them away in the trash.	4054	4216	4206
+s28-d22_5_8	He picks up the knife and peeler and puts them down on the counter.	4285	4362	4410
+s28-d22_6_1	He gets a cutting board.	260	408	386
+s28-d22_6_2	He gets a peeler and a knife.	421	747	754
+s28-d22_6_3	He gets a carrot and rinses it.	807	1239	1294
+s28-d22_6_4	He peels the carrot.	1258	2496	2450
+s28-d22_6_5	He chops the carrot and discards the peels.	3660	4216	4246
+s28-d22_7_1	A man enters the kitchen, removes a cutting board and a knife from the drawer and sets them on the counter.	260	747	766
+s28-d22_7_2	He gets a carrot from the refrigerator and washes it in the sink.	807	1362	1396
+s28-d22_7_3	He cuts both ends off of the carrot.	1410	1493	1544
+s28-d22_7_4	Using the peeler, he peels the carrot.	1530	2353	2364
+s28-d22_7_5	He slices the carrot one time lengthwise and then lines the two halves up next to each other.	2401	2496	2562
+s28-d22_7_6	He continues cutting and dices all the slices of carrot.	2588	3707	3710
+s28-d22_7_7	He cleans up, leaving the diced carrot on the cutting board.	4285	4362	4432
+s28-d22_8_1	He gets a cutting board.	260	408	376
+s28-d22_8_2	He gets a knife and another utensil.	421	747	748
+s28-d22_8_3	He washes a carrot.	807	1239	1250
+s28-d22_8_4	He cuts the ends of the carrot.	1258	1493
+s28-d22_8_5	He takes the skin off of the carrot.	1258	1493
+s28-d22_8_6	He starts cutting the carrots lengthwise.	1530	2798	2928
+s28-d22_9_1	He gets a cutting board.	260	408	418
+s28-d22_9_2	He gets a peeler and a knife.	421	747	748
+s28-d22_9_3	He gets a carrot.	807	1038	1028
+s28-d22_9_4	He rinses the carrot.	1087	1239	1286
+s28-d22_9_5	He peels the carrot.	1258	2353	2428
+s28-d22_9_6	He chops the carrot.	2877	3707	3684
+s28-d22_9_7	He discards the peels.	4054	4216	4222
+s28-d22_10_1	He goes to the drawer and takes out a cutting board, peeler, and knife.	260	747	772
+s28-d22_10_2	He goes to the refrigerator and takes out a carrot.	807	1038	1074
+s28-d22_10_3	He goes to the sink and washes the carrot.	1087	1362	1382
+s28-d22_10_4	He cuts off the ends of the carrot and begins pealing it.	1410	2353	2382
+s28-d22_10_5	He slices and cuts the carrot.	2401	3707	3726
+s28-d22_10_6	He picks up the carrot skins and throws them away in the trash.	4285	4362	4432
+s28-d22_11_1	Gets out preparation instruments:  Peeler, Knife, Carving Board	260	747	778
+s28-d22_11_2	Gets single carrot from refrigerator	807	1038	1090
+s28-d22_11_3	Washes carrot	1087	1362	1382
+s28-d22_11_4	Cuts off ends and uses peeler to peal carrot	1410	2353	2366
+s28-d22_11_5	Cuts carrot in half lengthwise and repeats	2401	3381	3472
+s28-d22_11_6	Chops smaller pieces crosswise from the sliced halves	3459	3707	3686
+s28-d22_11_7	Clears carrot skin from board and throws away	4054	4216	4196
+s28-d22_12_1	Guy takes out cutting board	260	523	621
+s28-d22_12_2	Guy takes out peeler	673	747	775
+s28-d22_12_3	Guy takes out knife	807	1038	991
+s28-d22_12_4	Guy takes out carrot	1087	1362	1319
+s28-d22_12_5	Guy washes carrot	1410	1493
+s28-d22_12_6	Guy cuts off top and bottom of carrot	1410	1493
+s28-d22_12_7	Guy peels carrot	1530	2496	2611
+s28-d22_12_8	Guy chops carrots	2401	3707	3902
+s28-d22_12_9	Guy throws away peels	2588	4362	4464
+s28-d22_13_1	The person places a cutting board, a vegetable peeler and a chef's knife on the counter.	260	747	764
+s28-d22_13_2	The person retrieves a carrot from the regrigerator and washes it.	807	1239	1278
+s28-d22_13_3	The person uses the chef's knife to cut the ends from the carrot.	1258	1493	1490
+s28-d22_13_4	The person removes the outer skin of the carrot with the peeler.	1530	2318	2332
+s28-d22_13_5	The person cuts the carrot in half axially.	2318	2496	2486
+s28-d22_13_6	The person cuts the carrot halves in half again.	2588	2798	2808
+s28-d22_13_7	The person slices the carrot into long thin strips.	2588	3381	3426
+s28-d22_13_8	The person chops the strips into small chunks.	3459	3520	3674
+s28-d22_13_9	The person discards the outer peel of the carrot.	4054	4216	4212
+s28-d22_14_1	Man enters the kitchen, opens drawer and pulls out a cutting board, opens another drawer and selects a knife and peeler.	260	1038	998
+s28-d22_14_2	Man goes to the refrigerator and selects a carrot and takes it to the sink, turns on the water and washes the carrot.  He shakes it dry.	1087	1493	1586
+s28-d22_14_3	Man cuts of the ends of the carrot and proceeds to peel the skin off.	1530	2496	2600
+s28-d22_14_4	Man slices the carrot vertically, then horizontally. Gathers them together and cuts them in half.	2877	3707	3758
+s28-d22_14_5	He gathers the skins on the cutting board and takes them to the trash can where he chooses where to dump them. He closes the trash door.	4285	4362
+s28-d22_14_6	He grabs the peeler and the knife and thinks about washing them, but instead places them next to the sink and he is finished.	4285	4362
+s28-d22_15_1	A man enters the kitchen and removes a cutting board, a peeler and a knife from a drawer and places them on the counter top.	260	1038	985
+s28-d22_15_2	The man retrieves a single carrot from the refrigerator and washes it in the sink.	1087	1493
+s28-d22_15_3	The man cuts off the top and the bottom of the carrot.	1087	1493
+s28-d22_15_4	The man peels the carrot.	1530	2496	2582
+s28-d22_15_5	The man slices the carrot 11 times lengthwise and into thirds crosswise.	2588	3707	3764
+s28-d22_15_6	Man throws away carrot peels and is finished.	4054	4362	4654
+s28-d22_17_1	The man gets a cutting board out of the drawer and places it on the counter.	260	523	626
+s28-d22_17_2	The man gets a peeler out of the drawer and places it on the counter.	673	747	752
+s28-d22_17_3	The man gets a knife out of the drawer and places it on the counter.	807	1038	1026
+s28-d22_17_4	The man gets a carrot out of the refrigerator.	1087	1239	1265
+s28-d22_17_5	The man rinses the carrot.	1258	1493
+s28-d22_17_6	The man cuts the ends off of the carrot.	1258	1493
+s28-d22_17_7	The man peels the carrot.	1530	2496	2515
+s28-d22_17_8	The man slices the carrot in half lengthwise.	2588	2798
+s28-d22_17_9	The man slices the two carrot halves in half again lengthwise.	2588	2798
+s28-d22_17_10	The man slices the carrot pieces lengthwise.	2588	3520	3642
+s28-d22_17_11	The man cuts the carrot slices into thirds.	3660	3707	3763
+s28-d22_18_1	The person takes a cutting board from out of a drawer.	260	408	442
+s28-d22_18_2	The person removes a knife and peeler from the drawer.	421	747	734
+s28-d22_18_3	The person takes a carrot from the fridge and washes it in the sink.	807	1239	1294
+s28-d22_18_4	The person uses the peeler to peel the carrot.	1258	2318	2330
+s28-d22_18_5	The person cuts the carrot in half lengthwise.	2318	2496	2570

@@ -1,0 +1,73 @@
+s27-d34_1_1	Gather piece of ginger	233	435
+s27-d34_1_2	Bring ginger to kitchen counter.	233	435
+s27-d34_1_3	Get out cutting board and place on counter.	s27-d34	438	622	ginger	603
+s27-d34_1_4	Find a good knife.	s27-d34	622	1017	ginger	1012
+s27-d34_1_5	Place ginger on cutting board.	s27-d34	1019	1047	ginger	1051
+s27-d34_1_6	Cut the end off the ginger.	s27-d34	1051	1142	ginger	1132
+s27-d34_1_7	Thinly slice the small end of ginger you cut off.	s27-d34	1157	1715	ginger	1677
+s27-d34_3_1	The person finds the ginger to prepare	s27-d34	233	435	ginger	361
+s27-d34_3_2	The person takes out a cutting board	s27-d34	438	622	ginger	645
+s27-d34_3_3	The person finds an appropriate knife	s27-d34	622	1017	ginger	1003
+s27-d34_3_4	The person cuts off a small amount of ginger to prepare further	s27-d34	1019	1142	ginger	1139
+s27-d34_3_5	The person slices the ginger into small slivers	s27-d34	1157	1715	ginger	1745
+s27-d34_4_1	The person takes a root of ginger from the pantry.	s27-d34	233	435	ginger	385
+s27-d34_4_2	The person takes out a cutting board from the drawer.	s27-d34	438	622	ginger	619
+s27-d34_4_3	The person takes out a knife from the drawer.	s27-d34	622	1017	ginger	995
+s27-d34_4_4	The person cuts a portion away from the ginger root.	s27-d34	1019	1116	ginger	1125
+s27-d34_4_5	The person slices the fragment of ginger on the cutting board.	s27-d34	1117	1715	ginger	1719
+s27-d34_5_1	Get out ginger.	s27-d34	233	435	ginger	435
+s27-d34_5_2	Get out cutting board.	s27-d34	438	622	ginger	625
+s27-d34_5_3	Get out knife.	s27-d34	622	1017	ginger	997
+s27-d34_5_4	Cut desired sized piece off ginger root.	s27-d34	1019	1142	ginger	1141
+s27-d34_5_5	Cut ginger width-wise into small strips.	s27-d34	1157	1715	ginger	1717
+s27-d34_6_1	The person takes some ginger from the pantry.	s27-d34	233	435	ginger	383
+s27-d34_6_2	The person takes out a cutting board from the drawer.	s27-d34	438	622	ginger	611
+s27-d34_6_3	The person takes out a knife from the drawer.	s27-d34	622	1017	ginger	989
+s27-d34_6_4	The person cuts a section of ginger from the body of the root and puts the latter to the side.	s27-d34	1019	1142	ginger	1137
+s27-d34_6_5	The person chops the ginger on the cutting board.	s27-d34	1157	1715	ginger	1701
+s27-d34_8_1	He gets the ginger and a cutting board.	s27-d34	233	622	ginger	621
+s27-d34_8_2	He gets a knife.	s27-d34	622	1017	ginger	983
+s27-d34_8_3	He removes part of the ginger.	s27-d34	1019	1116	ginger	1125
+s27-d34_8_4	He slices the ginger.	1117	1715
+s27-d34_8_5	He puts the knife down.	1117	1715
+s27-d34_9_1	He grabs the ginger.	s27-d34	233	435	ginger	387
+s27-d34_9_2	He gets a cutting board.	s27-d34	438	622	ginger	605
+s27-d34_9_3	He gets a knife.	s27-d34	622	1017	ginger	989
+s27-d34_9_4	He cuts a piece off the ginger.	s27-d34	1019	1142	ginger	1161
+s27-d34_9_5	He chops that piece.	s27-d34	1157	1715	ginger	1711
+s27-d34_11_1	He gets a piece of ginger out of the cupboard.	s27-d34	233	435	ginger	445
+s27-d34_11_2	He gets a cutting board out of the cupboard.	s27-d34	438	622	ginger	607
+s27-d34_11_3	He gets a knife out of the cupboard.	s27-d34	622	1017	ginger	993
+s27-d34_11_4	He chops a small piece of ginger off and puts the rest to the side.	s27-d34	1019	1142	ginger	1139
+s27-d34_11_5	He chops that small piece of ginger into smaller chunks.	s27-d34	1157	1715	ginger	1681
+s27-d34_12_1	Guy takes out ginger	s27-d34	233	435	ginger	386
+s27-d34_12_2	Guy takes out cutting board	s27-d34	438	680	ginger	658
+s27-d34_12_3	Guy takes out knife	s27-d34	680	1017	ginger	1020
+s27-d34_12_4	Guy cuts off a piece of ginger	s27-d34	1019	1142	ginger	1177
+s27-d34_12_5	Guy dices the ginger	s27-d34	1157	1715	ginger	1770
+s27-d34_13_1	Gets fresh ginger from cupboard.	s27-d34	233	435	ginger	371
+s27-d34_13_2	Gets round cutting board and sharp knife.	s27-d34	438	1017	ginger	1003
+s27-d34_13_3	Cuts small piece of ginger and places it on cutting board.	1019	1142
+s27-d34_13_4	Peels skin off ginger.	1019	1142
+s27-d34_13_5	Cuts about 5 small pieces.	s27-d34	1157	1715	ginger	1769
+s27-d34_15_1	The person gets out some ginger.	s27-d34	233	435	ginger	430
+s27-d34_15_2	The person gets out a wooden plate.	s27-d34	438	622	ginger	644
+s27-d34_15_3	The person gets out a knife.	s27-d34	622	1017	ginger	1004
+s27-d34_15_4	The person cuts off a piece of ginger.	s27-d34	1019	1142	ginger	1143
+s27-d34_15_5	The person slices up that piece of ginger.	s27-d34	1157	1715	ginger	1695
+s27-d34_17_1	The person takes a ginger out of the cupboard.	s27-d34	233	435	ginger	361
+s27-d34_17_2	The person takes a chopping board out of the drawer.	s27-d34	438	680	ginger	652
+s27-d34_17_3	The person takes a knife out of the drawer.	s27-d34	680	1047	ginger	1039
+s27-d34_17_4	The person cuts out a small piece from the ginger.	s27-d34	1051	1142	ginger	1139
+s27-d34_17_5	The person cuts up the small piece of ginger into even smaller pieces.	s27-d34	1157	1715	ginger	1705
+s27-d34_18_1	The person gets a piece of ginger from the pantry and puts it on the counter.	s27-d34	233	435	ginger	435
+s27-d34_18_2	The person gets a cutting board from the drawer and places it on the counter.	s27-d34	438	680	ginger	667
+s27-d34_18_3	The person selects a knife from the drawer.	s27-d34	680	1017	ginger	1011
+s27-d34_18_4	The person slices a small piece off the end of the ginger.	s27-d34	1019	1116	ginger	1121
+s27-d34_18_5	The person cuts the piece into several smaller pieces.	s27-d34	1117	1715	ginger	1691
+s27-d34_19_1	The man walks to the cabinet.	233	435
+s27-d34_19_2	He takes out some ginger.	233	435
+s27-d34_19_3	He moves to the counter and selects a small, round cutting board from a drawer.	s27-d34	438	680	ginger	663
+s27-d34_19_4	He searches for a proper knife, eventually choosing a small paring knife.	s27-d34	680	1017	ginger	1009
+s27-d34_19_5	He cuts off a small section of ginger from the rest of the root.	s27-d34	1019	1142	ginger	1157
+s27-d34_19_6	He roughly chops the small section of ginger, and puts down the knife.	s27-d34	1157	1715	ginger	1769

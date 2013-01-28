@@ -1,0 +1,160 @@
+s33-d22_1_1	The person gets a bag of carrots out of the fridge and picks out a carrot.	223	814	821
+s33-d22_1_2	The person washes the carrot off in the sink.	859	1163	1181
+s33-d22_1_3	The person selects a cutting board.	1194	1556	1583
+s33-d22_1_4	The person puts the other carrots back in the fridge.	1580	1859	1925
+s33-d22_1_5	The person selects a small knife and cuts off the top of the carrot and throws it away.	1912	2439	2459
+s33-d22_1_6	The person gets out a bigger cutting board and puts the smaller one back in the drawer.	2467	2760	2777
+s33-d22_1_7	The person cuts the carrot up into small pieces.	2847	7517	7767
+s33-d22_1_8	The person pauses to get out a small white dish.	7675	7884	7939
+s33-d22_1_9	The person painstakingly cuts the cubes into tiny diced pieces.	7976	14144	14227
+s33-d22_1_10	The person transfers the carrot bits to the dish.	14183	14783	14801
+s33-d22_1_11	The person rinses off the cutting board and knife.	14783	15350	15343
+s33-d22_2_1	The woman enters the kitchen and retrieves a bag of carrots from the refrigerator.	223	512	541
+s33-d22_2_2	The woman picks one carrot from the pack and places it in the sink.	522	814	805
+s33-d22_2_3	The woman carefully washes the carrot.	859	1113	1117
+s33-d22_2_4	The woman retrieves a cutting board from the drawer, then places the carrot on it and places the remaining carrots back into the refrigerator.	1113	1859	1855
+s33-d22_2_5	The woman gets a knife from the drawer and cuts off the top of the carrot and disposes of it in the trash.	1912	2321	2359
+s33-d22_2_6	The woman lays the carrot on the cutting board and uses a knife to cut five chunks.	2385	3222	3307
+s33-d22_2_7	 The woman then takes each chunk and holds it while using the knife to slice it into smaller pieces.	3378	7517	7601
+s33-d22_2_8	The woman retrieves a bowl from the cabinet.	7675	7884	7885
+s33-d22_2_9	The woman takes the small pieces that she cut and dices them into tiny pieces.	7976	14053	14081
+s33-d22_2_10	The woman takes the finely diced pieces of carrot and places them into the bowl.	14078	14864	14843
+s33-d22_3_1	She gets a carrot from the package and rinses it.	223	1163	1185
+s33-d22_3_2	She puts the carrots away.	1194	1859	1851
+s33-d22_3_3	She cuts the top of the carrot and discards it.	1912	2439	2445
+s33-d22_3_4	She finely chops the carrots.	2467	14144	14181
+s33-d22_3_5	She puts the carrots in the bowl.	14183	14864	14837
+s33-d22_3_6	She cleans up.	14876	15316	15283
+s33-d22_4_1	The woman selects a carrot.	223	814	853
+s33-d22_4_2	The woman washes the carrot.	859	1443	1523
+s33-d22_4_3	The woman takes a knife from the drawer.	1510	2155	2213
+s33-d22_4_4	She removes the stem.	2243	2439	2435
+s33-d22_4_5	The woman slices the carrot into smaller and smaller pieces.	2467	7517	7663
+s33-d22_4_6	She then dices the pieces.	7675	14144	14173
+s33-d22_4_7	The woman then places the carrot pieces into a bowl.	14183	14783	14819
+s33-d22_5_1	The person gets the carrots out of the fridge.	223	512	449
+s33-d22_5_2	The person takes a carrot out of the bag.	522	760	757
+s33-d22_5_3	The person washes the carrot off.	764	1113	1131
+s33-d22_5_4	The person takes out a cutting board.	1113	1443	1457
+s33-d22_5_5	The person puts the bag of unused carrots in the fridge.	1510	1859	1839
+s33-d22_5_6	The person takes out a knife.	1912	2155	2157
+s33-d22_5_7	The person cuts off the stem of the carrot and throws the piece away.	2243	2321	2323
+s33-d22_5_8	The person takes out a new cutting board and puts away the original board.	2385	2625	2639
+s33-d22_5_9	The person cuts the carrot into five pieces.	2646	3046	3107
+s33-d22_5_10	The person rinses off the carrots again.	3120	3222	3287
+s33-d22_5_11	The person cuts the pieces of carrot into smaller slices.	3378	7517	7715
+s33-d22_5_12	The person takes out a clean bowl.	7675	7884	7885
+s33-d22_5_13	The person continues to cut the carrots into the desired size.	7976	14053	14097
+s33-d22_5_14	The person places the cut pieces of carrot into the clean bowl.	14078	14783	14809
+s33-d22_5_15	The person rinses off the cutting board and knife.	15316	15350	15351
+s33-d22_6_1	She grabs the package of carrots.	223	512	463
+s33-d22_6_2	She gets one carrot and washes it.	522	1113	1135
+s33-d22_6_3	She gets a cutting board and puts the carrots away.	1113	1859	1837
+s33-d22_6_4	She gets s knife.	1912	2155	2149
+s33-d22_6_5	She switches cutting boards.	2243	2760	2889
+s33-d22_6_6	She chops the carrots and puts them in a dish.	14783	14864	14837
+s33-d22_6_7	She cleans up.	14783	15209	15219
+s33-d22_7_1	She puts a carrot in the sink.	223	760	763
+s33-d22_7_2	She washes the carrot.	764	1113	1137
+s33-d22_7_3	She gets a cutting board.	1113	1556	1571
+s33-d22_7_4	She gets a knife and cuts off the top of the carrot.	1580	2321	2327
+s33-d22_7_5	She switches cutting boards.	2385	2760	2725
+s33-d22_7_6	She minces the carrots.	2847	14144	14159
+s33-d22_7_7	She put the carrots in a dish.	14183	14783	14813
+s33-d22_7_8	She cleans up.	15209	15316	15321
+s33-d22_8_1	She gets a carrot.	223	814
+s33-d22_8_2	She washes the carrot.	223	814
+s33-d22_8_3	She gets a small cutting board.	859	1443	1495
+s33-d22_8_4	She gets a knife.	1510	2155	2219
+s33-d22_8_5	She cuts off the end of the carrot.	2243	2321	2389
+s33-d22_8_6	She gets a circular cutting board.	2385	2760	2783
+s33-d22_8_7	She chops the carrot into small pieces.	2847	3222	3353
+s33-d22_8_8	She gets a plate.	3378	7884	7993
+s33-d22_8_9	She puts the carrots into the bowl.	7976	14577	14553
+s33-d22_9_1	Takes bag of carrots out of refrigerator.	223	512	463
+s33-d22_9_2	Takes a carrot out of the bag.	522	760	771
+s33-d22_9_3	Washes carrot in the sink.	764	1113	1121
+s33-d22_9_4	Puts bag of carrots back in the refrigerator.	1113	1859	1861
+s33-d22_9_5	Takes a knife out of the drawer.	1912	2155	2161
+s33-d22_9_6	Takes a cutting board out of a drawer.	2243	2678	2689
+s33-d22_9_7	Finishes cutting up the carrot.	2682	14144	14173
+s33-d22_9_8	Scoops up the carrot pieces and places into a bowl.	2847	14908	14909
+s33-d22_10_1	She gets a pack of carrots and places one in the sink.	223	760	785
+s33-d22_10_2	She rinses that carrot.	764	1163	1141
+s33-d22_10_3	She gets a cutting board and put the carrots away.	1194	1859	1853
+s33-d22_10_4	She cuts off the top of the carrot and discards it.	1912	2439	2459
+s33-d22_10_5	She chops the carrots and puts them on a plate.	14183	14783	14807
+s33-d22_10_6	She cleans up.	14876	15350	15385
+s33-d22_11_1	A bag of carrots is removed from the refrigerator.	223	512	481
+s33-d22_11_2	A carrot is removed.	522	760	737
+s33-d22_11_3	A carrot is washed.	764	1163	1177
+s33-d22_11_4	The person removes a cutting board.	1194	1443	1461
+s33-d22_11_5	The carrots are returned to the refrigerator.	1510	1859	1871
+s33-d22_11_6	The person selects a knife.	1912	2155	2165
+s33-d22_11_7	The end is trimmed and discarded.	2243	2439	2427
+s33-d22_11_8	Another cutting board is removed.	2467	2625	2637
+s33-d22_11_9	The carrot is sliced into chunks.	2646	3046	3125
+s33-d22_11_10	The chunks are sliced.	3120	7517	7639
+s33-d22_11_11	A bowl is removed for serving.	7675	7884	7907
+s33-d22_11_12	The carrots are chopped finely.	7976	14053	14085
+s33-d22_11_13	The pieces are placed in the bowl.	2467	14783	14803
+s33-d22_11_14	The cutting board and knife are washed.	14783	15161	15189
+s33-d22_12_1	She took out carrot	223	1113	1016
+s33-d22_12_2	She washed carrot	1113	1443	1372
+s33-d22_12_3	She took out cutting board	1510	1556	1676
+s33-d22_12_4	She took out knife	1580	2321	2345
+s33-d22_12_5	She cut off top of carrot	2385	2625	2625
+s33-d22_12_6	She diced the carrots	2646	14361	14421
+s33-d22_12_7	She put the carrots in a bowl	14597	15057	15009
+s33-d22_13_1	The person takes out a bag of carrots.	223	512	525
+s33-d22_13_2	The person washes a carrot.	522	1113	1131
+s33-d22_13_3	The person uses a knife and a cutting board and cuts the end off the carrot.	1113	2321	2399
+s33-d22_13_4	The person cuts the carrot into fifths.	2385	3222	3279
+s33-d22_13_5	The person continues to cut the carrot into very thin and long slices.	3378	7517	7711
+s33-d22_13_6	The person keeps cutting the carrot pieces in finely minced cubes.	7675	14283	14245
+s33-d22_13_7	The person puts the carrot slices in a bowl.	14078	14864	14853
+s33-d22_14_1	She took out carrot	223	588	680
+s33-d22_14_2	She washed carrot	696	1443	1334
+s33-d22_14_3	She took out cutting board	1510	1556	1652
+s33-d22_14_4	She put carrots back	1580	2155	2044
+s33-d22_14_5	She took out knife	2243	2321	2349
+s33-d22_14_6	She cut off top of carrot	2385	2439	2529
+s33-d22_14_7	She threw away top	2467	2625	2608
+s33-d22_14_8	She took out cutting board	2646	2760	2818
+s33-d22_14_9	She chopped carrot	2847	3222	3289
+s33-d22_14_10	She washed carrot	3378	3414	3420
+s33-d22_14_11	She chopped carrot	3489	7884	7855
+s33-d22_14_12	She took out bowl	7976	8120	8067
+s33-d22_14_13	She put carrots in bowl	14783	14908	14980
+s33-d22_15_1	The woman grabs a bag of carrots from the refrigerator.	223	588	711
+s33-d22_15_2	The woman takes one carrot from the pack and places it in the sink.	696	1113	1022
+s33-d22_15_3	The woman washes the carrot in the sink.	1113	1443	1324
+s33-d22_15_4	The woman retrieves a cutting board from the drawer and places the carrot on it.	1510	1859	1820
+s33-d22_15_5	The woman retrieves a knife from the drawer and cuts off the tip of the carrot.	1912	2625	2568
+s33-d22_15_6	The woman cuts the carrot into five chunks.	2646	3222	3343
+s33-d22_15_7	She takes each chunk and uses the knife to cut thin slices from them.	3378	5122	5098
+s33-d22_15_8	She takes each thin slice then cuts finer slices from them before retrieving a plate from the cabinet.	5207	7884	7940
+s33-d22_15_9	She then takes each finer slice and begins to dice it.	7976	9312	9246
+s33-d22_16_1	She took out carrot	223	588	651
+s33-d22_16_2	She washed carrot	696	1163	1317
+s33-d22_16_3	She took out cutting board	1194	1556	1656
+s33-d22_16_4	She put back extra carrots	1580	2155	2052
+s33-d22_16_5	She took out knife	2243	2321	2359
+s33-d22_16_6	She cut off end of carrot	2385	2439	2539
+s33-d22_16_7	She threw out top of carrot	2467	2625	2632
+s33-d22_16_8	She took out 2nd cutting board	2646	2760	2827
+s33-d22_16_9	She chopped up carrot	2847	3222	3316
+s33-d22_16_10	She washed carrot	3378	3414	3430
+s33-d22_16_11	She chopped up carrot	3489	7884	7831
+s33-d22_16_12	She took out bowl	7976	8120	8072
+s33-d22_16_13	She diced up carrots	9366	11827	11786
+s33-d22_17_1	 She cut up carrots	223	4844
+s33-d22_17_2	Get out a plate, put away the cutting board and cut the carrot into 5 pieces.	223	4844
+s33-d22_17_3	Get out a knife and cut the top off of the carrot, then throw the top away.	223	4844
+s33-d22_17_4	Get out a cutting board, put the carrot on it and put the rest of the carrots away.	223	4844
+s33-d22_17_5	Get out a carrot and rinse it off	223	4844
+s33-d22_17_6	Get out a bag of carrrots	223	4844
+s33-d22_18_1	Select a carrot, wash it in the sink.	223	1163	1149
+s33-d22_18_2	Take out a cutting board and a small knife, put the rest of the carrots back in the refrigerator.	1194	2155	2251
+s33-d22_18_3	Cut off the ends of the carrot and set aside, cut the carrot into four chunks.	2243	3414	3445
+s33-d22_18_4	Slice each chunk of the carrot into thin slices.	4920	5741	5811

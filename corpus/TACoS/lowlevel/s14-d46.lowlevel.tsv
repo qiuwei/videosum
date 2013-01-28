@@ -1,0 +1,88 @@
+145	448	take out	hand	pineapple	counter,cupboard
+469	682	take out	hand	knife	counter,drawer
+691	775	take out	hand	knife	counter,drawer
+794	848	close	hand		drawer
+858	1001	take out	hand	cutting board	counter,drawer
+1008	1071	take out	hand	bowl	counter,drawer
+1109	1150	take out	hand	plastic box	counter,drawer
+1150	1181	close	hand		drawer
+1181	1249	move	hand	bowl	drawer
+1249	1318	close	hand		drawer
+1323	1377	move	hand	pineapple	counter,cutting board
+1392	1932	cut	knife	pineapple	cutting board
+1957	2001	add	hand	pineapple	cutting board,plastic box
+2004	2079	add	hand	peel	cutting board,plastic box
+2124	2265	cut	knife	pineapple	cutting board
+2276	2304	add	hand	pineapple	cutting board,plastic box
+2349	2910	peel	knife	pineapple	cutting board
+2921	2979	add	hand	peel	cutting board,plastic box
+2985	3023	add	hand	peel	cutting board,plastic box
+3023	3057	move	knife	peel	cutting board
+3079	3523	peel	knife	pineapple	cutting board
+3537	3571	peel	knife	pineapple	cutting board
+3657	3823	peel	knife	pineapple	cutting board
+3833	3846	add	hand	peel	cutting board,plastic box
+3846	3890	add	hand	peel	cutting board,plastic box
+3893	3953	add	hand	peel	cutting board,plastic box
+3972	4022	peel	knife	pineapple	cutting board
+4028	4050	add	hand	peel	knife,plastic box
+4068	4098	add	hand	peel	cutting board,plastic box
+4142	4175	peel	knife	pineapple	cutting board
+4181	4204	add	hand	peel	knife,plastic box
+4215	4242	peel	knife	pineapple	cutting board
+4247	4265	add	hand	peel	knife,plastic box
+4274	4335	peel	knife	pineapple	cutting board
+4339	4358	add	hand	peel	knife,plastic box
+4393	4421	peel	knife	pineapple	cutting board
+4426	4445	add	hand	peel	knife,plastic box
+4456	4497	peel	knife	pineapple	cutting board
+4501	4519	add	hand	peel	knife,plastic box
+4523	4592	peel	knife	pineapple	cutting board
+4597	4614	add	hand	peel	knife,plastic box
+4699	4732	peel	knife	pineapple	cutting board
+4737	4754	add	hand	peel	knife,plastic box
+4754	4789	peel	knife	pineapple	cutting board
+4794	4825	add	hand	peel	knife,plastic box
+4833	4883	peel	knife	pineapple	cutting board
+4889	4902	add	hand	peel	knife,plastic box
+4924	4982	peel	knife	pineapple	cutting board
+4987	5004	add	hand	peel	knife,plastic box
+5010	5068	peel	knife	pineapple	cutting board
+5072	5085	add	hand	peel	knife,plastic box
+5087	5124	peel	knife	pineapple	cutting board
+5129	5143	add	hand	peel	knife,plastic box
+5151	5204	peel	knife	pineapple	cutting board
+5209	5268	add	knife	peel	knife,plastic box
+5315	5361	peel	knife	pineapple	cutting board
+5365	5378	add	hand	peel	knife,plastic box
+5385	5429	peel	knife	pineapple	cutting board
+5434	5451	add	hand	peel	knife,plastic box
+5454	5523	peel	knife	pineapple	cutting board
+5528	5547	add	hand	peel	knife,plastic box
+5553	5594	peel	knife	pineapple	cutting board
+5599	5629	add	hand	peel	knife,plastic box
+5636	5703	peel	knife	pineapple	cutting board
+5709	5726	add	hand	peel	knife,plastic box
+5738	5793	peel	knife	pineapple	cutting board
+5797	5833	add	hand	peel	knife,plastic box
+5862	5914	peel	knife	pineapple	cutting board
+5919	5944	add	hand	peel	knife,plastic box
+5950	5985	peel	knife	pineapple	cutting board
+5990	6002	add	hand	peel	knife,plastic box
+6005	6043	add	hand	peel	bowl,cutting board
+6070	6115	peel	knife	pineapple	cutting board
+6121	6145	add	hand	peel	knife,plastic box
+6221	6329	move	hand	peel	counter,cutting board
+6433	6503	add	hand	peel	cutting board,plastic box
+6532	6579	wash	hand	hand	
+6582	6617	shake	hand	hand	
+6717	6788	wash	hand	knife	
+6788	6809	shake	hand	knife	
+6832	7752	slice	knife	pineapple	cutting board
+7789	7876	add	hand	pineapple	bowl,cutting board
+7929	8185	cut	knife	pineapple	cutting board
+8191	8218	add	hand	pineapple	cutting board,plastic box
+8229	8348	add	hand	pineapple	bowl,cutting board
+8403	8648	wash	hand	knife	
+8653	9154	throw in garbage	hand,plastic box	peel,pineapple	
+9166	9248	wash	hand	plastic box	

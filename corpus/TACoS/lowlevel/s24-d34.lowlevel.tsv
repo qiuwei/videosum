@@ -1,0 +1,30 @@
+203	390	take out	hand	cutting board	counter,drawer
+427	516	take out	hand	knife	cutting board,drawer
+674	999	take out	hand	ginger	cupboard,cutting board
+999	1054	cut	knife	ginger	cutting board
+1054	1091	move	hand	ginger	counter,cutting board
+1226	1309	peel	knife	ginger	
+1342	1489	take out	hand	peeler	drawer
+1489	2291	peel	peeler	ginger	
+2404	2464	cut	knife	ginger	cutting board
+2738	2793	throw in garbage	hand	peel	
+2829	2853	move	hand	peeler	counter,cutting board
+2952	3123	slice	knife	ginger	cutting board
+3225	3445	cut	knife	ginger	cutting board
+3482	3614	cut	knife	ginger	cutting board
+3708	3939	chop	knife	ginger	cutting board
+3939	4071	cut	knife	ginger	cutting board
+4071	4091	gather	knife	ginger	cutting board
+4091	4159	chop	knife	ginger	cutting board
+4159	4220	gather	knife	ginger	cutting board
+4220	4422	chop	knife	ginger	cutting board
+4422	4469	scratch off	hand	ginger	cutting board,knife
+4469	4525	gather	knife	ginger	cutting board
+4525	4769	chop	knife	ginger	cutting board
+4769	4812	gather	knife	ginger	cutting board
+4812	4925	chop	knife	ginger	cutting board
+4925	4955	gather	knife	ginger	cutting board
+4971	5043	scratch off	hand	ginger	cutting board,knife
+5086	5131	chop	knife	ginger	cutting board
+5131	5192	scratch off	hand	ginger	cutting board,knife
+5365	5429	wash	hand	hand	

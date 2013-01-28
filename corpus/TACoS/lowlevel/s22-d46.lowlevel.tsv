@@ -1,0 +1,61 @@
+231	438	take out	hand	cutting board	counter,drawer
+438	485	close	leg		drawer
+545	782	take out	hand	pineapple	cupboard,cutting board
+827	1085	take out	hand	knife	,drawer
+1085	1203	remove label	knife	pineapple	
+1242	1343	throw in garbage	hand	label	
+1556	1749	cut	knife	pineapple	cutting board
+1785	1875	throw in garbage	hand	pineapple	
+1975	2141	cut	knife	pineapple	cutting board
+2196	2235	throw in garbage	hand	pineapple	
+2303	2622	cut	knife	pineapple	cutting board
+2682	2951	take out	hand	knife	counter,drawer
+3340	3376	move	hand	pineapple	counter,cutting board
+3413	4337	slice	knife	pineapple	cutting board
+4371	4651	take out	hand	plate	counter,cupboard
+4702	4995	peel	knife	pineapple	
+5006	5035	move	hand	pineapple	,plate
+5086	5527	peel	knife	pineapple	
+5533	5553	move	hand	pineapple	,plate
+5656	5941	peel	knife	pineapple	
+5941	5973	move	hand	pineapple	,plate
+6152	6489	peel	knife	pineapple	
+6489	6531	move	hand	pineapple	,plate
+6531	6561	move	hand	pineapple	cutting board,plate
+6561	6581	peel	knife	pineapple	cutting board
+6581	6609	move	hand	pineapple	cutting board,plate
+6729	6999	peel	knife	pineapple	
+6999	7045	move	hand	pineapple	,plate
+7115	7458	peel	knife	pineapple	
+7501	7526	move	hand	pineapple	,plate
+7662	7983	peel	knife	pineapple	
+7989	8020	move	hand	pineapple	,plate
+8162	8381	peel	knife	pineapple	
+8392	8421	move	hand	pineapple	,plate
+8527	8874	peel	knife	pineapple	
+8878	8910	move	hand	pineapple	,plate
+8923	9315	peel	knife	pineapple	
+9327	9361	move	hand	pineapple	,plate
+9436	9533	throw in garbage	hand	peel	
+9543	9620	move	hand	pineapple	counter,cutting board
+9665	10696	slice	knife	pineapple	cutting board
+10731	11091	peel	knife	pineapple	
+11098	11142	move	hand	pineapple	,plate
+11206	11413	peel	knife	pineapple	
+11415	11457	move	hand	pineapple	,plate
+11542	11891	peel	knife	pineapple	
+11904	11935	move	hand	pineapple	,plate
+11970	12255	peel	knife	pineapple	
+12260	12292	move	hand	pineapple	,plate
+12389	12671	peel	knife	pineapple	
+12665	12703	move	hand	pineapple	,plate
+12795	13029	peel	knife	pineapple	
+13087	13161	move	hand	pineapple	,plate
+13243	13636	peel	knife	pineapple	
+13644	13706	move	hand	pineapple	,plate
+13751	14056	peel	knife	pineapple	
+14056	14103	move	hand	pineapple	,plate
+14287	14430	peel	knife	pineapple	
+14442	14496	move	hand	pineapple	,plate
+14545	14592	cut	knife	pineapple	cutting board
+14609	14659	taste	hand	pineapple	

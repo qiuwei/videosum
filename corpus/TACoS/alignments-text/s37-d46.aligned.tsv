@@ -1,0 +1,97 @@
+186	473	take out	hand	pineapple	counter,fridge	The person removes a pineapple from the refrigerator.	The person gets out a pineapple.	He gets out a pineapple.	He took out pineapple	The person takes a pineapple from the fridge.	person gets pineapple	He grabs a pineapple.	The person goes to the fridge and gets out a pineapple.	He gets a pineapple.	He took out pineapple	He gets a pineapple. 	The person gets a pineapple out of the fridge.. The person gets out a cutting board and a knife from the drawer.		He gets a pineapple.	Open Refrigerator. Grab pineapple. Close refrigerator		The man opens the fridge.	The person removes a pineapple from the fridge.	The man enters the kitchen and retrieves a pineapple from the refrigerator before placing it on the counter.	The person selects a pineapple from the refrigerator.
+508	635	take out	hand	cutting board	counter,drawer		The person gets out a cutting board.		He took out cutting board	The person takes out a cutting board from the drawer.					He took out cutting board				He gets a cutting board, knife, and tray.	Grab cutting board					
+689	805	take out	hand	knife	cutting board,drawer	The person got out a cutting board and selected a knife.	The person gets out a knife.		He took out knife	The person takes out a knife from the drawer.				He gets a cutting board and knife.	He took out knife										
+811	864	close	hand		drawer											He gets a cutting board and a knife. 									
+876	1154	take out	hand	plastic box	counter,drawer		The person gets out a Tupperware container.	He gets out the needed equipment.	He took out plastic container	The person takes out a plastic tub from the drawer.	person gets cutting board, knife and plastic bin				He took out plastic container		The person gets out a clear plastic container.						The person removes a cutting board, a large knife, and a plastic tub from a drawer.		
+1272	1356	close	hand		drawer							He gets the needed hardware.		He gets a tray.		He gets a tray. 					The person gets a pineapple, a cutting board, a large sharp knife and a storage container.			The man retrieves a cutting board, knife, and bowl from a drawer.	The person selects a cutting board, knife, and bowl from the drawers.
+1389	1447	open	hand		drawer	The person selected a container for the pineapple.														Grab knife and storage container		The man places a pineapple on the counter and gets a knife, plastic container and cutting board.			
+1725	1787	open	hand		drawer																				
+1792	1850	close	hand		drawer																				
+1862	1917	move	hand	pineapple	counter,cutting board								The person gets out a cutting board, a knife and plastic container.												
+1939	2044	cut	knife	pineapple	cutting board	The top is sliced off the pineapple.			He cut off top of pineapple			He cuts off the top of the pineapple.	The person cuts off the top of the pineapple.		He cut off top of pineapple		The person cuts off the top of the pineapple, then cuts off the skin around the entire outside of the pineapple.			Cut the top off a pineapple	The person places the pineapple on its side and cuts off the stem.. The person stands the pineapple upright and slices off a section of the rind a couple inches wide.	The man cuts the pineapple, carefully cutting off the spiny parts on the outside.	The person cuts the fronds from off of the pineapple using the large knife.	The man places the pineapple on its side on the cutting board and slices off the stem with a knife.	The person cuts off the top of the pineapple
+2096	3018	peel	knife	pineapple	cutting board	The sides are sliced off the pineapple.											The person throws away all of the pineapple skins and the top.		He cuts the skin off the pineapple and discards it.	Cut the sides of the pineapple	The person repeats the previous step until the rind is removed from the sides.				
+3053	3218	cut	knife	pineapple	cutting board							He trims the sides and bottom of the pineapple.									The person sets the pineapple on its side and cuts off the base.			The man stands the pineapple up and uses a knife to go around it and slice off the shell.	
+3273	3319	peel	knife	pineapple	cutting board																				
+3324	3356	scratch off	hand	peel	cutting board,knife																				
+3407	3472	peel	knife	pineapple	cutting board																				
+3478	3509	scratch off	hand	peel	cutting board,knife																				
+3524	3601	peel	knife	pineapple	cutting board				He cut off skin of pineapple																
+3608	3667	scratch off	hand	peel	cutting board,knife																				
+3711	3811	peel	knife	pineapple	cutting board																				
+3833	3901	peel	knife	pineapple	cutting board																				
+3913	3937	scratch off	hand	peel	cutting board,knife																				
+3990	4147	peel	knife	pineapple	cutting board										He cut off skin of pineapple										
+4186	4219	peel	knife	pineapple	cutting board																				
+4225	4249	scratch off	hand	peel	cutting board,knife																				
+4281	4334	peel	knife	pineapple	cutting board																				
+4340	4364	scratch off	hand	peel	cutting board,knife	The bottom is sliced off and the pineapple is trimmed.	The person cuts off the top and outside of the pineapple.			The person uses the knife to cut away the fronds and the rind of the pineapple.	person removes the outer layer of the pineapple		The person cuts off all the outside skin of the pineapple.							Cut the bottom and any remaining skin	The person trims the excess rind from the pineapple.		The person carefully pares the rough peel of the pineapple using the knife.		The person cuts away the spiny skin with a knife.
+4462	4627	move	hand	peel,pineapple	cutting board,hand													The person picks up the pieces of rind from the cutting board.. The person trims remnant parts of rind off the pineapple.. The person takes off a piece of pineapple rind sticking to his knife.. The person cuts off the bottom rind of the pineapple.. The person cuts most of the rind off the pineapple.. The person places the pineapple on the cutting board and cuts off the top stem.. The person opens some drawers and takes out a cutting board, knife and a container.. The person places the pineapple on the kitchen counter.. The person opens the refrigerator and takes out a pineapple.				The man collects the shaved skin of the pineapple and throws it away.		The man makes sure the pineapple is free of any peel and then discards the shell of the pineapple.	
+4664	4769	throw in garbage	hand	peel,pineapple				He cuts off the unwanted parts of the pineapple and discards them.							He threw away scraps			The person disposes of the pineapple rinds in the trash.. The person inspects the pineapple as he closes the refrigerator door.		Discard the skin			The person disposes of the peels and fronds into the wastebin.		
+4796	4829	move	hand	pineapple	cutting board																				The person throws the skin away.
+4835	4885	gather	hand	peel	cutting board																				
+4895	4927	move	hand	peel	cutting board,hand																				
+4944	4991	move	hand	peel	cutting board,hand																				
+4999	5088	move	hand	peel	cutting board,hand																				
+5104	5193	throw in garbage	hand	peel		The scraps are discarded.	The person throws away the top and outside of the pineapple.		He threw away skin	The person gathers and throws the fronds and rinds into the garbage.		He trims the last bit of skin off and discards the waste.	The person throws away all of the excess pineapple skin.	He cuts off the skins and discards them.	He threw away second scraps	He cuts off the skin and discards it.		The person meticulously cleans off the smaller pieces of rind and discards them in the trash.			The person discards the rind, stem and base.		The person throws the smaller peel fragments into the wastebin.		The person throws the smaller trimmings away.
+5258	5358	slice	knife	pineapple	cutting board																				
+5358	5384	move	hand	pineapple	cutting board													The person cuts the pineapple into medium round slices.			The person places the pineapple on its side and cuts a one-half-inch to one-inch thick slice of the pineapple.				
+5396	5482	slice	knife	pineapple	cutting board																				
+5482	5517	move	hand	pineapple	cutting board																	The man cuts out inch-thick sections of the pineapple, beginning on the more rounded end.			
+5532	5622	slice	knife	pineapple	cutting board																				
+5622	5647	move	hand	pineapple	cutting board																				
+5660	5756	slice	knife	pineapple	cutting board																				
+5756	5798	move	hand	pineapple	cutting board	The pineapple is sliced into rounds.															The person repeats the previous step until the pineapple is cut into slices.				
+5870	5927	slice	knife	pineapple	cutting board																				
+5927	5956	scratch off	hand	pineapple	cutting board,knife																				
+5956	6001	slice	knife	pineapple	cutting board																				
+6001	6059	scratch off	hand	pineapple	cutting board,knife												The person dices the entire pineapple (including core?) into cubes and puts them into the container.		He chops the pineapple and puts it in a tray.						
+6059	6226	slice	knife	pineapple	cutting board										She sliced pineapple		The person puts water into the container with the pineapple.		He adds water to the tray.						
+6293	6503	cut	knife	pineapple	cutting board												The person sprinkles something on the pineapple.		He adds salt to the tray.			The man cuts the pineapple into smaller, more bite-size chunks.	The person slices the pineapple into flat sections on the cutting board.		The person slices the pineapple.
+6645	6774	chop	knife	pineapple	cutting board																				
+6823	6865	move	hand	plastic box	counter												The person massages the pineapple and does final inspection of his work.		He mixes the tray contents.		The person dices a slice of pineapple into chunks approximately one-half-inch square.			The man lays the pineapple on its side and thinly slices it. 	
+6865	6992	add	hand,knife	pineapple	cutting board,plastic box																	The man puts the now small chunks into the plastic container.			
+7049	7109	add	hand,knife	pineapple	cutting board,plastic box													The person cuts the pineapple into square chunks.							
+7109	7192	add	hand	pineapple	cutting board,plastic box													The person places the square chunks of pineapple into the container.							
+7192	7288	add	hand	pineapple	cutting board,plastic box																				
+7455	7621	cut	knife	pineapple	cutting board																	When one of the pineapple pieces falls on the floor, the man puts it in the garbage.			
+7728	7827	throw in garbage	hand	pineapple						The person slices and chops the pineapple, putting it into the tub and throwing away several pieces which fell to the floor.													The person throws some errant peel skins into the wastebin.		
+7873	7932	cut	knife	pineapple	cutting board																				
+8162	8316	chop	knife	pineapple	cutting board	The end is sliced into strips then chunks.																The man continues to cut the larger portions of pineapple into smaller pieces.			
+8345	8382	scratch off	hand	pineapple	knife,plastic box																				
+8389	8450	add	hand,knife	pineapple	cutting board,plastic box																				
+8450	8488	add	hand	pineapple	cutting board,plastic box																				
+8488	8592	add	hand	pineapple	cutting board,plastic box																				
+8718	8746	add	hand	pineapple	cutting board,plastic box	The chunks are placed in the container.																			
+9022	9383	cut	knife	pineapple	cutting board																				
+9654	9929	chop	knife	pineapple	cutting board																				
+9936	9959	scratch off	hand	pineapple	cutting board,knife																				
+10081	10156	throw in garbage	hand	pineapple																			The person throws some pineapple which fell on the floor into the wastebin.		
+10354	10578	cut	knife	pineapple	cutting board																				
+10777	11031	chop	knife	pineapple	cutting board	The rounds are cut into strips, then chunks.															The person repeats the previous step with the remaining pineapple slices.				
+11050	11145	add	hand,knife	pineapple	cutting board,plastic box																			The man takes the slices of pineapple and places them on top of each other to nicely dice them into squares.	
+11145	11247	add	hand,knife	pineapple	cutting board,plastic box																				
+11247	11317	add	hand	pineapple	cutting board,plastic box																				
+11317	11357	move	hand	pineapple	cutting board,plastic box						person chops pineapple														
+11357	11470	peel	knife	pineapple	cutting board																				
+11470	11482	add	hand	pineapple	cutting board,plastic box																				
+11482	11508	scratch off	hand	peel	cutting board,knife																				
+11523	11607	add	hand,knife	pineapple	cutting board,plastic box																				
+11607	11685	add	hand,knife	pineapple	cutting board,plastic box																				
+11685	11773	add	hand,knife	pineapple	cutting board,plastic box																				
+11773	11852	add	hand,knife	pineapple	cutting board,plastic box																				
+11852	11935	add	hand,knife	pineapple	cutting board,plastic box																				
+11935	11997	add	hand,knife	pineapple	cutting board,plastic box																				
+11997	12054	add	hand	pineapple	cutting board,plastic box	The remaining chunks are placed in the container.	The person cuts the pineapple into slices, chops up the slices and puts the pieces in the Tupperware container.	He chops the pineapple and places it in a tray.		The person chops the pineapple slices and puts them into the tubs and the ones which fell on the floor are thrown away.	person puts pineapple into bin	He slices the pineapple and puts in in the Tupperware.	The person, who has obviously never cut a pineapple before, cuts the pineapple into cubes- including the core. (??!!)	He chops the pineapple and put it in the tray.		He chops the pineapple and puts it in a tray. 				Cut the pineapple into slices and then chunks	The person places all the pineapple chunks in the storage container.		The person dices the flat pineapples sections into squares and places them into the plastic tub.	The man places the tiny diced squares of pineapple into a bowl.	The person slices the pineapple into bite-sized chunks.
+12109	12171	wash	hand	hand																		The man rinses the pineapple under running water.			
+12188	12348	fill	faucet	water	,plastic box																			The man picks up the bowl and runs it under the water in the sink.	The person covers the pineapple with water.
+12413	12482	fill	faucet	water	,plastic box	The pineapple is covered with water.		He adds water to the tray.			person adds water	He puts water in the Tupperware.	The person adds water to the plastic container containing the cubed pineapple.	He puts water in the tray.		He puts water in the tray. 				Place the pineapple in a container and use water to rinse it			The person fills the tub with water from the faucet.		
+12572	12611	take out	hand	spice shaker	spice holder																				
+12628	12654	screw	hand	spice shaker																		He sprinkles salt on the pineapple and water.			
+12668	12805	spice	spice shaker	salt	plastic box	Seasoning is added.	The person adds water and salt to the pineapple pieces.				person adds sugar			He salts the water.										The man retrieves a salt shaker from the counter and lightly sprinkles some salt on the pineapple chunks.	The person adds a seasoning to the pineapple.
+12822	12859	screw	hand	spice shaker				He salts the water.								He salts the water.							The person sprinkles a condiment over the pineapple in the tub.		
+12866	12907	put in	hand	spice shaker	,spice holder					The person adds water and a condiment to the pineapple in the tub.															
+12926	13053	mix	hand	pineapple,salt	plastic box																	He mixes the salt and the water and pineapple by moving his hand through it.			The person mixes the pineapple and water by hand.
+13076	13148	move	hand	pineapple	cutting board,plastic box							He seasons the water and mixes it together.		He mixes the pineapple.		He mixes it up. 					The person adds some water and a little bit of salt to the container and mixes it.		The person stirs the pineapple in the tub with his hand.		
+13177	13267	peel	knife	pineapple	cutting board																				
+13267	13304	add	hand	pineapple	cutting board,plastic box																				
+13309	13338	scratch off	hand	peel	cutting board,knife	The pineapple is ready.							The person sprinkles magic powder onto the pineapple in the bowl and then massages it into the pineapple with his hands.							Use any condiment of your choice				The man mixes the salt around in the pineapples with his hand.	The person cuts away a small remaining piece of skin from the pineapple.. The video ends.

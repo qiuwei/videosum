@@ -1,0 +1,56 @@
+225	339	take out	hand	cutting board	counter,drawer		The person gets out a cutting board.	He took out cutting board				The person gets out a cutting board.				Takes cutting board out of drawer.	He took out cutting board	The person gets out a cutting board.		Take out your cutting board and place it onto the surface in front of you.	The person gets out a cutting board.		The person takes a cutting board from a drawer and puts it on the countertop.	
+356	468	take out	hand	knife	cutting board,drawer	He takes a cutting board and butcher knife out of a drawer. 		He took out knife			He gets a cutting board and knife. 					Takes knife out of drawer.	He took out knife			Locate the knife you will be cutting the broad beans with and place it onto the surface in front of you.	The person gets out a knife.			
+468	500	close	hand		drawer		The person gets out a knife.			The man removes a cutting board and knife from the drawer and places them on the counter.		The person gets out a knife.			He goes into drawer and takes out a cutting board and knife.			The person gets out a knife.					The person takes a knife from the drawer.	
+500	696	take out	hand	bowl	drawer,sink		The person gets out a bowl.	He took out bowl	A men enters the kitchen, removes a cutting board, a knife, a bowl from the drawer placing the cutting board and knife on the counter and the bowl in the sink.	He removes a bowl from the drawer and places it in the sink.		The person gets out a bowl.	the person gets a cutting board, sharp knife and a metal bowl		He goes into another drawer and takes out a bowl and places it in the sink.	takes bowl out of drawer.	He took out bowl	The person gets out a bowl.	The man gets a cutting board, knife, and metal bowl from the drawers.	Find a mixing bowl and place it into the sink.	The person gets out a bowl.	The person sets up chopping board, knife and stainless steel bowl.	The person takes a bowl from a drawer and places it in the sink.	Man enters kitchen and removes a knife, cutting board and bowl from drawer.
+737	912	take out	hand	plastic bag	counter,fridge	He takes a package of green beans out of the fridge.		He took out beans			He gets a bowl and the beans. 						He took out beans		The man retrieves a pack of fresh broad beans from the refrigerator.				The person takes a package of bean stalks from the fridge.	
+920	946	rip open	hand	plastic bag	counter					He gets the vegetables from the refrigerator.				Get out a cutting board, a knife, a bowl, and fresh broad beans.	He goes to the refrigerator and takes out some beans.	Takes beans out of refrigerator.								
+946	1401	remove from package	hand	beans	bowl,paper box										He takes some beans out of the package and places them in the bowl.									
+1420	1511	move	hand	plastic bag	counter																		The person removes some of the bean stalks from the package and places them into the bowl in the sink.	
+1529	1672	take out	hand	plastic bag	counter,fridge										He returns to the refrigerator and takes out another package of beans.		He took out more beans						The person puts the other package of bean stalks on the counter and removes a second package from the fridge.	
+1780	1825	rip open	knife	plastic bag	counter																			
+1842	1902	rip open	hand	plastic bag	counter																			
+1902	1994	remove from package	hand	beans	bowl,paper box																			
+1994	2043	remove from package	hand	beans	bowl,paper box					He places the vegetables in the bowl that is in the sink.					He cuts open the package and takes out some beans and places them in the bowl.						The person gets out some beans and puts them in the bowl.	The person takes the broad beans out of fridge and places in bowl while checking for freshness.	The person removes some bean stalks from the second package and places them into the bowl.	
+2059	2237	put in	hand	plastic bag	counter,fridge		The person gets out some beans.	He put back unused beans	He retrieves a package of beans from the refrigerator, places a portion of the beans in the bowl and returns the rest to the refigerator.	He returns the unused vegetables to the refrigerator.	He selects other beans from another package. 			Rinse/wash beans thoroughly with water.	He goes to the refrigerator and puts the beans away.		He put back unused beans		The man chooses what broad beans he wants and places them in the metal bowl.	Take the fresh broad beans and place them into mixing bowl.			The person places the second package back into the fridge.	He retrieves the beans from the refrigerator and places them into the bowl in the sink.
+2277	2818	wash	hand	beans	bowl	He washes green beans in the sink.														Run fresh broad beans under water.				
+2818	2961	wash	hand	beans													He washed beans							
+2976	3060	pour	bowl	water	sink		The person rinses the beans.	He washed beans	He washes the beans in the sink and places them on the cutting board.	He rinses the vegetables in the sink.	He rinses the beans in the bowl.	The person gets out some beans and rinses them in the bowl.	the person washes the Fresh Broad Beans in the metal bowl		He goes to the sink and washes the beans.	Washes beans in sink.		The person gets out some beans and rinses them in the bowl.	He carefully rinses the beans in the sink.		The person rinses the beans in the bowl.	The person vigorously washes the beans under running water.	The person runs the sink into the bowl and washes the bean stalks.	He washes the beans in the bowl in the sink and then transfers them to the cutting board.
+3149	3241	cut	knife	beans	cutting board																			
+3252	3276	move	hand	beans	counter,cutting board																			
+3286	3332	move	hand	beans	cutting board																			
+3350	3452	cut	knife	beans	cutting board																			
+3456	3472	move	hand	beans	counter,cutting board																			
+3472	3525	move	hand	beans	cutting board																			
+3525	3631	cut	knife	beans	cutting board																			
+3643	3660	move	hand	beans	counter,cutting board									Chop both ends off each bean, cutting two beans at a time.										
+3660	3759	move	hand	beans	cutting board																			
+3759	3883	cut	knife	beans	cutting board																			
+3888	3904	move	hand	beans	counter,cutting board																			
+3904	3944	move	hand	beans	cutting board																			
+3952	4038	cut	knife	beans	cutting board																			
+4044	4054	move	hand	beans	counter,cutting board																			
+4054	4065	move	hand	beans	cutting board																			
+4079	4121	cut	knife	beans	cutting board																			
+4122	4135	move	hand	beans	counter,cutting board												He cut off top of beans							
+4136	4155	scratch off	hand	beans	cutting board,knife			He cut off tips of beans		He cuts both ends off of all the vegetables.					He places the beans on the cutting board and chops off the ends.	Chops the ends off of the beans.			He takes two beans at a time and cuts off both ends of each one.		The person cuts off the tips of the beans.	The person chops of both ends of each bean.	The person cuts the stems of each stalk on the cutting board.	
+4284	4396	throw in garbage	hand	beans			The person cuts off the tips of the beans and throws them away.			He puts the cuttings into the recycling bin.	He cuts the ends from the beans and discards them. 			Discard ends of beans.		Puts bean ends in the trash.	He threw away top of beans						The person throws the removed stalks into the trash.	
+4410	4441	wash	hand	hand				He threw away tips	He cuts both ends off of the green beans.			The person cuts off the tips of the beans and throws them away.	the person cuts the ends off of the Fresh Broad Beans and discards them		He picks up the ends and throws them away and rinses his hands.			The person cuts off the tips of the beans and throws them away.			The person throws the tips of the beans away.			
+4468	4494	move	hand	beans	counter,cutting board																			He cuts the ends off of the beans and throws them away.
+4515	4747	chop	knife	beans	cutting board																			
+4747	4768	move	knife	beans	cutting board																			
+4768	4805	move	hand	beans	counter,cutting board									Lay two beans out at a time, and cut into small pieces.										
+4852	5095	chop	knife	beans	cutting board																			
+5095	5119	move	knife	beans	cutting board																			
+5119	5155	move	hand	beans	counter,cutting board																			
+5181	5471	chop	knife	beans	cutting board																			
+5471	5502	move	hand	beans	cutting board																			
+5502	5531	move	hand	beans	counter,cutting board																			
+5541	5788	chop	knife	beans	cutting board																			
+5788	5808	move	hand	beans	cutting board	He chops the beans into small pieces.	The person chops up the beans.												He takes two beans at a time and finely dices them with the knife on the cutting board.		The person cuts the beans into small pieces.			
+5808	5851	clean	hand	beans	cutting board,knife			He diced beans	He cuts the length of the green beans crosswise into bite size pieces.	He slices all of the vegetables into small pieces.	He chops the beans.	The person chops up the beans.			He then dices the beans into small pieces.	Slices up the beans into pieces.	He diced beans	The person chops up the beans.				The person chops the beans into 1/4 to 1/2 inch segments.	The person dices the bean stalks on the cutting board.	He then dices the beans lengthwise.
+5924	6056	take out	hand	plate	cupboard	He gets a plate out of the cupboard. 	The person gets out a plate.					The person gets out a plate.	the person slices the Fresh Broad Beans				He took out plate	The person gets out a plate.			The person gets out a plate.			
+6122	6235	wash	hand	plate		He rinses the plate off under the tap.	The person rinses the plate.			He gets a plate from the cabinet.		The person rinses the plate.	the person gets a plate		He walks to the cupboard and gets a plate and rinses it off.			The person rinses the plate.			The person rinses the plate.			
+6361	6410	move	hand	beans	cutting board,plate																			
+6428	6511	move	hand	beans	cutting board,plate																			
+6556	6643	move	hand	beans	cutting board,plate																			
+6646	6738	move	hand	beans	cutting board,plate	He puts the beans on to the plate.	The person puts the beans on the plate.		He gets a plate from the cupboard, rinses it in the sink and transfers the freshly cut beans from the cutting board to the plate.	He places all of the cut vegetables onto the plate.	He gets a plate and puts the beans on it.	The person puts the beans on the plate.	the person places the sliced Fresh Broad Beans on the plate	Put beans on a plate, and enjoy!	He picks up the beans and places them onto the plate.	Places bean pieces on a plate.	He put beans on plate	The person puts the beans on the plate.	He retrieves a plate from the cabinet, then rinses it in the sink before placing the finely diced beans on the plate.. He ends by picking up the cutting board and knife from the counter.		The person puts the beans on the plate.	The person places chopped beans on freshly rinsed plate.	The person gets a plate from the cabinet and places the diced bean stalks upon it.	He then retrieves a plate from the cupboard, rinses it in the sink and transfers the freshly cut beans from the cutting board to the plate.

@@ -1,0 +1,134 @@
+s23-d45_1_1	Guy takes out cutting board	s23-d45	232	333	pepper	329
+s23-d45_1_2	Guy takes out knife	s23-d45	347	422	pepper	428
+s23-d45_1_3	Guy takes out plate	s23-d45	477	643	pepper	593
+s23-d45_1_4	Guy takes out pepper	s23-d45	690	876	pepper	904
+s23-d45_1_5	Guy cuts pepper in half	s23-d45	896	1306	pepper	1328
+s23-d45_1_6	Guy takes pit out of pepper	s23-d45	1356	1698	pepper	1720
+s23-d45_1_7	Guy washes pepper	s23-d45	1718	2298	pepper	2302
+s23-d45_1_8	Guy dices pepper	s23-d45	2299	3856	pepper	3883
+s23-d45_1_9	Guy puts pepper on plate	s23-d45	3895	4125	pepper	4138
+s23-d45_2_1	He gets out a cutting board and a knife.	s23-d45	232	422	pepper	446
+s23-d45_2_2	He gets a pepper and a plate.	s23-d45	477	1245	pepper	1272
+s23-d45_2_3	He rinses the peppers.	s23-d45	1268	2335	pepper	2374
+s23-d45_2_4	He chops the peppers.	s23-d45	2398	3856	pepper	3834
+s23-d45_2_5	He puts the peppers on the plate.	s23-d45	3895	4125	pepper	4138
+s23-d45_3_1	He gets a cutting board.	s23-d45	232	333	pepper	334
+s23-d45_3_2	He gets a knife and plate.	s23-d45	347	643	pepper	652
+s23-d45_3_3	He grabs a pepper.	s23-d45	690	1245	pepper	1232
+s23-d45_3_4	He removes the insides of the pepper.	s23-d45	1268	1698	pepper	1744
+s23-d45_3_5	He rinses the pepper.	s23-d45	1718	2335	pepper	2346
+s23-d45_3_6	He chops the pepper and puts it on a plate.	s23-d45	2398	4125	pepper	4146
+s23-d45_4_1	Get cutting board, knife, plate and pepper onto the counter.	s23-d45	232	1245	pepper	1250
+s23-d45_4_2	Half the pepper length-wise.	s23-d45	1268	1306	pepper	1336
+s23-d45_4_3	Remove stem and seeds and discard.	s23-d45	1356	1698	pepper	1716
+s23-d45_4_4	Rinse the pepper under water.	s23-d45	1718	2298	pepper	2278
+s23-d45_4_5	Cut each half of the pepper width-wise into small strips.	s23-d45	2299	2772	pepper	2792
+s23-d45_4_6	Cut the strips into cubes and transfer from cutting board to the plate.	s23-d45	2867	4125	pepper	4116
+s23-d45_5_1	The person removes a cutting board.	s23-d45	232	333	pepper	338
+s23-d45_5_2	The person selects a knife.	s23-d45	347	422	pepper	424
+s23-d45_5_3	A plate is removed for serving.	s23-d45	477	643	pepper	694
+s23-d45_5_4	A pepper is removed from the refrigerator.	s23-d45	690	876	pepper	890
+s23-d45_5_5	The pepper is removed from its package and placed on the cutting board.	s23-d45	896	1245	pepper	1252
+s23-d45_5_6	The pepper is cut in half.	s23-d45	1268	1306	pepper	1320
+s23-d45_5_7	The seeds and ribs are removed and discarded.	s23-d45	1356	1956	pepper	1954
+s23-d45_5_8	The pepper halves are washed.	s23-d45	2044	2335	pepper	2342
+s23-d45_5_9	The pepper halves are sliced.	s23-d45	2398	2772	pepper	2782
+s23-d45_5_10	The slices are chopped.	s23-d45	2867	3856	pepper	3842
+s23-d45_5_11	The chopped pepper pieces are placed on the plate.	s23-d45	3895	4125	pepper	4132
+s23-d45_6_1	The person removes a cutting board.	s23-d45	232	333	pepper	346
+s23-d45_6_2	The person selects a knife.	s23-d45	347	422	pepper	428
+s23-d45_6_3	A plate is removed for the pepper.	s23-d45	477	643	pepper	652
+s23-d45_6_4	A pepper is removed from the refrigerator and the package is discarded.	s23-d45	690	1175	pepper	1160
+s23-d45_6_5	The pepper is cut in half.	s23-d45	1201	1306	pepper	1316
+s23-d45_6_6	The seeds and ribs are removed and discarded.	s23-d45	1356	1956	pepper	1970
+s23-d45_6_7	The pepper halves are washed.	s23-d45	2044	2335	pepper	2346
+s23-d45_6_8	The peppers are sliced.	s23-d45	2398	2772	pepper	2780
+s23-d45_6_9	The slices are chopped.	s23-d45	2867	3792	pepper	3824
+s23-d45_6_10	The pepper pieces are placed on the plate.	s23-d45	3807	4125	pepper	4138
+s23-d45_7_1	He gets a cutting board and a knife.	s23-d45	232	422	pepper	438
+s23-d45_7_2	He gets a plate and a pepper.	s23-d45	477	876	pepper	920
+s23-d45_7_3	He chops the pepper in half.	s23-d45	896	1306	pepper	1356
+s23-d45_7_4	He removes the insides of the pepper.	s23-d45	1356	1956	pepper	1978
+s23-d45_7_5	He rinses the peppers.	s23-d45	2044	2335	pepper	2350
+s23-d45_7_6	He dices the peppers.	s23-d45	2398	3792	pepper	3814
+s23-d45_7_7	He puts the pepper on the plate.	s23-d45	3807	4125	pepper	4120
+s23-d45_8_1	He gets a cutting board out the cupboard.	s23-d45	232	333	pepper	324
+s23-d45_8_2	 He gets a knife out of the drawer.	s23-d45	347	422	pepper	418
+s23-d45_8_3	He gets a plate out of the cupboard.	s23-d45	477	643	pepper	596
+s23-d45_8_4	He gets a red pepper out of the fridge.	s23-d45	690	876	pepper	882
+s23-d45_8_5	He slices the red pepper in half.	s23-d45	896	1306	pepper	1316
+s23-d45_8_6	He removes the seeds of the red pepper by hand.	s23-d45	1356	1907	pepper	1920
+s23-d45_8_7	He rinses the red pepper halves in the sink.	s23-d45	1917	2298	pepper	2282
+s23-d45_8_8	He cuts the red pepper into small pieces.	s23-d45	2299	3792	pepper	3816
+s23-d45_8_9	He puts the red pepper pieces on to the plate.	s23-d45	3807	4125	pepper	4124
+s23-d45_9_1	He gets a cutting board and a knife.	s23-d45	232	422	pepper	442
+s23-d45_9_2	He gets a plate.	s23-d45	477	643	pepper	656
+s23-d45_9_3	He gets a bell pepper.	s23-d45	690	1245	pepper	1276
+s23-d45_9_4	He cuts the pepper in half.	s23-d45	1268	1558	pepper	1566
+s23-d45_9_5	He washes the pepper.	s23-d45	1558	1956	pepper	2072
+s23-d45_9_6	He cuts the pepper into slices.	s23-d45	2044	2538	pepper	2534
+s23-d45_9_7	He dices the pepper.	s23-d45	2547	2772	pepper	2944
+s23-d45_9_8	He puts the peppers onto the plate.	s23-d45	2867	4070	pepper	4050
+s23-d45_10_1	He goes into the drawer and takes out a cutting board and knife.	s23-d45	232	422	pepper	440
+s23-d45_10_2	He goes to the cupboard and takes out a plate and places it on the counter.	s23-d45	477	643	pepper	642
+s23-d45_10_3	He goes to the refrigerator and takes out a red pepper and removes and disposes of its wrapper.	s23-d45	690	1175	pepper	1212
+s23-d45_10_4	He cut the pepper in half and then removes the insides and disposes them into the trash.	s23-d45	1201	1806	pepper	1822
+s23-d45_10_5	He then goes to the sink and washes the pepper halves.	s23-d45	1823	2335	pepper	2358
+s23-d45_10_6	He then slices and dices the red pepper.	s23-d45	2398	3856	pepper	3928
+s23-d45_10_7	He picks up the pepper and places it on the plate.	s23-d45	4091	4125	pepper	4180
+s23-d45_11_1	The person takes out a cutting board from the drawer.	s23-d45	232	333	pepper	340
+s23-d45_11_2	The person takes out a knife from the drawer.	s23-d45	347	422	pepper	434
+s23-d45_11_3	The person procures a plate from the cabinet.	s23-d45	477	643	pepper	600
+s23-d45_11_4	The person procures a bell pepper from the fridge, removes it from a bag, and throws the bag into the trash.	s23-d45	690	1175	pepper	1182
+s23-d45_11_5	The person chops the pepper in half, removes its stems and seeds, and throws the latter into the wastebin.	s23-d45	1201	1806	pepper	1824
+s23-d45_11_6	The person washes the pepper halves in the sink.	s23-d45	1823	2335	pepper	2330
+s23-d45_11_7	The person chops the bell pepper on the cutting board.	s23-d45	2398	3792	pepper	3808
+s23-d45_11_8	The person sets the chopped bell pepper on the plate.	s23-d45	3895	4125	pepper	4138
+s23-d45_12_1	The person gets out a cutting board.	s23-d45	232	333	pepper	342
+s23-d45_12_2	The person gets out a knife.	s23-d45	347	422	pepper	412
+s23-d45_12_3	The person gets out a plate.	s23-d45	477	643	pepper	651
+s23-d45_12_4	The person gets out a pepper.	s23-d45	690	1245	pepper	1231
+s23-d45_12_5	The person cuts the pepper in half.	s23-d45	1268	1306	pepper	1317
+s23-d45_12_6	The person scoops out the insides of the pepper and throws them away.	s23-d45	1356	1956	pepper	2048
+s23-d45_12_7	The person washes the two pepper halves.	s23-d45	2044	2298	pepper	2308
+s23-d45_12_8	The person slices the pepper halves into strips.	s23-d45	2299	2772	pepper	2779
+s23-d45_12_9	The person slices the strips into little chunks.	s23-d45	2867	3792	pepper	3827
+s23-d45_12_10	The person scoops up the chunks and puts them on the plate.	s23-d45	3807	4125	pepper	4129
+s23-d45_13_1	The person takes out a cutting board from the drawer.	s23-d45	232	333	pepper	352
+s23-d45_13_2	The person takes out a knife from the drawer.	s23-d45	347	422	pepper	428
+s23-d45_13_3	The person procures a plate from the cabinet.	s23-d45	477	643	pepper	584
+s23-d45_13_4	The person procures a pepper from the fridge.	s23-d45	690	876	pepper	884
+s23-d45_13_5	The person takes the pepper from a plastic bag and throws the bag into the wastebin.	s23-d45	896	1175	pepper	1184
+s23-d45_13_6	The person cuts the pepper in half, pulls out the stem and seeds and throws the latter into the wastebin.	s23-d45	1201	1956	pepper	1974
+s23-d45_13_7	The person washes the pepper in the sink.	s23-d45	2044	2335	pepper	2336
+s23-d45_13_8	The person chops the pepper on the cutting board.	s23-d45	2398	3792	pepper	3816
+s23-d45_13_9	The person scoops the chopped pepper on the plate.	s23-d45	3807	4125	pepper	4118
+s23-d45_14_1	Gather the following materials:  a cutting board, a sharp knife, a plate, and one red pepper.	s23-d45	232	1175	pepper	1193
+s23-d45_14_2	Use the knife to slice the pepper in half on the cutting board and remove the seeds.	s23-d45	1201	1698	pepper	1720
+s23-d45_14_3	Rinse the pepper.	s23-d45	1718	2298	pepper	2284
+s23-d45_14_4	Slice the pepper into strips, then dice the pepper.	s23-d45	2299	3856	pepper	3834
+s23-d45_14_5	Place the diced pepper on the plate.	s23-d45	3807	4125	pepper	4127
+s23-d45_15_1	The person takes a chopping board out from the drawer.	s23-d45	232	333	pepper	352
+s23-d45_15_2	The person takes a knife out from the drawer.	s23-d45	347	422	pepper	441
+s23-d45_15_3	The person takes out a plate from the cupboard.	s23-d45	477	643	pepper	676
+s23-d45_15_4	The person takes a pepper out from the refrigerator.	s23-d45	690	1175	pepper	1212
+s23-d45_15_5	The person cuts the pepper in half and removes the stem and seeds.	s23-d45	1201	1956	pepper	1999
+s23-d45_15_6	The person rinses the pepper.	s23-d45	2044	2298	pepper	2302
+s23-d45_15_7	The person cuts the pepper into small sizes and places them onto the plate.	s23-d45	3895	4125	pepper	4154
+s23-d45_17_1	The man takes out a cutting board, a butcher knife, and a plate and places them on the counter.	s23-d45	232	643	pepper	650
+s23-d45_17_2	The man takes out a red pepper from the refrigerator and places it on the cutting board.	s23-d45	690	1245	pepper	1252
+s23-d45_17_3	The man cuts the red pepper in half, cuts off the stem, and removes the seeds.	s23-d45	1268	1956	pepper	1966
+s23-d45_17_4	The man takes both halves of the red pepper and washes them.	s23-d45	2044	2335	pepper	2360
+s23-d45_17_5	The man cuts the red pepper into small pieces and places them on the plate.	s23-d45	2299	4125	pepper	4182
+s23-d45_18_1	Take out a Knife and Cutting board.	s23-d45	232	422	pepper	418
+s23-d45_18_2	Cut the pepper in half, lengthwise.	s23-d45	477	1306	pepper	1314
+s23-d45_18_3	The stem, seeds, and white membrane are then removed.	s23-d45	1356	1956	pepper	2000
+s23-d45_18_4	The pepper is washed inside and out.	s23-d45	2044	2335	pepper	2326
+s23-d45_18_5	Both halves of the pepper are cut into thin strips.	s23-d45	2398	2772	pepper	2788
+s23-d45_18_6	All the pepper strips are then cut into small squares.	s23-d45	2867	3856	pepper	3882
+s23-d45_18_7	And that's how you prepare a bell pepper!	s23-d45	2398	4125	pepper	4180
+s23-d45_19_1	Man removes knife, cutting board, and plate.	s23-d45	232	643	pepper	648
+s23-d45_19_2	Man gets pepper.	s23-d45	690	1245	pepper	1238
+s23-d45_19_3	Man slices pepper in half and removes the inner pieces with his fingers.	s23-d45	1268	1698	pepper	1726
+s23-d45_19_4	Man washes out pepper.	s23-d45	1718	2335	pepper	2370
+s23-d45_19_5	Man slices and dices pepper and places it on the plate.	s23-d45	3895	4125	pepper	4142

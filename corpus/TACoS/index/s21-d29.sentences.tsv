@@ -1,0 +1,99 @@
+s21-d29_1_1	Girl takes out knife	s21-d29	11	318	herbs	299
+s21-d29_1_2	Girl takes out cutting board	s21-d29	318	496	herbs	445
+s21-d29_1_3	Girl washes herbs	s21-d29	551	867	herbs	855
+s21-d29_1_4	Girl chops herbs	s21-d29	867	1422	herbs	1463
+s21-d29_1_5	Girl throws away unused part	s21-d29	1502	1572	herbs	1611
+s21-d29_1_6	Girl puts away rest of herbs	s21-d29	1575	1764	herbs	1759
+s21-d29_2_1	get out a knife	s21-d29	11	318	herbs	346
+s21-d29_2_2	also get out cutting board	s21-d29	318	496	herbs	434
+s21-d29_2_3	rip off some fresh herbs from plant	551	695
+s21-d29_2_4	wash herbs	551	695
+s21-d29_2_5	shake off excess water	s21-d29	720	867	herbs	874
+s21-d29_2_6	hold herbs and slice them	s21-d29	867	1055	herbs	1128
+s21-d29_2_7	throw away any pieces that are not edible	s21-d29	1078	1422	herbs	1498
+s21-d29_2_8	put herb plant in refrigerator	s21-d29	1502	1572	herbs	1628
+s21-d29_3_1	She grabs a knife.	s21-d29	11	265	herbs	280
+s21-d29_3_2	She grabs a cutting board.	s21-d29	265	496	herbs	448
+s21-d29_3_3	She grabs the herbs and rinses them.	s21-d29	551	908	herbs	890
+s21-d29_3_4	She chops the herbs.	s21-d29	926	1422	herbs	1420
+s21-d29_3_5	She puts the plant in the fridge.	s21-d29	1575	1764	herbs	1742
+s21-d29_4_1	She took out knife	s21-d29	11	265	herbs	256
+s21-d29_4_2	She took out cutting board	s21-d29	265	496	herbs	438
+s21-d29_4_3	She took some herbs	s21-d29	551	695	herbs	750
+s21-d29_4_4	She washed herbs	s21-d29	720	813	herbs	830
+s21-d29_4_5	She chopped herbs	s21-d29	813	1422	herbs	1458
+s21-d29_4_6	She threw away scraps	s21-d29	1502	1572	herbs	1584
+s21-d29_4_7	She put away herbs	s21-d29	1502	1764	herbs	1750
+s21-d29_5_1	Gets a cutting knife.	s21-d29	11	318	herbs	310
+s21-d29_5_2	Gets a wooden cutting board.	s21-d29	318	496	herbs	466
+s21-d29_5_3	Picks chives.	s21-d29	551	695	herbs	700
+s21-d29_5_4	Washes chives.	s21-d29	720	813	herbs	816
+s21-d29_5_5	Arranges chives so ends are equal.	s21-d29	813	1055	herbs	1064
+s21-d29_5_6	Cuts chives completely.	s21-d29	1078	1422	herbs	1412
+s21-d29_5_7	Throws away unwanted pieces.	s21-d29	1502	1572	herbs	1574
+s21-d29_5_8	Places chives in refrigerator.	s21-d29	1575	1764	herbs	1754
+s21-d29_6_1	The person puts a knife on the counter.	s21-d29	11	318	herbs	316
+s21-d29_6_2	The person puts a cutting board on the counter.	s21-d29	318	496	herbs	460
+s21-d29_6_3	The person breaks off some fresh herbs from the plant.	s21-d29	551	695	herbs	726
+s21-d29_6_4	The person rinses the herbs.	s21-d29	720	867	herbs	876
+s21-d29_6_5	The person removes the wilted pieces.	s21-d29	867	1055	herbs	1064
+s21-d29_6_6	The person chops up the herbs with the knife.	s21-d29	1078	1422	herbs	1450
+s21-d29_6_7	The person throws the discarded pieces in the trash.	s21-d29	1502	1572	herbs	1582
+s21-d29_6_8	The person puts the fresh herb plant back in the refrigerator.	1575	1764
+s21-d29_6_9	The video ends.	1575	1764
+s21-d29_7_1	Lady is in the kitchen and opens the drawer to find an utensil. She finds a knife and sets it on the counter.	s21-d29	11	265	herbs	284
+s21-d29_7_2	She then reaches below the first drawer and pulls out a cutting board.	s21-d29	265	496	herbs	556
+s21-d29_7_3	She washes off the herb she is preparing in the sink and knocks off as much water as she can. She then places the herb onto the cutting board and starts to cut them into small pieces.	s21-d29	551	1055	herbs	1108
+s21-d29_7_4	She finished cutting the herb and throws away the parts she does not want into a trash can.	s21-d29	1078	1422	herbs	1494
+s21-d29_7_5	She then places the herb back into the fridge and wipes any excess away from her hands.	s21-d29	1575	1764	herbs	1880
+s21-d29_8_1	The person got out a knife.	s21-d29	11	265	herbs	264
+s21-d29_8_2	The person got out a cutting board.	s21-d29	265	496	herbs	448
+s21-d29_8_3	The person got some herbs and rinsed them in the sink.	s21-d29	551	908	herbs	912
+s21-d29_8_4	The person chopped up the herbs.	s21-d29	926	1422	herbs	1482
+s21-d29_8_5	The person threw away the scraps.	s21-d29	1502	1764	herbs	1788
+s21-d29_9_1	The person takes out a knife from the drawer.	s21-d29	11	318	herbs	310
+s21-d29_9_2	The person takes out a cutting board from the drawer.	s21-d29	318	496	herbs	468
+s21-d29_9_3	The person grabs from herbs stalks from the counter and washes them in the sink.	s21-d29	551	813	herbs	832
+s21-d29_9_4	The person chops the herbs on the cutting board.	s21-d29	813	1422	herbs	1444
+s21-d29_9_5	The person throws the stalk ends into the wastebin.	s21-d29	1502	1572	herbs	1584
+s21-d29_9_6	The person returns the herb plant to the fridge.	s21-d29	1502	1764	herbs	1738
+s21-d29_10_1	She took out knife	s21-d29	11	265	herbs	260
+s21-d29_10_2	She took out cutting board	s21-d29	265	496	herbs	434
+s21-d29_10_3	She took out herbs	s21-d29	551	695	herbs	726
+s21-d29_10_4	She washed herbs	s21-d29	720	813	herbs	840
+s21-d29_10_5	She chopped up herbs	s21-d29	813	1422	herbs	1454
+s21-d29_10_6	She threw away scraps	s21-d29	1502	1572	herbs	1576
+s21-d29_10_7	She put away unused herbs	s21-d29	1575	1764	herbs	1738
+s21-d29_12_1	person gets out knife	s21-d29	11	265	herbs	286
+s21-d29_12_2	person gets out cutting board.	s21-d29	265	496	herbs	450
+s21-d29_12_3	person washes herbes	s21-d29	551	813	herbs	840
+s21-d29_12_4	person dices herbs	s21-d29	813	1422	herbs	1495
+s21-d29_12_5	person puts back left over herbs in fridge	s21-d29	1575	1764	herbs	1733
+s21-d29_13_1	Select a knife with a sharp blade.	s21-d29	11	318	herbs	328
+s21-d29_13_2	Select a cutting board.	s21-d29	318	496	herbs	522
+s21-d29_13_3	Rinse the herbs.	s21-d29	551	908	herbs	898
+s21-d29_13_4	Pile herbs on cutting board.	926	1055
+s21-d29_13_5	Remove withered pieces.	926	1055
+s21-d29_13_6	Chop herbs into 1/4 inch pieces.	s21-d29	1078	1422	herbs	1466
+s21-d29_14_1	The person gets out a knife.	s21-d29	11	265	herbs	256
+s21-d29_14_2	The person gets out a wooden plate.	s21-d29	265	496	herbs	452
+s21-d29_14_3	The person gets out some herbs.	s21-d29	551	695	herbs	727
+s21-d29_14_4	The person rinses the herbs.	s21-d29	720	867	herbs	887
+s21-d29_14_5	The person chops up the herbs.	s21-d29	867	1422	herbs	1471
+s21-d29_14_6	The person puts the herb plant in the refrigerator.	s21-d29	1502	1764	herbs	1765
+s21-d29_16_1	The person takes a knife out of a drawer and puts it on the table.	s21-d29	11	318	herbs	306
+s21-d29_16_2	The person puts a plate on the table.	s21-d29	318	496	herbs	510
+s21-d29_16_3	The person gets some herbs, rinses them, and puts them on the plate.	s21-d29	551	908	herbs	909
+s21-d29_16_4	The person arranges the herbs on the plate.	s21-d29	926	1055	herbs	1068
+s21-d29_16_5	The person cuts the herbs and throws something out.	s21-d29	1078	1422	herbs	1529
+s21-d29_16_6	The person puts the rest of the herbs in the refrigerator.	s21-d29	1502	1764	herbs	1778
+s21-d29_17_1	Prepare by getting a knife and a cutting board.	s21-d29	11	496	herbs	499
+s21-d29_17_2	Take one handful of vegetables.	s21-d29	551	695	herbs	677
+s21-d29_17_3	Rinse the vegetables under the faucet.	s21-d29	720	813	herbs	813
+s21-d29_17_4	Shake any excess water into the sink.	s21-d29	813	867	herbs	862
+s21-d29_17_5	Place the vegetables on the cutting board.	s21-d29	867	908	herbs	904
+s21-d29_17_6	Remove any unwanted parts of the vegetables.	s21-d29	926	1055	herbs	1051
+s21-d29_17_7	Using the knife, slice the vegetables perpendicularly into small parts.	s21-d29	1078	1381	herbs	1392
+s21-d29_17_8	Remove any vegetable that is sticking to the knife blade.	s21-d29	1381	1422	herbs	1419
+s21-d29_17_9	Gather and throw away the unused vegetable parts.	s21-d29	1502	1572	herbs	1571
+s21-d29_17_10	Refrigerate any remaining unused and uncut vegetables.	s21-d29	1502	1764	herbs	1750

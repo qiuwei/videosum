@@ -1,0 +1,83 @@
+s21-d35_2_1	She gets a plum.	s21-d35	270	452	plum	420
+s21-d35_2_2	She rinses the plum.	s21-d35	491	603	plum	610
+s21-d35_2_3	She grabs a knife.	s21-d35	647	741	plum	778
+s21-d35_2_4	She grabs a small plate.	s21-d35	824	1007	plum	1010
+s21-d35_2_5	She cuts the plum.	s21-d35	1031	1669	plum	1762
+s21-d35_3_1	She gets out a plum.	s21-d35	270	452	plum	432
+s21-d35_3_2	She rinses it.	s21-d35	491	603	plum	616
+s21-d35_3_3	She gets a knife.	s21-d35	647	741	plum	758
+s21-d35_3_4	She gets a bowl out.	s21-d35	824	1007	plum	1032
+s21-d35_3_5	She cuts the plum and discards the refuse.	s21-d35	1758	1832	plum	1842
+s21-d35_4_1	The person gets out a plum.	s21-d35	270	452	plum	466
+s21-d35_4_2	The person rinses the plum.	s21-d35	491	603	plum	628
+s21-d35_4_3	The person gets out a knife.	s21-d35	647	741	plum	768
+s21-d35_4_4	The person gets out a plate.	s21-d35	824	1007	plum	1000
+s21-d35_4_5	The person cuts the plum into four quarters and a core.	s21-d35	1031	1669	plum	1692
+s21-d35_4_6	The person puts the quarters on the plate and throws away the core.	s21-d35	1031	1832	plum	1820
+s21-d35_6_1	She grabs a plum.	s21-d35	270	452	plum	416
+s21-d35_6_2	She washes the plum.	s21-d35	491	603	plum	612
+s21-d35_6_3	She gets a knife.	s21-d35	647	741	plum	780
+s21-d35_6_4	She sets a plate on the counter.	s21-d35	824	1007	plum	1014
+s21-d35_6_5	She cuts the plum and puts it on the plate.	s21-d35	1031	1669	plum	1758
+s21-d35_7_1	She gets a plum.	s21-d35	270	452	plum	438
+s21-d35_7_2	She rinses the plum.	s21-d35	491	603	plum	616
+s21-d35_7_3	She gets a knife.	s21-d35	647	741	plum	752
+s21-d35_7_4	She slices the plum.	s21-d35	824	1669	plum	1672
+s21-d35_7_5	She discards a bit.	s21-d35	1758	1832	plum	1834
+s21-d35_9_1	The woman takes a plum out of the refrigerator.	s21-d35	270	452	plum	454
+s21-d35_9_2	She rinses the plum in the sink.	s21-d35	491	603	plum	606
+s21-d35_9_3	She takes a knife out of a drawer.	s21-d35	647	741	plum	728
+s21-d35_9_4	She walks to the cupboard and takes out a plate.	s21-d35	824	1007	plum	952
+s21-d35_9_5	She makes a cut around the whole plum and pulls the two halves apart.	s21-d35	1031	1117	plum	1136
+s21-d35_9_6	She cuts one half into slices, taking care to remove the core.	s21-d35	1117	1586	plum	1592
+s21-d35_10_1	The person removes a plum from the refrigerator and washes it at the sink.	s21-d35	270	603	plum	636
+s21-d35_10_2	The person retrieves a knife from the drawer and a bowl from the cupboard in preparation for slicing the plum.	s21-d35	647	1007	plum	1020
+s21-d35_10_3	The person carefully cuts the plum in half and twists the two halves to separate.	s21-d35	1031	1191	plum	1176
+s21-d35_10_4	The person slices the halves into sections, cutting carefully around the plum's pit.	s21-d35	1586	1669	plum	1692
+s21-d35_10_5	The person discards the pit of the plum.	s21-d35	1758	1832	plum	1872
+s21-d35_13_1	Woman walks to the fridge, opens the door, removes one plum and closes the fridge door.	s21-d35	270	452	plum	462
+s21-d35_13_2	She walks to the sink and rinses the plum.	s21-d35	491	603	plum	634
+s21-d35_13_3	She opens a drawer and removes a knife.	s21-d35	647	741	plum	766
+s21-d35_13_4	She walks to the cupboard, opens the door, removes a small plate.  She closes the door, returns to the counter and sets the plate down.	s21-d35	824	1007	plum	1014
+s21-d35_13_5	She takes the knife and cuts the plum in half.	s21-d35	1031	1191	plum	1170
+s21-d35_13_6	The woman takes the first half and cuts it into small pieces, then takes the other half and does the same thing.	s21-d35	1193	1669	plum	1690
+s21-d35_13_7	She picks up a small discarded piece, sets her knife down and throws the piece in the garbage.	s21-d35	1758	1832	plum	1872
+s21-d35_14_1	The woman retrieves a plum.	s21-d35	270	452	plum	474
+s21-d35_14_2	The woman washes the plum.	s21-d35	491	603	plum	648
+s21-d35_14_3	The woman retrieves a knife and small bowl.	s21-d35	647	1007	plum	1007
+s21-d35_14_4	The woman cuts the plum in half, around the seed.	s21-d35	1031	1191	plum	1199
+s21-d35_14_5	The woman cuts the two plum halves into quarters, placing all four pieces in the bowl.	s21-d35	1193	1669	plum	1675
+s21-d35_14_6	The woman throws away the seed.	s21-d35	1758	1832	plum	1844
+s21-d35_15_1	Get plum out of fridge.	s21-d35	270	452	plum	460
+s21-d35_15_2	Second, wash plum.	s21-d35	491	603	plum	628
+s21-d35_15_3	Third, get knife out.	s21-d35	647	741	plum	750
+s21-d35_15_4	Fourth, get plate or bowl out.	s21-d35	824	1007	plum	951
+s21-d35_15_5	Fifth, cut plum.	s21-d35	1193	1669	plum	1728
+s21-d35_15_6	Finally, plum is prepared.	s21-d35	1758	1832	plum	1873
+s21-d35_16_1	The person takes a plum out of the refrigerator.	s21-d35	270	452	plum	419
+s21-d35_16_2	The person rinses the plum and takes a knife out of the drawer.	s21-d35	491	741	plum	769
+s21-d35_16_3	The person takes a plate out of the cupboard.	s21-d35	824	1007	plum	1019
+s21-d35_16_4	The person cuts the plum into small pieces.	s21-d35	1031	1669	plum	1738
+s21-d35_16_5	The person discards a piece of plum that has fallen onto the table.	s21-d35	1758	1832	plum	1826
+s21-d35_17_1	The woman grabs a plum from the refrigerator.	s21-d35	270	452	plum	462
+s21-d35_17_2	The woman rinses the plum under water.	s21-d35	491	603	plum	623
+s21-d35_17_3	The woman grabs a knife from the drawer.	s21-d35	647	741	plum	757
+s21-d35_17_4	The woman grabs a bowl from the cupboard.	s21-d35	824	1007	plum	1013
+s21-d35_17_5	The woman cuts the plum into pieces and removes the pit.	s21-d35	1031	1669	plum	1674
+s21-d35_17_6	The woman throws the pit away.	s21-d35	1758	1832	plum	1802
+s21-d35_18_1	The person gets a plumb from the fridge.	s21-d35	270	452	plum	430
+s21-d35_18_2	The person washes the plum in the sink.	s21-d35	491	603	plum	618
+s21-d35_18_3	The person gets a knife from the cutlery drawer.	s21-d35	647	741	plum	772
+s21-d35_18_4	The person procures a plate from the cupboard.	s21-d35	824	1007	plum	966
+s21-d35_18_5	The person cuts segments from the plum.	s21-d35	1031	1669	plum	1734
+s21-d35_18_6	The person throws the plum core into the wastebin.	s21-d35	1758	1832	plum	1856
+s21-d35_19_1	Open refrigerator and remove plum.	s21-d35	270	452	plum	442
+s21-d35_19_2	Wash the plum off with water from the faucet.	s21-d35	491	603	plum	620
+s21-d35_19_3	Choose a knife from the drawer.	s21-d35	647	741	plum	774
+s21-d35_19_4	Open cabinet and remove a bowl to put the plum into once it is sliced.	s21-d35	824	1007	plum	992
+s21-d35_19_5	Take the knife and slice the plum into two halves.	s21-d35	1031	1117	plum	1130
+s21-d35_19_6	Break the plum apart.	s21-d35	1117	1191	plum	1206
+s21-d35_19_7	Cut into the plum to make slices.	1193	1360
+s21-d35_19_8	Pull each slice from the plum as you cut it.	1193	1360
+s21-d35_19_9	Continue to cut slices around the pit until it is all that is left.	s21-d35	1031	1669	plum	1712
+s21-d35_19_10	Throw the pit in the garbage can.	s21-d35	1758	1832	plum	1824

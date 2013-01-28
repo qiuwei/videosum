@@ -1,0 +1,27 @@
+277	437	take out	hand	kiwi	fridge
+496	691	take out	hand	peeler	drawer
+699	866	open	hand		drawer
+901	1008	take out	hand	cutting board	drawer
+1052	1167	wash	hand	kiwi	
+1171	1208	shake	hand	kiwi	
+1226	1466	take out	hand	knife	drawer
+1506	1551	wash	hand	knife	
+1594	1647	wash	hand	peeler	
+1647	1666	shake	hand	peeler	
+1720	1840	cut	knife	kiwi	cutting board
+1913	3117	peel	peeler	kiwi	
+3172	3266	wash	hand	hand	
+3449	3670	slice	knife	kiwi	cutting board
+3718	3789	slice	knife	kiwi	cutting board
+3877	3943	wash	hand	hand	
+3976	4015	dry	towel	hand	
+4036	4174	take out	hand	plate	cupboard
+4276	4341	move	knife	kiwi	cutting board,plate
+4506	4564	throw in garbage	hand	peel	
+4580	4649	move	hand	knife,peeler	counter,sink
+4704	4804	wash	hand	cutting board	
+4809	4856	shake	hand	cutting board	
+4947	5042	wash	hand	knife	
+5058	5123	wash	hand	peeler	
+5191	5240	shake	hand	knife,peeler	
+5357	5458	dry	towel	hand	

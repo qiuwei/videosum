@@ -1,0 +1,81 @@
+247	369	take out	hand	cutting board	counter,drawer
+419	730	take out	hand	broccoli	counter,fridge
+749	857	take out	hand	knife	,drawer
+857	894	close	hand		drawer
+974	1546	cut	knife	broccoli	cutting board
+1551	1581	gather	knife	broccoli	cutting board
+1585	1689	cut	knife	broccoli	cutting board
+1717	1741	move	hand	broccoli	counter,cutting board
+1840	1918	throw in garbage	hand	stem	
+2039	2135	take out	hand	lid,pot	,drawer
+2135	2221	close	leg		drawer
+2256	2578	pour	faucet	water	pot
+2599	2708	move	hand	pot	,stove
+2719	2813	turn on	hand	stove	
+2919	2952	take out	hand	spice	,spice holder
+2974	3022	screw	hand	lid	spice shaker
+3041	3420	spice	spice shaker	spice	pot
+3423	3466	screw	hand	lid	spice shaker
+3538	3581	put lid	hand	lid	pot
+4174	4198	move	hand	knife	counter,cutting board
+4204	4342	gather	hand	broccoli	cutting board
+4347	4447	gather	hand	garbage	cutting board
+4462	4557	throw in garbage	hand	garbage	
+4608	4704	put in	hand	spice shaker	counter,spice holder
+4736	4784	move	hand	cutting board,knife	counter
+4839	4865	remove lid	hand	lid	pot
+4865	4926	put lid	hand	lid	pot
+5444	5498	remove lid	hand	lid	cutting board,pot
+5503	5618	move	hand	broccoli	cutting board,pot
+5665	5721	put lid	hand	lid	cutting board,pot
+5763	5946	take out	hand	fork	counter,drawer
+6077	6292	wash	sponge	knife	
+6372	6541	dry	towel	knife	
+6585	6681	put in	hand	knife	,drawer
+6770	6937	wash	hand	cutting board	
+6973	7071	wash	sponge	cutting board	
+7193	7440	dry	towel	cutting board	
+7470	7630	put in	hand	cutting board	,drawer
+7675	7706	remove lid	hand	lid	pot
+7718	7805	stir	fork	broccoli	pot
+7805	7844	put lid	hand	lid	pot
+9273	9299	remove lid	hand	lid	pot
+9303	9387	stir	fork	broccoli	pot
+9387	9437	put lid	hand	lid	pot
+11137	11194	wring out	hand	sponge	
+11273	11451	dry	hand	towel	
+11455	11515	hang up	hand	towel	hook
+11636	11658	remove lid	hand	lid	pot
+11658	11780	stir	fork	broccoli	pot
+11780	11835	put lid	hand	lid	pot
+12293	12338	change temperature	hand	stove	
+14293	14315	remove lid	hand	lid	pot
+14315	14476	stir	fork	broccoli	pot
+14476	14525	put lid	hand	lid	pot
+14987	15275	take out	hand	plate	counter,cupboard
+15295	15770	take out	hand	pot	counter,drawer
+15886	15919	remove lid	hand	lid	pot
+15919	16164	stir	fork	broccoli	pot
+16164	16207	put lid	hand	lid	pot
+17562	17635	change temperature	hand	stove	
+17692	17732	change temperature	hand	stove	
+18528	18558	remove lid	hand	lid	pot
+18558	18870	stir	fork	broccoli	pot
+18870	18914	put lid	hand	lid	pot
+19098	19128	take out	hand	towel	,hook
+19163	19223	clean	towel	stove	
+19233	19333	change temperature	hand	stove	
+19365	19571	change temperature	hand	stove	
+19767	19808	change temperature	hand	stove	
+20014	20066	hang up	hand	towel	hook
+20457	20597	change temperature	hand	stove	
+20601	20769	remove lid	hand	lid	counter,pot
+20794	20996	move	hand	pot	plate,stove
+20997	21036	move	hand	pot	counter,sink
+21095	21251	move	hand	broccoli	pot
+21256	21309	move	hand	pot	,stove
+21448	21638	pour	faucet	water	pot
+21701	21770	pour	hand	water	pot,sink
+21870	21965	move	hand	broccoli	plate,pot
+21983	22030	move	hand	pot	,counter
+22052	22096	move	hand	plate	counter

@@ -1,0 +1,115 @@
+s25-d52_2_1	He gets the needed items.	s25-d52	205	681	kiwi fruit	711
+s25-d52_2_2	He shaves the kiwi.	s25-d52	834	3534	kiwi fruit	3551
+s25-d52_2_3	He rinses the peeler.	s25-d52	3567	3656	kiwi fruit	3671
+s25-d52_2_4	He rinses the kiwi.	s25-d52	3656	3971	kiwi fruit	3979
+s25-d52_2_5	He removes the last bits of skin and then cleans the knife.	s25-d52	3989	5502	kiwi fruit	5535
+s25-d52_3_1	Get your kiwi, cutting board and peeler ready.	s25-d52	205	681	kiwi fruit	739
+s25-d52_3_2	Using the peeler, peel the kiwi over an open trash receptacle.	s25-d52	834	3656	kiwi fruit	3613
+s25-d52_3_3	Rinse off your peeler and place back in it's home.	s25-d52	3656	3772	kiwi fruit	3747
+s25-d52_3_4	Rinse off the Kiwi.	s25-d52	3791	3971	kiwi fruit	3995
+s25-d52_3_5	Get a knife and cut off the ends of the kiwi and place ends in trash.	s25-d52	3989	5100	kiwi fruit	5087
+s25-d52_3_6	Drop the knife and wash the knife.	s25-d52	5292	5502	kiwi fruit	5673
+s25-d52_4_1	He took out kiwi	s25-d52	205	311	kiwi fruit	315
+s25-d52_4_2	He took out cutting board	s25-d52	395	534	kiwi fruit	529
+s25-d52_4_3	He took out peeler	s25-d52	548	681	kiwi fruit	709
+s25-d52_4_4	He peeled kiwi	s25-d52	834	3534	kiwi fruit	3599
+s25-d52_4_5	He washed peeler	s25-d52	3567	3656	kiwi fruit	3669
+s25-d52_4_6	He washed kiwi	s25-d52	3656	3971	kiwi fruit	3959
+s25-d52_4_7	He took out knife	s25-d52	3989	4100	kiwi fruit	4099
+s25-d52_4_8	He cut off ends of kiwi	s25-d52	4142	5013	kiwi fruit	5017
+s25-d52_4_9	He washed kiwi	s25-d52	5059	5357	kiwi fruit	5359
+s25-d52_4_10	He washed knife	s25-d52	5447	5502	kiwi fruit	5587
+s25-d52_5_1	The person has taken the fruit from the cabinet.	s25-d52	205	311	kiwi fruit	291
+s25-d52_5_2	The cutting board has been placed on the counter.	s25-d52	395	534	kiwi fruit	533
+s25-d52_5_3	The first piece of skin has been peeled.	s25-d52	548	681	kiwi fruit	777
+s25-d52_5_4	The person has finished using the peeler to remove skin from the fruit.	834	3656
+s25-d52_5_5	The person has finished washing the peeler.	834	3656
+s25-d52_5_6	The person has put the peeler away.	s25-d52	3656	3772	kiwi fruit	3787
+s25-d52_5_7	The person has washed the fruit.	s25-d52	3791	3971	kiwi fruit	3959
+s25-d52_5_8	The person has sliced the first segment of the fruit.	s25-d52	3989	4100	kiwi fruit	4199
+s25-d52_5_9	The person has washed the knife.	s25-d52	4142	5502	kiwi fruit	5493
+s25-d52_6_1	The man takes out a kiwi.	s25-d52	205	681	kiwi fruit	719
+s25-d52_6_2	The man peels the kiwi.	s25-d52	834	3534	kiwi fruit	3549
+s25-d52_6_3	The man washes the peeler.	s25-d52	3567	3688	kiwi fruit	3689
+s25-d52_6_4	The man rinses the kiwi under the tap.	s25-d52	3694	3971	kiwi fruit	3989
+s25-d52_6_5	He finishes taking parts of the skin off with the knife.	s25-d52	3989	5100	kiwi fruit	5137
+s25-d52_7_1	He gets a kiwi.	s25-d52	205	311	kiwi fruit	415
+s25-d52_7_2	He gets a cutting board.	s25-d52	395	534	kiwi fruit	559
+s25-d52_7_3	He gets a parer.	s25-d52	548	681	kiwi fruit	729
+s25-d52_7_4	He skins the kiwi.	s25-d52	834	880	kiwi fruit	1595
+s25-d52_7_5	He cuts off the ends of the kiwi.	s25-d52	920	5013	kiwi fruit	4993
+s25-d52_8_1	Using a Potato Peeler the Person completely Peels the Kiwi	s25-d52	205	3534	kiwi fruit	3585
+s25-d52_8_2	The person then rinses the peeled kiwi in the sink	s25-d52	3567	3971	kiwi fruit	3953
+s25-d52_8_3	The person cuts the tip off of one side	s25-d52	3989	4689	kiwi fruit	4781
+s25-d52_8_4	The person re-rinses the kiwi	s25-d52	5292	5357	kiwi fruit	5361
+s25-d52_8_5	The Person rinses the knife	s25-d52	5447	5502	kiwi fruit	5497
+s25-d52_9_1	person gets kiwi	s25-d52	205	311	kiwi fruit	317
+s25-d52_9_2	person gets cutting board	s25-d52	395	534	kiwi fruit	543
+s25-d52_9_3	person gets fruit and vegetable peeler	s25-d52	548	681	kiwi fruit	711
+s25-d52_9_4	person peels kiwi	s25-d52	834	3534	kiwi fruit	3575
+s25-d52_9_5	person washes peeler	s25-d52	3567	3656	kiwi fruit	3665
+s25-d52_9_6	person puts away peeler	s25-d52	3656	3772	kiwi fruit	3769
+s25-d52_9_7	person washes kiwi	s25-d52	3791	3971	kiwi fruit	3949
+s25-d52_9_8	person gets knife	s25-d52	3989	4100	kiwi fruit	4103
+s25-d52_9_9	person uses knife to cut off remaining kiwi peel	s25-d52	4142	5013	kiwi fruit	5053
+s25-d52_9_10	person throws away the cut off peel	s25-d52	4719	5100	kiwi fruit	5101
+s25-d52_9_11	person washes kiwi	s25-d52	5059	5357	kiwi fruit	5365
+s25-d52_9_12	person washes knife	5447	5502
+s25-d52_9_13	person begins to wash their hands	5447	5502
+s25-d52_10_1	He walks to the cupboard and gets out a kiwi.	s25-d52	205	311	kiwi fruit	401
+s25-d52_10_2	He opens up the drawer and takes out a cutting board and peeler.	s25-d52	395	681	kiwi fruit	727
+s25-d52_10_3	He walks over to the trash can and starts peeling the kiwi over it.	s25-d52	834	3534	kiwi fruit	3559
+s25-d52_10_4	He goes to the sink and rinses the peeler and puts it away.	s25-d52	3567	3772	kiwi fruit	3755
+s25-d52_10_5	He then goes back to the sink and rinses the kiwi.	s25-d52	3791	3971	kiwi fruit	3991
+s25-d52_10_6	He goes to the drawer and takes out a knife.	s25-d52	3989	4100	kiwi fruit	4123
+s25-d52_10_7	He cuts off the ends of the kiwi and some more of the skin and then throws the waste away.	s25-d52	5059	5100	kiwi fruit	5113
+s25-d52_10_8	He then washes the kiwi and the knife.	s25-d52	5292	5502	kiwi fruit	5673
+s25-d52_11_1	He takes out the cutting board, a peeler, and a kiwi fruit.	s25-d52	205	681	kiwi fruit	727
+s25-d52_11_2	He opens the drawer to the trash and peels the kiwi with the kiwi peeler over the trash bin.	s25-d52	834	3534	kiwi fruit	3559
+s25-d52_11_3	He washes the peeler in the sink and puts it away in the drawer.	s25-d52	3567	3772	kiwi fruit	3789
+s25-d52_11_4	He washes the kiwi in the sink.	s25-d52	3791	4100	kiwi fruit	4053
+s25-d52_11_5	He uses the knife to cut off the top and bottom of the kiwi.	s25-d52	4142	4689	kiwi fruit	4463
+s25-d52_11_6	He cuts off small edges of the kiwi and throws them in the trash.	s25-d52	4142	5100	kiwi fruit	5121
+s25-d52_11_7	He washes the kiwi and the knife in the sink.	s25-d52	5292	5502	kiwi fruit	5673
+s25-d52_12_1	He took out kiwi	s25-d52	205	311	kiwi fruit	325
+s25-d52_12_2	He took out cutting board	s25-d52	395	534	kiwi fruit	545
+s25-d52_12_3	He took out peeler	s25-d52	548	681	kiwi fruit	758
+s25-d52_12_4	He peeled the kiwi	s25-d52	834	3534	kiwi fruit	3564
+s25-d52_12_5	He washed the kiwi	s25-d52	3567	3971	kiwi fruit	3967
+s25-d52_12_6	He washed the kiwi again	5292	5502
+s25-d52_12_7	He washed the knife	5292	5502
+s25-d52_13_1	He grabs a kiwi.	s25-d52	205	311	kiwi fruit	333
+s25-d52_13_2	He gets a cutting board and peeler.	s25-d52	395	681	kiwi fruit	699
+s25-d52_13_3	He peels the kiwi.	s25-d52	834	3656	kiwi fruit	3651
+s25-d52_13_4	He rinses the kiwi.	s25-d52	3656	3971	kiwi fruit	3975
+s25-d52_13_5	He shaves off the last bits of skin and drops the knife.	s25-d52	4719	5502	kiwi fruit	5673
+s25-d52_15_1	He took out a kiwi	s25-d52	205	311	kiwi fruit	327
+s25-d52_15_2	He took out a cutting board	s25-d52	395	534	kiwi fruit	531
+s25-d52_15_3	He took out a peeler	s25-d52	548	681	kiwi fruit	732
+s25-d52_15_4	He peeled kiwi	s25-d52	834	3534	kiwi fruit	3551
+s25-d52_15_5	He washed peeler	s25-d52	3567	3656	kiwi fruit	3668
+s25-d52_15_6	He washed kiwi	s25-d52	3656	3971	kiwi fruit	3950
+s25-d52_15_7	He cut off ends of kiwi	s25-d52	3989	5013	kiwi fruit	5048
+s25-d52_15_8	He washed knife	s25-d52	3989	5502	kiwi fruit	5578
+s25-d52_16_1	First he gathers the kiwi, cutting board and vegetable parer.	s25-d52	205	681	kiwi fruit	730
+s25-d52_16_2	Using the vegetable parer, he slowly peels the skin from the kiwi.	s25-d52	834	3534	kiwi fruit	3559
+s25-d52_16_3	He then rinses the kiwi with tap water.	s25-d52	3567	3971	kiwi fruit	3942
+s25-d52_16_4	He removes the ends of the kiwi and some bits of peel and discards them.	s25-d52	5059	5100	kiwi fruit	5109
+s25-d52_16_5	Finally, he rinses the kiwi again.	s25-d52	3989	5357	kiwi fruit	5373
+s25-d52_16_6	The kiwi is now ready to eat.	s25-d52	5447	5502	kiwi fruit	5674
+s25-d52_17_1	The person grabs the kiwi.	s25-d52	205	311	kiwi fruit	309
+s25-d52_17_2	The person retrieves the cutting board.	s25-d52	395	534	kiwi fruit	539
+s25-d52_17_3	The person retrieves the kiwi peeler.	s25-d52	548	681	kiwi fruit	677
+s25-d52_17_4	The person peels the kiwi.	s25-d52	834	3534	kiwi fruit	3569
+s25-d52_17_5	The person puts away the kiwi peeler.	s25-d52	3567	3772	kiwi fruit	3749
+s25-d52_17_6	The person washes the kiwi.	s25-d52	3791	3971	kiwi fruit	3970
+s25-d52_17_7	The person grabs a knife.	s25-d52	3989	4100	kiwi fruit	4102
+s25-d52_17_8	The person cuts the ends and sides of the kiwi.	s25-d52	3989	5100	kiwi fruit	5112
+s25-d52_17_9	The person rewashes the kiwi.	s25-d52	5292	5357	kiwi fruit	5349
+s25-d52_17_10	The person washes the knife.	s25-d52	5447	5502	kiwi fruit	5674
+s25-d52_19_1	A man enters the kitchen, removes a kiwi from the cupboard, a cutting board and peeler from the drawer and begins to peel the kiwi.	s25-d52	205	681	kiwi fruit	737
+s25-d52_19_2	He peels the kiwi over the trash can.	s25-d52	834	3534	kiwi fruit	3589
+s25-d52_19_3	He washes the kiwi and the peeler and returns the clean peeler to the drawer.	s25-d52	3567	3971	kiwi fruit	3989
+s25-d52_19_4	He removes a knife from the drawer.	s25-d52	3989	4100	kiwi fruit	4129
+s25-d52_19_5	He cuts the ends off of the kiwi as well as any remaining rind.	s25-d52	4142	5100	kiwi fruit	5123
+s25-d52_19_6	He washes the kiwi and again as well as the knife.	s25-d52	5292	5502	kiwi fruit	5673

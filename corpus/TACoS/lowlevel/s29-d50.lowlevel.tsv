@@ -1,0 +1,12 @@
+224	335	take out	hand	measuring pitcher	,drawer
+408	431	temperature test	finger	water	
+431	610	fill	faucet	water	,measuring pitcher
+639	736	fill	faucet	water	,measuring pitcher
+793	1035	take out	hand	egg	fridge,measuring pitcher
+1068	1198	move	hand	egg	counter,measuring pitcher
+1242	1286	dry	towel	hand	
+1298	1541	take out	hand	cup	counter,cupboard
+1586	2549	open egg	hand	egg white	cup
+2550	2582	add	eggshell	yolk	cup,eggshell
+2631	2726	throw in garbage	hand	eggshell	
+2730	2753	shake	hand	hand	

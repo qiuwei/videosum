@@ -1,0 +1,78 @@
+160	238	open	hand		drawer																			
+251	377	take out	hand	pan	drawer,stove	The person got out a pan.			He took out pan	The person takes out a pan from the drawer.	He took out pan	Grab a saucepan and place on stove.		The man takes a frying pan from the cabinet and places it on the stove top.			This person places pan on the stove top.	He took out pan	He took out pan	He took out pan. He put pan on stove	He goes to the drawer and gets out a fry pan.		The person takes out a pan and puts it on the stove.	
+425	824	take out	hand	egg,plastic box	counter,fridge	The person got out the eggs and butter.			He took out eggs and butter		He took out eggs and butter		He gets a frying pan.				This person gets 2 eggs and butter from the fridge.		He took out eggs and butter	He took out eggs and butter			The person takes eggs and butter out of the fridge.	
+840	973	take out	hand	cutting board	counter,drawer	The person got out a cutting board.	The man takes out eggs and butter.	He opens a drawer and gets a pan and places it on the stove then goes to the refrigerator and get butter and eggs.		The person procures butter and a pair of eggs from the fridge.		Grab two eggs and butter.	He gets two eggs.	He removes two eggs and butter from the refrigerator.	He gets a pan and two eggs.	The man takes out a frying pan, butter, 2 eggs, and a cutting board.		He took out eggs and butter			He goes to the refrigerator gets out some butter and eggs.			
+980	1135	wash	hand	hand					He took out cutting board. He washed hands	The person takes out a cutting board from the drawer.	He took out cutting board		He gets out a cutting board.						He took out cutting board	He took out cutting board			The person takes out a cutting board.	
+1140	1184	shake	hand	hand																				Man takes out eggs, butter, a pan, and cutting board.
+1199	1262	dry	towel	hand									He washes his hands.			He washes his hands.			He washed hands	He washed hands				
+1286	1374	take out	hand	chef knife	,drawer			He gets a cutting board out and then he washes and dries his hands.			He washed hands							He washed hands						
+1394	1466	move	hand	flower pot	counter				He took out knife									He took out knife		He took out knife	He goes to the drawer and gets a cutting board out and then washes and dries his hands.		The person takes out a knife.	
+1491	1555	move	hand	flower pot	counter	The person got out a knife and some fresh herbs.				The person takes out a knife from the drawer and a plant of herbs from the counter.	He took out knife				He gets a cutting board and knife.			He took out herb	He took out knife			The person gets a skillet, two eggs, butter, a sharp knife and fresh herbs.		
+1663	1795	cut	chef knife	chive	cutting board,flower pot								He gets a knife and some herbs.							He took out herbs				
+1828	1882	move	hand	chive	counter,cutting board															He cut off herbs to use				
+1894	1974	move	hand	flower pot	counter		The man cuts off some fresh herbs.	He gets a knife out of the drawer and then reaches over to get a plant and begins cutting the leaves.	He cut some herbs										He cut herbs					
+1988	2034	wash	hand	hand					He put back unused herbs. He washed hands		He cut some herbs	Cut off a few parcels of fresh green Onion.			He cuts off some herbs. 	He uses a knife to cut herbs off of an herb plant.			He put herbs away	He put back extra herbs			The person cuts some herbs from a plant.	The man slices off some herbs.
+2095	2236	wash	hand	chive		The person rinsed the herbs.										He washes the herbs.			He rinsed hand	He rinsed hand				
+2298	2363	dry	towel	hand					He washed herbs	The person cuts off some herbs from the plant, returns the planter to the counter, and then washes the herbs in the sink.	He washed herbs				He washes the herbs.			He washed herbs	He washed herbs	He washed herb	He goes to the drawer and gets a knife and cuts off some herbs off a plant and rinses them.	The person cuts off some fresh herbs and rinses them.		
+2424	2481	turn on	hand	stove																				
+2485	2502	change temperature	hand	stove			The man washes the herbs.	He returns the herb plant and then picks up the herbs and washes them.										He dried hands						
+2528	2683	change temperature	hand	stove		The person turned on the burner.																		
+2721	2768	remove lid	hand	lid	counter,plastic box				He turned on stove											He turned on stove				
+2787	2886	take out	hand	spatula	,drawer						He turned on stove						this person turns on the stove top to heat the pan.	He turned on the stove	He turned on stove		He turns on the stove.			
+2926	3038	take apart	spatula	butter	pan,plastic box			He turns on the stove and gets a spatula out.	He took out knife									He took out wooden spoon						
+3062	3095	spread	spatula	butter	pan	The person put a pat of butter in the pan.	The man adds butter to a pan.		He put butter on stove	The person turns on the stove, takes out a wooden spatula from the drawer, and cuts some butter with it onto the pan.	He put butter in pan		He puts butter in the frying pan.		He turn on the stove and adds butter to the pan. 	He adds butter to the frying pan.	this person adds a pad of butter into the pan.	He put butter in pan					The person adds some butter to the hot pan.	
+3242	3358	take out	hand	spice shaker	counter,spice holder			He then takes a slice of butter and places in the fry pan.				Melt your butter in the sauce pan.									He goes to the drawer and takes out a spatula and cuts a piece of butter off and places it into the pan.			He adds butter to the pan.
+3406	3466	put lid	hand	lid	counter,plastic box																			
+3468	3494	move	hand	plastic box	counter																	The person turns the heat on under the skillet, gets a wooden spoon and uses it to put some butter in the skillet to melt, then gets some spices.		
+3510	3551	move	hand	cutting board	counter	The person got out seasoning (salt and pepper).																		
+3739	3860	change temperature	hand	stove																				
+3969	4011	spread	spatula	butter	pan				He turned up stove. He mixed butter		He turned up stove	Grab seasoning of your choice such as salt and pepper.												
+4365	4469	take out	hand	spice shaker	counter,spice holder					The person gathers several condiments.														
+4837	4937	spread	spatula	butter	pan																			
+5819	5940	spread	spatula	butter	pan								He spreads the melting butter.	He places some butter in the pan and allows it to melt.										
+6861	7350	spread	spatula	butter	pan																			
+7530	7595	change temperature	hand	stove		The butter is melted.	The man waits for the butter to melt.	He grabs some spices, covers the butter, and then waits for the butter to melt.														The person lets the butter melt completely and moves it around the skillet with the wooden spoon to let it coat the bottom.		The man waits for the pan to get hot.
+8085	8312	open egg	hand,pan	egg	pan											He cracks an egg into the pan.	the butter in the pan melts.. this person cracks the first egg into the pan				He goes and gets some spices and waits for the butter to melt.			
+8363	8581	open egg	hand,pan	egg	pan	The person cracks the eggs into the pan.					He cracked first egg. He cracked second egg		He pours out the eggs onto the frying pan.				this person cracks the second egg into the pan						The person cracks the eggs into the pan.	
+8666	8732	wash	hand	hand			The man cracks the eggs and places them into the pan.								He cracks the eggs into the pan. 							The person cracks the eggs and drops them in the hot skillet.		
+8767	8820	dry	towel	hand						The person cracks the eggs over the pan and then washes his hands.											He cracks the eggs into the pan and then rinses and dries his hands.			The man adds the eggs to the pan.
+8899	9428	stir	spatula	egg	pan	The person stirs the eggs.							He mixes around the eggs.			He stirs the eggs.								
+9499	9556	screw	hand	spice shaker			The man mixes the eggs.					Once butter is completely melted, crack two eggs into pan and start to scramble.		He cracks both eggs open in the frying pan, and scrambles them with a wooden spatula.			this person uses a wooden spoon to break the yolks and stir the eggs.					The person uses the wooden spoon to scramble the eggs while in the skillet.		
+9581	9691	spice	spice shaker	salt	pan			He cracks the eggs into the pan and then scrambles them.																
+9694	9718	screw	hand	spice shaker																				
+9762	9802	screw	hand	spice shaker												He salts the eggs.	this person adds salt to the pan							
+9810	9955	spice	spice shaker	spice	pan																			
+9955	9990	screw	hand	spice shaker												He adds pepper.								
+10014	10048	screw	hand	spice shaker													this person adds pepper to the pan							
+10057	10138	spice	spice shaker	spice	pan																			
+10152	10198	screw	hand	spice shaker																				
+10247	10313	screw	hand	spice shaker								Add seasoning to taste.		He seasons the eggs with several different spices.			this person adds a third seasoning to the pan.						The person adds spices to the eggs.	
+10335	10425	change temperature	hand	stove		The person seasons the eggs.	The man seasons the eggs.	He then adds spices to the scrambled eggs.		The person scrambles the eggs with the spatula and adds the condiments.			He puts salt and pepper in the pan.											The man seasons the eggs.
+10520	10957	stir	spatula	egg	pan										He seasons eggs.									
+11043	11105	change temperature	hand	stove								Occasionally stir eggs so they do not stick.		He gently moves the eggs around the frying pan with the spatula.			this person gently stirs the egg mix in the pan.							
+11156	11254	throw in garbage	hand	egg shell																	He scrambles the eggs and adds some spices and then re-stirs.			
+11263	11510	wash	hand	hand										He discards the egg shells into the recycling bin.										
+11531	11651	dry	towel	hand						The person throws the shells into the wastebin and once more washes his hands.														
+11732	11976	stir	spatula	egg	pan																			
+12027	12086	change temperature	hand	stove				He stirs the eggs then cleans up a little then goes back to stir eggs again.						He continues to stir the eggs in the pan every few minutes.							He throws away the egg shells and washes and dries his hands and then stirs the eggs.	The person adds salt, pepper and other spices to the egg mixture, then scrambles it with the wooden spoon.		The man stirs the eggs.
+12163	12738	chop	chef knife	chive	cutting board																			
+12832	12899	scratch off	hand	chive	chef knife,cutting board					The person chops the herbs on the cutting board.		Begin to chop your fresh onions.		He chops some greens on the cutting board.	He chops the herbs.	He cuts the herb into small pieces.						The person finely chops the fresh herbs.	The person chops the fresh herbs.	He chops the herbs.
+13044	13533	stir	spatula	egg	pan			He then crops the herbs and stirs the eggs again.																
+14206	15218	stir	spatula	egg	pan									He continues to move the eggs in the frying pan.							He chops the herbs and then he stirs the eggs.			The man continues to stir the eggs.
+15329	15758	take out	hand	plate	counter,cupboard					The person procures a plate from the cabinet.			He gets a plate.	He gets a plate from the cabinet and places it on the counter.		He stirs the eggs.								
+15924	16330	wash	hand	plate				He then gets a dish and washes it.													He goes to the cupboard and gets a plate and rinses it.			
+16419	17193	stir	spatula	egg	pan																			
+17256	17304	change temperature	hand	stove																				
+17311	17392	put in	hand	spice shaker	counter,spice holder																			
+17472	17629	put in	hand	plastic box	counter,fridge							Clean up cooking area.												The man puts unwanted supplies away while waiting for the eggs to cook.
+17728	18736	stir	spatula	egg	pan																			
+18768	18811	change temperature	hand	stove			The man stirs the eggs as they cook.															The person lets the egg cook, while periodically scrambling it with the wooden spoon. During this time, he gets a plate and puts the used items away.		
+19132	19175	move	hand	towel	,hook																He stirs the eggs, adjusts the stove, puts the butter and spices away, and then re-stirs the eggs.		The person scrambled the eggs around the pan until they are cooked.	
+19273	19417	dry	towel	plate																			The person takes out a plate.	
+19576	19657	hang up	hand	towel	,hook	The person stirs the eggs until they are done.																		
+19778	19925	stir	spatula	egg	pan																			
+20015	20216	add	spatula	egg	pan,plate		The man takes the eggs out of the pan.			The person sets the scrambled eggs on the plate.			He puts the scrambled eggs onto the plate.	He removes the frying pan from the stove, and places the eggs onto the plate.		He puts the cooked eggs onto a plate.	this person removes the eggs from the pan and puts them on a plate.					The person scoops the cooked eggs onto a plate.	The person places the cooked eggs onto the plate.	The man removes the eggs from the pan.
+20436	20538	add	hand	chive	cutting board,plate									He places the frying pan and spatula into the sink.	He finishes cooking and adds the eggs to the plate.						He dries the plate, returns the towel, and then puts the eggs on the plate.			
+20543	20688	add	hand	chive	cutting board,plate																			
+20717	20836	take out	hand	fork	drawer,plate									He places the chopped greens on top of the scrambled eggs.	He puts the herbs on top of the eggs. 								The person garnishes the eggs with the fresh herb.	
+20854	20896	move	hand	plate	counter,cutting board	The person puts the eggs on a plate and tops it with herbs.	The man finishes by putting the herbs onto the eggs.	While waiting for eggs to cook he cleans up and dries the dish and then puts the eggs on the plate and sprinkles with the herbs and then gets out a fork.		The person sprinkles the herbs over the eggs and takes out a fork from the drawer.		Once eggs are done, place on plate and add onions, enjoy.				He adds the small pieces of the herb to the eggs.					He puts the herbs on top of the eggs and then gets a fork out of the drawer.	The person garnishes the eggs with the fresh herbs.	The person is done preparing scrambled eggs.	Finally the man sprinkles the herbs on to the scrabbled eggs.

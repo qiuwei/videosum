@@ -1,0 +1,99 @@
+s22-d29_1_1	The woman removes fresh herbs from the refrigerator.	s22-d29	303	693	herbs	693
+s22-d29_1_2	The woman rinses the herbs under running water.	s22-d29	768	1113	herbs	1141
+s22-d29_1_3	She removes a cutting board and sharp knife from the drawer.	s22-d29	1215	1583	herbs	1584
+s22-d29_1_4	She squeezes the excess water from the herbs.	s22-d29	1612	1695	herbs	1705
+s22-d29_1_5	She cuts all of the leaves off the herbs with small, straight cuts of the knife.	s22-d29	1695	2965	herbs	2987
+s22-d29_1_6	She discards the herb's stems in the recycling bin.	3002	3103
+s22-d29_1_7	She has completed the cutting of the herbs.	3002	3103
+s22-d29_2_1	Remove fresh herbs from refrigerator.	s22-d29	303	693	herbs	737
+s22-d29_2_2	Rinse fresh herbs under water.	s22-d29	768	1113	herbs	1191
+s22-d29_2_3	Get out cutting board and knife.	s22-d29	1215	1583	herbs	1643
+s22-d29_2_4	Cut herbs to desired fine-ness.	s22-d29	1612	2965	herbs	2899
+s22-d29_2_5	Discard stems of herbs.	s22-d29	3002	3103	herbs	3145
+s22-d29_3_1	She gets a bunch of herbs from the fridge.	s22-d29	303	693	herbs	783
+s22-d29_3_2	She rinses the herbs.	s22-d29	768	1113	herbs	1139
+s22-d29_3_3	She gets a cutting board and knife.	s22-d29	1215	1583	herbs	1569
+s22-d29_3_4	She puts the herbs on the cutting board.	s22-d29	1612	1742	herbs	1769
+s22-d29_3_5	She chops the herbs.	s22-d29	1778	2965	herbs	3021
+s22-d29_3_6	She throws away the stems.	s22-d29	3002	3103	herbs	3101
+s22-d29_4_1	The woman enters the kitchen and retrieves the herbs from the refrigerator.	s22-d29	303	693	herbs	747
+s22-d29_4_2	The woman carefully rinses the herbs under the sink.	s22-d29	768	1113	herbs	1147
+s22-d29_4_3	The woman places the herbs in the sink while retrieving a cutting board and knife from the cabinet.	s22-d29	1215	1583	herbs	1611
+s22-d29_4_4	The woman carefully lays the herbs on the cutting board and picks up the knife, then goes on to cut the top of the herb carefully until she reaches the stem.	s22-d29	1612	2965	herbs	2887
+s22-d29_4_5	The woman discards the stem of the herb.	s22-d29	3002	3103	herbs	3083
+s22-d29_5_1	Take the herbs out of the refrigerator.	s22-d29	303	693	herbs	707
+s22-d29_5_2	Wash the herbs under cool water.	s22-d29	768	1113	herbs	1235
+s22-d29_5_3	Take out a cutting board and small knife and place the herbs on the board.	s22-d29	1215	1742	herbs	1981
+s22-d29_5_4	Lay the herbs flat and begin slicing into small pieces, moving from one end to the other.	1778	3103
+s22-d29_5_5	Throw away any excess ends.	1778	3103
+s22-d29_6_1	The woman gathers and washes herbs from the refrigerator.	s22-d29	303	1113	herbs	1241
+s22-d29_6_2	The woman takes out a knife and cutting board.	s22-d29	1215	1583	herbs	1607
+s22-d29_6_3	The woman slices the leaves into small pieces.	s22-d29	1612	2965	herbs	2929
+s22-d29_6_4	The woman discards the stems.	3002	3103
+s22-d29_6_5	The woman places the knife onto the board and they are ready to use.	3002	3103
+s22-d29_8_1	The person gets out some herbs.	s22-d29	303	693	herbs	699
+s22-d29_8_2	The person rinses the herbs.	s22-d29	768	1113	herbs	1175
+s22-d29_8_3	The person gets out a wooden plate.	s22-d29	1215	1353	herbs	1343
+s22-d29_8_4	The person gets out a knife.	s22-d29	1357	1583	herbs	1565
+s22-d29_8_5	The person chops up the herbs.	s22-d29	1612	2965	herbs	2991
+s22-d29_8_6	The person throws away the stalks.	s22-d29	3002	3103	herbs	3115
+s22-d29_9_1	She gets herbs from the fridge.	303	878
+s22-d29_9_2	She washes the herbs.	303	878
+s22-d29_9_3	She gets out a circular cutting board.	s22-d29	906	1353	herbs	1343
+s22-d29_9_4	She gets a small knife.	s22-d29	1357	1583	herbs	1563
+s22-d29_9_5	She starts cutting the herbs into very small pieces.	s22-d29	1612	1742	herbs	1975
+s22-d29_10_1	She walks to the refrigerator and gets out some herbs.	s22-d29	303	693	herbs	753
+s22-d29_10_2	She goes to the sink and removes the rubber band and rinses the herbs.	s22-d29	768	1113	herbs	1189
+s22-d29_10_3	She goes to the drawer and takes out a cutting board and knife.	s22-d29	1215	1583	herbs	1637
+s22-d29_10_4	She goes back to the sink and picks up the herbs and squeezes the water out.	s22-d29	1612	1742	herbs	1755
+s22-d29_10_5	She finely chops the herbs into small pieces.	s22-d29	1778	2965	herbs	3007
+s22-d29_10_6	She takes the herb ends and throws them away.	s22-d29	3002	3103	herbs	3237
+s22-d29_11_1	Takes herbs out of fridge.	s22-d29	303	693	herbs	337
+s22-d29_11_2	Rinses it off in sink.	s22-d29	768	878	herbs	907
+s22-d29_11_3	Takes out cutting board and knife.	s22-d29	906	1113	herbs	1267
+s22-d29_11_4	Places herbs on cutting board.	1215	1742
+s22-d29_11_5	Slices herbs.	1215	1742
+s22-d29_11_6	Puts stems in garbage.	s22-d29	1778	3103	herbs	3207
+s22-d29_12_1	person washes herbs	s22-d29	303	1113	herbs	1149
+s22-d29_12_2	person gets cutting board	s22-d29	1215	1353	herbs	1349
+s22-d29_12_3	person gets knife	s22-d29	1357	1583	herbs	1577
+s22-d29_12_4	person dices herbs	s22-d29	1778	2965	herbs	2956
+s22-d29_12_5	person throws away stem of herbs	s22-d29	3002	3103	herbs	3101
+s22-d29_13_1	Herbs are removed from the refrigerator.	s22-d29	303	693	herbs	705
+s22-d29_13_2	The herbs are washed.	s22-d29	768	1113	herbs	1197
+s22-d29_13_3	The person selects a cutting board.	s22-d29	1215	1326	herbs	1327
+s22-d29_13_4	A knife is selected.	s22-d29	1326	1583	herbs	1571
+s22-d29_13_5	The herbs are chopped starting with the leafy end.	s22-d29	1612	2965	herbs	2985
+s22-d29_13_6	The stems are thrown away.	3002	3103
+s22-d29_13_7	The herbs are ready.	3002	3103
+s22-d29_15_1	The person removes herbs from the refrigerator.	s22-d29	303	693	herbs	670
+s22-d29_15_2	The herbs are washed.	s22-d29	768	1113	herbs	1188
+s22-d29_15_3	The person selected a cutting board.	s22-d29	1215	1326	herbs	1329
+s22-d29_15_4	A knife is carefully chosen.	s22-d29	1326	1583	herbs	1562
+s22-d29_15_5	The herbs are placed on the cutting board.	s22-d29	1612	1742	herbs	1745
+s22-d29_15_6	The tops of the herbs are finely sliced.	s22-d29	1612	2965	herbs	2973
+s22-d29_15_7	The stems are discarded.	3002	3103
+s22-d29_15_8	The herbs are ready.	3002	3103
+s22-d29_16_1	Get the fresh herbs out of the fridge.	s22-d29	303	693	herbs	719
+s22-d29_16_2	If the herbs are banded together undo the band and wash under running water and lightly squeeze off excess water.	s22-d29	768	1113	herbs	1133
+s22-d29_16_3	Get out a cutting board.	s22-d29	1215	1326	herbs	1337
+s22-d29_16_4	Get out a sharp knife.	s22-d29	1326	1583	herbs	1594
+s22-d29_16_5	Cut the leafy ends off the fresh herb and do not include the stems.	s22-d29	1778	2965	herbs	2870
+s22-d29_16_6	Discard the stems.	3002	3103
+s22-d29_16_7	Now the herbs are ready to use.	3002	3103
+s22-d29_17_1	Wash the herbs	s22-d29	303	1113	herbs	1188
+s22-d29_17_2	The person cuts the herb.	1612	2965
+s22-d29_17_3	The person picks up the stem of the herbs.	1612	2965
+s22-d29_17_4	The person discards the stems of the herbs.	3002	3103
+s22-d29_17_5	The person makes a neat pile of the thinly cut herbs.	3002	3103
+s22-d29_18_1	Woman pulls herbs from the refrigerator.	s22-d29	303	693	herbs	763
+s22-d29_18_2	She washes the herbs.	s22-d29	768	1113	herbs	1207
+s22-d29_18_3	Woman pulls out a knife and cutting board.	s22-d29	1215	1583	herbs	1607
+s22-d29_18_4	Woman slices the leaves of the herbs.	s22-d29	1215	2965	herbs	2679
+s22-d29_18_5	Woman finishes by discarding the stems.	s22-d29	3002	3103	herbs	3251
+s22-d29_19_1	The person procures some herbs from the fridge.	s22-d29	303	693	herbs	713
+s22-d29_19_2	The person rinses the herb stalks in the sink.	s22-d29	768	1113	herbs	1197
+s22-d29_19_3	The person removes a cutting board from a drawer.	s22-d29	1215	1353	herbs	1379
+s22-d29_19_4	The person removes a knife from the cutlery drawer.	s22-d29	1357	1583	herbs	1589
+s22-d29_19_5	The person chops the leaves from the herbs on the cutting board with the knife.	s22-d29	1612	2965	herbs	2995
+s22-d29_19_6	The person throws the stems into the garbage.	s22-d29	3002	3103	herbs	3099

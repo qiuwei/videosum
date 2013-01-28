@@ -1,0 +1,128 @@
+s31-d25_1_1	The person got the bread out of the fridge.	s31-d25	219	484	bread	486
+s31-d25_1_2	The person got a plate out of the cabinet.	s31-d25	528	717	bread	706
+s31-d25_1_3	The person got the cutting board out.	s31-d25	777	871	bread	853
+s31-d25_1_4	The person got a knife out.	s31-d25	897	1006	bread	1030
+s31-d25_1_5	The person washed his hands.	s31-d25	1006	1420	bread	1410
+s31-d25_1_6	The person took the bread out of the bag.	s31-d25	1457	1582	bread	1582
+s31-d25_1_7	The person cut two slices of bread.	s31-d25	1620	2032	bread	2147
+s31-d25_1_8	The person put the remaining bread back in the bag.	s31-d25	2160	2274	bread	2297
+s31-d25_1_9	The person dumped the crumbs into the trash.	s31-d25	2283	2534	bread	2557
+s31-d25_2_1	Open refrigerator and get bread.	s31-d25	219	484	bread	483
+s31-d25_2_2	Get plate from cabinet.	s31-d25	528	717	bread	693
+s31-d25_2_3	Retrieve cutting board and knife.	s31-d25	777	1006	bread	1011
+s31-d25_2_4	Wash hands.	s31-d25	1006	1389	bread	1363
+s31-d25_2_5	Place bread on cutting board.	s31-d25	1389	1582	bread	1583
+s31-d25_2_6	Using the knife, cut two thin slices of bread from the loaf.	s31-d25	1620	2032	bread	2023
+s31-d25_2_7	Put remaining bread in bag.	s31-d25	2160	2256	bread	2245
+s31-d25_2_8	Clean crumbs from board.	s31-d25	2257	2534	bread	2503
+s31-d25_3_1	He took out bread	s31-d25	219	484	bread	511
+s31-d25_3_2	He took out plate	s31-d25	528	717	bread	669
+s31-d25_3_3	He took out cutting board	s31-d25	777	871	bread	885
+s31-d25_3_4	He took out knife	s31-d25	897	1058	bread	1041
+s31-d25_3_5	He washed hands	s31-d25	1087	1389	bread	1363
+s31-d25_3_6	He sliced bread	s31-d25	1389	2032	bread	2083
+s31-d25_4_1	He took out bread	s31-d25	219	484	bread	431
+s31-d25_4_2	He took out plate	s31-d25	528	717	bread	623
+s31-d25_4_3	He took out cutting board	s31-d25	777	871	bread	839
+s31-d25_4_4	He took out knife	s31-d25	897	1006	bread	997
+s31-d25_4_5	He washed hands	s31-d25	1006	1300	bread	1297
+s31-d25_4_6	He sliced bread	s31-d25	1300	2032	bread	2053
+s31-d25_6_1	He gets a loaf.	s31-d25	219	484	bread	497
+s31-d25_6_2	He gets a plate.	s31-d25	528	717	bread	699
+s31-d25_6_3	He gets a cutting board.	s31-d25	777	871	bread	863
+s31-d25_6_4	He gets a knife.	s31-d25	897	1006	bread	1011
+s31-d25_6_5	He slices the bread and puts it on a plate.	s31-d25	1006	2032	bread	2045
+s31-d25_6_6	He cleans up a bit.	s31-d25	2160	2534	bread	2589
+s31-d25_7_1	The man walks to the refrigerator and pulls out a bag of bread; he places it on the counter.	s31-d25	219	484	bread	487
+s31-d25_7_2	He also goes to the cabinet, takes out a white plate, and places it on the counter.	s31-d25	528	717	bread	713
+s31-d25_7_3	He takes out a cutting board and knife and places them on the counter.	s31-d25	777	1058	bread	1033
+s31-d25_7_4	Next, he quickly rinses his hands in the sink and dries his hands.	s31-d25	1087	1300	bread	1297
+s31-d25_7_5	He pulls out the bread from the bag and places it on the cutting board.	s31-d25	1300	1582	bread	1597
+s31-d25_7_6	He takes the knife and slowly cuts a loaf of bread.	s31-d25	1620	1802	bread	1829
+s31-d25_7_7	He places the slice on the plate.	s31-d25	1823	1851	bread	1907
+s31-d25_7_8	He cuts another a slice of bread and places it on the plate.	s31-d25	1881	2032	bread	2037
+s31-d25_7_9	He puts the remaining portion of the bread in the bag.	s31-d25	2160	2274	bread	2295
+s31-d25_7_10	He takes the cutting board to the trash and cleans it.	s31-d25	2283	2534	bread	2633
+s31-d25_8_1	The person procures a loaf of bread from the fridge.	s31-d25	219	484	bread	439
+s31-d25_8_2	The person procures a plate from the cabinet.	s31-d25	528	717	bread	661
+s31-d25_8_3	The person takes out a cutting board from the drawer.	s31-d25	777	871	bread	851
+s31-d25_8_4	The person takes out a knife from the drawer.	s31-d25	897	1006	bread	1007
+s31-d25_8_5	The person washes his hands in the sink.	s31-d25	1006	1300	bread	1307
+s31-d25_8_6	The person uses the knife to slice two pieces of bread from the loaf and place them on the plate.	s31-d25	1300	2032	bread	2041
+s31-d25_8_7	The person throws the crumbs into the wastebin.	s31-d25	2160	2534	bread	2563
+s31-d25_9_1	The person procures a loaf of bread from the fridge.	s31-d25	219	484	bread	447
+s31-d25_9_2	The person procures a plate from the cabinet.	s31-d25	528	717	bread	665
+s31-d25_9_3	The person takes out a cutting board from the drawer.	s31-d25	777	871	bread	855
+s31-d25_9_4	The person takes out a knife from the drawer.	s31-d25	897	1006	bread	1017
+s31-d25_9_5	The person washes his hands in the sink.	s31-d25	1006	1420	bread	1497
+s31-d25_9_6	The person uses the knife to slice two pieces of bread from the loaf and set them on the plate.	s31-d25	1457	2032	bread	2033
+s31-d25_9_7	The person disposes of the crumbs on the cutting board into the trash.	s31-d25	2160	2534	bread	2559
+s31-d25_10_1	The person takes a loaf of bread from the fridge.	s31-d25	219	484	bread	439
+s31-d25_10_2	 The person procures a plate from the cabinet.	s31-d25	528	717	bread	649
+s31-d25_10_3	The person takes out a cutting board from the drawer.	s31-d25	777	871	bread	845
+s31-d25_10_4	The person takes out a knife from the drawer.	s31-d25	897	1006	bread	995
+s31-d25_10_5	The person washes his hands.	s31-d25	1006	1318	bread	1311
+s31-d25_10_6	The person uses the knife to slice two pieces of bread from the loaf and sets them on the plate.	s31-d25	1318	2032	bread	2029
+s31-d25_10_7	The person brushes the crumbs from the cutting board into the trash.	s31-d25	2160	2534	bread	2553
+s31-d25_11_1	The person procures a loaf of bread from the fridge.	s31-d25	219	484	bread	441
+s31-d25_11_2	The person procures a plate from the cabinet.	s31-d25	528	717	bread	661
+s31-d25_11_3	The person takes out a cutting board from the drawer.	s31-d25	777	871	bread	859
+s31-d25_11_4	The person takes out a knife from the drawer.	s31-d25	897	1006	bread	1021
+s31-d25_11_5	The person washes his hands.	s31-d25	1006	1420	bread	1449
+s31-d25_11_6	The person uses the knife pieces of bread, sets them on the plate, then wraps the rest of the loaf.	s31-d25	2160	2274	bread	2319
+s31-d25_11_7	The person brushes the crumbs from the cutting board into the trash.	s31-d25	2283	2534	bread	2579
+s31-d25_12_1	Get the bread out of the fridge.	s31-d25	219	484	bread	489
+s31-d25_12_2	Get a plate.	s31-d25	528	717	bread	710
+s31-d25_12_3	Get out a cutting board.	s31-d25	777	871	bread	889
+s31-d25_12_4	Get out a knife.	s31-d25	897	1006	bread	1015
+s31-d25_12_5	Wash and dry hands.	s31-d25	1006	1420	bread	1430
+s31-d25_12_6	Put the bread on the cutting board.	s31-d25	1457	1582	bread	1603
+s31-d25_12_7	Cut two slices of bread.	s31-d25	1620	2032	bread	2095
+s31-d25_12_8	Put unused bread back in the bag.	s31-d25	2160	2274	bread	2288
+s31-d25_12_9	Clean the cutting board.	s31-d25	2283	2534	bread	2553
+s31-d25_13_1	The man takes out the bread.	s31-d25	219	484	bread	499
+s31-d25_13_2	The man takes out his supplies.	s31-d25	528	1058	bread	1055
+s31-d25_13_3	The man washes her hands.	s31-d25	1087	1420	bread	1443
+s31-d25_13_4	The man slices the bread and places it onto the plate.	s31-d25	1457	2032	bread	2093
+s31-d25_13_5	The man then cleans up and places the bread back into the bag.	s31-d25	1457	2534	bread	2647
+s31-d25_15_1	The person gets out a loaf of bread in plastic wrap.	s31-d25	219	484	bread	481
+s31-d25_15_2	The person gets out a plate.	s31-d25	528	717	bread	713
+s31-d25_15_3	The person gets out a wooden plate.	s31-d25	777	871	bread	874
+s31-d25_15_4	The person gets out a knife.	s31-d25	897	1058	bread	1035
+s31-d25_15_5	The person washes his hands.	s31-d25	1087	1420	bread	1420
+s31-d25_15_6	The person unwraps the bread.	s31-d25	1457	1582	bread	1540
+s31-d25_15_7	The person cuts off two slices of bread and puts them on the plate.	s31-d25	1620	2032	bread	2037
+s31-d25_15_8	The person wraps the rest of the bread back up.	s31-d25	2160	2274	bread	2279
+s31-d25_15_9	The person throws away the crumbs.	s31-d25	2283	2534	bread	2526
+s31-d25_16_1	The person gets out a loaf of bread in plastic wrap.	s31-d25	219	484	bread	492
+s31-d25_16_2	The person gets out a plate.	s31-d25	528	717	bread	718
+s31-d25_16_3	The person gets out a wooden plate.	s31-d25	777	871	bread	870
+s31-d25_16_4	The person gets out a knife.	s31-d25	897	1058	bread	1041
+s31-d25_16_5	The person washes his hands.	s31-d25	1087	1420	bread	1432
+s31-d25_16_6	The person unwraps the bread.	s31-d25	1457	1582	bread	1567
+s31-d25_16_7	The person cuts off two slices of bread and puts them on the plate.	s31-d25	1620	2032	bread	2049
+s31-d25_16_8	The person puts the rest of the bread back in the plastic.	s31-d25	2160	2274	bread	2277
+s31-d25_16_9	The person throws away the crumbs.	s31-d25	2283	2534	bread	2523
+s31-d25_17_1	The person takes the bread out of the refrigerator.	s31-d25	219	484	bread	441
+s31-d25_17_2	The person takes a plate out of the cupboard.	s31-d25	528	717	bread	656
+s31-d25_17_3	The person takes a chopping board out of the drawer.	s31-d25	777	871	bread	874
+s31-d25_17_4	The person takes a knife out of the drawer.	s31-d25	897	1058	bread	1052
+s31-d25_17_5	The person washes his hands with water and dries them with a towel.	s31-d25	1087	1420	bread	1447
+s31-d25_17_6	The person cuts two slices from the loaf of bread.	s31-d25	1457	2032	bread	2049
+s31-d25_17_7	The person discards the bread crumbs left on the chopping board.	s31-d25	2160	2534	bread	2541
+s31-d25_18_1	Take out the uncut loaf of bread.	s31-d25	219	484	bread	493
+s31-d25_18_2	Get a serving plate.	s31-d25	528	717	bread	729
+s31-d25_18_3	Get out a cutting board.	s31-d25	777	871	bread	877
+s31-d25_18_4	Get out a knife.	s31-d25	897	1006	bread	1031
+s31-d25_18_5	Wash and dry your hands.	s31-d25	1006	1420	bread	1429
+s31-d25_18_6	Slice bread.	s31-d25	1457	1802	bread	1837
+s31-d25_18_7	Place sliced piece of bread on serving plate.	s31-d25	1823	1851	bread	1857
+s31-d25_18_8	Continue until you have the desired number of slices.	s31-d25	1881	2032	bread	2035
+s31-d25_18_9	Place unused portion of bread back in the bag.	s31-d25	2160	2256	bread	2259
+s31-d25_18_10	Clean crumbs from work area.	s31-d25	2257	2534	bread	2569
+s31-d25_19_1	The person takes out a loaf of bread.	s31-d25	219	484	bread	487
+s31-d25_19_2	He takes out a plate.	s31-d25	528	717	bread	705
+s31-d25_19_3	He takes out a cutting board.	s31-d25	777	871	bread	863
+s31-d25_19_4	He takes out a knife.	s31-d25	897	1006	bread	1001
+s31-d25_19_5	He cuts a slice from the loaf of bread.	s31-d25	1006	1802	bread	1811
+s31-d25_19_6	He cuts another slice from the bread and places them on the plate.	s31-d25	2160	2534	bread	2533

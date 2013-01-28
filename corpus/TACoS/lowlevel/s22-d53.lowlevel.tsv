@@ -1,0 +1,33 @@
+278	521	take out	hand	avocado	,fridge
+521	572	remove label	hand	avocado	
+609	855	throw in garbage	hand	label	
+883	1080	take out	hand	cutting board	counter,drawer
+1080	1148	close	hand		drawer
+1152	1383	take out	hand	knife	,drawer
+1392	1433	move	hand	avocado	counter,cutting board
+1461	1811	cut	knife	avocado	cutting board
+1836	1902	take apart	hand	avocado	
+1987	2052	take apart	hand	avocado,stone	
+2100	2215	throw in garbage	hand	stone	
+2249	2374	wash	hand	hand	
+2395	2439	move	hand	towel	,hook
+2439	2556	dry	towel	hand	
+2582	2713	take out	hand	peeler	drawer
+2760	2842	peel	peeler	avocado	
+2885	3221	peel	hand	avocado	
+3228	3287	move	hand	peeler	cutting board,sink
+3297	3323	move	hand	peel	counter,cutting board
+3329	3920	peel	hand	avocado	
+3979	4595	peel	hand	avocado	
+4741	4851	throw in garbage	hand	peel	
+4884	5048	wash	hand	hand	
+5048	5075	shake	hand	hand	
+5116	5145	dry	towel	hand	
+5177	5276	cut	knife	avocado	cutting board
+5299	5426	chop	knife	avocado	cutting board
+5426	5529	chop	knife	avocado	cutting board
+5541	5584	move	hand	avocado	cutting board
+5601	5686	cut	knife	avocado	cutting board
+5700	5787	chop	knife	avocado	cutting board
+5810	5901	chop	knife	avocado	cutting board
+5923	5960	taste	hand	avocado	

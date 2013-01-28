@@ -1,0 +1,6 @@
+233	485	take out	hand	mug	counter,cupboard
+541	760	take out	hand	glass	counter,cupboard
+816	1014	take out	hand	egg	fridge
+1024	1960	open egg	hand	egg white	glass mug
+2001	2195	add	eggshell	yolk	eggshell,glass
+2210	2336	throw in garbage	hand	eggshell	

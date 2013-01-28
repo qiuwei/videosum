@@ -1,0 +1,88 @@
+145	448	take out	hand	pineapple	counter,cupboard	The woman got the pineapple out of the cupboard.	A pineapple is removed from the cabinet.			She gets a pineapple. 	She gets a pineapple.	The person gets out a pineapple.	The person takes out a pineapple.	The person removes a pineapple from the cabinet.		The person gets out a pineapple.	She took out pineapple	The person gets out a pineapple.	The person gets out a pineapple.		The person procures a pineapple from the pantry.	She took out pineapple	She grabs the pineapple out of the cabinet and places it on the counter.
+469	682	take out	hand	knife	counter,drawer												She took out knife					She took out knife	
+691	775	take out	hand	knife	counter,drawer		Two knives are selected.			She gets some knives. 							She took out second knife					She took out second knife	
+794	848	close	hand		drawer	The woman got two knives out from the drawer.						The person gets out two knives.	The person takes out a knife and a fruit zester.	The person removes a small knife and a large knife from the top drawer.		The person gets out two knives.		The person gets out two knives.	The person gets out two knives.		The person removes a large and small knife from the cutlery drawer and places them on the countertop.		She opens the drawer and takes out two knives, places them on the counter, and closes the drawer.
+858	1001	take out	hand	cutting board	counter,drawer		The person removes a cutting board. 				She gets knives and a cutting board.	The person gets out a cutting board.	The person takes out a cutting board.			The person gets out a cutting board.	She took out cutting board	The person gets out a cutting board.				She took out cutting board	
+1008	1071	take out	hand	bowl	counter,drawer							The person gets out a bowl.				The person gets out a bowl.	She took out bowl	The person gets out a bowl.				She took out bowl	
+1109	1150	take out	hand	plastic box	counter,drawer		A bowl and container are selected.					The person gets out a Tupperware container.		The person removes a metal bowl and a plastic bowl from another drawer.		The person gets out a Tupperware container.	She took out plastic container	The person gets out a Tupperware container.					She takes out a wooden cutting board, a metal bowl, and a plastic container from the drawer and puts them on the counter.
+1150	1181	close	hand		drawer						She gets two bowls. 		THe person takes out a bowl and a plastic container.						The person gets out a cutting board, a Tupperware container and a bowl.	The woman sets up her station by grabbing a pine apple, a large and small knife, a cutting board, and a bowl.	The person removes a cutting board, a bowl, and a plastic tub from a drawer.	She took out container	
+1181	1249	move	hand	bowl	drawer																		
+1249	1318	close	hand		drawer	The woman got out a cutting board, bowl, and storage container.			Take out a pineapple, a large and small knife, a cutting board, a large bowl, and a plastic container.														
+1323	1377	move	hand	pineapple	counter,cutting board			She gets out the needed equipment and fruit. 															
+1392	1932	cut	knife	pineapple	cutting board	The woman cut the top off the pineapple.		She chops off the top of the fruit.					Using the large knife (that I thought was a fruit zester), the person cuts the top off of the pineapple.				She cut off top of pineapple			With the large knife the woman cuts off the top of the pineapple.		She cut off top of pineapple	
+1957	2001	add	hand	pineapple	cutting board,plastic box		The top is cut off the pineapple and placed in the container.				She cuts off the top of the pineapple.								The person cuts off the top of the pineapple and puts it in the Tupperware container.				
+2004	2079	add	hand	peel	cutting board,plastic box							The person cuts off the top and bottom of the pineapple and puts them in the Tupperware container.					She put top of pineapple in plastic container				The person cuts the fronds of the top of the pineapple using the large knife and places it into the plastic tub.		She cuts the top of the pineapple off and puts it in the plastic container.
+2124	2265	cut	knife	pineapple	cutting board	The woman cut the bottom off the pineapple.														The woman cuts off the bottom of the pineapple.			
+2276	2304	add	hand	pineapple	cutting board,plastic box				Use the large knife to cut off the top and bottom of the pineapple and put them in the plastic container.				The person cuts the end off of the pineapple.	The person uses the large knife to cut off the top and bottom of the pineapple and places discarded pieces into the plastic bowl.	Slice the skin off by standing the pineapple up and slicing downward.. Slice the top part of the pineapple off.. Take out your knives, cutting board, a bowl and a container for storage.	The person cuts off the top and bottom of the pineapple and puts them in the Tupperware container.	She cut one slice of pineapple	The person cuts off the top and bottom of the pineapple and puts them in the Tupperware container.	The person cuts the bottom of the pineapple off and puts it in the Tupperware container.				She cuts off the bottom of the pineapple and puts it in the plastic container, then sets the pineapple right-side up.
+2349	2910	peel	knife	pineapple	cutting board												She cut skin off pineapple						
+2921	2979	add	hand	peel	cutting board,plastic box																		She removes the outside layer of half the pineapple and puts it in the plastic container.
+2985	3023	add	hand	peel	cutting board,plastic box												She put skin in plastic container						
+3023	3057	move	knife	peel	cutting board																		
+3079	3523	peel	knife	pineapple	cutting board			She cuts off the bottom and sides of the fruit.	Set the pineapple on its end and use the small knife to cut off the peel in strips all around the pineapple.								She cut skin off of pineapple					She took out pineapple peel	
+3537	3571	peel	knife	pineapple	cutting board		The bottom and sides are removed and placed in the container.										She sliced pineapple						
+3657	3823	peel	knife	pineapple	cutting board																		
+3833	3846	add	hand	peel	cutting board,plastic box												She took off top of pineapple			With the small knife the woman removes the hard outer skin of the pineapple.			
+3846	3890	add	hand	peel	cutting board,plastic box	The woman cut off the sides of the pineapple with a paring knife.							Using the small knife, the person stands the pineapple upright, and slices the skin off the pineapple from top to bottom.										
+3893	3953	add	hand	peel	cutting board,plastic box																The person carefully removes the scaly peel of the pineapple using the small knife and places the peels into the plastic tub.		She removes the rest of the outside layer from the pineapple and puts it in the plastic container.
+3972	4022	peel	knife	pineapple	cutting board																		
+4028	4050	add	hand	peel	knife,plastic box																		
+4068	4098	add	hand	peel	cutting board,plastic box																		
+4142	4175	peel	knife	pineapple	cutting board																		
+4181	4204	add	hand	peel	knife,plastic box																		
+4215	4242	peel	knife	pineapple	cutting board																		
+4247	4265	add	hand	peel	knife,plastic box																		
+4274	4335	peel	knife	pineapple	cutting board																		
+4339	4358	add	hand	peel	knife,plastic box																		
+4393	4421	peel	knife	pineapple	cutting board																		
+4426	4445	add	hand	peel	knife,plastic box																		
+4456	4497	peel	knife	pineapple	cutting board																		
+4501	4519	add	hand	peel	knife,plastic box																		
+4523	4592	peel	knife	pineapple	cutting board																		
+4597	4614	add	hand	peel	knife,plastic box																		
+4699	4732	peel	knife	pineapple	cutting board																		
+4737	4754	add	hand	peel	knife,plastic box																		
+4754	4789	peel	knife	pineapple	cutting board																		
+4794	4825	add	hand	peel	knife,plastic box																		
+4833	4883	peel	knife	pineapple	cutting board																		
+4889	4902	add	hand	peel	knife,plastic box																		
+4924	4982	peel	knife	pineapple	cutting board																		
+4987	5004	add	hand	peel	knife,plastic box																		
+5010	5068	peel	knife	pineapple	cutting board																		
+5072	5085	add	hand	peel	knife,plastic box																		
+5087	5124	peel	knife	pineapple	cutting board																		
+5129	5143	add	hand	peel	knife,plastic box																		
+5151	5204	peel	knife	pineapple	cutting board																		
+5209	5268	add	knife	peel	knife,plastic box																		
+5315	5361	peel	knife	pineapple	cutting board																		
+5365	5378	add	hand	peel	knife,plastic box																		
+5385	5429	peel	knife	pineapple	cutting board																		
+5434	5451	add	hand	peel	knife,plastic box																		
+5454	5523	peel	knife	pineapple	cutting board																		
+5528	5547	add	hand	peel	knife,plastic box																		
+5553	5594	peel	knife	pineapple	cutting board																		
+5599	5629	add	hand	peel	knife,plastic box																		
+5636	5703	peel	knife	pineapple	cutting board																		
+5709	5726	add	hand	peel	knife,plastic box																		
+5738	5793	peel	knife	pineapple	cutting board																		
+5797	5833	add	hand	peel	knife,plastic box																		
+5862	5914	peel	knife	pineapple	cutting board																		
+5919	5944	add	hand	peel	knife,plastic box																		
+5950	5985	peel	knife	pineapple	cutting board																		
+5990	6002	add	hand	peel	knife,plastic box																		
+6005	6043	add	hand	peel	bowl,cutting board																		
+6070	6115	peel	knife	pineapple	cutting board																		
+6121	6145	add	hand	peel	knife,plastic box	The woman cut off all the hard spots on the pineapple.	Trimming and cleaning is done on the pineapple.	She cuts away the last bits of skin.			She cuts the skin off the pineapple. 		Using the small knife, the person picks out all of the small pieces of skin embedded in the pineapple.							The woman removes all of the small hard pits from the outside of the pineapple.			
+6221	6329	move	hand	peel	counter,cutting board					She removes the skin of the pineapple. 					Slice off excess skin using a small knife.	The person cuts off the outside of the pineapple and puts it in the Tupperware container.					The person carefully scrapes off the small bits of peel left with the small knife and places these bits into the plastic tub.		She cleans up the rest of the pineapple with the small knife, and puts the little pieces in the plastic container.
+6433	6503	add	hand	peel	cutting board,plastic box				Use the small knife to trim off any unwanted parts from the pineapple and place these parts and the peel in the plastic container.			The person cuts off the outside of the pineapple and puts it in the Tupperware container.						The person cuts off the outside of the pineapple and puts it in the Tupperware container.					
+6532	6579	wash	hand	hand			The person rinsed their hands.							The person uses the small knife to remove the pineapple rind making sure to get all of it.						The woman quickly rinses her hands.			
+6582	6617	shake	hand	hand					Wash off your hands.					The person rinses her hands in the sink				The person washes his hands.	The person cuts the outside of the pineapple off and puts it in the Tupperware container.		The person rinses her hands off under the faucet.	She washed hands	She cleans off her cutting board, and then washes her hands in the sink.
+6717	6788	wash	hand	knife																			
+6788	6809	shake	hand	knife			The person rinsed the knife.											The person rinses a knife.				She washed knife	She rinses off her knife before cutting the pineapple.
+6832	7752	slice	knife	pineapple	cutting board	The woman cut the pineapple in slices.	The pineapple is sliced into rounds.		Lay the pineapple on its side, rinse off the large knife and use it to slice the pineapple into 1/2 inch thick disks.	She slices the pineapple. 	She slices the pineapple.		The person lays the pineapple on its side and uses the big knife to cut the pineapple width-wise into circle shapes	The person rinses the large knife and then uses it to slice the pineapple.						With the large knife the woman cut the pineapple into slices.			She slices the pineapple and sets her knife on the cutting board.
+7789	7876	add	hand	pineapple	bowl,cutting board		The rounds are placed in the bowl.			She puts the slices in a bowl. 	She puts the slices in a bowl.			The person places the slices in the metal bowl.	Use a large knife to slice the pineapple into circular slices.						The person carefully slices the pineapple into thin sections and places them into the bowl.	She sliced pineapple	She puts the sliced pineapple in the metal bowl and trims the bottom piece to get the rest of the pineapple.
+7929	8185	cut	knife	pineapple	cutting board																		
+8191	8218	add	hand	pineapple	cutting board,plastic box		To end piece is trimmed and the core discarded in the container.																She places the bottom part of the pineapple in the plastic container.
+8229	8348	add	hand	pineapple	bowl,cutting board	The woman put the pineapple in a stainless steel bowl.		She slices the fruit and puts it in a bowl. 		She puts the last bit of pineapple in the bowl. 		The person cuts the pineapple into slices and puts them in the bowl.	The person is done.	The person trims the bottom of the pineapple putting the fruit in the metal bowl and placing the remaining rind in the plastic bowl.	Slice any excess pieces of fruit from the skin and place everything in the bowl.	The person cuts the pineapple into slices and puts them in the bowl.		The person cuts the pineapple into slices and puts the slices in the bowl.	The person cuts the pineapple into slices and puts them in the bowl.	The woman places the slices into a bowl.	The person chops up a small section of pineapple and places it into the bowl.		
+8403	8648	wash	hand	knife		The woman rinsed off the knives.	The knives are washed.					The person rinses the knives.		The person rinses the two knives.	Rinse off your knives and dispose of your waste.	The person rinses the knives.		The person rinses both knives.	The person rinses the knives.	The woman cleans the knifes.	The person rinses the knives in the sink.	She washed knife	She rinses off her knives and proceeds to throw away what's in the plastic container.
+8653	9154	throw in garbage	hand,plastic box	peel,pineapple			The scrap container is emptied into the trash.		Put the pineapple in the large bowl, wash off the knives, and discard the peel and unwanted pineapple parts.	She discards the rest of the pineapple. 				The person discards the contents of the plastic bowl.		The person throws away the trash.		The person throws away the trash.	The person throws away the trash.	The woman throws away the pineapple crown, and peelings.	The person disposes of the fronds and peels from the plastic tub into the wastebin.	She threw away scraps	
+9166	9248	wash	hand	plastic box		The woman put the pineapple scraps in a garbage bin and then rinsed out the container.		She cleans up.			She discards the rest of the pineapple. 	The person throws away the trash.		The person rinses the plastic bowl.							The person rinses the plastic tub in the sink.		She rinses out her plastic container.

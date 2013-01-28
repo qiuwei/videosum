@@ -1,0 +1,24 @@
+112	289	take out	hand	onion	counter,cupboard
+289	386	take out	hand	cutting board	counter,drawer
+386	419	close	hand		drawer
+424	586	take out	hand	knife	counter,drawer
+608	743	take out	hand	bowl	counter,drawer
+743	779	move	hand	bowl	counter
+834	3508	peel	knife	onion	
+3508	3550	cut	knife	onion	
+3618	3728	wash	hand	onion	
+3728	3751	shake	hand	onion	
+3751	3801	move	hand	onion	,cutting board
+3804	3876	cut	knife	onion	cutting board
+3960	4029	wash	hand	knife	
+4050	4315	slice	knife	onion	cutting board
+4340	4767	chop	knife	onion	cutting board
+4767	4806	scratch off	hand	onion	cutting board,knife
+4833	4883	gather	knife	onion	cutting board
+4916	5127	slice	knife	onion	cutting board
+5193	5623	chop	knife	onion	cutting board
+5623	5655	scratch off	hand	onion	cutting board,knife
+5669	5691	scratch off	hand	onion	cutting board,knife
+5753	5940	wash	hand	knife	
+5940	5956	shake	hand	knife	
+6065	6133	throw in garbage	bowl	peel	

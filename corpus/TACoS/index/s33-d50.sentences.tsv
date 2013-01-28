@@ -1,0 +1,119 @@
+s33-d50_1_1	person gets egg	s33-d50	205	483	egg	477
+s33-d50_1_2	person gets 2 small cups	s33-d50	495	676	egg	702
+s33-d50_1_3	person gets small spoon	s33-d50	721	1063	egg	1053
+s33-d50_1_4	person gently taps top of the egg to crack the top only	s33-d50	1083	1194	egg	1200
+s33-d50_1_5	person removes the top of the egg with fingers	s33-d50	1243	1722	egg	1757
+s33-d50_1_6	person pours out egg white only into small cup	s33-d50	1739	2855	egg	2894
+s33-d50_2_1	She gets out an egg and two glasses.	s33-d50	205	927	egg	863
+s33-d50_2_2	She lightly cracks the egg.	s33-d50	934	1427	egg	1381
+s33-d50_2_3	She removes a small section of the shell.	s33-d50	1464	1722	egg	1923
+s33-d50_2_4	She pours the whites into one glass.	s33-d50	2879	3133	egg	3059
+s33-d50_2_5	She removes a bit more of the shell and pours the yolk into the other glass.	s33-d50	3140	3295	egg	3351
+s33-d50_3_1	The person chooses the egg to be separated.	s33-d50	205	676	egg	675
+s33-d50_3_2	The person grabs two small dishes to hold each part of the egg.	s33-d50	721	927	egg	899
+s33-d50_3_3	The person places the egg in an egg holder.	934	1194
+s33-d50_3_4	The person grabs a small spoon.	934	1194
+s33-d50_3_5	The person taps gently on top of the egg with the spoon.	s33-d50	1243	1427	egg	1475
+s33-d50_3_6	The person grabs a dish for the egg shell waste.	1464	1722
+s33-d50_3_7	The person picks at the crack from the spoon to make a small hole in the shell.	1464	1722
+s33-d50_3_8	The person carefully empties out the egg white from the egg.	s33-d50	1739	3133	egg	3059
+s33-d50_3_9	The person enlarges the hole in the egg.	s33-d50	3140	3295	egg	3319
+s33-d50_3_10	The person empties out the egg yolk into the other dish.	s33-d50	3320	3422	egg	3435
+s33-d50_5_1	Take the egg out of the refrigerator.	s33-d50	205	676	egg	697
+s33-d50_5_2	Take out an egg holder and two cups.	s33-d50	721	1194	egg	1159
+s33-d50_5_3	Place the egg in the egg holder and gently tap the top with a metal spoon.	s33-d50	1243	1427	egg	1391
+s33-d50_5_4	Break off a small piece of the shell to form a hole at the top of the egg.	s33-d50	1464	1722	egg	1981
+s33-d50_5_5	Pour the egg white into one of the cups, being careful to not break the yolk inside.	s33-d50	1739	3133	egg	3097
+s33-d50_5_6	Break off a larger section of the shell and pour it into the second cup.	s33-d50	3320	3422	egg	3387
+s33-d50_6_1	She grabs an egg.	s33-d50	205	676	egg	619
+s33-d50_6_2	She gets two cups.	s33-d50	721	927	egg	849
+s33-d50_6_3	She makes a small hole in the top on the egg.	s33-d50	934	1722	egg	1941
+s33-d50_6_4	She pours the whites into one cup.	s33-d50	1739	3133	egg	3067
+s33-d50_6_5	She make the egg hole bigger and puts the yolk in the other cup.	s33-d50	3140	3422	egg	3431
+s33-d50_7_1	She gets an egg.	s33-d50	205	676	egg	651
+s33-d50_7_2	She gets two cups.	s33-d50	721	927	egg	859
+s33-d50_7_3	She cracks the top of the egg with a spoon and gets a plate.	934	1722
+s33-d50_7_4	She removes bits of shell until there is a small hole.	934	1722
+s33-d50_7_5	She pours the whites into one cup through that hole.	s33-d50	1739	3133	egg	3073
+s33-d50_7_6	She makes the hole bigger and puts the yolk in the other cup.	s33-d50	3140	3422	egg	3395
+s33-d50_8_1	The person takes an egg out of the fridge.	s33-d50	205	676	egg	665
+s33-d50_8_2	The person takes two cups out and puts them on the counter.	s33-d50	721	927	egg	865
+s33-d50_8_3	The person takes out an egg cup and puts the egg in it.	934	1194
+s33-d50_8_4	The person takes out a small spoon.	934	1194
+s33-d50_8_5	The person taps on the top of the egg with the spoon to crack it.	s33-d50	1243	1427	egg	1405
+s33-d50_8_6	The person takes out a small plate and places it on the counter.	1464	1722
+s33-d50_8_7	The person peels away the shell at the top of the egg.	1464	1722
+s33-d50_8_8	The person pours the egg whites into one of the cups.	s33-d50	1739	3133	egg	3067
+s33-d50_8_9	The person peels more of the shell away.	s33-d50	3140	3295	egg	3321
+s33-d50_8_10	The person pours the egg yolk into the second cup.	s33-d50	3140	3422	egg	3639
+s33-d50_9_1	The person retreives the egg.	s33-d50	205	676	egg	659
+s33-d50_9_2	The person retrieves two bowls and an egg holder.	s33-d50	721	1063	egg	1103
+s33-d50_9_3	The person retrieves another plate.	s33-d50	1083	1427	egg	1529
+s33-d50_9_4	The person cracks the egg.	s33-d50	1464	1722	egg	1981
+s33-d50_9_5	The person completely drains the egg white.	s33-d50	1739	3133	egg	3061
+s33-d50_9_6	The person opens the hole futher to allow the egg yolk to slide through, then drains the egg yolk.	s33-d50	3140	3295	egg	3345
+s33-d50_10_1	The person gets out an egg.	s33-d50	205	676	egg	671
+s33-d50_10_2	The person gets out two cups.	s33-d50	721	927	egg	857
+s33-d50_10_3	The person gets out an egg cup.	s33-d50	934	1063	egg	1105
+s33-d50_10_4	The person puts the egg in the egg cup.	1083	1194
+s33-d50_10_5	The person gets out a spoon.	1083	1194
+s33-d50_10_6	The person gets out a plate.	1243	1722
+s33-d50_10_7	The person tears a small hole at the top of the egg.	1243	1722
+s33-d50_10_8	The person pours the white into one cup.	s33-d50	1739	3133	egg	3059
+s33-d50_10_9	The person widens the hole.	s33-d50	3140	3295	egg	3323
+s33-d50_10_10	The person pours the yolk into the other cup.	s33-d50	3320	3422	egg	3431
+s33-d50_11_1	takes egg out	s33-d50	205	676	egg	683
+s33-d50_11_2	brings out 2 cups and a hard boiled egg stand	s33-d50	721	1063	egg	1111
+s33-d50_11_3	takes plate out	s33-d50	1083	1722	egg	1791
+s33-d50_11_4	pours egg into cup	s33-d50	1739	2855	egg	3003
+s33-d50_11_5	pours egg into 2nd cup	s33-d50	1739	3179	egg	3223
+s33-d50_12_1	She took out an egg	s33-d50	205	483	egg	488
+s33-d50_12_2	She took out two cups	s33-d50	495	676	egg	637
+s33-d50_12_3	She took out a spoon	s33-d50	721	1063	egg	1060
+s33-d50_12_4	She took out a plate	s33-d50	1083	1427	egg	1389
+s33-d50_12_5	She put hole in egg	s33-d50	1464	1722	egg	1807
+s33-d50_12_6	She drained egg	s33-d50	3206	3253	egg	3238
+s33-d50_13_1	She gathers an egg, two small bowls, and an egg stand.	s33-d50	205	1427	egg	1341
+s33-d50_13_2	She breaks a small hole in the top of the egg.	1464	1722
+s33-d50_13_3	She enlarges the hole with her fingers.	1464	1722
+s33-d50_13_4	She pours the egg-white out of the egg and into one of the small bowls.	s33-d50	1739	3133	egg	3091
+s33-d50_13_5	She further enlarges the hole with her fingers.	3320	3422
+s33-d50_13_6	She dumps the yolk into the second small bowl. The egg is separated.	3320	3422
+s33-d50_14_1	The person gets out an egg.	s33-d50	205	483	egg	501
+s33-d50_14_2	The person gets out two cups.	s33-d50	495	676	egg	685
+s33-d50_14_3	The person gets out an egg cup.	s33-d50	721	927	egg	930
+s33-d50_14_4	The person puts the egg in the egg cup.	s33-d50	934	959	egg	963
+s33-d50_14_5	The person gets out a spoon.	s33-d50	978	1063	egg	1062
+s33-d50_14_6	The person taps on the top of the egg with the spoon.	s33-d50	1083	1194	egg	1195
+s33-d50_14_7	The person gets out a small plate.	s33-d50	1243	1427	egg	1433
+s33-d50_14_8	The person peels a small hole in the top of the egg.	s33-d50	1464	1722	egg	1749
+s33-d50_14_9	The person pours the white into one cup.	s33-d50	1739	2855	egg	2874
+s33-d50_14_10	The person widens the hole.	s33-d50	1739	3133	egg	3140
+s33-d50_14_11	The person pours the yolk into the other cup.	s33-d50	3140	3179	egg	3181
+s33-d50_16_1	Removed an egg from the refrigerator.	s33-d50	205	483	egg	459
+s33-d50_16_2	Removed two cups to separate the egg into.	s33-d50	495	676	egg	691
+s33-d50_16_3	Got an eggcup to hold the egg.	s33-d50	721	927	egg	928
+s33-d50_16_4	Got a spoon and tapped the egg on top to break the shell.	s33-d50	934	1194	egg	1203
+s33-d50_16_5	Prepared a plate to catch the eggshell pieces.	s33-d50	1243	1427	egg	1442
+s33-d50_16_6	Held the egg over the plate and peeled a small hole in the top of the egg.	s33-d50	1464	1722	egg	1737
+s33-d50_16_7	Poured the egg white from the shell into a cup.	s33-d50	1739	2855	egg	2873
+s33-d50_16_8	Held the egg over the plate and peeled a larger hole in the egg shell and poured the egg yolk into a cup.	s33-d50	2879	3179	egg	3178
+s33-d50_16_9	Placed the empty shell on the plate and arranged the cups.	s33-d50	2879	3295	egg	3324
+s33-d50_17_1	The person takes an egg out of the refrigerator	s33-d50	205	483	egg	487
+s33-d50_17_2	The person takes two cups from the cabinet and puts them on the table.	s33-d50	495	676	egg	685
+s33-d50_17_3	The person takes an egg cup from the cabinet and puts it on the table with the egg in it.	s33-d50	721	959	egg	970
+s33-d50_17_4	The person takes a spoon from the drawer.	s33-d50	978	1063	egg	1094
+s33-d50_17_5	The person taps the egg several times with the spoon.	s33-d50	1083	1194	egg	1204
+s33-d50_17_6	The person puts a plate on the table.	s33-d50	1243	1427	egg	1438
+s33-d50_17_7	The person makes a snall hole in the top of the eggshell with her fingers.	s33-d50	1464	1722	egg	1744
+s33-d50_17_8	The person pours the egg white into one cup.	s33-d50	1739	2855	egg	2892
+s33-d50_17_9	The person peels off more of the eggshell around the hole.	s33-d50	2879	3133	egg	3145
+s33-d50_17_10	The person pours the yolk into the other cup.	s33-d50	3140	3179	egg	3223
+s33-d50_17_11	The person moves both cups to the center of the table.	s33-d50	3320	3422	egg	3430
+s33-d50_19_1	She took out egg	s33-d50	205	676	egg	671
+s33-d50_19_2	She took out two cups	s33-d50	721	758	egg	825
+s33-d50_19_3	She took out spoon	s33-d50	765	1194	egg	1251
+s33-d50_19_4	She took out plate	1243	1722
+s33-d50_19_5	She made hole in egg	1243	1722
+s33-d50_19_6	She drained yolk from egg	s33-d50	1739	2855	egg	2581
+s33-d50_19_7	She put rest of egg in other cup	s33-d50	3206	3295	egg	3367

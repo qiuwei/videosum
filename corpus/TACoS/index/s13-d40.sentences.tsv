@@ -1,0 +1,105 @@
+s13-d40_1_1	The person gets out a juicer.	s13-d40	240	360	lime	377
+s13-d40_1_2	The person gets out a plate.	s13-d40	360	795	lime	712
+s13-d40_1_3	The person gets out a lime and puts it on the plate.	s13-d40	798	1239	lime	1218
+s13-d40_1_4	The person gets out a knife.	s13-d40	1239	1520	lime	1487
+s13-d40_1_5	The person cuts the lime in half.	s13-d40	1520	1621	lime	1640
+s13-d40_1_6	The person puts half of the lime on the juicer, pushes down  and twists repeatedly.	s13-d40	1704	2321	lime	2323
+s13-d40_1_7	The person puts the other half of the lime on the juicer, pushes down  and twists repeatedly.	s13-d40	2381	2862	lime	2914
+s13-d40_2_1	A man enters the kitchen, removes a juice press and knife from the drawer, a plate from the cupboard, a lime from the refrigerator and places them all on the counter.	s13-d40	240	1520	lime	1526
+s13-d40_2_2	He cuts the lime in two.	s13-d40	1520	1621	lime	1676
+s13-d40_2_3	He squeezes one half of the lime using the juice press.	s13-d40	1704	2321	lime	2362
+s13-d40_2_4	He squeezes the other half of the lime using the juice press.	s13-d40	2381	2862	lime	2946
+s13-d40_2_5	He checks the juice he rendered in the juice press.	s13-d40	2957	3281	lime	3344
+s13-d40_3_1	The person gets out a juicer.	s13-d40	240	411	lime	420
+s13-d40_3_2	The person gets out a plate.	s13-d40	459	795	lime	802
+s13-d40_3_3	The person gets out a lime.	s13-d40	798	1239	lime	1246
+s13-d40_3_4	The person gets out a knife.	s13-d40	1239	1520	lime	1472
+s13-d40_3_5	The person cuts the lime in half.	s13-d40	1520	1621	lime	1624
+s13-d40_3_6	The person juices the lime.	s13-d40	1704	2862	lime	2968
+s13-d40_4_1	The person gets out a juicer.	s13-d40	240	360	lime	368
+s13-d40_4_2	The person gets out a plate.	s13-d40	360	795	lime	804
+s13-d40_4_3	The person gets out a lime.	s13-d40	798	1239	lime	1238
+s13-d40_4_4	The person gets out a knife.	s13-d40	1239	1520	lime	1492
+s13-d40_4_5	The person cuts the lime in half.	s13-d40	1520	1621	lime	1634
+s13-d40_4_6	The person juices the lime.	s13-d40	1704	2862	lime	2940
+s13-d40_6_1	The man takes out a juicing utensil and places it on the counter.	s13-d40	240	411	lime	452
+s13-d40_6_2	The man also takes out a plate and a lime.	s13-d40	459	1147	lime	1118
+s13-d40_6_3	He places the lime and plate on the counter and takes out a knife.	s13-d40	1147	1520	lime	1524
+s13-d40_6_4	He cuts the lime in half and picks up one piece.	s13-d40	1520	1621	lime	1668
+s13-d40_6_5	He uses the juicing utensil to juice the halve of lime.	s13-d40	1704	2321	lime	2334
+s13-d40_6_6	Next, he takes the remaining halve and juices the lime.	s13-d40	2381	2862	lime	2860
+s13-d40_7_1	The person gets juicer from cabinet and sets on counter.	s13-d40	240	360	lime	354
+s13-d40_7_2	The person gets out plate from cabinet.	s13-d40	360	795	lime	788
+s13-d40_7_3	The person gets lime from refrigerator.	s13-d40	798	1308	lime	1296
+s13-d40_7_4	The person gets knife from kitchen door.	s13-d40	1320	1520	lime	1502
+s13-d40_7_5	The person cuts lime in half and juices each side.	s13-d40	2957	3023	lime	3080
+s13-d40_8_1	The man took a juicer out of the drawer.	s13-d40	240	360	lime	354
+s13-d40_8_2	The man took a lime out of the fridge.	s13-d40	360	1147	lime	1144
+s13-d40_8_3	The man took a knife out of the drawer.	s13-d40	1147	1520	lime	1482
+s13-d40_8_4	The man cut the lime in half.	s13-d40	1520	1621	lime	1646
+s13-d40_8_5	The man twisted the lime on the juicer.	s13-d40	1704	2321	lime	2338
+s13-d40_8_6	The man twisted the other half of the lime on the juicer.	s13-d40	2381	2862	lime	2924
+s13-d40_9_1	The man places a juicer on the counter.	s13-d40	240	411	lime	422
+s13-d40_9_2	He takes out a plate from the cupboard.	s13-d40	459	795	lime	814
+s13-d40_9_3	He takes a lime out of the refrigerator and puts it on the plate.	s13-d40	798	1147	lime	1174
+s13-d40_9_4	Next, the man takes out a small knife.	s13-d40	1147	1520	lime	1486
+s13-d40_9_5	He cuts the lime in half.	s13-d40	1520	1621	lime	1656
+s13-d40_9_6	Taking one half of the lime, he twists it back and forth on the juicer until all the liquid is obtained.	s13-d40	1704	2321	lime	2350
+s13-d40_9_7	He repeats this process with the other half.	s13-d40	2381	2862	lime	2926
+s13-d40_9_8	He opens the juicer to check the amount of liquid collected, closes it, and sets it aside.	s13-d40	3023	3158	lime	3108
+s13-d40_10_1	The man begins by retrieving a juicer and placing it on the counter.	s13-d40	240	411	lime	438
+s13-d40_10_2	Next, he selects one lime from the fridge and places it on a small white plate.	s13-d40	459	1147	lime	1162
+s13-d40_10_3	He then uses a knife to cut the lime in half.	s13-d40	1147	1621	lime	1718
+s13-d40_10_4	He juices the first half of the lime.	s13-d40	1704	2321	lime	2354
+s13-d40_10_5	He juices the second half of the lime.	s13-d40	2381	2862	lime	2960
+s13-d40_11_1	The man begins by selecting a white juicer.	s13-d40	240	411	lime	466
+s13-d40_11_2	He then selects a small white plate from the cupboard.	s13-d40	459	945	lime	894
+s13-d40_11_3	Next, he takes 1 lime from the fridge and places it on the white plate.	s13-d40	945	1239	lime	1264
+s13-d40_11_4	He takes out a knife and cuts the lime in half.	s13-d40	1239	1621	lime	1672
+s13-d40_11_5	He then juices both halves of the lime.	s13-d40	2957	3023	lime	3080
+s13-d40_12_1	He took out juicer	s13-d40	240	360	lime	369
+s13-d40_12_2	He took out plate	s13-d40	360	795	lime	811
+s13-d40_12_3	He took out lime	s13-d40	798	1239	lime	1250
+s13-d40_12_4	He took out knife	s13-d40	1239	1520	lime	1499
+s13-d40_12_5	He cut lime in half	s13-d40	1520	1621	lime	1644
+s13-d40_12_6	He twisted lime on juicer	s13-d40	1704	2862	lime	2952
+s13-d40_13_1	The person places a hand citrus juicer and a plate containing a single lime on the counter.	s13-d40	240	1308	lime	1318
+s13-d40_13_2	The person cuts the lime in half laterally with a paring knife.	s13-d40	1320	1621	lime	1622
+s13-d40_13_3	The person extracts the juice from the first half of the lime using the hand juicer.	1704	2321
+s13-d40_13_4	The person replaces the juiced lime half on the plate.	1704	2321
+s13-d40_13_5	The person extracts the juice from the second half of the lime using the hand juicer.	2381	2862
+s13-d40_13_6	The person replaces the second juiced lime half on the plate.	2381	2862
+s13-d40_15_1	The man gets a hand juicer and places it on the kitchen counter.	s13-d40	240	360	lime	311
+s13-d40_15_2	The man gets a plate out of the cabinet.	s13-d40	360	795	lime	776
+s13-d40_15_3	The man gets a chilled lime out of the refridgerator.	s13-d40	798	1065	lime	1091
+s13-d40_15_4	The man carries the plate with the lime over to the counter.	s13-d40	1070	1308	lime	1317
+s13-d40_15_5	The man gets a sharp knife out of the cutlery drawer.	s13-d40	1320	1520	lime	1493
+s13-d40_15_6	The man carefully slices the lime in half.	1520	1621
+s13-d40_15_7	The man places half the lime on top of the hand juicer, peel side in hand.	1520	1621
+s13-d40_15_8	The man presses down firmly while twisting on the lime to express the juice from the fruit.	1520	1621
+s13-d40_15_9	The man switches the expressed half with the other half of the lime and repeats the twisting action.	s13-d40	1704	2321	lime	2378
+s13-d40_15_10	The man puts down the second half of the lime when he is unable to express any more juice from the fruit.	s13-d40	2381	2862	lime	2927
+s13-d40_16_1	The man enters the room and immediately removes a juicer from the drawer.	s13-d40	240	411	lime	420
+s13-d40_16_2	The man retrieves a plate from the cabinet and a lime from the refrigerator.	s13-d40	459	1308	lime	1314
+s13-d40_16_3	The man gets a knife from the drawer and slices the lime in half.	s13-d40	1320	1621	lime	1659
+s13-d40_16_4	The man places one half of the lime on the juicer bowl and twirls it to drain the juice.	s13-d40	1704	2321	lime	2357
+s13-d40_16_5	The man places the other half of the lime on the juicer bowl and drains the lime of its juice.	s13-d40	2381	2862	lime	2927
+s13-d40_16_6	The man slides the plate on the counter.	s13-d40	3207	3281	lime	3345
+s13-d40_17_1	The person gets out a juicer.	s13-d40	240	360	lime	364
+s13-d40_17_2	The person gets out a plate.	s13-d40	360	795	lime	806
+s13-d40_17_3	The person gets out a lime.	s13-d40	798	1239	lime	1239
+s13-d40_17_4	The person gets out a knife.	s13-d40	1239	1520	lime	1490
+s13-d40_17_5	The person cuts the lime in half.	s13-d40	1520	1621	lime	1630
+s13-d40_17_6	The person juices the lime.	s13-d40	1704	2862	lime	2975
+s13-d40_18_1	The person gets out a juicer.	s13-d40	240	360	lime	366
+s13-d40_18_2	The person gets out a plate.	s13-d40	360	795	lime	794
+s13-d40_18_3	The person gets out a lime.	s13-d40	798	1239	lime	1234
+s13-d40_18_4	The person gets out a knife.	s13-d40	1239	1520	lime	1478
+s13-d40_18_5	The person cuts the lime in half.	s13-d40	1520	1621	lime	1622
+s13-d40_18_6	The person juices the lime.	s13-d40	1704	2862	lime	2948
+s13-d40_19_1	He took out juicer	s13-d40	240	411	lime	410
+s13-d40_19_2	He took out plate	s13-d40	459	795	lime	836
+s13-d40_19_3	He took out lime	s13-d40	798	1147	lime	1144
+s13-d40_19_4	He took out knife	s13-d40	1147	1520	lime	1490
+s13-d40_19_5	He cut lime in half	s13-d40	1520	1621	lime	1684
+s13-d40_19_6	He twisted lime on juicer	s13-d40	1704	2862	lime	2966

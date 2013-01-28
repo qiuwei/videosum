@@ -1,0 +1,38 @@
+276	737	take out	hand	paper box	counter,fridge
+797	1067	take out	hand	plate	,cupboard
+1138	1226	wash	hand	plate	
+1254	1332	shake	hand	plate	
+1349	1381	move	hand	fig	paper box,plate
+1415	1757	wash	hand	fig	plate
+1808	1929	shake	hand	fig,plate	
+1929	2021	move	hand	plate	,counter
+2039	2275	put in	hand	paper box	counter,fridge
+2329	2475	take out	hand	knife	,drawer
+2475	2577	put in	hand	knife	,drawer
+2577	2669	take out	hand	knife	,drawer
+2696	2931	take out	hand	cutting board	counter,drawer
+2974	3022	wash	hand	knife	
+3022	3096	shake	hand	knife	
+3121	3149	move	hand	fig	cutting board,plate
+3166	3365	cut	knife	fig	cutting board
+3438	3666	slice	knife	fig	cutting board
+3675	3741	move	hand	fig	cutting board,plate
+3750	3813	move	hand	fig	cutting board,plate
+3838	3948	slice	knife	fig	cutting board
+3948	4031	move	hand	fig	cutting board,plate
+4058	4149	slice	knife	fig	cutting board
+4155	4217	move	hand	fig	cutting board,plate
+4242	4346	slice	knife	fig	cutting board
+4351	4413	move	hand	fig	cutting board,plate
+4476	4537	slice	knife	fig	cutting board
+4560	4611	move	hand	fig	cutting board,plate
+4646	5411	arrange	hand	fig	plate
+5421	5445	move	hand	plate	counter
+5542	5641	throw in garbage	hand	fig	
+5641	5733	throw in garbage	cutting board,knife	garbage	
+5808	5988	wash	hand	cutting board,knife	
+6022	6116	shake	hand	cutting board,knife	
+6126	6256	put in	hand	knife	,drawer
+6283	6418	put in	hand	cutting board	,drawer
+6460	6534	wash	hand	hand	
+6586	6713	dry	towel	hand	

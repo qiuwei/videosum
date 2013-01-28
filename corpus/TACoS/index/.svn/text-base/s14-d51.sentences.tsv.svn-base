@@ -1,0 +1,144 @@
+s14-d51_1_1	She took out beans	s14-d51	238	550	beans	503
+s14-d51_1_2	She took out knives	s14-d51	565	793	beans	776
+s14-d51_1_3	She took out container	s14-d51	804	966	beans	970
+s14-d51_1_4	She took out cutting board	s14-d51	978	1155	beans	1159
+s14-d51_1_5	She put unused beans back	s14-d51	1167	1841	beans	1841
+s14-d51_1_6	She took out bowl	s14-d51	1855	2014	beans	2018
+s14-d51_1_7	She washed beans	s14-d51	2078	2518	beans	2509
+s14-d51_1_8	She cut off tips of beans	s14-d51	2679	4458	beans	4497
+s14-d51_1_9	She diced the beans	s14-d51	4693	7166	beans	7178
+s14-d51_1_10	She washed the supplies	s14-d51	7221	8217	beans	8266
+s14-d51_2_1	The person gets out a box of beans.	s14-d51	238	550	beans	550
+s14-d51_2_2	The person gets out two knives.	s14-d51	565	793	beans	780
+s14-d51_2_3	The person gets out a Tupperware container.	s14-d51	804	966	beans	970
+s14-d51_2_4	The person gets out a wooden plate.	s14-d51	978	1155	beans	1150
+s14-d51_2_5	The person takes a few beans out of the box and puts the rest back in the refrigerator.	s14-d51	1167	1841	beans	1840
+s14-d51_2_6	The person gets out a bowl.	s14-d51	1855	2014	beans	2046
+s14-d51_2_7	The person rinses the beans.	s14-d51	2078	2518	beans	2564
+s14-d51_2_8	The person trims the beans and puts the trash in the Tupperware container.	s14-d51	2679	4458	beans	4514
+s14-d51_2_9	The person cuts up the beans and puts them in the bowl.	s14-d51	4693	7166	beans	7190
+s14-d51_2_10	The person throws away the trash.	s14-d51	7221	7670	beans	7696
+s14-d51_2_11	The person rinses the dishes.	s14-d51	7698	8217	beans	8258
+s14-d51_4_1	The person places a package of fresh broad beans on the counter.	s14-d51	238	550	beans	556
+s14-d51_4_2	The person selects two knives from the drawer.	s14-d51	565	793	beans	788
+s14-d51_4_3	The person places a bowl and cutting board on the counter.	s14-d51	804	1155	beans	1152
+s14-d51_4_4	The person selects five broad beans from the package.	s14-d51	1167	1612	beans	1624
+s14-d51_4_5	The person puts the package away.	s14-d51	1622	1841	beans	1868
+s14-d51_4_6	The person puts a small bowl on the counter.	s14-d51	1855	2014	beans	2032
+s14-d51_4_7	The person rinses the broad beans with water.	s14-d51	2078	2518	beans	2576
+s14-d51_4_8	The person trims the ends off of each broad bean.	s14-d51	2679	4458	beans	4500
+s14-d51_4_9	The person cuts each broad bean into small pieces.	s14-d51	4693	7166	beans	7182
+s14-d51_4_10	The person throws away the discarded broad bean tips.	s14-d51	7221	7670	beans	7702
+s14-d51_4_11	The person rinses her utensils.	s14-d51	7698	7969	beans	8036
+s14-d51_4_12	The person washes the cutting board.	8021	8217
+s14-d51_4_13	The video ends.	8021	8217
+s14-d51_5_1	The person gets out a bag of beans.	s14-d51	238	550	beans	560
+s14-d51_5_2	The person gets out two knives.	s14-d51	565	793	beans	794
+s14-d51_5_3	The person gets out a Tupperware container.	s14-d51	804	966	beans	984
+s14-d51_5_4	The person gets out a wooden plate.	s14-d51	978	1155	beans	1134
+s14-d51_5_5	The person takes some beans out of the bag and puts the rest back in the fridge.	s14-d51	1167	1841	beans	1838
+s14-d51_5_6	The person gets out a bowl.	s14-d51	1855	2014	beans	2016
+s14-d51_5_7	The person rinses the beans.	s14-d51	2078	2518	beans	2550
+s14-d51_5_8	The person cuts the tips off the beans and puts then in the Tupperware container.	s14-d51	2679	4458	beans	4500
+s14-d51_5_9	The person cuts up the beans and puts them in the bowl.	s14-d51	4693	7127	beans	7140
+s14-d51_5_10	The person throws away the tips of the beans.	s14-d51	7127	7670	beans	7706
+s14-d51_5_11	The person rinses the dishes.	s14-d51	7698	8217	beans	8320
+s14-d51_6_1	She gets some beans from the fridge.	s14-d51	238	550	beans	550
+s14-d51_6_2	She gets two knives, a cutting boards and a bowl.	s14-d51	565	1155	beans	1140
+s14-d51_6_3	She removes several beans from the package and puts the rest away.	s14-d51	1167	1841	beans	1806
+s14-d51_6_4	She rinses the beans.	s14-d51	1855	2518	beans	2494
+s14-d51_6_5	She removes the ends from the beans.	s14-d51	2679	4458	beans	4516
+s14-d51_6_6	She chops the beans and puts them in a bowl.	s14-d51	4693	7166	beans	7194
+s14-d51_6_7	She cleans up.	s14-d51	7221	8217	beans	8302
+s14-d51_7_1	She gets a pack of beans.	s14-d51	238	550	beans	560
+s14-d51_7_2	She gets two knives.	s14-d51	565	793	beans	784
+s14-d51_7_3	She gets a cutting board and a tray.	s14-d51	804	1249	beans	1226
+s14-d51_7_4	She puts some beans on the board and puts the rest away.	s14-d51	1249	1841	beans	1828
+s14-d51_7_5	She rinses the beans.	s14-d51	1855	2427	beans	2458
+s14-d51_7_6	She removes the ends of the beans.	s14-d51	2427	4458	beans	4486
+s14-d51_7_7	She chops the beans and puts them in a bowl.	s14-d51	4693	7166	beans	7182
+s14-d51_7_8	She cleans up.	s14-d51	7221	8217	beans	8320
+s14-d51_8_1	She took out beans	s14-d51	238	550	beans	512
+s14-d51_8_2	She took out knife	s14-d51	565	645	beans	656
+s14-d51_8_3	She took out second knife	s14-d51	652	756	beans	756
+s14-d51_8_4	She took out container	s14-d51	756	966	beans	980
+s14-d51_8_5	She took out cutting board	s14-d51	978	1155	beans	1178
+s14-d51_8_6	She put unused beans back	s14-d51	1167	1841	beans	1850
+s14-d51_8_7	She took out bowl	s14-d51	1855	2014	beans	2014
+s14-d51_8_8	She washed beans	s14-d51	2078	2427	beans	2450
+s14-d51_8_9	She chopped off ends of beans	s14-d51	2427	4458	beans	4508
+s14-d51_8_10	She diced beans	s14-d51	4693	7127	beans	7116
+s14-d51_9_1	She took out beans	s14-d51	238	645	beans	700
+s14-d51_9_2	She took out knife	s14-d51	652	793	beans	794
+s14-d51_9_3	She took out container	s14-d51	804	966	beans	974
+s14-d51_9_4	She took out cutting board	s14-d51	978	1155	beans	1166
+s14-d51_9_5	She put back extra beans	s14-d51	1167	1841	beans	1856
+s14-d51_9_6	She took out bowl	s14-d51	1855	2014	beans	2006
+s14-d51_9_7	She washed beans	s14-d51	2078	2518	beans	2532
+s14-d51_9_8	She cut off ends of beans	s14-d51	2679	4458	beans	4538
+s14-d51_9_9	She sliced beans	s14-d51	4693	7127	beans	7136
+s14-d51_10_1	The person gets a package of beans out of the fridge.	s14-d51	238	550	beans	560
+s14-d51_10_2	The person selects two knives, a bowl and a cutting board.	s14-d51	565	1155	beans	1162
+s14-d51_10_3	The person takes out a few beans and puts the rest back in the fridge.	s14-d51	1167	1841	beans	1896
+s14-d51_10_4	The person gets out another small bowl.	s14-d51	1855	2014	beans	2020
+s14-d51_10_5	The person rinses off the beans in the sink.	s14-d51	2078	2518	beans	2574
+s14-d51_10_6	The person uses the small knife to cut off the tips of each bean and take the string out of the back of them as well.	s14-d51	2679	4458	beans	4512
+s14-d51_10_7	The person slices each bean diagonally into quarter inch pieces and places them into the small bowl.	s14-d51	7127	7166	beans	7208
+s14-d51_10_8	The person throws away the bean tips and strings.	s14-d51	7221	7670	beans	7700
+s14-d51_10_9	The person rinses out the clear bowl, rinses off the knives and the cutting board.	s14-d51	7698	8217	beans	8254
+s14-d51_11_1	She gets out the needed items.	s14-d51	238	1155	beans	1154
+s14-d51_11_2	She puts some beans on the cutting board and puts the rest away.	s14-d51	1167	1841	beans	1828
+s14-d51_11_3	She rinses the beans.	s14-d51	1855	2518	beans	2494
+s14-d51_11_4	She removes the ends of the beans.	s14-d51	2679	4458	beans	4538
+s14-d51_11_5	She chops the beans and puts them in a bowl.	s14-d51	7127	7166	beans	7176
+s14-d51_11_6	She cleans up.	s14-d51	7221	8217	beans	8276
+s14-d51_12_1	Remove beans from refrigerator	s14-d51	238	550	beans	498
+s14-d51_12_2	Get a knife	s14-d51	565	756	beans	765
+s14-d51_12_3	Get a bowl	s14-d51	756	966	beans	988
+s14-d51_12_4	Get a cutting board	s14-d51	978	1155	beans	1154
+s14-d51_12_5	Remove beans from package	s14-d51	1167	1612	beans	1695
+s14-d51_12_6	Wash beans thoroughly	s14-d51	1622	2427	beans	2451
+s14-d51_12_7	Cut ends off beans	s14-d51	2427	4458	beans	4483
+s14-d51_12_8	Slice beans diagonally	s14-d51	4693	7127	beans	7146
+s14-d51_12_9	Throw away bean tips	s14-d51	4693	7670	beans	7677
+s14-d51_12_10	Wash bowl, knife and cutting board	s14-d51	7698	8217	beans	8217
+s14-d51_14_1	The person gets out a package of beans.	s14-d51	238	550	beans	548
+s14-d51_14_2	The person gets out two knives.	s14-d51	565	793	beans	785
+s14-d51_14_3	The person gets out a Tupperware container.	s14-d51	804	966	beans	961
+s14-d51_14_4	The person gets out a wooden plate.	s14-d51	978	1155	beans	1124
+s14-d51_14_5	The person pulls some beans out of the package and puts the rest of the beans away.	s14-d51	1167	1841	beans	1874
+s14-d51_14_6	The person gets out a bowl.	s14-d51	1855	2014	beans	2017
+s14-d51_14_7	The person rinses the beans.	s14-d51	2078	2518	beans	2520
+s14-d51_14_8	The person cuts off the tips of the beans and puts them in the Tupperware container.	s14-d51	2679	4458	beans	4515
+s14-d51_14_9	The person cuts up the beans and puts the pieces in the bowl.	s14-d51	4693	7166	beans	7247
+s14-d51_14_10	The person throws away the tips of the beans.	s14-d51	7221	7670	beans	7692
+s14-d51_14_11	The person rinses the dishes.	s14-d51	7698	8217	beans	8278
+s14-d51_15_1	The person throws away the ends of the beans.	7127	7670
+s14-d51_15_2	The person cuts up each bean into small pieces and puts them into the mixing bowl.	7127	7670
+s14-d51_15_3	The person removes both ends of each bean and puts the ends in the plastic container.	7127	7670
+s14-d51_15_4	The person washes the beans.	7127	7670
+s14-d51_15_5	The person gets out the beans, a knife, a cutting board, a plastic container, and a mixing bowl.	7127	7670
+s14-d51_15_6	The person washes the dishes.	s14-d51	7698	8217	beans	8238
+s14-d51_16_1	She just got out the beans.	s14-d51	238	550	beans	565
+s14-d51_16_2	She just got out the required equipment.	s14-d51	565	1155	beans	1151
+s14-d51_16_3	She placed the beans on the cutting board.	s14-d51	1167	1612	beans	1598
+s14-d51_16_4	She washed the beans.	s14-d51	1622	2427	beans	2445
+s14-d51_16_5	She just finished trimming off the inedible parts of the beans.	s14-d51	2427	4458	beans	4496
+s14-d51_16_6	She just finished cutting the beans.	s14-d51	4693	7166	beans	7176
+s14-d51_16_7	She just finished cleaning up.	s14-d51	7221	8217	beans	8271
+s14-d51_17_1	The person gets the peas from the refrigerator.	s14-d51	238	550	beans	440
+s14-d51_17_2	The person gets out knives, a bowl and a cutting board.	s14-d51	565	1155	beans	1170
+s14-d51_17_3	The person removes peas from package.	s14-d51	1167	1525	beans	1561
+s14-d51_17_4	The person puts the peas away.	s14-d51	1526	1841	beans	1813
+s14-d51_17_5	The person gets out another bowl.	s14-d51	1855	2014	beans	2000
+s14-d51_17_6	The person washes the peas.	s14-d51	2078	2518	beans	2513
+s14-d51_17_7	The person cuts the ends off of the peas.	s14-d51	2679	4458	beans	4494
+s14-d51_17_8	The person slices the peas and places them in a bowl.	s14-d51	238	7166	beans	7228
+s14-d51_17_9	The person discards the pea ends.	s14-d51	7221	7670	beans	7668
+s14-d51_17_10	The person rinses off the dishes.	s14-d51	7698	8217	beans	8301
+s14-d51_18_1	The woman pulls out the beans.	s14-d51	238	550	beans	586
+s14-d51_18_2	She takes out the supplies that she needs.	s14-d51	565	1155	beans	1144
+s14-d51_18_3	The woman washes the beans she will use and puts away the excess.	s14-d51	1167	2518	beans	2556
+s14-d51_18_4	The woman removes the tips with the knife.	s14-d51	2679	4458	beans	4506
+s14-d51_18_5	The woman cuts the beans into smaller pieces and places them in the bowl.	s14-d51	4693	7166	beans	7194
+s14-d51_18_6	She then cleans up after preparing the beans.	s14-d51	7221	8217	beans	8320

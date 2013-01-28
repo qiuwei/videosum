@@ -1,0 +1,14 @@
+234	488	take out	hand	potato	counter,cupboard
+517	619	take out	hand	cutting board	counter,drawer
+619	660	close	hand		drawer
+677	821	take out	hand	peeler	drawer
+867	2136	peel	peeler	potato	
+2142	2212	scratch off	hand	peel	cutting board,side peeler
+2215	2266	move	hand	peel	counter,cutting board
+2274	2306	move	hand	peel	counter,cutting board
+2352	2410	wash	hand	potato	
+2459	2511	open	hand		drawer
+2561	2658	throw in garbage	cutting board,peeler	peel	
+2697	2724	shake	hand	potato	
+2794	2876	take out	hand	knife	drawer
+2894	3175	cut	knife	potato	cutting board

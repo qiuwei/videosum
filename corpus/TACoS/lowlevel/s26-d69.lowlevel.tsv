@@ -1,0 +1,78 @@
+160	238	open	hand		drawer
+251	377	take out	hand	pan	drawer,stove
+425	824	take out	hand	egg,plastic box	counter,fridge
+840	973	take out	hand	cutting board	counter,drawer
+980	1135	wash	hand	hand	
+1140	1184	shake	hand	hand	
+1199	1262	dry	towel	hand	
+1286	1374	take out	hand	chef knife	,drawer
+1394	1466	move	hand	flower pot	counter
+1491	1555	move	hand	flower pot	counter
+1663	1795	cut	chef knife	chive	cutting board,flower pot
+1828	1882	move	hand	chive	counter,cutting board
+1894	1974	move	hand	flower pot	counter
+1988	2034	wash	hand	hand	
+2095	2236	wash	hand	chive	
+2298	2363	dry	towel	hand	
+2424	2481	turn on	hand	stove	
+2485	2502	change temperature	hand	stove	
+2528	2683	change temperature	hand	stove	
+2721	2768	remove lid	hand	lid	counter,plastic box
+2787	2886	take out	hand	spatula	,drawer
+2926	3038	take apart	spatula	butter	pan,plastic box
+3062	3095	spread	spatula	butter	pan
+3242	3358	take out	hand	spice shaker	counter,spice holder
+3406	3466	put lid	hand	lid	counter,plastic box
+3468	3494	move	hand	plastic box	counter
+3510	3551	move	hand	cutting board	counter
+3739	3860	change temperature	hand	stove	
+3969	4011	spread	spatula	butter	pan
+4365	4469	take out	hand	spice shaker	counter,spice holder
+4837	4937	spread	spatula	butter	pan
+5819	5940	spread	spatula	butter	pan
+6861	7350	spread	spatula	butter	pan
+7530	7595	change temperature	hand	stove	
+8085	8312	open egg	hand,pan	egg	pan
+8363	8581	open egg	hand,pan	egg	pan
+8666	8732	wash	hand	hand	
+8767	8820	dry	towel	hand	
+8899	9428	stir	spatula	egg	pan
+9499	9556	screw	hand	spice shaker	
+9581	9691	spice	spice shaker	salt	pan
+9694	9718	screw	hand	spice shaker	
+9762	9802	screw	hand	spice shaker	
+9810	9955	spice	spice shaker	spice	pan
+9955	9990	screw	hand	spice shaker	
+10014	10048	screw	hand	spice shaker	
+10057	10138	spice	spice shaker	spice	pan
+10152	10198	screw	hand	spice shaker	
+10247	10313	screw	hand	spice shaker	
+10335	10425	change temperature	hand	stove	
+10520	10957	stir	spatula	egg	pan
+11043	11105	change temperature	hand	stove	
+11156	11254	throw in garbage	hand	egg shell	
+11263	11510	wash	hand	hand	
+11531	11651	dry	towel	hand	
+11732	11976	stir	spatula	egg	pan
+12027	12086	change temperature	hand	stove	
+12163	12738	chop	chef knife	chive	cutting board
+12832	12899	scratch off	hand	chive	chef knife,cutting board
+13044	13533	stir	spatula	egg	pan
+14206	15218	stir	spatula	egg	pan
+15329	15758	take out	hand	plate	counter,cupboard
+15924	16330	wash	hand	plate	
+16419	17193	stir	spatula	egg	pan
+17256	17304	change temperature	hand	stove	
+17311	17392	put in	hand	spice shaker	counter,spice holder
+17472	17629	put in	hand	plastic box	counter,fridge
+17728	18736	stir	spatula	egg	pan
+18768	18811	change temperature	hand	stove	
+19132	19175	move	hand	towel	,hook
+19273	19417	dry	towel	plate	
+19576	19657	hang up	hand	towel	,hook
+19778	19925	stir	spatula	egg	pan
+20015	20216	add	spatula	egg	pan,plate
+20436	20538	add	hand	chive	cutting board,plate
+20543	20688	add	hand	chive	cutting board,plate
+20717	20836	take out	hand	fork	drawer,plate
+20854	20896	move	hand	plate	counter,cutting board

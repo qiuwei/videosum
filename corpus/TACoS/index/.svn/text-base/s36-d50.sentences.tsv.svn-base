@@ -1,0 +1,127 @@
+s36-d50_2_1	Get two bowls, an egg, and a spoon.	s36-d50	186	1084	egg	1136
+s36-d50_2_2	Crack egg carefully with spoon.	s36-d50	1122	2142	egg	2038
+s36-d50_2_3	Make a small hole on the top of the egg.	s36-d50	2142	2274	egg	2328
+s36-d50_2_4	Shake egg white out of shell into the bowl.	s36-d50	2543	3195	egg	3292
+s36-d50_2_5	Crack open the rest of the egg and put the yolk in a separate bowl while the rest of the white in the bowl with the egg whites.	s36-d50	3268	4010	egg	4084
+s36-d50_2_6	Discard the egg shell.	s36-d50	4066	4998	egg	5182
+s36-d50_3_1	He gets out two bowls.	s36-d50	186	358	egg	360
+s36-d50_3_2	He gets an egg and a spoon.	s36-d50	401	1084	egg	1088
+s36-d50_3_3	He lightly cracks the egg.	s36-d50	1122	1747	egg	1726
+s36-d50_3_4	He makes a small hole in the egg.	s36-d50	1747	2274	egg	2344
+s36-d50_3_5	He pours the whites into one dish.	s36-d50	2543	3195	egg	3298
+s36-d50_3_6	He opens the egg more and pours the yolk into the other dish.	s36-d50	3268	4010	egg	4060
+s36-d50_3_7	He cleans up.	s36-d50	4066	4998	egg	5102
+s36-d50_6_1	He takes two bowls from the cupboard.	s36-d50	186	358	egg	360
+s36-d50_6_2	He gets out an egg from the refrigerator.	s36-d50	401	692	egg	720
+s36-d50_6_3	He gets a spoon from the drawer.	s36-d50	724	1084	egg	1116
+s36-d50_6_4	He smacks the shell with the spoon and removes a tiny piece of shell.	s36-d50	1122	1630	egg	1656
+s36-d50_6_5	He uses his fingers and the spoon to make the hole bigger.	s36-d50	1658	2142	egg	2154
+s36-d50_6_6	He shakes the egg to make the insides drip into one of the bowls.	s36-d50	2142	3195	egg	3270
+s36-d50_6_7	He hits the egg and shakes the egg over the other bowl.	s36-d50	3268	3672	egg	3714
+s36-d50_6_8	He shakes the egg to get remaining whites out into the bowl of egg whites.	3723	4010
+s36-d50_6_9	He uses a spoon to remove the egg yolk from the egg into the other bowl.	3723	4010
+s36-d50_6_10	He puts the spoon in the sink and gathers up the egg shells to put them in the trash.	s36-d50	4066	4358	egg	4336
+s36-d50_6_11	He begins washing his hands, throws away a piece of shell he sees in the bowl of egg whites, washes his hands some more, and washes the spoon and puts it away.	s36-d50	4371	4834	egg	4830
+s36-d50_6_12	He brushes off the pieces of egg shell and wets his hands.	s36-d50	4841	4998	egg	5216
+s36-d50_7_1	The person takes a pair of bowls from the cupboard.	s36-d50	186	358	egg	368
+s36-d50_7_2	The person procures an egg from the fridge.	s36-d50	401	692	egg	716
+s36-d50_7_3	The person takes out a spoon from the drawer.	s36-d50	724	1084	egg	1082
+s36-d50_7_4	The person cracks the egg with the spoon and picks a small hole into it with his fingers.	s36-d50	1122	2274	egg	2290
+s36-d50_7_5	The person drains the egg white through the hole in the shell onto a plate.	s36-d50	2543	3195	egg	3188
+s36-d50_7_6	The person breaks the shell open with his fingers and scoops the egg yolk out onto the second plate with the spoon.	s36-d50	3268	4010	egg	4024
+s36-d50_7_7	The person puts the spoon in the sink and throws the shells into the wastebin.	s36-d50	4066	4358	egg	4356
+s36-d50_7_8	The person washes his hands.	s36-d50	4371	4431	egg	4452
+s36-d50_7_9	The person washes the spoon in the sink and returns it to the drawer.	s36-d50	4496	4834	egg	4822
+s36-d50_8_1	He takes out two small bowls.	s36-d50	186	358	egg	364
+s36-d50_8_2	Use a spoon to crack the egg gently, creating a small hole in the shell.	s36-d50	401	2274	egg	2284
+s36-d50_8_3	Pour the egg white out of the small hole created before, into one of the bowls.	s36-d50	2543	3195	egg	3268
+s36-d50_8_4	Crack a larger hole in the egg shell, and scoop the yolk out.	s36-d50	3268	4010	egg	4006
+s36-d50_8_5	Discard or recycle the egg shell.	s36-d50	4066	4431	egg	4420
+s36-d50_8_6	Make sure none of the egg shell got into your eggs.	s36-d50	4496	4594	egg	4596
+s36-d50_9_1	He gets out two bowls from the cupboard.	s36-d50	186	358	egg	366
+s36-d50_9_2	He takes an egg from the refrigerator.	s36-d50	401	692	egg	756
+s36-d50_9_3	He takes a spoon from the drawer.	s36-d50	724	1084	egg	1076
+s36-d50_9_4	He taps the egg with the spoon and removes a piece of shell.	s36-d50	1122	1630	egg	1578
+s36-d50_9_5	He uses his fingers and the spoon to build a bigger hole in the shell.	s36-d50	1658	2274	egg	2288
+s36-d50_9_6	He shakes out the egg whites into one of the small bowls.	s36-d50	2543	3195	egg	3206
+s36-d50_9_7	He hits the egg with the spoon and picks off more of the shell with his hand.	s36-d50	3268	3672	egg	3692
+s36-d50_9_8	He pours some more egg whites out into the bowl of egg whites.	s36-d50	3723	3863	egg	3920
+s36-d50_9_9	He uses the spoon to put the egg yolk into the other bowl.	s36-d50	3863	4010	egg	4076
+s36-d50_9_10	He puts the spoon in the sink and gathers the shell pieces to throw in the trash.	s36-d50	4066	4358	egg	4340
+s36-d50_9_11	He washes his hands and picks out a piece of egg shell from the bowl of egg whites and throws it in the trash.	s36-d50	4371	4594	egg	4574
+s36-d50_9_12	He washes his hands and the spoon, puts the spoon away, brushes off some egg shells, and wets his hands again.	s36-d50	4841	4998	egg	5062
+s36-d50_10_1	He goes to the cupboard and takes out two bowls.	s36-d50	186	358	egg	382
+s36-d50_10_2	He goes to the refrigerator and takes out an egg.	s36-d50	401	692	egg	748
+s36-d50_10_3	He opens up a drawer and takes out a spoon.	s36-d50	724	1084	egg	1100
+s36-d50_10_4	He cracks a small hole into the egg with the spoon.	s36-d50	1122	2274	egg	2290
+s36-d50_10_5	He tries to empty the egg through the small hole in the egg into the bowl.	s36-d50	2543	3195	egg	3264
+s36-d50_10_6	He cracks the egg again and scoops out the egg into the bowl.	s36-d50	3268	4010	egg	4094
+s36-d50_10_7	He places the spoon in the sink and cleans up the egg shells and throws them away.	s36-d50	4066	4358	egg	4378
+s36-d50_10_8	He turns on the sink and washes his hands.	s36-d50	4371	4431	egg	4460
+s36-d50_10_9	He washes the spoon and puts it away in the drawer.	s36-d50	4605	4834	egg	4844
+s36-d50_10_10	He brushes off the counter and washes his hands.	s36-d50	4605	4998	egg	5216
+s36-d50_12_1	The person got out two bowls.	s36-d50	186	358	egg	354
+s36-d50_12_2	The person got out an egg.	s36-d50	401	692	egg	689
+s36-d50_12_3	The person got out a spoon.	s36-d50	724	1084	egg	1084
+s36-d50_12_4	The person poked a hole in the egg at the top.	s36-d50	1122	2142	egg	2187
+s36-d50_12_5	The person poured out the egg whites.	s36-d50	2142	3195	egg	3174
+s36-d50_12_6	The man scooped the yolk out with the spoon.	s36-d50	3268	4126	egg	4108
+s36-d50_12_7	The person cleaned up.	s36-d50	4841	4998	egg	5189
+s36-d50_13_1	He obtains two small bowls, an egg, and a spoon.	s36-d50	186	1084	egg	1158
+s36-d50_13_2	He uses the spoon to crack the egg neatly.	s36-d50	1122	3195	egg	2970
+s36-d50_13_3	He empties the yolk into one bowl.	s36-d50	3268	3540	egg	3490
+s36-d50_13_4	He spoon out the whole, central yolk into another bowl.	s36-d50	3609	4126	egg	4120
+s36-d50_13_5	He discards the eggshell and cleans the area.	s36-d50	4496	4998	egg	5128
+s36-d50_14_1	The person gets out two bowls.	s36-d50	186	358	egg	347
+s36-d50_14_2	The person gets out an egg.	s36-d50	401	692	egg	692
+s36-d50_14_3	The person gets out a spoon.	s36-d50	724	1084	egg	1078
+s36-d50_14_4	The person makes a hole in the top of the egg with the spoon.	s36-d50	1122	2142	egg	2141
+s36-d50_14_5	The person pours egg white into one bowl.	s36-d50	2142	3195	egg	3296
+s36-d50_14_6	The person breaks the egg open wider and pours more egg white into the first bowl.	s36-d50	3268	3863	egg	3877
+s36-d50_14_7	The person scoops out the yolk with the spoon and puts it in the second bowl.	s36-d50	3863	4010	egg	4022
+s36-d50_14_8	The person throws away the eggshell.	s36-d50	4066	4358	egg	4369
+s36-d50_14_9	The person washes his hands.	s36-d50	4371	4431	egg	4432
+s36-d50_14_10	The person throws away a piece of eggshell he missed.	s36-d50	4496	4594	egg	4613
+s36-d50_14_11	The person washes and puts away the spoon.	s36-d50	4257	4834	egg	4840
+s36-d50_15_1	The person places two bowls on the counter from the cabinet.	s36-d50	186	358	egg	360
+s36-d50_15_2	The person grabs an egg from the refrigerator, and walks back to the bowls.	s36-d50	401	692	egg	712
+s36-d50_15_3	The person finds a spoon from the drawer.	s36-d50	724	1084	egg	1058
+s36-d50_15_4	The person lightly taps the top of the egg with the spoon until a little hole appears.	s36-d50	1122	1386	egg	1443
+s36-d50_15_5	The person clears out the hole of excess shell using his fingers, and the spoon.	s36-d50	1386	2142	egg	2143
+s36-d50_15_6	The person lightly shakes out the excess liquid from the egg into the first bowl using the newly created hole.	s36-d50	2142	3195	egg	3197
+s36-d50_15_7	The person uses the spoon to crack open the side of the egg, and pries it open with his fingers making sure to completely drain the egg of the loose liquid into the first bowl.	s36-d50	3268	3863	egg	3914
+s36-d50_15_8	The person uses the spoon to scoop out the yoke from the egg, and places it into the second bowl.	s36-d50	3863	4010	egg	4092
+s36-d50_15_9	The person cleans up by throwing out the egg shell, then washing his spoon and hands.	s36-d50	4257	4998	egg	5044
+s36-d50_16_1	The person gets out two bowls.	s36-d50	186	358	egg	347
+s36-d50_16_2	The person gets out an egg.	s36-d50	401	692	egg	723
+s36-d50_16_3	The person gets out a spoon.	s36-d50	724	1084	egg	1085
+s36-d50_16_4	The person makes a hole in the eggshell with the spoon.	s36-d50	1122	2142	egg	2143
+s36-d50_16_5	The person pours egg white through the hole into one bowl.	s36-d50	2142	3195	egg	3255
+s36-d50_16_6	The person cracks the egg and pours a little more white into the first bowl.	s36-d50	3268	3863	egg	3829
+s36-d50_16_7	The person scoops the yolk out with the spoon and puts it in the second bowl.	s36-d50	3863	4010	egg	4023
+s36-d50_16_8	The person throws away the eggshell.	s36-d50	4066	4358	egg	4385
+s36-d50_16_9	The person washes his hands.	s36-d50	4066	4747	egg	4741
+s36-d50_16_10	The person washes and puts away the spoon.	s36-d50	4760	4834	egg	4843
+s36-d50_17_1	The person got out two bowls.	s36-d50	186	358	egg	275
+s36-d50_17_2	The person got out an egg.	s36-d50	401	692	egg	691
+s36-d50_17_3	The man got out a spoon.	s36-d50	724	1084	egg	1072
+s36-d50_17_4	Using the spoon, the person made a small hole at the top of the egg.	s36-d50	1122	2274	egg	2288
+s36-d50_17_5	The person poured the egg whites out of the hole.	s36-d50	2543	3195	egg	3178
+s36-d50_17_6	The person took the yolk out with the spoon.	s36-d50	3268	4010	egg	4008
+s36-d50_17_7	The person cleaned up the egg shell.	s36-d50	4066	4358	egg	4341
+s36-d50_17_8	The man washed the spoon.	s36-d50	4371	4747	egg	4757
+s36-d50_18_1	The person procures a pair of small bowls from the cupboard.	s36-d50	186	358	egg	336
+s36-d50_18_2	The person gets an egg from the fridge.	s36-d50	401	692	egg	724
+s36-d50_18_3	The person gets a spoon from the drawer.	s36-d50	724	1084	egg	1118
+s36-d50_18_4	The person cracks the top of the egg with a spoon and digs out the chips to show a small hole.	s36-d50	1122	2142	egg	2152
+s36-d50_18_5	The person pours the egg white through the hole into one bowl.	s36-d50	2142	3195	egg	3078
+s36-d50_18_6	The person then cracks the egg with the spoon to expose the yoke which he pours into the other small bowl.	s36-d50	3268	4010	egg	4030
+s36-d50_18_7	The person gathers the egg shell fragments, throws them away, and then washes his hands in the sink.	s36-d50	4371	4747	egg	4740
+s36-d50_19_1	He took out two bowls	s36-d50	186	358	egg	336
+s36-d50_19_2	He took out egg	s36-d50	401	692	egg	706
+s36-d50_19_3	He took out spoon	s36-d50	724	1084	egg	1086
+s36-d50_19_4	He made small hole in egg	s36-d50	1122	1630	egg	1650
+s36-d50_19_5	He drained egg	s36-d50	1658	3355	egg	3364
+s36-d50_19_6	He put egg in other bowl	s36-d50	3376	4010	egg	4040
+s36-d50_19_7	He threw away shell	s36-d50	4066	4401	egg	4388
+s36-d50_19_8	He washed hands	s36-d50	4401	4431	egg	4432

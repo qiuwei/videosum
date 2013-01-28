@@ -1,0 +1,171 @@
+s34-d41_1_1	He took out pomegranite	s34-d41	205	486	pomegranate	444
+s34-d41_1_2	He took out cutting board	s34-d41	543	700	pomegranate	695
+s34-d41_1_3	He took out knife	s34-d41	708	979	pomegranate	1010
+s34-d41_1_4	He took out bowl	s34-d41	1030	1530	pomegranate	1557
+s34-d41_1_5	He washed pomegranite	s34-d41	1553	1969	pomegranate	1995
+s34-d41_1_6	He cut pomegranate into pieces	s34-d41	2038	2479	pomegranate	2527
+s34-d41_1_7	He took out middle of pomegranate	s34-d41	2512	5738	pomegranate	5573
+s34-d41_1_8	He took out middle of second piece of pomogranate	s34-d41	5786	10345	pomegranate	10521
+s34-d41_3_1	The person procures a pomegranate from the fridge.	s34-d41	205	486	pomegranate	615
+s34-d41_3_2	The person takes out a cutting board from the drawer.	s34-d41	543	979	pomegranate	881
+s34-d41_3_3	The person takes out a knife from the drawer.	s34-d41	1030	1101	pomegranate	1211
+s34-d41_3_4	The person takes out a metal bowl  from the drawer, fills it with water, and washes the pomegranate.	s34-d41	1171	1969	pomegranate	2149
+s34-d41_3_5	The person cuts the top and bottom of the pomegranate and then chops it in half.	s34-d41	2038	2479	pomegranate	2665
+s34-d41_3_6	The person picks the pomegranate seeds from the husks by hand and places them into the bowl.	s34-d41	2512	10345	pomegranate	10591
+s34-d41_3_7	The person washes his hands.	s34-d41	10357	11375	pomegranate	11365
+s34-d41_3_8	The person gets a condiment and sprinkles it in the bowl.	s34-d41	11382	11902	pomegranate	11853
+s34-d41_3_9	The person gets a second condiment and sprinkles it in the bowl.	s34-d41	11909	12301	pomegranate	12261
+s34-d41_3_10	The person gets a third condiment and sprinkles it in the bowl.	s34-d41	12308	12560	pomegranate	12573
+s34-d41_3_11	The person takes out a spoon from the drawer and stirs the seeds.	s34-d41	12567	13181	pomegranate	13189
+s34-d41_3_12	The person washes the knife in the sink.	13188	13468
+s34-d41_3_13	The person returns the knife to the drawer.	13188	13468
+s34-d41_3_14	The person throws the husks into the wastebin.	s34-d41	13586	13955	pomegranate	13919
+s34-d41_3_15	The person washes the cutting board in the sink and then returns it to the drawer.	s34-d41	13967	15345	pomegranate	15495
+s34-d41_4_1	The person gets out a pomegranate.	s34-d41	205	745	pomegranate	751
+s34-d41_4_2	The person gets out a cutting board.	s34-d41	750	979	pomegranate	879
+s34-d41_4_3	The person gets out a knife.	s34-d41	1030	1101	pomegranate	1241
+s34-d41_4_4	The person gets out a bowl and rinses the pomegranate in it.	s34-d41	1171	1969	pomegranate	2157
+s34-d41_4_5	The person cuts off the top and bottom of the pomegranate.	2038	2479
+s34-d41_4_6	The person cuts the pomegranate in half.	2038	2479
+s34-d41_4_7	The person scoops the seeds into the bowl.	s34-d41	10357	11301	pomegranate	11245
+s34-d41_4_8	The person rinses his hands.	s34-d41	11344	11375	pomegranate	11379
+s34-d41_4_9	The person adds salt and pepper to the seeds.	s34-d41	11382	12560	pomegranate	12613
+s34-d41_4_10	The person gets out a spoon and stirs the seeds.	s34-d41	12567	13181	pomegranate	13179
+s34-d41_4_11	The person rinses the knife.	s34-d41	13188	13468	pomegranate	13477
+s34-d41_4_12	The person throws away the trash.	s34-d41	13586	13955	pomegranate	13967
+s34-d41_4_13	The person rinses the cutting board.	s34-d41	13967	15345	pomegranate	15305
+s34-d41_5_1	Take out a pomegranate, a cutting board, and a knife.	s34-d41	205	1101	pomegranate	1313
+s34-d41_5_2	Take out a large bowl, fill it with water and wash the pomegranate in the bowl, then dump out the water.	s34-d41	1171	1969	pomegranate	2147
+s34-d41_5_3	Use the knife to cut the ends off of the pomegranate, then cut the pomegranate in half lengthwise.	s34-d41	2038	2479	pomegranate	2655
+s34-d41_5_4	Take one of the pomegranate halves and hold it over the large bowl, press the peel and dislodge the seeds with your fingers.	s34-d41	2512	5843	pomegranate	5949
+s34-d41_5_5	Repeat this process for the other half and remove any debris as you go.	s34-d41	2512	11301	pomegranate	11273
+s34-d41_5_6	Wash and dry hands then salt the pomegranate seeds if desired.	s34-d41	11344	11902	pomegranate	11843
+s34-d41_5_7	Add any other spices and mix with a spoon.	s34-d41	11909	13181	pomegranate	13189
+s34-d41_5_8	Wash and dry knife, throw away peel, and wash and dry cutting board.	s34-d41	13188	15345	pomegranate	15539
+s34-d41_6_1	Get your pomegrante, cutting board and knife ready.	s34-d41	205	1101	pomegranate	1293
+s34-d41_6_2	Get a bowl, rinsing it and the pomegrante in the sink.	s34-d41	1171	1969	pomegranate	2195
+s34-d41_6_3	Cut off the ends of the pomegrante.	2038	2479
+s34-d41_6_4	Cut it in half.	2038	2479
+s34-d41_6_5	Over the bowl, separate the peel from the contents of the pomegrante and let the conteents fall into the bowl.	s34-d41	5887	11301	pomegranate	11289
+s34-d41_6_6	Add salt.	s34-d41	11344	11902	pomegranate	11819
+s34-d41_6_7	Add other seasonings and spices that you desire.	s34-d41	11909	12560	pomegranate	12601
+s34-d41_6_8	Stir contents of bowl.	s34-d41	12567	13275	pomegranate	13243
+s34-d41_6_9	Rinse, dry and put away your knife.	s34-d41	13298	13468	pomegranate	13551
+s34-d41_6_10	Discard peels in trash.	s34-d41	13586	13955	pomegranate	13935
+s34-d41_6_11	Wash, dry and store your cutting board.	s34-d41	13967	15345	pomegranate	15593
+s34-d41_8_1	He took out pomegranate	s34-d41	205	700	pomegranate	625
+s34-d41_8_2	He took out cutting board	s34-d41	708	979	pomegranate	879
+s34-d41_8_3	He took out knife	s34-d41	1030	1101	pomegranate	1147
+s34-d41_8_4	He took out bowl	s34-d41	1171	1645	pomegranate	1703
+s34-d41_8_5	He washed pomegranate	s34-d41	1651	1969	pomegranate	2125
+s34-d41_8_6	He emptied pomegranate	s34-d41	2038	7868	pomegranate	7891
+s34-d41_9_1	He gets a pomegranate from the fridge.	s34-d41	205	700	pomegranate	663
+s34-d41_9_2	He gets a cutting board.	s34-d41	708	979	pomegranate	873
+s34-d41_9_3	He gets a knife.	s34-d41	1030	1101	pomegranate	1165
+s34-d41_9_4	He washes a large bowl.	s34-d41	1171	1645	pomegranate	1773
+s34-d41_9_5	He cuts off the ends of the pomegranate.	1651	2479
+s34-d41_9_6	He cuts the pomegranate in half.	1651	2479
+s34-d41_9_7	He empties the contents of the pomegranate into the bowl.	s34-d41	2512	5062	pomegranate	5177
+s34-d41_9_8	He puts salt on the pomegranate.	s34-d41	2512	11680	pomegranate	11687
+s34-d41_9_9	He mixes the pomegranate with a spoon.	s34-d41	11735	12973	pomegranate	12857
+s34-d41_9_10	He throws away the skin.	s34-d41	13023	13742	pomegranate	13821
+s34-d41_10_1	He gets a pomegranate.	s34-d41	205	700	pomegranate	653
+s34-d41_10_2	He gets a cutting board and knife.	s34-d41	708	1101	pomegranate	1255
+s34-d41_10_3	He gets a bowl.	s34-d41	1171	1645	pomegranate	1741
+s34-d41_10_4	He rinses the pomegranate in the bowl.	s34-d41	1651	1969	pomegranate	2109
+s34-d41_10_5	He cuts the pomegranate.	s34-d41	2038	2479	pomegranate	2723
+s34-d41_10_6	He separates the good part of the pomegranate from the bad.	s34-d41	7882	11301	pomegranate	11267
+s34-d41_10_7	He seasons the pomegranate.	s34-d41	11344	12560	pomegranate	12501
+s34-d41_10_8	He stirs the pomegranate.	s34-d41	12567	13181	pomegranate	13181
+s34-d41_10_9	He cleans up.	s34-d41	13761	15345	pomegranate	15529
+s34-d41_11_1	Take out the pomegranate, a cutting board, and a knife.	s34-d41	205	1101	pomegranate	1325
+s34-d41_11_2	Get a large bowl and rinse it out.	s34-d41	1171	1645	pomegranate	1785
+s34-d41_11_3	Rinse off the pomegranate.	s34-d41	1651	1969	pomegranate	2127
+s34-d41_11_4	Cut off the top and bottom of the pomegranate, then cut it in half.	s34-d41	2038	2479	pomegranate	2667
+s34-d41_11_5	Peel back the pomegranate, putting the seeds in the bowl, ensure that none of the skin gets into the bowl.	s34-d41	2512	5293	pomegranate	5305
+s34-d41_11_6	Sprinkle a dash of sugar on the pomegranate.	s34-d41	5068	12301	pomegranate	12287
+s34-d41_11_7	Then add a few dashes of cinnamon.	s34-d41	12308	12560	pomegranate	12539
+s34-d41_11_8	Mix up well with a small spoon.	s34-d41	12567	13275	pomegranate	13251
+s34-d41_12_1	He took out pomegranate	s34-d41	205	486	pomegranate	445
+s34-d41_12_2	He took out cutting board	s34-d41	543	745	pomegranate	740
+s34-d41_12_3	He took out knife	s34-d41	750	979	pomegranate	980
+s34-d41_12_4	He took out bowl	s34-d41	1030	1530	pomegranate	1567
+s34-d41_12_5	He washed pomegranate	s34-d41	1553	1969	pomegranate	1960
+s34-d41_12_6	He cut off ends of pomegranate	s34-d41	2038	2366	pomegranate	2376
+s34-d41_12_7	He sliced pomegranate in half	s34-d41	2375	2479	pomegranate	2505
+s34-d41_12_8	He took out off skin of pomegranate	s34-d41	5299	10345	pomegranate	10399
+s34-d41_13_1	He gets a pomegranate.	s34-d41	205	486	pomegranate	551
+s34-d41_13_2	He gets a cutting board and knife.	s34-d41	543	1101	pomegranate	1261
+s34-d41_13_3	He gets a bowl.	s34-d41	1171	1645	pomegranate	1739
+s34-d41_13_4	He rinses the pomegranate.	s34-d41	1651	1969	pomegranate	2129
+s34-d41_13_5	He cuts the pomegranate.	s34-d41	2038	2479	pomegranate	2711
+s34-d41_13_6	She removes the good parts of the pomegranate.	s34-d41	2512	11301	pomegranate	11333
+s34-d41_13_7	He seasons the pomegranate.	s34-d41	11344	12560	pomegranate	12503
+s34-d41_13_8	He mixes the pomegranate.	s34-d41	12567	13181	pomegranate	13193
+s34-d41_13_9	He cleans up.	s34-d41	13188	15345	pomegranate	15545
+s34-d41_14_1	The person takes a pomegranate out of the fridge.	s34-d41	205	745	pomegranate	727
+s34-d41_14_2	The person selects a cutting board and a knife.	s34-d41	750	1101	pomegranate	1343
+s34-d41_14_3	The person selects a bowl and washes the pomegranate in it.	s34-d41	1171	1969	pomegranate	2185
+s34-d41_14_4	The person cuts off each end of the pomegranate and then cuts it in half.	s34-d41	2038	2479	pomegranate	2685
+s34-d41_14_5	The person seeds the entire pomegranate into the bowl (by scraping the insides with his hands) and then picks out any pieces of rind.	s34-d41	10357	11301	pomegranate	11251
+s34-d41_14_6	The person washes his hands.	s34-d41	11344	11412	pomegranate	11501
+s34-d41_14_7	The person sprinkles something on the pomegranate seeds.	s34-d41	11442	11950	pomegranate	11943
+s34-d41_14_8	The person sprinkles a second seasoning on the seeds.	s34-d41	11950	12301	pomegranate	12259
+s34-d41_14_9	The person puts a third seasoning on the seeds.	s34-d41	12308	12560	pomegranate	12585
+s34-d41_14_10	The person mixes up the seeds and seasonings thoroughly with a spoon.	s34-d41	12567	13181	pomegranate	13175
+s34-d41_14_11	The person cleans the knife and returns it to the drawer.	s34-d41	13188	13468	pomegranate	13611
+s34-d41_14_12	The person throws away the pomegranate rind.	s34-d41	13298	13955	pomegranate	13937
+s34-d41_14_13	The person thoroughly washes and dries the cutting board and puts it away.	s34-d41	13967	15345	pomegranate	15563
+s34-d41_15_1	The person takes a pomegranate out of the refrigerator.	s34-d41	205	486	pomegranate	439
+s34-d41_15_2	The person takes out a cutting board and a knife.	s34-d41	543	1101	pomegranate	1106
+s34-d41_15_3	The person takes out a medium sized mixing bowl and fills it with water	s34-d41	1171	1645	pomegranate	1744
+s34-d41_15_4	The person rinses the pomegranate.	s34-d41	1651	1969	pomegranate	2049
+s34-d41_15_5	The person cuts the ends off of the pomegranate.	s34-d41	2038	2366	pomegranate	2380
+s34-d41_15_6	The person cuts the pomegranate in half and transfers the seeds from the pomegranate to the mixing bowl.	s34-d41	2512	10345	pomegranate	10465
+s34-d41_15_7	The person removes all extra inedible parts from the mixing bowl.	s34-d41	2512	11057	pomegranate	11061
+s34-d41_15_8	The person washes and dries his hands.	s34-d41	11076	11301	pomegranate	11313
+s34-d41_15_9	The person sprinkles salt over the pomegranate seeds.	s34-d41	11344	11583	pomegranate	11589
+s34-d41_15_10	The person sprinkles another seasoning over the seeds.	s34-d41	11592	12025	pomegranate	12043
+s34-d41_15_11	The person sprinkles one more seasoning over the seeds.	s34-d41	12032	12301	pomegranate	12312
+s34-d41_15_12	The person takes out a spoon and mixes the seeds.	s34-d41	12308	12973	pomegranate	12983
+s34-d41_15_13	The person rinses, dries, and puts away the knife.	s34-d41	13188	13393	pomegranate	13398
+s34-d41_15_14	The person throws away the pomegranate skins.	s34-d41	13405	13742	pomegranate	13753
+s34-d41_15_15	The person washes, dries, and puts away the cutting board.	s34-d41	13586	15345	pomegranate	15417
+s34-d41_16_1	He gets a pomegranate out of the fridge.	s34-d41	205	486	pomegranate	583
+s34-d41_16_2	He gets a cutting board out of the cupboard.	s34-d41	543	745	pomegranate	855
+s34-d41_16_3	He gets a knife out of the drawer.	s34-d41	750	1101	pomegranate	1149
+s34-d41_16_4	He rinses the pomegranate and a bowl.	s34-d41	1171	1969	pomegranate	2125
+s34-d41_16_5	He cuts the ends off the pomegranate.	2038	2479
+s34-d41_16_6	He slices the pomegranate in half.	2038	2479
+s34-d41_16_7	He puts the seeds of the pomegranate into the bowl.	s34-d41	2375	10345	pomegranate	10591
+s34-d41_16_8	He adds spices to the pomegranate seeds.	s34-d41	2512	12560	pomegranate	12597
+s34-d41_16_9	He stirs the seeds and the spices.	s34-d41	12567	13181	pomegranate	13165
+s34-d41_16_10	He throws away the seedless rinds of the pomegranate.	s34-d41	13761	13955	pomegranate	13913
+s34-d41_17_1	The person gets out a pomegranate.	s34-d41	205	486	pomegranate	475
+s34-d41_17_2	The person gets out a cutting board.	s34-d41	543	745	pomegranate	745
+s34-d41_17_3	The person gets out a knife.	s34-d41	750	1101	pomegranate	1092
+s34-d41_17_4	The person gets out a bowl.	s34-d41	1171	1530	pomegranate	1537
+s34-d41_17_5	The person washes the pomegranate in the bowl.	s34-d41	1553	1969	pomegranate	1962
+s34-d41_17_6	The person cuts off the top and bottom of the pomegranate.	s34-d41	2038	2366	pomegranate	2371
+s34-d41_17_7	The person cuts the pomegranate in half.	s34-d41	2375	2479	pomegranate	2482
+s34-d41_17_8	The person scoops the seeds into the bowl.	s34-d41	10357	11057	pomegranate	11055
+s34-d41_17_9	The person washes his hands.	s34-d41	11076	11301	pomegranate	11303
+s34-d41_17_10	The person adds spices to the seeds.	s34-d41	11344	12397	pomegranate	12410
+s34-d41_17_11	The person gets out a spoon and stirs the seeds.	s34-d41	12424	12973	pomegranate	12971
+s34-d41_17_12	The person rinses and puts away the knife.	s34-d41	13188	13393	pomegranate	13392
+s34-d41_17_13	The person throws away the outside of the pomegranate.	s34-d41	13405	13742	pomegranate	13740
+s34-d41_17_14	The person washes, dries, and puts away the cutting board.	s34-d41	13967	15345	pomegranate	15352
+s34-d41_19_1	The person takes a pomegranate from the fridge.	s34-d41	205	486	pomegranate	601
+s34-d41_19_2	The person takes a cutting board out of a drawer.	s34-d41	543	979	pomegranate	877
+s34-d41_19_3	The person takes out a knife.	s34-d41	1030	1101	pomegranate	1267
+s34-d41_19_4	The person takes a metal bowl from the drawer and fills with it water and rinses the pomegranate inside it.	s34-d41	1171	1969	pomegranate	2143
+s34-d41_19_5	The person cuts off both ends of the pomegranate on the cutting board with the knife and then splits it in half.	s34-d41	2038	2479	pomegranate	2679
+s34-d41_19_6	The person takes one half of the pomegranate and extracts its seeds by hand over the metal bowl.	s34-d41	2512	5293	pomegranate	5231
+s34-d41_19_7	The person takes the second half of pomegranate and breaks it apart and picks out the seeds with his fingers.	s34-d41	10357	11057	pomegranate	10767
+s34-d41_19_8	The person washes his hands in the sink.	s34-d41	11076	11375	pomegranate	11375
+s34-d41_19_9	The person sprinkles a condiment on the pomegranate seeds in the bowl.	s34-d41	11382	11902	pomegranate	11829
+s34-d41_19_10	The person sprinkles a second condiment on the seeds in the bowl.	s34-d41	11909	12301	pomegranate	12247
+s34-d41_19_11	The person sprinkles a third condiment on the seeds in the bowl.	s34-d41	12308	12560	pomegranate	12539
+s34-d41_19_12	The person takes out a spoon from the drawer and stirs the condiments in the bowl.	s34-d41	12567	13181	pomegranate	13175
+s34-d41_19_13	The person washes the knife off and returns it to the drawer.	s34-d41	13023	13468	pomegranate	13557
+s34-d41_19_14	The person dumps the husks on the cutting board into the wastebin and then considerately washes the cutting board with soap and a sponge.	s34-d41	13023	15223	pomegranate	15243

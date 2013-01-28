@@ -1,0 +1,26 @@
+279	945	take out	hand	carrot	fridge,sink
+972	1048	open	hand		drawer
+1053	1129	open	hand		drawer
+1133	1280	take out	hand	peeler	drawer
+1405	1921	peel	peeler	carrot	
+2014	2454	peel	peeler	carrot	
+2600	2659	open	hand		cupboard
+2750	2874	take out	hand	cutting board	counter,drawer
+2885	2933	close	hand		drawer
+2989	3052	wash	hand	carrot	
+3052	3090	shake	hand	carrot	
+3188	3230	shake	hand	peel	
+3248	3451	throw in garbage	hand	peel	
+3484	3601	wash	hand	hand	
+3601	3645	shake	hand	hand	
+3699	3867	take out	hand	knife	drawer
+3961	4133	cut	knife	carrot	cutting board
+4158	4190	peel	knife	carrot	cutting board
+4200	4218	scratch off	hand	peel	cutting board,knife
+4337	4773	slice	knife	carrot	cutting board
+4784	4807	scratch off	hand	carrot	cutting board,knife
+4829	4962	slice	knife	carrot	cutting board
+4976	4998	scratch off	hand	carrot	cutting board,knife
+5215	5444	throw in garbage	hand	carrot	
+5458	5584	wash	hand	peeler	
+5584	5627	shake	hand	peeler	

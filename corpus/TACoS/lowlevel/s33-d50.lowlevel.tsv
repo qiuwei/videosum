@@ -1,0 +1,15 @@
+205	483	take out	hand	egg	,fridge
+495	676	take out	hand	cup	counter,cupboard
+721	758	close	hand		cupboard
+765	927	take out	hand	egg cup	counter,cupboard
+934	959	put on	hand	egg	,egg cup
+978	1063	take out	hand	teaspoon	,drawer
+1083	1194	tap	teaspoon	egg	egg cup
+1243	1427	take out	hand	plate	counter,cupboard
+1464	1722	peel	hand	egg	
+1739	2855	pour	eggshell	egg white	cup,eggshell
+2879	3133	peel	hand	egg	
+3140	3179	pour	eggshell	yolk	cup,eggshell
+3206	3253	move	hand	cup	counter
+3267	3295	move	hand	cup	counter
+3320	3422	gather	hand	eggshell	plate

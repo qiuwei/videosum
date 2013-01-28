@@ -1,0 +1,56 @@
+152	295	take out	hand	cutting board	counter,drawer
+324	386	take out	hand	knife	cutting board,drawer
+415	630	take out	hand	pineapple	cupboard,cutting board
+662	781	cut	knife	pineapple	cutting board
+869	1167	take out	hand	plate	counter,cupboard
+1225	2236	slice	knife	pineapple	cutting board
+2265	2385	throw in garbage	hand	pineapple	
+2416	2489	move	hand	pineapple	cutting board
+2497	2925	peel	knife	pineapple	cutting board
+2995	3022	scratch off	hand	peel	cutting board,knife
+3022	3234	cut	knife	pineapple	cutting board
+3258	3297	move	knife	pineapple	cutting board,plate
+3302	3374	move	knife	pineapple	cutting board,plate
+3491	3824	peel	knife	pineapple	cutting board
+3878	4151	cut	knife	pineapple	cutting board
+4163	4216	move	knife	pineapple	cutting board,plate
+4220	4269	move	knife	pineapple	cutting board,plate
+4327	4647	peel	knife	pineapple	cutting board
+4661	4909	cut	knife	pineapple	cutting board
+4918	4992	move	knife	pineapple	cutting board,plate
+4996	5045	move	hand	pineapple	cutting board,plate
+5085	5423	peel	knife	pineapple	cutting board
+5435	5644	cut	knife	pineapple	cutting board
+5660	5694	move	knife	pineapple	cutting board,plate
+5698	5789	move	knife	pineapple	cutting board,plate
+5835	5930	gather	hand,knife	peel	cutting board
+6128	6419	peel	knife	pineapple	cutting board
+6438	6620	cut	knife	pineapple	cutting board
+6635	6673	move	knife	pineapple	cutting board,plate
+6677	6722	move	knife	pineapple	cutting board,plate
+6731	6765	move	hand	pineapple	cutting board,plate
+6794	7035	peel	knife	pineapple	cutting board
+7056	7178	cut	knife	pineapple	cutting board
+7187	7223	move	knife	pineapple	cutting board,plate
+7227	7288	move	knife	pineapple	cutting board,plate
+7292	7339	move	knife	pineapple	cutting board,plate
+7513	7837	peel	knife	pineapple	cutting board
+7855	8022	cut	knife	pineapple	cutting board
+8044	8090	move	knife	pineapple	cutting board,plate
+8112	8176	move	knife	pineapple	cutting board,plate
+8180	8229	move	knife	pineapple	cutting board,plate
+8353	8620	peel	knife	pineapple	cutting board
+8620	8754	cut	knife	pineapple	cutting board
+8768	8837	move	knife	pineapple	cutting board,plate
+8842	8928	move	knife	pineapple	cutting board,plate
+9017	9204	take out	hand	bowl	counter,cupboard
+9229	9551	add	knife	pineapple	bowl,plate
+9618	9860	peel	knife	pineapple	cutting board
+9887	10025	cut	knife	pineapple	cutting board
+10033	10088	move	knife	pineapple	bowl,cutting board
+10091	10190	move	knife	pineapple	bowl,cutting board
+10275	10536	peel	knife	pineapple	cutting board
+10547	10653	cut	knife	pineapple	cutting board
+10653	10832	chop	knife	pineapple	cutting board
+10865	10940	move	knife	pineapple	bowl,cutting board
+10947	10980	move	hand	pineapple	bowl,cutting board

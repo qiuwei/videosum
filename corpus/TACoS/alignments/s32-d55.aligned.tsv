@@ -1,0 +1,31 @@
+169	324	take out	hand	fig	fridge	s32-d55_1_1									s32-d55_12_1		s32-d55_14_1					
+363	429	open	hand		drawer			s32-d55_3_1			s32-d55_7_1	s32-d55_8_1	s32-d55_9_1	s32-d55_10_1		s32-d55_13_1				s32-d55_18_1	s32-d55_19_1	s32-d55_20_1
+442	643	take out	hand	cutting board	counter,drawer	s32-d55_1_2	s32-d55_2_1. s32-d55_2_2	s32-d55_3_2	s32-d55_5_1		s32-d55_7_2	s32-d55_8_2	s32-d55_9_2	s32-d55_10_2	s32-d55_12_2	s32-d55_13_2	s32-d55_14_2			s32-d55_18_2		
+668	928	take out	hand	peeler	cutting board,drawer	s32-d55_1_3				s32-d55_6_1		s32-d55_8_3	s32-d55_9_3	s32-d55_10_3	s32-d55_12_3	s32-d55_13_3	s32-d55_14_3	s32-d55_16_1	s32-d55_17_1	s32-d55_18_3	s32-d55_19_2	s32-d55_20_2
+970	1166	wash	hand	fig		s32-d55_1_4		s32-d55_3_3	s32-d55_5_2		s32-d55_7_3									s32-d55_18_4	s32-d55_19_3	
+1177	1261	wash	hand	peeler								s32-d55_8_4			s32-d55_12_4							
+1284	1371	wash	hand	cutting board																		
+1374	1398	shake	hand	cutting board								s32-d55_8_5						s32-d55_16_2	s32-d55_17_2			s32-d55_20_3
+1546	1577	dry	towel	hand				s32-d55_3_4		s32-d55_6_2	s32-d55_7_4		s32-d55_9_4	s32-d55_10_4		s32-d55_13_4				s32-d55_18_5	s32-d55_19_4	
+1581	1730	take out	hand	knife	drawer	s32-d55_1_5	s32-d55_2_3		s32-d55_5_3								s32-d55_14_4					
+1746	1787	wash	hand	knife											s32-d55_12_5				s32-d55_17_3			
+1812	1866	cut	knife	fig	cutting board	s32-d55_1_6		s32-d55_3_5	s32-d55_5_4	s32-d55_6_3	s32-d55_7_5. s32-d55_7_6	s32-d55_8_6	s32-d55_9_5	s32-d55_10_5	s32-d55_12_6	s32-d55_13_5. s32-d55_13_6	s32-d55_14_5			s32-d55_18_6. s32-d55_18_7. s32-d55_18_8	s32-d55_19_5	s32-d55_20_4. s32-d55_20_5
+1943	4013	peel	peeler	fig													s32-d55_14_6	s32-d55_16_3	s32-d55_17_4			
+4066	4140	cut	knife	fig	cutting board										s32-d55_12_7		s32-d55_14_7	s32-d55_16_4				
+4143	4174	scratch off	hand	top	cutting board,knife	s32-d55_1_7	s32-d55_2_4		s32-d55_5_5	s32-d55_6_4	s32-d55_7_7		s32-d55_9_6						s32-d55_17_5	s32-d55_18_9		
+4204	4287	wash	hand	hand												s32-d55_13_7						s32-d55_20_6
+4287	4319	shake	hand	hand				s32-d55_3_6				s32-d55_8_7. s32-d55_8_8		s32-d55_10_6	s32-d55_12_8	s32-d55_13_8			s32-d55_17_6	s32-d55_18_10. s32-d55_18_11	s32-d55_19_6	s32-d55_20_7
+4358	4555	take out	hand	bowl	cupboard	s32-d55_1_8					s32-d55_7_8			s32-d55_10_7								s32-d55_20_8
+4607	4646	wash	hand	bowl																		
+4649	4673	shake	hand	bowl				s32-d55_3_7			s32-d55_7_9	s32-d55_8_9			s32-d55_12_9			s32-d55_16_5	s32-d55_17_7			
+4724	4801	slice	knife	fig	cutting board		s32-d55_2_5									s32-d55_13_9						
+4807	4833	add	hand	fig	bowl,knife				s32-d55_5_6				s32-d55_9_7	s32-d55_10_8						s32-d55_18_12	s32-d55_19_7	s32-d55_20_9
+4851	4934	slice	knife	fig	cutting board																	
+4938	4966	add	hand	fig	bowl,knife																	
+4985	5062	slice	knife	fig	cutting board																	
+5064	5092	add	hand	fig	bowl,knife																	
+5099	5149	add	hand	fig	bowl,cutting board	s32-d55_1_9											s32-d55_14_8	s32-d55_16_6	s32-d55_17_8			
+5185	5223	move	hand	peel	cutting board,front peeler																	
+5230	5297	move	hand	peeler	,sink			s32-d55_3_8		s32-d55_6_5	s32-d55_7_10	s32-d55_8_10	s32-d55_9_8	s32-d55_10_9	s32-d55_12_10	s32-d55_13_10				s32-d55_18_13		s32-d55_20_10
+5330	5541	throw in garbage	cutting board,knife	peel											s32-d55_12_11			s32-d55_16_7	s32-d55_17_9		s32-d55_19_8	
+5554	5600	move	hand	cutting board,knife	,sink		s32-d55_2_6		s32-d55_5_7		s32-d55_7_11		s32-d55_9_9	s32-d55_10_10		s32-d55_13_11			s32-d55_17_10	s32-d55_18_14. s32-d55_18_15	s32-d55_19_9	s32-d55_20_11

@@ -1,0 +1,97 @@
+294	456	take out	hand	cutting board	counter,drawer					The person took out a cutting board.	He gets a cutting board.	He gets a cutting board.		He took out cutting board	He took out cutting board		He took out cutting board				The person gets a cutting board from the drawer.	
+478	502	close	hand		drawer				The person gets out a cutting board.							The person gets out a cutting board.		He took out cutting board	The person takes a cutting board from a drawer.			
+520	624	take out	hand	knife	cutting board,drawer				The person gets out a knife.	The person got out a knife.			He gets a cutting board and a knife. 	He took out knife	He took out knife			He took out knife				
+624	662	close	hand		drawer						He gets a knife. 	He gets a knife.				The person gets out a knife.	He took out knife		The person gets a knife out.		The person gets a large knife from the drawer.	He gets out the hardware.
+699	1005	take out	hand	plastic bag	counter,fridge		He gets out the broccoli and a knife and cutting board. 	He gets a knife and a cutting board.. He gets broccoli.	The person gets out a big stalk of broccoli.	The person got out some broccoli.	He gets the broccoli. 	He gets broccoli.	He gets the broccoli. 	He took out broccoli	He took out broccoli	The person gets out some broccoli.	He took out broccoli	He took out broccoli	The person takes the broccoli from the fridge.	The man takes out a knife and cutting board 	The person gets a stalk of broccoli from the crisper.	He gets the broccoli. 
+1035	1326	take out	hand	plate	counter,cupboard	The person gets a cutting board, knife, plate, and the broccoli prepared on the counter.			The person gets out a plate.	The person got out a plate.				He took out plate	He took out plate	The person gets out a plate.	He took out dish	He took out plate	The person gets a plate from the cupboard.	The man takes out a large head of broccoli and a plate.	The person procures a plate from the cabinet.	
+1441	1503	cut	knife	plastic bag								He gets a plate.										
+1515	1655	remove from package	hand	broccoli	plastic bag															The man removes the wrapper from the broccoli.		
+1671	1734	cut	knife	plastic bag																		
+1756	2265	remove from package	hand	broccoli	plastic bag,plate	The person removes the plastic wrap from the broccoli.		He unwraps the broccoli.		The person took the broccoli out of the plastic wrap.		He unwraps the broccoli.										
+2276	2425	throw in garbage	hand	plastic bag					The person removes the plastic wrap from the broccoli and throws it away.				He removes the broccoli from the wrap and puts it on a plate. 		He unwrapped broccoli		He threw out wrapping		The person cuts the plastic off of the broccoli and disposes of it in the trash.	The Man washes the broccoli.	The person cuts the plastic from off the broccoli stalk and throws it in the wastebin.	He opens the broccoli and throws away the wrapper. 
+2563	2947	wash	hand	broccoli				He washes the broccoli.			He rinses the broccoli.			He washed broccoli		The person rinses the broccoli.		He washed broccoli			The person washes the broccoli in the sink.	
+2947	3027	shake	hand	broccoli		The person washes the broccoli using the tap water from the sink, then shakes it dry.	He rinses the broccoli. 		The person rinses the broccoli.			He washes the broccoli.	He rinses the broccoli. 		He washed broccoli							He rinses the broccoli. 
+3027	3077	move	hand	broccoli	,cutting board					The person rinsed off the broccoli.							He washed broccoli		The person rinses the broccoli in the sink.			
+3096	3247	cut	knife	broccoli	cutting board	The person cuts off the end of the broccoli.			The person cuts off the stem of the broccoli.					He cut off bottom of broccoli				He cut off bottom of stem				
+3276	3324	move	hand	broccoli	cutting board,plate										He chopped off broccoli stem							
+3358	3450	cut	knife	broccoli	cutting board	The person cuts the broccoli in half from top to bottom.		He cuts the broccoli in half.									He cut broccoli in half	He cut broccoli in half			The person cuts the stem from the broccoli.	
+3456	3509	cut	knife	broccoli	cutting board															The man removes the stem and cuts the broccoli into smaller parts		
+3541	3659	cut	knife	broccoli	cutting board	The person cuts off the ends of the broccoli from each half.			The person begins cutting the broccoli into smaller stalks.							The person starts to chop up the broccoli.			The person chops the stalks off the broccoli.			
+3694	3827	take out	hand	plate	cupboard							He cuts the broccoli in half.. He washes a plate.		He took out plate	He took out second plate			He took out another plate				
+3848	4031	wash	hand	plate														He washed plate		The man pulls out and washes another plate.		
+4043	4077	shake	hand	plate		The person gets another plate from the cabinet for the edible portion of the broccoli.			The person gets out a second plate and rinses it.					He washed plate	He washed plate	The person gets out and rinses another plate.	He took out 2nd plate		The person gets another plate from the cupboard and rinses it under the faucet.		The person gets a plate from the cabinet and rinses it in the sink.	
+4163	4295	cut	knife	broccoli	cutting board																	
+4299	4324	move	hand	broccoli	cutting board,plate							He starts cutting up the broccoli.								The man begins to cut the broccoli into bite size parts.		
+4343	4783	cut	knife	broccoli	cutting board	The person begins to cut the broccoli into smaller portions.																
+4792	4818	move	hand	broccoli	cutting board,plate																	
+4827	5026	cut	knife	broccoli	cutting board																	
+5037	5061	move	hand	broccoli	cutting board,plate																	
+5077	5095	move	hand	broccoli	cutting board,plate																	
+5133	5174	cut	knife	broccoli	cutting board																	
+5178	5194	move	hand	broccoli	cutting board,plate																	
+5200	5418	cut	knife	broccoli	cutting board																	
+5477	5501	move	hand	broccoli	cutting board,plate																	
+5513	5550	cut	knife	broccoli	cutting board																	
+5546	5572	move	hand	broccoli	cutting board,plate																	
+5589	5647	cut	knife	broccoli	cutting board																	
+5639	5667	move	hand	broccoli	cutting board,plate																	
+5714	5739	cut	knife	broccoli	cutting board																	
+5744	5767	move	hand	broccoli	cutting board,plate			He puts the chopped broccoli onto a plate.														
+5825	6042	cut	knife	broccoli	cutting board																	
+6050	6070	move	hand	broccoli	cutting board,plate																	
+6075	6109	cut	knife	broccoli	cutting board																	
+6122	6140	move	hand	broccoli	cutting board,plate																	
+6158	6324	cut	knife	broccoli	cutting board																	
+6326	6341	move	hand	broccoli	cutting board,plate																	
+6354	6421	move	hand	broccoli	cutting board,plate																	
+6425	6554	cut	knife	broccoli	cutting board																	
+6554	6583	move	hand	broccoli	cutting board,plate																	
+6651	6768	cut	knife	broccoli	cutting board																	
+6768	6792	move	hand	broccoli	cutting board,plate																	
+6799	6848	move	hand	broccoli	cutting board,plate																	
+6883	6910	cut	knife	broccoli	cutting board																	
+6934	6956	move	hand	broccoli	cutting board,plate																	
+6987	7072	cut	knife	broccoli	cutting board																	
+7072	7138	cut	knife	broccoli	cutting board																	
+7138	7197	cut	knife	broccoli	cutting board																	
+7246	7345	cut	knife	broccoli	cutting board																	
+7361	7387	move	hand	broccoli	cutting board,plate																	
+7413	7466	cut	knife	broccoli	cutting board																	
+7466	7491	move	hand	broccoli	cutting board,plate																	
+7497	7587	move	hand	broccoli	cutting board,plate																	
+7653	7693	cut	knife	broccoli	cutting board																	
+7706	7789	cut	knife	broccoli	cutting board																	
+7816	7852	cut	knife	broccoli	cutting board																	
+7853	7924	move	hand	broccoli	cutting board,plate																	
+7929	7967	move	hand	broccoli	cutting board,plate																	
+7970	8054	move	hand	broccoli	cutting board,plate																	
+8060	8148	move	hand	broccoli	cutting board,plate							He puts the broccoli onto the plate.										
+8190	8317	cut	knife	broccoli	cutting board																	
+8317	8385	cut	knife	broccoli	cutting board																	
+8391	8451	cut	knife	broccoli	cutting board																	
+8467	8520	cut	knife	broccoli	cutting board																	
+8524	8610	cut	knife	broccoli	cutting board																	
+8633	8723	cut	knife	broccoli	cutting board																	
+8723	8802	cut	knife	broccoli	cutting board	The person continues to cut the broccoli flower, both head and stem, into smaller portions.															The person chops the broccoli on the cutting board and places it on the plate.	
+8953	9024	move	hand	broccoli	cutting board,plate									He chopped broccoli								
+9080	9156	move	hand	broccoli	cutting board,plate												He chopped broccoli					
+9176	9279	move	hand	broccoli	cutting board,plate	The person places the smaller pieces of broccoli onto a plate.			The person cuts up the broccoli and puts it on the new plate.						He chopped up broccoli				The person spends ten minutes chopping the broccoli as if he were stoned and then puts it on the plate.			
+9300	9354	move	hand	plate	counter		He chops the broccoli. 			The person cut up the broccoli.			He chops the broccoli and puts it on a plate. 			The person continues to chop the broccoli, putting it on one plate and trash on the other.				The man has finished chopping the broccoli and sets it aside on the new plate.		He chops the broccoli and put it on a plate. 
+9410	9454	move	hand	broccoli	cutting board,plate						He chops the broccoli and puts it on a plate. 											
+9489	9563	move	hand,knife	broccoli	cutting board,plate																The person scoops bits of stem onto the second plate.	
+9612	9795	throw in garbage	hand,plate	broccoli		The person places the broccoli discards onto the other plate and then dumps that plate into the trash.	He discards the bad parts. 		The person throws away the large broccoli stem and some "crumbs" from cutting the rest up.						He threw away scraps	The person throws away the trash.			The person disposes of the stalks into the trashbin.		The person disposes of the stems into the trash.	
+9858	10077	wash	hand	plate				He washes the plate.				He washes the plate.										
+10077	10109	shake	hand	plate		The person rinses the plate off into the sink.									He washed dish							
+10151	10298	wash	hand	knife		The person rinses the knife off into the sink.									He washed knife							
+10372	10757	wash	hand	cutting board																		
+10757	10796	shake	hand	cutting board		The person rinses the cutting board off into the sink.									He washed cutting board				The person rinses off the plate, then the knife, and finally the cutting board.	The man washes the original plate knife and cutting board.	The person washes the plate, the knife, and the cutting board in the sink.	
+10914	11059	throw in garbage	hand	garbage																		
+11059	11097	move	hand	towel	,hook					The person rinsed off the board, knife, and plate.												
+11134	11250	dry	towel	knife																		
+11261	11324	put in	hand	knife	,drawer																The person dries the knife with a towel and puts it back in its drawer.	
+11367	11486	dry	towel	cutting board																		
+11497	11562	put in	hand	cutting board	,drawer														The person dries off the knife and the cutting board and replaces them in their drawers.			
+11584	11770	dry	towel	plate																The man dries and puts away the knife board and plate.		
+11791	11872	put in	hand	plate	,cupboard	The person dries off the knife, cutting board, and discard plate with a dish rag and puts them up.			The person washes and puts away the plate, knife and cutting board.							The person rinses and puts away the plate, knife and cutting board.			The person replaces the plate in the cupboard.		The person dries off the cutting board and the plate and returns them to their cabinets.	
+11914	12078	clean	towel	counter					The person wipes down the counter.													
+12192	12272	hang up	hand	towel	,hook		He cleans up. 	He cleans up the area.			He cleans up. 		He cleans up. 						The person wipes off the countertop.	The man wipes down the counter and is done.		He cleans up. 

@@ -1,0 +1,225 @@
+s25-d69_1_1	Person gets out bowl.	s25-d69	194	405	egg	419
+s25-d69_1_2	Person takes out eggs.	s25-d69	423	764	egg	747
+s25-d69_1_3	Person rinses bowl.	s25-d69	787	1339	egg	1344
+s25-d69_1_4	Person cracks eggs into bowl.	s25-d69	1364	2045	egg	1973
+s25-d69_1_5	Person sprinkles salt into bowl.	s25-d69	2053	2618	egg	2622
+s25-d69_1_6	Person beats eggs with fork.	s25-d69	2634	3407	egg	3414
+s25-d69_1_7	Person puts pan on heated oven.	s25-d69	3413	3960	egg	4023
+s25-d69_1_8	Person pours oil in pan and distributes it around.	s25-d69	4081	4569	egg	4590
+s25-d69_1_9	Person beats eggs again and pours into pan.	s25-d69	4607	6581	egg	6627
+s25-d69_1_10	Person sprinkles pepper on top of egg.	s25-d69	6755	9187	egg	9202
+s25-d69_1_11	Person flips egg over completely.	s25-d69	9194	11251	egg	11278
+s25-d69_1_12	Person sprinkles pepper on opposite side of egg.	s25-d69	11322	11723	egg	11748
+s25-d69_1_13	Person puts egg into a bowl.	s25-d69	11765	12850	egg	12845
+s25-d69_2_1	He gets out the eggs and a bowl.	s25-d69	194	1224	egg	1256
+s25-d69_2_2	He breaks the eggs.	s25-d69	1240	2242	egg	2262
+s25-d69_2_3	He seasons the eggs and scrambles them.	s25-d69	2249	3559	egg	3606
+s25-d69_2_4	He puts an oiled pan on a hot stove top.	s25-d69	3579	4474	egg	4492
+s25-d69_2_5	He scrambles a bit more and then places the eggs in the pan.	s25-d69	4524	6581	egg	6786
+s25-d69_2_6	He cleans up a bit.	s25-d69	6755	7757	egg	7850
+s25-d69_2_7	He seasons the eggs while they cook.	s25-d69	7922	9273	egg	9392
+s25-d69_2_8	He places the cooked eggs in a bowl.	s25-d69	12854	12873	egg	13028
+s25-d69_2_9	He cleans the spatula.	s25-d69	13014	14307	egg	14514
+s25-d69_3_1	The man enters the kitchen and retrieves a metal bowl from the cabinet.	s25-d69	194	405	egg	560
+s25-d69_3_2	The man retrieves two eggs from the refrigerator.	s25-d69	423	1124	egg	994
+s25-d69_3_3	The man retrieves a spoon from the drawer.	s25-d69	1152	1224	egg	1286
+s25-d69_3_4	The man rinses the bowl and cracks one egg on the edge of the bowl before discarding the shell.	s25-d69	1240	1813	egg	1914
+s25-d69_3_5	The man cracks the second egg on the edge of the bowl and discards that shell.	s25-d69	1840	2242	egg	2242
+s25-d69_3_6	The man gathers a seasoning from the counter and carefully sprinkles it into the bowl of yolks.	s25-d69	2249	2866	egg	2832
+s25-d69_3_7	The man picks up the spoon, rinses it in the sink and then places it in the bowl and begins to carefully mix the egg yolks until they are fully mixed.	s25-d69	2871	3559	egg	3526
+s25-d69_3_8	The man preheats the stove before retrieving a pan.	s25-d69	3579	3693	egg	3770
+s25-d69_3_9	The man retrieves oil from the cabinet, then places the pan on the stove and pours oil into the frying pan and mixes it around in the pan.	s25-d69	3720	4678	egg	4666
+s25-d69_3_10	Once the oil is heated, he picks up the bowl with the egg yolks and carefully dumps it into the frying pan.	s25-d69	4705	6581	egg	6798
+s25-d69_3_11	The man lets the egg cook in the frying pan without flipping it.	s25-d69	6755	8972	egg	8962
+s25-d69_3_12	The man adds pepper to the egg in the pan before mixing the egg around in the pan.	s25-d69	8984	11839	egg	11946
+s25-d69_3_13	After approximately 5 minutes, the man places the egg into the clean bowl.	s25-d69	9342	12873	egg	13020
+s25-d69_3_14	The man carefully cleans the utensils with a sponge and soap.	s25-d69	13014	14307	egg	14282
+s25-d69_4_1	person gets bowl	s25-d69	194	405	egg	544
+s25-d69_4_2	person gets two eggs	s25-d69	423	764	egg	920
+s25-d69_4_3	person gets fork	s25-d69	787	1339	egg	1298
+s25-d69_4_4	person crack both eggs in bowl	s25-d69	1364	2242	egg	2240
+s25-d69_4_5	person adds pepper to eggs	s25-d69	2249	2866	egg	2850
+s25-d69_4_6	person scrambles eggs with fork	s25-d69	2871	3559	egg	3628
+s25-d69_4_7	person gets pan and oil	s25-d69	3579	4145	egg	4164
+s25-d69_4_8	person add oil to pan	s25-d69	4188	4908	egg	4822
+s25-d69_4_9	person adds eggs to pan	s25-d69	4923	6581	egg	6454
+s25-d69_4_10	person add pepper	s25-d69	6755	9273	egg	9454
+s25-d69_4_11	person flips egg over	s25-d69	9342	10127	egg	10310
+s25-d69_4_12	person adds pepper	s25-d69	10153	11839	egg	11940
+s25-d69_5_1	He takes a mixing bowl out of the cabinet	s25-d69	194	405	egg	468
+s25-d69_5_2	He gets two eggs from the refrigerator.	s25-d69	423	764	egg	914
+s25-d69_5_3	He takes out a fork.	s25-d69	787	1224	egg	1270
+s25-d69_5_4	He breaks the eggs into the bowl.	s25-d69	1240	1813	egg	1872
+s25-d69_5_5	He adds some seasoning to the uncooked eggs.	s25-d69	1840	2298	egg	2418
+s25-d69_5_6	He stirs the eggs, to mix them evenly and mix in the seasoning.	s25-d69	2326	2924	egg	2982
+s25-d69_5_7	He sets the temperature on the stove.	s25-d69	2945	3693	egg	3752
+s25-d69_5_8	He adds cooking oil to the skillet.	s25-d69	3720	4290	egg	4360
+s25-d69_5_9	He greases the pan, evenly with the cooking oil.	s25-d69	4354	4569	egg	4604
+s25-d69_5_10	He checks the temperature of the skillet.	s25-d69	4607	5356	egg	5294
+s25-d69_5_11	He adds the egg mixture to the heated skillet.	s25-d69	5471	6581	egg	6828
+s25-d69_5_12	He lets the eggs cook.	s25-d69	6755	7321	egg	7398
+s25-d69_5_13	He fluffs the eggs with the spatula and fork and adds more seasoning.	s25-d69	7344	9187	egg	9100
+s25-d69_5_14	He turns off the stove.	s25-d69	12067	12405	egg	12422
+s25-d69_5_15	He puts away his cooking oil and moves his cooked eggs back into the bowl he had mixed them in.	s25-d69	12067	12873	egg	13030
+s25-d69_6_1	He gets a bowl and two eggs.	s25-d69	194	764	egg	924
+s25-d69_6_2	He cracks the eggs into the bowl.	s25-d69	787	2242	egg	2240
+s25-d69_6_3	He heats a pan and puts oil in it.	s25-d69	2249	4474	egg	4494
+s25-d69_6_4	He scrambles the eggs and adds them to the pan.	s25-d69	4524	6581	egg	6546
+s25-d69_6_5	He seasons the eggs.	s25-d69	6755	11839	egg	11946
+s25-d69_6_6	He puts the eggs in a bowl.	s25-d69	12446	12873	egg	13078
+s25-d69_6_7	He cleans up a bit.	s25-d69	13014	14307	egg	14514
+s25-d69_8_1	He gets out 2 eggs, a bowl and a fork.	s25-d69	194	1224	egg	1238
+s25-d69_8_2	He cracks the eggs into the bowl.	s25-d69	1240	2298	egg	2284
+s25-d69_8_3	He salts the eggs.	s25-d69	2326	2924	egg	2952
+s25-d69_8_4	He put some oil in a pan.	s25-d69	2945	4678	egg	4770
+s25-d69_8_5	He finishes scrambling the eggs and puts them into the pan.	s25-d69	4705	6581	egg	6782
+s25-d69_8_6	He cleans the bowl.	s25-d69	6755	7757	egg	7852
+s25-d69_8_7	He finishes cooking the eggs and put them in a bowl.	s25-d69	9194	12873	egg	13008
+s25-d69_8_8	He cleans up.	s25-d69	13014	14307	egg	14514
+s25-d69_9_1	The person takes a stainless steel bowl from the cabinet.	194	764
+s25-d69_9_2	The person took two eggs from the refrigerator.	194	764
+s25-d69_9_3	A fork was taken from the drawers.	s25-d69	787	1224	egg	1260
+s25-d69_9_4	The man cracked two eggs into the stainless steel bowl and put the shells in the trash.	s25-d69	1240	2242	egg	2246
+s25-d69_9_5	The person added salt to the eggs.	s25-d69	2249	2725	egg	2808
+s25-d69_9_6	The eggs were whisked with a fork.	s25-d69	2779	3475	egg	3522
+s25-d69_9_7	The man turned on the stove.	s25-d69	3485	3693	egg	3732
+s25-d69_9_8	A pan was taken out of a drawer.	s25-d69	3720	3960	egg	4038
+s25-d69_9_9	The man put oil onto the pan.	s25-d69	4081	4474	egg	4496
+s25-d69_9_10	The man cleaned the stainless steel bowl.	s25-d69	4524	7757	egg	7834
+s25-d69_9_11	Pepper was poured onto the eggs.	s25-d69	7922	9236	egg	9236
+s25-d69_9_12	The eggs were flipped.	s25-d69	9241	10127	egg	10020
+s25-d69_9_13	More pepper was added to the eggs.	s25-d69	10153	11793	egg	11782
+s25-d69_9_14	The eggs were taken from the pan and moved into the stainless steel bowl.	12067	12873
+s25-d69_9_15	The spatula was cleaned.	12067	12873
+s25-d69_10_1	A bowl is removed from a cabinet.	s25-d69	194	405	egg	518
+s25-d69_10_2	Two eggs are removed from the refrigerator.	s25-d69	423	764	egg	908
+s25-d69_10_3	A fork is removed and the bowl is rinsed.	s25-d69	787	1339	egg	1522
+s25-d69_10_4	The eggs are cracked and the shells are discarded.	s25-d69	1364	2242	egg	2272
+s25-d69_10_5	The person rinses their hands.	s25-d69	2249	2298	egg	2372
+s25-d69_10_6	Seasoning is added to the eggs.	s25-d69	2326	2924	egg	2920
+s25-d69_10_7	The eggs are mixed.	s25-d69	2945	3559	egg	3574
+s25-d69_10_8	The stove is turned on and a pan is selected.	s25-d69	3579	3960	egg	3850
+s25-d69_10_9	Oil is removed and added to the pan.	s25-d69	4081	4569	egg	4548
+s25-d69_10_10	The eggs are added to the pan and the bowl is washed.	4607	7757
+s25-d69_10_11	A spatula is selected.	4607	7757
+s25-d69_10_12	The eggs are seasoned and cooked.	s25-d69	11805	12145	egg	12300
+s25-d69_10_13	The oil is returned to the cabinet.	s25-d69	12273	12479	egg	12590
+s25-d69_10_14	The cooked eggs are placed in the bowl.	s25-d69	7922	12873	egg	13062
+s25-d69_10_15	The spatula is washed and put away.	s25-d69	13014	14307	egg	14496
+s25-d69_11_1	He gets out a bowl from the cabinet, two eggs from the refrigerator, and a spoon from the drawer.	194	1339
+s25-d69_11_2	He washes the bowl in the sink and shakes it to dry it off.	194	1339
+s25-d69_11_3	He cracks the eggs on the side of the bowl and empties them into the bowl, throwing the shells away into the trash.	s25-d69	1364	2242	egg	2268
+s25-d69_11_4	He washes his hands, shakes them to dry them off, and pats some salt into the bowl.	s25-d69	2249	2866	egg	2840
+s25-d69_11_5	He uses the spoon to mix the eggs.	s25-d69	2871	3559	egg	3602
+s25-d69_11_6	He turns on the stove, gets out a frying pan and some oil, and places the frying pan on the stove.	s25-d69	3579	4145	egg	4198
+s25-d69_11_7	He pours oil in the pan, mixes the eggs some more, turns the pan to spread out the oil, and takes out a spoon from the drawer.	s25-d69	4188	5567	egg	5568
+s25-d69_11_8	He mixes the eggs with a spoon and pours them into the frying pan.	s25-d69	5574	6974	egg	6912
+s25-d69_11_9	He washes out the bowl and uses the spatula and a fork to move around the eggs.	s25-d69	7029	9187	egg	9108
+s25-d69_11_10	He gets out pepper and sprinkles it on top of the eggs.	s25-d69	9194	9273	egg	9500
+s25-d69_11_11	He flips the eggs over with the spatula and the fork and pats them down, finally sprinkling some spices on top.	s25-d69	9342	11839	egg	12044
+s25-d69_11_12	He picks the eggs up with the spatula and places them in the bowl.	s25-d69	12510	12873	egg	13126
+s25-d69_11_13	He washes the spatula in the sink with detergent and a sponge and puts the spatula away.	s25-d69	13014	14307	egg	14514
+s25-d69_12_1	Take out a bowl, 2 eggs, and a fork.	s25-d69	194	1124	egg	1134
+s25-d69_12_2	Crack the eggs into the bowl.	s25-d69	1152	2242	egg	2264
+s25-d69_12_3	Season the eggs.	s25-d69	2249	2725	egg	2784
+s25-d69_12_4	Stir the eggs with the fork.	s25-d69	2779	3693	egg	3714
+s25-d69_12_5	Put a frying pan over the burner and add oil.	s25-d69	3720	4290	egg	4384
+s25-d69_12_6	Pour the eggs into the pan.	s25-d69	4354	6581	egg	6794
+s25-d69_12_7	scramble the eggs with the spatula while they're cooking.	s25-d69	12067	12479	egg	12544
+s25-d69_12_8	Put the scrambled eggs back into the bowl.	s25-d69	7922	12873	egg	13034
+s25-d69_13_1	The person procures a metal bowl from the cabinet.	s25-d69	194	405	egg	576
+s25-d69_13_2	The person procures a pair of eggs from the fridge.	s25-d69	423	764	egg	928
+s25-d69_13_3	The person takes out a fork from the drawer.	s25-d69	787	1224	egg	1258
+s25-d69_13_4	The person rinses the bowl in the sink, then cracks each egg into the bowl and throws the shells into the wastebin before washing his hands.	s25-d69	1240	2298	egg	2386
+s25-d69_13_5	The person adds salt to the eggs and then stirs them up with the fork.	s25-d69	2326	3559	egg	3584
+s25-d69_13_6	The person turns on the stove, then takes out a pan before going to the pantry and getting a bottle of oil.	s25-d69	3579	4145	egg	4120
+s25-d69_13_7	The person pours oil into the pan and then the eggs from the bowl.	s25-d69	4188	6581	egg	6606
+s25-d69_13_8	The person washes the bowl and fork in the sink.	6755	7757
+s25-d69_13_9	The person takes a wooden spatula from the drawer.	6755	7757
+s25-d69_13_10	The person adds condiments to the eggs in the pan.	s25-d69	7922	11839	egg	12040
+s25-d69_13_11	The person sets the eggs into the bowl with the spatula.	s25-d69	12510	12873	egg	13018
+s25-d69_13_12	The person washes the spatula in the sink and returns it to the drawer.	s25-d69	13014	14307	egg	14514
+s25-d69_14_1	He took out bowl	s25-d69	194	405	egg	350
+s25-d69_14_2	He took out eggs	s25-d69	423	764	egg	712
+s25-d69_14_3	He took out spoon	s25-d69	787	1124	egg	1038
+s25-d69_14_4	He washed bowl	s25-d69	1152	1224	egg	1261
+s25-d69_14_5	He cracked first egg	s25-d69	1240	1775	egg	1654
+s25-d69_14_6	He threw out first shell	s25-d69	1785	1813	egg	1822
+s25-d69_14_7	He cracked second egg	s25-d69	1840	2045	egg	2047
+s25-d69_14_8	He threw out second shell	s25-d69	2053	2082	egg	2083
+s25-d69_14_9	He washed hands	s25-d69	2089	2162	egg	2175
+s25-d69_14_10	He added salt	s25-d69	2167	2618	egg	2646
+s25-d69_14_11	He washed spoon	s25-d69	2634	2866	egg	2885
+s25-d69_14_12	He beat eggs	s25-d69	2871	3349	egg	3359
+s25-d69_14_13	He turned on stove	s25-d69	3360	3559	egg	3569
+s25-d69_14_14	He took out pan	s25-d69	3579	3693	egg	3686
+s25-d69_14_15	He took out oil	s25-d69	3720	3960	egg	3944
+s25-d69_15_1	He took out bowl	s25-d69	194	405	egg	358
+s25-d69_15_2	He took out eggs	s25-d69	423	764	egg	715
+s25-d69_15_3	He took out fork	s25-d69	787	1124	egg	1088
+s25-d69_15_4	He washed bowl	s25-d69	1152	1339	egg	1305
+s25-d69_15_5	He cracked first egg	s25-d69	1364	1775	egg	1664
+s25-d69_15_6	He threw away shell	s25-d69	1785	1813	egg	1813
+s25-d69_15_7	He cracked second egg	s25-d69	1840	2045	egg	2055
+s25-d69_15_8	He threw away shell	s25-d69	2053	2082	egg	2098
+s25-d69_15_9	He washed hands	s25-d69	2089	2162	egg	2177
+s25-d69_15_10	He added salt	s25-d69	2167	2618	egg	2634
+s25-d69_15_11	He washed fork	s25-d69	2634	2924	egg	2919
+s25-d69_15_12	He beat eggs	s25-d69	2945	3349	egg	3362
+s25-d69_15_13	He turned on stove	s25-d69	3360	3559	egg	3566
+s25-d69_15_14	He took out pan	s25-d69	3579	3693	egg	3712
+s25-d69_15_15	He took out oil	s25-d69	3720	3960	egg	3934
+s25-d69_16_1	He gets out a bowl, eggs, and a utensil.	s25-d69	194	1124	egg	1165
+s25-d69_16_2	He cracks the eggs.	s25-d69	1152	2045	egg	2066
+s25-d69_16_3	He seasons the eggs.	s25-d69	2053	2689	egg	2668
+s25-d69_16_4	He whisks the eggs.	s25-d69	2693	3475	egg	3455
+s25-d69_16_5	He puts a pan on the stove.	s25-d69	3485	3960	egg	4102
+s25-d69_16_6	He oils the pan, whisks some more, and places the eggs in the pan.	s25-d69	4081	6581	egg	6635
+s25-d69_16_7	He cleans the utensils.	s25-d69	6755	7654	egg	7714
+s25-d69_16_8	He starts cooking and then flips the eggs over.	s25-d69	7701	10127	egg	9871
+s25-d69_16_9	He finishes cooking.	s25-d69	12067	12479	egg	12572
+s25-d69_16_10	He places the eggs in a bowl.	s25-d69	12510	12850	egg	12859
+s25-d69_16_11	He cleans the spatula and puts it away.	s25-d69	13014	14307	egg	14349
+s25-d69_17_1	The person gets a bowl out of the cupboard.	s25-d69	194	405	egg	564
+s25-d69_17_2	The person gets two eggs out of the fridge.	s25-d69	423	1124	egg	972
+s25-d69_17_3	The person picks out a fork.	s25-d69	1152	1339	egg	1298
+s25-d69_17_4	The person washes out the bowl and cracks the eggs inside.	s25-d69	1364	2298	egg	2382
+s25-d69_17_5	The person adds a fine layer of salt to the eggs in the bowl, making sure that each piece of egg receives a grain.	s25-d69	2326	2924	egg	2910
+s25-d69_17_6	The person washes the fork and scrambles the eggs in the bowl.	s25-d69	2945	3559	egg	3584
+s25-d69_17_7	The person gets out a frying pan, turns on the burner and gets out the oil.	s25-d69	4081	4290	egg	4246
+s25-d69_17_8	The person adds the oil to the pan and swishes it around.	s25-d69	4354	4908	egg	4876
+s25-d69_17_9	The person waits, stirs the eggs, gets out a spatula, puts it back and stirs some more.	s25-d69	4923	5675	egg	5796
+s25-d69_17_10	The person stirs the eggs, waits and then pours them in the pan.	s25-d69	5779	6974	egg	6872
+s25-d69_17_11	The person washes the bowl and fork.	s25-d69	7029	7757	egg	7856
+s25-d69_17_12	The person gets a spatula and fork and tries to "stir" or poke the eggs a little.	s25-d69	7922	8972	egg	9012
+s25-d69_17_13	The person peppers the eggs in an incredibly thoughtful manner.	s25-d69	8984	9273	egg	9446
+s25-d69_17_14	The person pokes, folds over, tries to reassemble the eggs and then adds more thoughtful seasoning.	s25-d69	9342	11839	egg	12086
+s25-d69_17_15	The person puts the oil away, puts the omelette pieces in a little bowl and washes the spatula.  (Still NOT 'scrambled' eggs.)	s25-d69	13014	14307	egg	14290
+s25-d69_18_1	The person got out a bowl.	194	764
+s25-d69_18_2	The person got out two eggs.	194	764
+s25-d69_18_3	The person got out a fork.	s25-d69	787	1224	egg	1256
+s25-d69_18_4	The person cracked the eggs into the bowl.	s25-d69	1240	2298	egg	2286
+s25-d69_18_5	The person put salt on the eggs.	s25-d69	2326	2725	egg	2810
+s25-d69_18_6	The person beat the eggs with a fork.	s25-d69	2779	3693	egg	3728
+s25-d69_18_7	The person got out a frying pan.	3720	3960
+s25-d69_18_8	The person got out some oil.	3720	3960
+s25-d69_18_9	The person put the eggs into the pan.	s25-d69	4081	6581	egg	6808
+s25-d69_18_10	The person put pepper on the eggs.	s25-d69	6755	9273	egg	9478
+s25-d69_18_11	The person flipped the eggs.	s25-d69	9342	11370	egg	11464
+s25-d69_18_12	The person seasoned the eggs.	s25-d69	11397	11839	egg	11968
+s25-d69_18_13	The person put the eggs in the bowl.	s25-d69	10153	12873	egg	13390
+s25-d69_19_1	He took out bowl	s25-d69	194	405	egg	570
+s25-d69_19_2	He took out eggs	s25-d69	423	764	egg	890
+s25-d69_19_3	He took out fork	s25-d69	787	1224	egg	1264
+s25-d69_19_4	He washed bowl	s25-d69	1240	1339	egg	1514
+s25-d69_19_5	He cracked first egg	s25-d69	1364	1813	egg	1830
+s25-d69_19_6	He threw away shell	s25-d69	1840	2045	egg	1990
+s25-d69_19_7	He cracked second egg	2053	2242
+s25-d69_19_8	He threw away shell	2053	2242
+s25-d69_19_9	He washed hands	s25-d69	2249	2298	egg	2356
+s25-d69_19_10	He added salt	s25-d69	2326	2725	egg	2808
+s25-d69_19_11	He washed the fork	s25-d69	2779	2924	egg	3060
+s25-d69_19_12	He scrambled egg	s25-d69	2945	3475	egg	3522
+s25-d69_19_13	He turned on stove	s25-d69	3485	3693	egg	3746
+s25-d69_19_14	He took out pan	3720	3960
+s25-d69_19_15	He took out oil	3720	3960

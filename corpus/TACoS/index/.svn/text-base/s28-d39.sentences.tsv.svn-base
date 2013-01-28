@@ -1,0 +1,201 @@
+s28-d39_1_1	He gets a cutting board and knife.	s28-d39	192	494	leek	496
+s28-d39_1_2	He gets the leeks.	s28-d39	524	833	leek	780
+s28-d39_1_3	He eliminates the bad parts of the leeks.	s28-d39	970	1622	leek	1640
+s28-d39_1_4	He rinses the leeks.	s28-d39	1729	2445	leek	2402
+s28-d39_1_5	He chops the leeks.	s28-d39	2532	4717	leek	4714
+s28-d39_1_6	He gets a pan and adds butter to it.	s28-d39	4721	6585	leek	6612
+s28-d39_1_7	He adds the leeks to the pan.	s28-d39	6630	9574	leek	9634
+s28-d39_1_8	He seasons the leeks.	s28-d39	9849	12816	leek	12934
+s28-d39_1_9	He seasons the leeks again.	s28-d39	12902	15986	leek	16032
+s28-d39_1_10	He adds water to the leeks.	s28-d39	16034	17604	leek	17610
+s28-d39_1_11	He straightens up and gets a plate.	s28-d39	17664	21424	leek	21462
+s28-d39_1_12	He puts the leeks on a plate.	s28-d39	21451	22648	leek	22628
+s28-d39_2_1	The person selects a cutting and a large chef knife.	s28-d39	192	494	leek	484
+s28-d39_2_2	The person selects the chuck leek to be used.	s28-d39	524	833	leek	828
+s28-d39_2_3	The person removes the unwanted sections of the leaves and stem of the Leek.	s28-d39	970	1250	leek	1232
+s28-d39_2_4	The person cuts open the middle of the leave section of the leek.	s28-d39	1298	1622	leek	1614
+s28-d39_2_5	The person washes thoroughly leave section and stem of the leek.	s28-d39	1729	2350	leek	2346
+s28-d39_2_6	The person then removes the root of the leek.	s28-d39	2356	2588	leek	2590
+s28-d39_2_7	The person chops leek first into four big pieces then into smaller pieces.	s28-d39	2592	4649	leek	4346
+s28-d39_2_8	Placing a skillet on the stove with a small amount of butter, the person allows the butter to partially melt and then adds the leek.	s28-d39	4673	9574	leek	9420
+s28-d39_2_9	While allowing the leek to cook, the person adds little water and spices.	s28-d39	9849	20096	leek	20090
+s28-d39_2_10	The person places the finished leek into a small dish.	s28-d39	20096	22648	leek	22680
+s28-d39_3_1	The person peeled and chopped up the leeks	s28-d39	192	4768	leek	4844
+s28-d39_3_2	The person added butter to a frying pan on the stove	s28-d39	5000	6873	leek	6874
+s28-d39_3_3	The person added the leeks to the melted butter in the pan	s28-d39	7044	9574	leek	9570
+s28-d39_3_4	The person stirred the leeks	s28-d39	9849	10744	leek	10754
+s28-d39_3_5	The person added seasonings to the leeks	s28-d39	11372	12816	leek	12940
+s28-d39_3_6	The person tossed the leeks	s28-d39	12902	13159	leek	13170
+s28-d39_3_7	The person stirred the leeks	s28-d39	13285	14165	leek	14178
+s28-d39_3_8	The person tasted a sample of the cooked leeks	s28-d39	14480	14730	leek	14774
+s28-d39_3_9	The person added more seasoning	s28-d39	14797	15986	leek	16006
+s28-d39_3_10	The person added additional seasoning from the refridgerator	s28-d39	16034	16676	leek	16674
+s28-d39_3_11	The person stirred the leeks	s28-d39	16703	17191	leek	17202
+s28-d39_3_12	The person added water to the leeks	s28-d39	17264	17604	leek	17586
+s28-d39_3_13	The person added another seasoning from the refridgerator	s28-d39	17664	18309	leek	18338
+s28-d39_3_14	The person added more seasoning	s28-d39	18353	19334	leek	19376
+s28-d39_3_15	The person served the leeks	s28-d39	22694	22753	leek	22788
+s28-d39_4_1	He took out cutting board	s28-d39	192	282	leek	306
+s28-d39_4_2	He took out knife	s28-d39	314	494	leek	498
+s28-d39_4_3	He took out leek	s28-d39	524	833	leek	794
+s28-d39_4_4	He cut off leaves	s28-d39	970	1250	leek	1240
+s28-d39_4_5	He washed leek	s28-d39	1298	2350	leek	2386
+s28-d39_4_6	He cut off bottom of leek	s28-d39	2356	2620	leek	2610
+s28-d39_4_7	He chopped up leek	s28-d39	2879	3290	leek	3960
+s28-d39_4_8	He took out pan	s28-d39	3533	5141	leek	5108
+s28-d39_4_9	He took out oil	s28-d39	5191	5858	leek	5820
+s28-d39_4_10	He took out butter	s28-d39	5955	6266	leek	6284
+s28-d39_4_11	He put butter in pan	s28-d39	6266	6730	leek	6700
+s28-d39_4_12	He turned on stove	s28-d39	6730	6873	leek	6876
+s28-d39_4_13	He threw away scraps	s28-d39	7044	7109	leek	7108
+s28-d39_5_1	The person cuts off all but two inches of the green portion of the leek using a chef's knife.	s28-d39	192	1179	leek	1180
+s28-d39_5_2	The person thouroughly washes the leek.	s28-d39	1196	2445	leek	2458
+s28-d39_5_3	The person cuts the roots from the leek.	s28-d39	2532	2588	leek	2588
+s28-d39_5_4	The person cuts the leek in half axially.	s28-d39	2592	3068	leek	3058
+s28-d39_5_5	The person cuts the halves in half laterally.	s28-d39	3099	3290	leek	3286
+s28-d39_5_6	The person stacks pieces of the leek and chops them into quarter-inch pieces.	s28-d39	3533	4717	leek	4712
+s28-d39_5_7	The person browns approximately two tablespoons of butter in a frying pan.	s28-d39	7188	8581	leek	8690
+s28-d39_5_8	The person places the chopped pieces of the leek in the pan with the melted butter.	s28-d39	8839	9574	leek	9844
+s28-d39_5_9	The person cooks the leek until slightly caramelized - stirring occasionally.	s28-d39	9849	12145	leek	12152
+s28-d39_5_10	The person seasons the leek to taste.	s28-d39	12152	13621	leek	13638
+s28-d39_5_11	The person adds additional seasoning to the leek.	s28-d39	13643	16744	leek	16782
+s28-d39_5_12	The person deglazes the pan with water.	s28-d39	16777	17604	leek	17688
+s28-d39_5_13	The person adds additional seasoning to the leek.	s28-d39	17664	18309	leek	18428
+s28-d39_5_14	The person places the cooked leek on a plate.	s28-d39	18353	22648	leek	22678
+s28-d39_6_1	The person takes out a cutting board from the drawer.	s28-d39	192	282	leek	292
+s28-d39_6_2	The person takes out a knife from the drawer.	s28-d39	314	494	leek	512
+s28-d39_6_3	The person procures some leeks from the fridge.	s28-d39	524	833	leek	788
+s28-d39_6_4	The person cuts off the leaves of the leeks.	s28-d39	970	1441	leek	1484
+s28-d39_6_5	The person washes the leeks in the sink.	s28-d39	1480	2445	leek	2472
+s28-d39_6_6	The person chops the leeks on the cutting board.	s28-d39	2532	4649	leek	4686
+s28-d39_6_7	The person takes a pan from the drawer and sets it on the stove.	s28-d39	4673	5141	leek	5158
+s28-d39_6_8	The person procures butter from the fridge.	s28-d39	5191	6335	leek	6328
+s28-d39_6_9	The person adds butter to the frying pan and then throws the leaves and stems into the trash.	s28-d39	6387	7109	leek	7128
+s28-d39_6_10	The person returns the butter to the fridge.	s28-d39	4721	7622	leek	7640
+s28-d39_6_11	The person adds the leeks to the frying pan.	s28-d39	7682	9574	leek	9426
+s28-d39_6_12	The person adds condiments to the leeks in the pan.	s28-d39	9849	16676	leek	16682
+s28-d39_6_13	The person takes a glass from the cabinet, fills it with water, and pours the water into the pan.	s28-d39	16703	17604	leek	17630
+s28-d39_6_14	The person adds more condiments and then returns them all, then the person procures a plate from the cabinet.	s28-d39	17664	21424	leek	21378
+s28-d39_6_15	The person turns off the stove and scoops the leeks from the pan onto the plate.	s28-d39	21451	22648	leek	22648
+s28-d39_7_1	He gets out the needed items.	s28-d39	192	833	leek	828
+s28-d39_7_2	He rinses the leeks.	s28-d39	970	2350	leek	2376
+s28-d39_7_3	He chops the leeks.	s28-d39	2356	4717	leek	4696
+s28-d39_7_4	He adds butter to a pan and turns on the stove.	s28-d39	4721	6730	leek	6766
+s28-d39_7_5	He adds the leeks to the pan.	s28-d39	7188	9574	leek	9594
+s28-d39_7_6	He finishes cooking and puts the leeks on a plate.	s28-d39	9849	22648	leek	22684
+s28-d39_8_1	He took out cutting board	s28-d39	192	282	leek	290
+s28-d39_8_2	He took out knife	s28-d39	314	494	leek	498
+s28-d39_8_3	He took out leek	s28-d39	524	833	leek	814
+s28-d39_8_4	He cut leaves off leek	s28-d39	970	1250	leek	1276
+s28-d39_8_5	He washed leek	s28-d39	1298	2350	leek	2386
+s28-d39_8_6	He cut off bottom of leek	s28-d39	2356	2588	leek	2602
+s28-d39_8_7	He chopped leek	s28-d39	2592	4717	leek	4708
+s28-d39_9_1	He gets a cutting board and knife.	s28-d39	192	494	leek	496
+s28-d39_9_2	He gets the leeks.	s28-d39	524	833	leek	840
+s28-d39_9_3	He rinses the leeks.	s28-d39	970	2350	leek	2390
+s28-d39_9_4	He chops the leeks.	s28-d39	2356	4717	leek	4696
+s28-d39_9_5	He puts butter in a pan and turn on the stove.	s28-d39	4721	6873	leek	6858
+s28-d39_9_6	He adds the leeks to the pan.	s28-d39	6730	9574	leek	9646
+s28-d39_9_7	He adds some spices to the pan.	s28-d39	9849	12816	leek	12922
+s28-d39_9_8	He adds more spices to the leeks.	s28-d39	12902	15986	leek	15994
+s28-d39_9_9	He adds some water to the pan.	s28-d39	16034	17604	leek	17622
+s28-d39_9_10	He puts the leeks on a plate.	s28-d39	17664	22648	leek	22660
+s28-d39_10_1	He gets a cutting board and knife.	s28-d39	192	494	leek	504
+s28-d39_10_2	He gets the leeks.	s28-d39	524	833	leek	872
+s28-d39_10_3	He trims the leeks and washes them.	s28-d39	970	2445	leek	2484
+s28-d39_10_4	He chops the leeks.	s28-d39	2532	4649	leek	4690
+s28-d39_10_5	He gets a pan, puts butter in it, and turns on the heat.	s28-d39	4721	6873	leek	6888
+s28-d39_10_6	He adds the leeks to the pan.	s28-d39	7044	9574	leek	9650
+s28-d39_10_7	He seasons the leeks.	s28-d39	9849	15986	leek	16022
+s28-d39_10_8	He adds water to the pan.	s28-d39	16034	17604	leek	17742
+s28-d39_10_9	He adds spice.	s28-d39	17664	18309	leek	18338
+s28-d39_10_10	He puts the leeks on a plate.	s28-d39	18353	22648	leek	22642
+s28-d39_11_1	He gets a cutting board and knife.	s28-d39	192	494	leek	504
+s28-d39_11_2	He gets out the leeks and cuts of the leaves.	s28-d39	524	1250	leek	1294
+s28-d39_11_3	He rinses the leeks.	s28-d39	1298	2350	leek	2376
+s28-d39_11_4	He chops the leeks.	s28-d39	4673	4768	leek	4812
+s28-d39_11_5	He adds butter to the pan and turns the stove on.	s28-d39	5000	6873	leek	6888
+s28-d39_11_6	He adds the leeks to the pan.	s28-d39	7044	9574	leek	9584
+s28-d39_11_7	He seasons the leeks.	s28-d39	9849	12816	leek	12912
+s28-d39_11_8	He adds water to the leeks.	s28-d39	12902	17604	leek	17620
+s28-d39_11_9	He puts the leeks on a plate.	s28-d39	17664	22648	leek	22644
+s28-d39_12_1	He took out cutting board	s28-d39	192	282	leek	280
+s28-d39_12_2	He took out knife	s28-d39	314	494	leek	506
+s28-d39_12_3	He took out leek	s28-d39	524	833	leek	792
+s28-d39_12_4	He cut off leaves	s28-d39	970	1250	leek	1270
+s28-d39_12_5	He washed leek	s28-d39	1298	2445	leek	2470
+s28-d39_12_6	He cut off end of leek	s28-d39	2532	2620	leek	2614
+s28-d39_12_7	He chopped leek	s28-d39	2879	4649	leek	4668
+s28-d39_13_1	How to prepare leeks.	192	282
+s28-d39_13_2	The person takes out a cutting board.	192	282
+s28-d39_13_3	The person take out a knife.	s28-d39	314	494	leek	500
+s28-d39_13_4	The person gets a fresh leek.	s28-d39	524	833	leek	836
+s28-d39_13_5	The person cuts off the bad leaves and end of the leek.	s28-d39	970	1250	leek	1256
+s28-d39_13_6	The person cuts the leek, from the middle to the top, then washes it.	s28-d39	1298	2350	leek	2376
+s28-d39_13_7	The person cuts of the root and finishes cutting the leek down the middle. The person cuts the leek in half then in quarters. The person puts the leeks together and slices them.	s28-d39	2356	4768	leek	4768
+s28-d39_13_8	The person gets a skillet, turns on the stove and adds butter to the skillet.	s28-d39	5000	6585	leek	6626
+s28-d39_13_9	The person allows the butter to melt then adds the leeks to the skillet.	s28-d39	7044	9574	leek	9684
+s28-d39_13_10	The person adds seasons to taste, adjusts temperature and stirs occasionally.	s28-d39	9849	13621	leek	13632
+s28-d39_13_11	The person adds salt and more seasons to taste and then adds water while stirring occasionally.	s28-d39	13643	18309	leek	18420
+s28-d39_13_12	The person continues to add seasons to taste and gets a serving plate.	s28-d39	18353	21424	leek	21424
+s28-d39_13_13	The person places the leeks in the serving plate.	s28-d39	21451	22648	leek	22722
+s28-d39_14_1	He took out cutting board	s28-d39	192	282	leek	302
+s28-d39_14_2	He took out knife	s28-d39	314	494	leek	502
+s28-d39_14_3	He took out leek	s28-d39	524	833	leek	784
+s28-d39_14_4	He cut off leaves	s28-d39	970	1250	leek	1252
+s28-d39_14_5	He washed leek	s28-d39	1298	2445	leek	2478
+s28-d39_14_6	He cut off bottom of leek	s28-d39	2532	2620	leek	2652
+s28-d39_14_7	He chopped leek	s28-d39	4673	4768	leek	4758
+s28-d39_14_8	He took out pan	s28-d39	5000	5141	leek	5150
+s28-d39_14_9	He took out butter	s28-d39	5191	6266	leek	6272
+s28-d39_15_1	The man washes the leeks.	s28-d39	192	2445	leek	2524
+s28-d39_15_2	The man chops up the leeks.	s28-d39	2356	4768	leek	4858
+s28-d39_15_3	The man adds butter to the pan.	s28-d39	6266	6873	leek	6914
+s28-d39_15_4	The man adds the leeks into the pan.	s28-d39	6630	9574	leek	9638
+s28-d39_15_5	The man seasons the leeks as they cook.	s28-d39	9849	15986	leek	16020
+s28-d39_15_6	The man adds a little water into the pan.	s28-d39	16034	17604	leek	17672
+s28-d39_15_7	The man continues to season the leeks as they cook.	s28-d39	17664	20184	leek	20278
+s28-d39_15_8	The man places the leeks into a plate.	s28-d39	22694	22753	leek	22736
+s28-d39_16_1	He took out cutting board	s28-d39	192	282	leek	316
+s28-d39_16_2	He took out knife	s28-d39	314	494	leek	510
+s28-d39_16_3	He took out leek	s28-d39	524	833	leek	840
+s28-d39_16_4	He cut off leaves	s28-d39	970	1250	leek	1274
+s28-d39_16_5	He washed leek	s28-d39	1298	2445	leek	2416
+s28-d39_16_6	He cut off bottom	s28-d39	2532	2620	leek	2702
+s28-d39_16_7	He diced leek	s28-d39	2879	4768	leek	4778
+s28-d39_17_1	He cut off bottom of leek	192	2588
+s28-d39_17_2	He washed leek	192	2588
+s28-d39_17_3	He cut off leaves	192	2588
+s28-d39_17_4	He took out leek	192	2588
+s28-d39_17_5	He took out knife	192	2588
+s28-d39_17_6	He took out cutting board	192	2588
+s28-d39_17_7	He chopped leek	s28-d39	2879	4717	leek	4696
+s28-d39_18_1	The person takes out a carving board, knife and leeks from the refrigerator to begin preparation.	s28-d39	192	833	leek	828
+s28-d39_18_2	The person removes the unusable/spoiled parts from the leeks first to discard.	s28-d39	970	1441	leek	1498
+s28-d39_18_3	The person makes a slit into the top of the leeks to open it up and then washes the inside/outside under water.	s28-d39	1480	2350	leek	2356
+s28-d39_18_4	The person cuts off the other end then slices the leek in half lengthwise.	s28-d39	2356	3148	leek	3154
+s28-d39_18_5	The person cuts the two leek pieces into halves then begins to chop the entire leek into thin slices.	s28-d39	2592	4717	leek	4740
+s28-d39_18_6	The person places a medium frying pan onto the stove, adds a slice of butter, then turns on the heat to melt the butter.	s28-d39	5000	6873	leek	6882
+s28-d39_18_7	The person discards the damaged/spoiled parts of the leek, puts away the butter and gathers spices to add once the leeks are put into the frying pan.	s28-d39	7044	8165	leek	8182
+s28-d39_18_8	The person adds the sliced leeks to the frying pan after the butter has melted and covers the entire pan	s28-d39	8165	9574	leek	9804
+s28-d39_18_9	The person separates the leeks in the pan to allow them to saute effieciently in the melted butter.	s28-d39	9849	10744	leek	10784
+s28-d39_18_10	The person continues to saute the leeks, then flips them around a bit in the pan before adding spices.	s28-d39	11372	12816	leek	12904
+s28-d39_18_11	The person adjusts the heat, stirs the leeks and spices together, tastes them after a few moments and decides to add more spices to the mixture.	s28-d39	12902	15986	leek	16006
+s28-d39_18_12	The person stirs in a new spice, then adds some water and a flavor powder to the leeks before stirring again and adjusting the heat.	s28-d39	16034	18595	leek	18626
+s28-d39_18_13	The person allows a few moments for the new spice/flavoring to cook into the leeks before taking a small bite to be sure they are cooked and ready to serve.	s28-d39	18604	20184	leek	20216
+s28-d39_18_14	The person allows the leeks to simmer a moment longer on low heat while he puts away the spices, grabs a plate, then removes the pan from the stove and places the leeks onto his plate and turns off the stove.	s28-d39	20209	22648	leek	22722
+s28-d39_19_1	He took out cutting board	s28-d39	192	282	leek	272
+s28-d39_19_2	He took out knife	s28-d39	314	494	leek	502
+s28-d39_19_3	He took out leeks	s28-d39	524	833	leek	776
+s28-d39_19_4	He cut off leaves	s28-d39	970	1179	leek	1200
+s28-d39_19_5	He washed leek	s28-d39	1196	2350	leek	2352
+s28-d39_19_6	He cut off bottom of leek	s28-d39	2356	2620	leek	2608
+s28-d39_19_7	He cut leek in half	s28-d39	2879	3148	leek	3194
+s28-d39_19_8	He chopped up leek	s28-d39	4721	4768	leek	4820
+s28-d39_19_9	He took out pan	s28-d39	2532	5141	leek	5124
+s28-d39_19_10	He took out oil	s28-d39	5191	5758	leek	5774
+s28-d39_19_11	He took out butter	s28-d39	5771	6266	leek	6248
+s28-d39_19_12	He put butter in pan	s28-d39	5000	6585	leek	6582
+s28-d39_19_13	He turned on stove	s28-d39	6630	6873	leek	6844
+s28-d39_19_14	He threw away scraps	s28-d39	7044	7109	leek	7092
+s28-d39_19_15	He put away butter	s28-d39	7044	7622	leek	7626

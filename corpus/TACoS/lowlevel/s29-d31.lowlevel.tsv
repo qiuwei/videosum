@@ -1,0 +1,13 @@
+249	419	take out	hand	cutting board	counter,drawer
+424	469	close	hand		drawer
+481	657	take out	hand	knife	counter,drawer
+658	693	close	hand		drawer
+729	1008	take out	hand	garlic	,drawer
+1038	1153	take apart	hand	garlic	
+1221	1274	cut	knife	garlic	cutting board
+1290	1315	scratch off	hand	garlic	counter,knife
+1488	2189	slice	knife	garlic	cutting board
+2189	2240	gather	knife	garlic	cutting board
+2240	2693	chop	knife	garlic	cutting board
+2693	2735	scratch off	hand	garlic	cutting board,knife
+2991	3060	throw in garbage	hand	garbage	

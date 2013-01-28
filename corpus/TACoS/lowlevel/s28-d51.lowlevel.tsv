@@ -1,0 +1,99 @@
+207	317	take out	hand	cutting board	counter,drawer
+342	449	take out	hand	knife	cutting board,drawer
+478	887	take out	hand	beans,plastic bag	counter,fridge
+887	946	move	hand	beans	cutting board,plastic bag
+955	1029	remove from package	hand	beans	cutting board,plastic bag
+1036	1164	remove from package	hand	beans	cutting board,plastic bag
+1164	1341	put in	hand	plastic bag	counter,fridge
+1439	1678	wash	hand	beans	
+1678	1812	shake	hand	beans	
+1870	1955	cut	knife	beans	cutting board
+1959	2067	cut	knife	beans	cutting board
+2071	2156	cut	knife	beans	cutting board
+2162	2342	cut	knife	beans	cutting board
+2370	2466	cut	knife	beans	cutting board
+2494	2597	cut	knife	beans	cutting board
+2622	2762	cut	knife	beans	cutting board
+2860	3097	arrange	hand	beans	cutting board
+3097	3142	cut	knife	beans	cutting board
+3142	3333	arrange	hand	beans	cutting board
+3403	3455	arrange	hand	beans	cutting board
+3470	3803	cut	knife	beans	cutting board
+3989	4146	throw in garbage	knife	beans	
+4273	4395	take out	hand	pan	drawer,stove
+4402	4459	turn on	hand	stove	
+4467	4529	change temperature	hand	stove	
+4561	4805	take out	hand	bottle	,cupboard
+4811	4842	screw	hand	bottle	
+4892	4973	pour	bottle	oil	pan
+5007	5060	pour	bottle	oil	pan
+5070	5149	screw	hand	bottle	
+5155	5186	put in	hand	bottle	,cupboard
+5186	5239	close	hand		cupboard
+5259	5361	spread	pan	oil	pan
+5410	5482	move	hand	beans	cutting board
+5515	5704	take out	hand	spice shaker	counter,spice holder
+5746	6204	take out	hand	paper bag	cupboard
+6582	6664	put in	hand	paper bag	,cupboard
+6664	6895	take out	hand	paper bag	counter,cupboard
+6900	7000	spread	pan	oil	pan
+7007	7054	change temperature	hand	stove	
+7135	7222	take out	hand	spatula	drawer
+7274	7558	add	spatula	beans	cutting board,pan
+7566	8404	stir	spatula	beans	pan
+8414	8647	change temperature	hand	stove	
+8688	8766	remove rubber band	hand	rubber band	paper bag
+8766	8988	open	hand	paper bag	
+8988	9085	take out	hand	teaspoon	,drawer
+9186	9500	add	teaspoon	sugar	pan,paper bag
+9502	9808	add	teaspoon	sugar	pan,paper bag
+9881	9994	close	hand	paper bag	
+9994	10096	put rubber band	hand	rubber band	paper bag
+10096	10253	put in	hand	paper bag	,cupboard
+10316	10349	change temperature	hand	stove	
+10371	10502	shake	hand	pan	
+10760	10888	move	hand	spatula	counter,stove
+10908	11174	put in	hand	teaspoon	counter,dish washer
+11195	11299	wash	hand	knife	
+11299	11333	shake	hand	knife	
+11457	11601	put in	hand	cutting board	counter,drawer
+11627	11787	flip	pan	beans	pan
+11788	11847	smell		beans	pan
+11905	11938	screw	hand	spice shaker	
+11945	12249	spice	spice shaker	salt	pan
+12253	12270	screw	hand	spice shaker	
+12295	12346	screw	hand	spice shaker	
+12352	12625	spice	spice shaker	pepper	pan
+12625	12684	screw	hand	spice shaker	
+12720	12835	change temperature	hand	stove	
+12841	12926	shake	pan	beans	pan
+12926	13027	flip	pan	beans	pan
+13077	13660	stir	spatula	beans	pan
+13680	13748	change temperature	hand	stove	
+13850	13940	take out	hand	fork	counter,drawer
+13940	13967	close	hand		drawer
+13990	14288	take out	hand	plate	counter,cupboard
+14337	14671	stir	spatula	beans	pan
+14751	14793	shake	hand	fork	
+14831	15002	taste	fork	beans	
+15048	15077	screw	hand	spice shaker	
+15083	15506	spice	spice shaker	salt	pan
+15512	15592	screw	hand	spice shaker	
+15620	16174	stir	spatula	beans	pan
+16264	16329	shake	hand	fork	
+16449	16659	taste	fork	beans	
+16750	16789	screw	hand	spice shaker	
+16804	16939	spice	spice shaker	pepper	pan
+16950	17044	screw	hand	spice shaker	
+17075	17325	stir	spatula	beans	pan
+17342	17398	shake	pan	beans	pan
+17398	17542	flip	pan	beans	pan
+17542	17661	smell		beans	pan
+17721	17806	shake	hand	fork	
+17844	17921	taste	fork	beans	
+18225	18292	screw	hand	spice shaker	
+18289	18413	spice	spice shaker	salt	pan
+18414	18471	screw	hand	spice shaker	
+18475	18608	put in	hand	spice shaker	counter,spice holder
+18713	18793	change temperature	hand	stove	
+18917	19520	move	spatula	beans	pan,plate

@@ -1,0 +1,8 @@
+233	435	take out	hand	ginger	counter,cupboard
+438	622	take out	hand	cutting board	counter,drawer
+622	680	close	hand		drawer
+680	1017	take out	hand	knife	,drawer
+1019	1047	move	hand	ginger	counter,cutting board
+1051	1116	cut	knife	ginger	cutting board
+1117	1142	move	hand	ginger	counter,cutting board
+1157	1715	slice	knife	ginger	cutting board

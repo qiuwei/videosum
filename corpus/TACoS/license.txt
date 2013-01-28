@@ -1,0 +1,65 @@
+TACoS Corpus
+
+License agreement
+
+License Agreement for the TACoS Corpus for non-commercial use
+
+ 
+Universität des Saarlandes, FR 4.7 Computerlinguistik
+Lehrstuhl Prof. Dr. Manfred Pinkal
+Postfach 151150, D-66041 Saarbrücken, Germany
+
+("Licenser")
+
+and	"Licensee"
+ 
+
+agree as follows	
+ 
+ 
+1. Status of Licensee
+
+Licensee confirms that Licensee is an academic or educational institution.
+
+2. Product
+
+The TACoS corpus consists of the following parts:
+ * For 127 Videos of kitchen tasks from the "MPII Composites corpus", there are several natural language descriptions
+   of the actions in each video, collected via Amazon Mechanical Turk
+ * The descriptions contain timestamps that mark the start and endpoint in the video
+ * Overall, the corpus contains about 17334 sentences, in 2206 video descriptions.     
+ * Additionally, the corpus contains low-level annotations from the "MPII Composites corpus", and a time-stamp based alignments 
+   of the video-descriptions with this low-level annotations.
+
+
+3. License
+
+Licenser grants Licensee a non-exclusive license to use the TACoS corpus Licensee agrees
+
+ * to use the corpus only for non-commercial, non-profit research purposes;
+ * to make no changes to the corpus;
+ * and to acknowledge the use of the corpus in all publications reporting on results produced with the help of the TACoS corpus by citing the 
+   the following paper:
+   
+  @article{tacos:regnerietal:tacl,
+   Author = {Regneri, Michaela and Rohrbach, Marcus and Wetzel, Dominikus and Thater, Stefan and Schiele, Bernt and Pinkal, Manfred}, 
+   Journal = {Transactions of the Association for Computational Linguistics (TACL)},
+   Title = {Grounding Action Descriptions in Videos},
+   Year = {in press}}
+    
+
+Use of the corpus or use of data derived from the corpus for any commercial purposes requires explicit written agreement of Licenser.
+
+
+4. Third Party Data
+The videos underlying the sentence annotations are part of the "MPII Composites" corpus (Max Planck Institute for Informatics, Saarbrücken). The data can be retrieved from [URL], under the license given by MPI for Informatics.
+   
+
+5. Fee
+
+This license is granted by Licenser to Licensee free of charge.
+ 
+
+6. Disclaimer
+
+The TACoS corpus is provided on an ``as is'' basis, with no guarantee of its veracity or accuracy. No liability is accepted for any damage caused by its use.                

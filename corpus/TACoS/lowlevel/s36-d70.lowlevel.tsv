@@ -1,0 +1,30 @@
+192	341	take out	hand	squeezer	counter,drawer
+371	614	take out	hand	orange	,fridge
+640	723	throw in garbage	hand	net bag	
+750	998	take out	hand	cutting board	counter,drawer
+998	1144	take out	hand	knife	,drawer
+1236	1314	cut	knife	orange	cutting board
+1491	1531	remove lid	hand	lid	squeezer
+1544	1569	shake	hand	squeezer	
+1569	1602	put lid	hand	lid	squeezer
+1652	2664	squeeze	squeezer	orange	squeezer
+2764	3532	squeeze	squeezer	orange	squeezer
+3559	3759	squeeze	squeezer	orange	squeezer
+3759	3839	squeeze	hand	orange	squeezer
+3956	4255	take out	hand	glass	counter,cupboard
+4361	4490	throw in garbage	hand	peel	
+4498	4550	wash	hand	hand	
+4588	4636	wash	hand	glass	
+4694	4735	remove lid	hand	lid	squeezer
+4735	5045	scratch off	hand	orange	lid
+5045	5173	shake	hand	lid	
+5271	5425	pour	squeezer	orange	glass
+5495	5813	throw in garbage	hand,lid	orange	
+5827	6105	wash	hand	lid	
+6124	6307	wash	hand	squeezer	
+6334	6374	open	hand		drawer
+6380	6516	put in	hand	squeezer	,drawer
+6557	6688	wash	hand	cutting board	
+6728	6800	wash	hand	knife	
+6836	6901	put in	hand	cutting board	,drawer
+6901	6972	put in	hand	knife	,drawer

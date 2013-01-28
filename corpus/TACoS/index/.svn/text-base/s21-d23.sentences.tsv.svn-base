@@ -1,0 +1,168 @@
+s21-d23_1_1	She took out carrots	s21-d23	307	518	carrot	483
+s21-d23_1_2	She took out knife	s21-d23	540	786	carrot	790
+s21-d23_1_3	She took out cutting board	s21-d23	792	875	carrot	883
+s21-d23_1_4	She took out plate	s21-d23	875	1152	carrot	1142
+s21-d23_1_5	She washed carrot	s21-d23	1154	1517	carrot	1499
+s21-d23_1_6	She took out peeler	s21-d23	1522	1979	carrot	2002
+s21-d23_1_7	She peeled carrot	s21-d23	2020	2532	carrot	2616
+s21-d23_1_8	She chopped up carrot	s21-d23	2651	3097	carrot	3103
+s21-d23_1_9	She put away remaining carrots	s21-d23	3130	3366	carrot	3390
+s21-d23_2_1	Take carrots out of fridge.	s21-d23	307	518	carrot	497
+s21-d23_2_2	Get knife out of front cabinet.	s21-d23	540	786	carrot	737
+s21-d23_2_3	Take out cutting board.	s21-d23	792	875	carrot	899
+s21-d23_2_4	Take small bowl out of back pantry	s21-d23	875	1152	carrot	1175
+s21-d23_2_5	Cut both ends of carrot one by one	s21-d23	1154	1312	carrot	1351
+s21-d23_2_6	Rinse carrot off in sink.	s21-d23	1360	1461	carrot	1447
+s21-d23_2_7	Peel carrot	s21-d23	1461	1979	carrot	2099
+s21-d23_2_8	Throw away skin.	s21-d23	2020	2532	carrot	2659
+s21-d23_2_9	Chop carrot	s21-d23	2651	2800	carrot	2867
+s21-d23_2_10	Put into small bowl once done chopping	s21-d23	2809	3097	carrot	3107
+s21-d23_2_11	Put away leftover carrots.	s21-d23	3130	3366	carrot	3449
+s21-d23_3_1	The person gets out a bunch of carrots.	s21-d23	307	518	carrot	495
+s21-d23_3_2	The person gets out a knife.	s21-d23	540	786	carrot	783
+s21-d23_3_3	The person gets out a wooden plate.	s21-d23	792	937	carrot	919
+s21-d23_3_4	The person gets out a bowl.	s21-d23	984	1152	carrot	1163
+s21-d23_3_5	The person takes one carrot from the bunch.	s21-d23	1154	1312	carrot	1315
+s21-d23_3_6	The person rinses the carrot.	s21-d23	1360	1517	carrot	1505
+s21-d23_3_7	The person gets out a vegetable peeler.	s21-d23	1522	1979	carrot	1983
+s21-d23_3_8	The person peels the carrot.	s21-d23	2020	2532	carrot	2571
+s21-d23_3_9	The person throws away the peel.	s21-d23	2651	2748	carrot	2751
+s21-d23_3_10	The person chops up the carrot and puts the pieces in the bowl.	s21-d23	2754	3097	carrot	3093
+s21-d23_3_11	The person puts away the bunch of carrots.	s21-d23	3130	3366	carrot	3369
+s21-d23_4_1	The person takes a bunch of carrots out of the refrigerator.	s21-d23	307	518	carrot	519
+s21-d23_4_2	The person puts a knife on the counter.	s21-d23	540	786	carrot	797
+s21-d23_4_3	The person puts a cutting board on the counter.	s21-d23	792	875	carrot	905
+s21-d23_4_4	The person puts a small dish from the cabinet on the counter.	s21-d23	875	1152	carrot	1169
+s21-d23_4_5	The person selects a carrot from the bunch.	s21-d23	1154	1312	carrot	1397
+s21-d23_4_6	The person rinses the carrot with water.	s21-d23	1360	1517	carrot	1501
+s21-d23_4_7	The person throws away the discarded tip from the carrot.	s21-d23	1522	1778	carrot	1785
+s21-d23_4_8	The person peels the carrot with a vegetable peeler.	s21-d23	1797	2532	carrot	2561
+s21-d23_4_9	The person throws the peelings away.	s21-d23	2651	2800	carrot	2795
+s21-d23_4_10	The person chops the carrot with a knife.	s21-d23	2809	3097	carrot	3115
+s21-d23_4_11	The person puts the rest of the carrots back in the refrigerator.	3130	3366
+s21-d23_4_12	The video ends.	3130	3366
+s21-d23_5_1	The person gets out a bunch of carrots.	s21-d23	307	518	carrot	501
+s21-d23_5_2	The person gets out a knife.	s21-d23	540	786	carrot	785
+s21-d23_5_3	The person gets out a wooden plate.	s21-d23	792	937	carrot	921
+s21-d23_5_4	The person gets out a bowl.	s21-d23	984	1152	carrot	1153
+s21-d23_5_5	The person removes one carrot from the bunch.	s21-d23	1154	1312	carrot	1301
+s21-d23_5_6	The person rinses the carrot.	s21-d23	1360	1480	carrot	1497
+s21-d23_5_7	The person gets out a vegetable peeler.	s21-d23	1480	1979	carrot	1985
+s21-d23_5_8	The person peels the carrot.	s21-d23	2020	2532	carrot	2601
+s21-d23_5_9	The person throws away the peel.	s21-d23	2651	2748	carrot	2759
+s21-d23_5_10	The person cuts up the carrot.	s21-d23	2754	3031	carrot	3061
+s21-d23_5_11	The person puts away the bunch of carrots.	s21-d23	3031	3366	carrot	3359
+s21-d23_6_1	She gets out the carrots.	s21-d23	307	518	carrot	501
+s21-d23_6_2	She gets a knife and cutting board.	s21-d23	540	937	carrot	907
+s21-d23_6_3	She gets a plate.	s21-d23	984	1152	carrot	1161
+s21-d23_6_4	She gets out a peeler and peels the carrot.	s21-d23	1154	2532	carrot	2625
+s21-d23_6_5	She chops the carrot and puts it in a bowl.	s21-d23	2651	3097	carrot	3113
+s21-d23_6_6	She puts the carrots away.	s21-d23	3130	3366	carrot	3349
+s21-d23_8_1	She grabs a bunch of carrots.	s21-d23	307	518	carrot	497
+s21-d23_8_2	She gets a knife.	s21-d23	540	786	carrot	775
+s21-d23_8_3	She gets a cutting board and a plate.	s21-d23	792	1152	carrot	1167
+s21-d23_8_4	She rinses one carrot and puts it on the cutting board.	s21-d23	1154	1517	carrot	1513
+s21-d23_8_5	She peels the carrot and discards the peels.	s21-d23	1522	2748	carrot	2737
+s21-d23_8_6	She chops the carrot and put it on the plate.	s21-d23	2754	3097	carrot	3123
+s21-d23_8_7	She puts the carrots away.	s21-d23	3130	3366	carrot	3365
+s21-d23_9_1	The person removes the carrots from the refrigerator.	s21-d23	307	518	carrot	499
+s21-d23_9_2	The person selects a properly sized knife for chopping the carrots.	s21-d23	540	786	carrot	777
+s21-d23_9_3	The person gets out a cutting board to cut carrots on.	s21-d23	792	937	carrot	939
+s21-d23_9_4	The person gets a container to put the chopped carrots in.	s21-d23	984	1152	carrot	1167
+s21-d23_9_5	The person selects a carrot and removes it from the bundle.	s21-d23	1154	1264	carrot	1267
+s21-d23_9_6	The person cuts the end off the carrot and washes it.	s21-d23	1264	1480	carrot	1473
+s21-d23_9_7	The person selects a peeling tool.	s21-d23	1480	1979	carrot	1973
+s21-d23_9_8	The person peels the carrot.	s21-d23	2020	2532	carrot	2561
+s21-d23_9_9	The person disposes of the carrot remains.	s21-d23	2651	2748	carrot	2727
+s21-d23_9_10	The person chops the carrot.	2754	3097
+s21-d23_9_11	The person puts the chopped carrot in a bowl.	2754	3097
+s21-d23_9_12	The person puts the remaining carrots in the refrigerator.	s21-d23	3130	3366	carrot	3285
+s21-d23_10_1	She gets a bunch of carrots.	s21-d23	307	518	carrot	515
+s21-d23_10_2	She gets a knife.	s21-d23	540	786	carrot	769
+s21-d23_10_3	She gets a cutting board.	s21-d23	792	875	carrot	879
+s21-d23_10_4	She gets a plate.	s21-d23	875	1152	carrot	1171
+s21-d23_10_5	She rinses the carrot.	s21-d23	1154	1517	carrot	1509
+s21-d23_10_6	She gets a peeler and peels the carrot.	s21-d23	1522	2532	carrot	2557
+s21-d23_10_7	She discards the peels.	s21-d23	2651	2748	carrot	2777
+s21-d23_10_8	She chops the carrot and puts it in a bowl.	s21-d23	2754	3097	carrot	3095
+s21-d23_10_9	She puts the carrots away.	s21-d23	3130	3366	carrot	3349
+s21-d23_11_1	A carrot bunch is removed from the refrigerator.	s21-d23	307	518	carrot	493
+s21-d23_11_2	The person selects a knife.	s21-d23	540	786	carrot	773
+s21-d23_11_3	The person removes a cutting board.	s21-d23	792	875	carrot	893
+s21-d23_11_4	A plate is removed for serving.	s21-d23	875	1152	carrot	1157
+s21-d23_11_5	A carrot is removed from the bunch and the end trimmed.	s21-d23	1154	1312	carrot	1349
+s21-d23_11_6	The carrot is washed.	s21-d23	1360	1517	carrot	1505
+s21-d23_11_7	The ends are discarded.	s21-d23	1522	1778	carrot	1777
+s21-d23_11_8	A peeler is selected.	s21-d23	1797	1979	carrot	1975
+s21-d23_11_9	The carrot is peeled.	s21-d23	2020	2532	carrot	2553
+s21-d23_11_10	The scraps are discarded.	s21-d23	2651	2800	carrot	2787
+s21-d23_11_11	The carrot is sliced and the slices are placed on the plate.	s21-d23	2809	3097	carrot	3097
+s21-d23_11_12	The bunch is returned to the refrigerator.	3130	3366
+s21-d23_11_13	The carrot is ready.	3130	3366
+s21-d23_12_1	She took out carrots	s21-d23	307	518	carrot	540
+s21-d23_12_2	She took out knife	s21-d23	540	786	carrot	762
+s21-d23_12_3	She took out cutting board	s21-d23	792	875	carrot	874
+s21-d23_12_4	She took out plate	s21-d23	875	1152	carrot	1158
+s21-d23_12_5	She washed carrot	s21-d23	1154	1461	carrot	1467
+s21-d23_12_6	She took out peeler	s21-d23	1461	1979	carrot	1977
+s21-d23_12_7	She peeled carrot	s21-d23	2020	2532	carrot	2558
+s21-d23_12_8	She chopped up carrot	s21-d23	2651	3097	carrot	3082
+s21-d23_12_9	She put remaining carrots back	s21-d23	3130	3366	carrot	3374
+s21-d23_13_1	She goes to refrigerator and gets out some carrots.	s21-d23	307	518	carrot	553
+s21-d23_13_2	She goes to the drawer and takes out a knife and a cutting board.	s21-d23	540	937	carrot	967
+s21-d23_13_3	She goes to the cupboard and takes out a bowl.	s21-d23	984	1152	carrot	1173
+s21-d23_13_4	She goes over and cuts off a carrot from the bunch and washes the carrot.	s21-d23	1154	1480	carrot	1497
+s21-d23_13_5	She throws the end pieces away into the trash.	s21-d23	1480	1778	carrot	1801
+s21-d23_13_6	She goes in the drawer and get a peeler.	s21-d23	1797	1979	carrot	2007
+s21-d23_13_7	She peels the carrot.	s21-d23	2020	2532	carrot	2595
+s21-d23_13_8	She picks up the rinds and throws them away.	s21-d23	2651	2800	carrot	2799
+s21-d23_13_9	She slices the carrots, places them in a bowl, and then puts the carrots away.	s21-d23	2809	3366	carrot	3449
+s21-d23_14_1	The person removes a bunch of carrots from the refrigerator and sets them on the counter.	s21-d23	307	518	carrot	516
+s21-d23_14_2	The person selects a paring knife and sets it on the counter.	s21-d23	540	786	carrot	791
+s21-d23_14_3	The person sets a wooden cutting board on the counter.	s21-d23	792	875	carrot	895
+s21-d23_14_4	The person selects a small bowl and places it next to the cutting board.	s21-d23	875	1152	carrot	1174
+s21-d23_14_5	The person cuts the stem and tip off of a carrot.	s21-d23	1154	1312	carrot	1342
+s21-d23_14_6	The person rinses the carrot with water.	s21-d23	1360	1480	carrot	1484
+s21-d23_14_7	The person selects a Lancashire peeler.	s21-d23	1480	1979	carrot	1977
+s21-d23_14_8	The person peels the carrot.	s21-d23	2020	2532	carrot	2575
+s21-d23_14_9	The person throws the carrot peel in the trash.	s21-d23	2651	2748	carrot	2735
+s21-d23_14_10	The person cuts the carrot into one-inch pieces.	2754	3097
+s21-d23_14_11	The person puts the carrot pieces into the bowl.	2754	3097
+s21-d23_14_12	The person places the bunch of carrots back into the refrigerator.	s21-d23	3130	3366	carrot	3372
+s21-d23_15_1	The person gets the carrots out of the fridge	s21-d23	307	518	carrot	512
+s21-d23_15_2	The person puts out all the kitchenware	s21-d23	540	1264	carrot	1256
+s21-d23_15_3	The person washes the carrot	s21-d23	1264	1480	carrot	1495
+s21-d23_15_4	She dumps the carrot tip in the trash	s21-d23	1480	1736	carrot	1745
+s21-d23_15_5	The person peels the carrot	s21-d23	1736	2532	carrot	2572
+s21-d23_15_6	The person dumps the carrot peelings into the trash	s21-d23	2651	2748	carrot	2742
+s21-d23_15_7	The person slices the carrot	s21-d23	2754	3097	carrot	3125
+s21-d23_15_8	She puts away the carrots	3130	3366
+s21-d23_15_9	The person talks to another person	3130	3366
+s21-d23_16_1	The person gets out a bunch of carrots.	s21-d23	307	518	carrot	501
+s21-d23_16_2	The person gets out a knife.	s21-d23	540	786	carrot	783
+s21-d23_16_3	The person gets out a wooden plate.	s21-d23	792	937	carrot	916
+s21-d23_16_4	The person gets out a small bowl.	s21-d23	984	1152	carrot	1160
+s21-d23_16_5	The person takes one carrot from the bunch and cuts the end of it off.	s21-d23	1154	1312	carrot	1351
+s21-d23_16_6	The person rinses the carrot.	s21-d23	1360	1480	carrot	1482
+s21-d23_16_7	The person throws away the end of the carrot.	s21-d23	1480	1778	carrot	1774
+s21-d23_16_8	The person gets out a vegetable peeler.	s21-d23	1797	1979	carrot	1980
+s21-d23_16_9	The person peels the carrot.	s21-d23	2020	2532	carrot	2559
+s21-d23_16_10	The person throws away the peels.	s21-d23	2651	2748	carrot	2763
+s21-d23_16_11	The person cuts up the carrot and puts the pieces in the bowl.	s21-d23	2754	3097	carrot	3094
+s21-d23_16_12	The person puts away the rest of the carrots.	s21-d23	3130	3366	carrot	3361
+s21-d23_17_1	The woman takes out carrots from the refrigerator and places them on the counter next to it.	s21-d23	307	518	carrot	548
+s21-d23_17_2	The woman takes out a knife, a cutting board, and a small white bowl.	s21-d23	540	1152	carrot	1170
+s21-d23_17_3	The woman takes a carrot, washes it, then places it on the cutting board.	s21-d23	1154	1517	carrot	1516
+s21-d23_17_4	The woman takes out a peeler and peels the carrot.	s21-d23	1522	2748	carrot	2770
+s21-d23_17_5	The woman chops the carrot and places the pieces in the small white bowl.	s21-d23	2754	3097	carrot	3107
+s21-d23_17_6	The woman puts the rest of the carrots away in the refrigerator.	s21-d23	3130	3366	carrot	3450
+s21-d23_19_1	She took out carrots	s21-d23	307	518	carrot	511
+s21-d23_19_2	She took out knife	s21-d23	540	786	carrot	799
+s21-d23_19_3	She took out cutting board	s21-d23	792	875	carrot	875
+s21-d23_19_4	She took out plate	s21-d23	875	1152	carrot	1137
+s21-d23_19_5	She washed carrot	s21-d23	1154	1461	carrot	1467
+s21-d23_19_6	She took out peeler	s21-d23	1461	1979	carrot	1969
+s21-d23_19_7	She peeled carrot	s21-d23	2020	2532	carrot	2575
+s21-d23_19_8	She threw away peels	s21-d23	2651	2748	carrot	2763
+s21-d23_19_9	She chopped up carrot	s21-d23	2754	3097	carrot	3099
+s21-d23_19_10	She put back extra carrots	s21-d23	3130	3366	carrot	3373

@@ -1,0 +1,78 @@
+160	238	open	hand		drawer																			
+251	377	take out	hand	pan	drawer,stove	s26-d69_1_1			s26-d69_5_1	s26-d69_6_1	s26-d69_7_1	s26-d69_8_1		s26-d69_10_1			s26-d69_13_1	s26-d69_14_1	s26-d69_15_1	s26-d69_16_1. s26-d69_16_2	s26-d69_17_1		s26-d69_19_1	
+425	824	take out	hand	egg,plastic box	counter,fridge	s26-d69_1_2			s26-d69_5_2		s26-d69_7_2		s26-d69_9_1				s26-d69_13_2		s26-d69_15_2	s26-d69_16_3			s26-d69_19_2	
+840	973	take out	hand	cutting board	counter,drawer	s26-d69_1_3	s26-d69_2_1	s26-d69_4_1		s26-d69_6_2		s26-d69_8_2	s26-d69_9_2	s26-d69_10_2	s26-d69_11_1	s26-d69_12_1		s26-d69_14_2			s26-d69_17_2			
+980	1135	wash	hand	hand					s26-d69_5_3. s26-d69_5_4	s26-d69_6_3	s26-d69_7_3		s26-d69_9_3						s26-d69_15_3	s26-d69_16_4			s26-d69_19_3	
+1140	1184	shake	hand	hand																				s26-d69_20_1
+1199	1262	dry	towel	hand									s26-d69_9_4			s26-d69_12_2			s26-d69_15_4	s26-d69_16_5				
+1286	1374	take out	hand	chef knife	,drawer			s26-d69_4_2			s26-d69_7_4							s26-d69_14_3						
+1394	1466	move	hand	flower pot	counter				s26-d69_5_5									s26-d69_14_4		s26-d69_16_6	s26-d69_17_3		s26-d69_19_4	
+1491	1555	move	hand	flower pot	counter	s26-d69_1_4				s26-d69_6_4	s26-d69_7_5				s26-d69_11_2			s26-d69_14_5	s26-d69_15_5			s26-d69_18_1		
+1663	1795	cut	chef knife	chive	cutting board,flower pot								s26-d69_9_5							s26-d69_16_7				
+1828	1882	move	hand	chive	counter,cutting board															s26-d69_16_8				
+1894	1974	move	hand	flower pot	counter		s26-d69_2_2	s26-d69_4_3	s26-d69_5_6										s26-d69_15_6					
+1988	2034	wash	hand	hand					s26-d69_5_7. s26-d69_5_8		s26-d69_7_6	s26-d69_8_3			s26-d69_11_3	s26-d69_12_3			s26-d69_15_7	s26-d69_16_9			s26-d69_19_5	s26-d69_20_2
+2095	2236	wash	hand	chive		s26-d69_1_5										s26-d69_12_4			s26-d69_15_8	s26-d69_16_10				
+2298	2363	dry	towel	hand					s26-d69_5_9	s26-d69_6_5	s26-d69_7_7				s26-d69_11_4			s26-d69_14_6	s26-d69_15_9	s26-d69_16_11	s26-d69_17_4	s26-d69_18_2		
+2424	2481	turn on	hand	stove																				
+2485	2502	change temperature	hand	stove			s26-d69_2_3	s26-d69_4_4										s26-d69_14_7						
+2528	2683	change temperature	hand	stove		s26-d69_1_6																		
+2721	2768	remove lid	hand	lid	counter,plastic box				s26-d69_5_10											s26-d69_16_12				
+2787	2886	take out	hand	spatula	,drawer						s26-d69_7_8						s26-d69_13_3	s26-d69_14_8	s26-d69_15_10		s26-d69_17_5			
+2926	3038	take apart	spatula	butter	pan,plastic box			s26-d69_4_5	s26-d69_5_11									s26-d69_14_9						
+3062	3095	spread	spatula	butter	pan	s26-d69_1_7	s26-d69_2_4		s26-d69_5_12	s26-d69_6_6	s26-d69_7_9		s26-d69_9_6		s26-d69_11_5	s26-d69_12_5	s26-d69_13_4	s26-d69_14_10					s26-d69_19_6	
+3242	3358	take out	hand	spice shaker	counter,spice holder			s26-d69_4_6				s26-d69_8_4									s26-d69_17_6			s26-d69_20_3
+3406	3466	put lid	hand	lid	counter,plastic box																			
+3468	3494	move	hand	plastic box	counter																	s26-d69_18_3		
+3510	3551	move	hand	cutting board	counter	s26-d69_1_8																		
+3739	3860	change temperature	hand	stove																				
+3969	4011	spread	spatula	butter	pan				s26-d69_5_13. s26-d69_5_14		s26-d69_7_10	s26-d69_8_5												
+4365	4469	take out	hand	spice shaker	counter,spice holder					s26-d69_6_7														
+4837	4937	spread	spatula	butter	pan																			
+5819	5940	spread	spatula	butter	pan								s26-d69_9_7	s26-d69_10_3										
+6861	7350	spread	spatula	butter	pan																			
+7530	7595	change temperature	hand	stove		s26-d69_1_9	s26-d69_2_5	s26-d69_4_7														s26-d69_18_4		s26-d69_20_4
+8085	8312	open egg	hand,pan	egg	pan											s26-d69_12_6	s26-d69_13_5. s26-d69_13_6				s26-d69_17_7			
+8363	8581	open egg	hand,pan	egg	pan	s26-d69_1_10					s26-d69_7_11. s26-d69_7_12		s26-d69_9_8				s26-d69_13_7						s26-d69_19_7	
+8666	8732	wash	hand	hand			s26-d69_2_6								s26-d69_11_6							s26-d69_18_5		
+8767	8820	dry	towel	hand						s26-d69_6_8											s26-d69_17_8			s26-d69_20_5
+8899	9428	stir	spatula	egg	pan	s26-d69_1_11							s26-d69_9_9			s26-d69_12_7								
+9499	9556	screw	hand	spice shaker			s26-d69_2_7					s26-d69_8_6		s26-d69_10_4			s26-d69_13_8					s26-d69_18_6		
+9581	9691	spice	spice shaker	salt	pan			s26-d69_4_8																
+9694	9718	screw	hand	spice shaker																				
+9762	9802	screw	hand	spice shaker												s26-d69_12_8	s26-d69_13_9							
+9810	9955	spice	spice shaker	spice	pan																			
+9955	9990	screw	hand	spice shaker												s26-d69_12_9								
+10014	10048	screw	hand	spice shaker													s26-d69_13_10							
+10057	10138	spice	spice shaker	spice	pan																			
+10152	10198	screw	hand	spice shaker																				
+10247	10313	screw	hand	spice shaker								s26-d69_8_7		s26-d69_10_5			s26-d69_13_11						s26-d69_19_8	
+10335	10425	change temperature	hand	stove		s26-d69_1_12	s26-d69_2_8	s26-d69_4_9		s26-d69_6_9			s26-d69_9_10											s26-d69_20_6
+10520	10957	stir	spatula	egg	pan										s26-d69_11_7									
+11043	11105	change temperature	hand	stove								s26-d69_8_8		s26-d69_10_6			s26-d69_13_12							
+11156	11254	throw in garbage	hand	egg shell																	s26-d69_17_9			
+11263	11510	wash	hand	hand										s26-d69_10_7										
+11531	11651	dry	towel	hand						s26-d69_6_10														
+11732	11976	stir	spatula	egg	pan																			
+12027	12086	change temperature	hand	stove				s26-d69_4_10						s26-d69_10_8							s26-d69_17_10	s26-d69_18_7		s26-d69_20_7
+12163	12738	chop	chef knife	chive	cutting board																			
+12832	12899	scratch off	hand	chive	chef knife,cutting board					s26-d69_6_11		s26-d69_8_9		s26-d69_10_9	s26-d69_11_8	s26-d69_12_10						s26-d69_18_8	s26-d69_19_9	s26-d69_20_8
+13044	13533	stir	spatula	egg	pan			s26-d69_4_11																
+14206	15218	stir	spatula	egg	pan									s26-d69_10_10							s26-d69_17_11			s26-d69_20_9
+15329	15758	take out	hand	plate	counter,cupboard					s26-d69_6_12			s26-d69_9_11	s26-d69_10_11		s26-d69_12_11								
+15924	16330	wash	hand	plate				s26-d69_4_12													s26-d69_17_12			
+16419	17193	stir	spatula	egg	pan																			
+17256	17304	change temperature	hand	stove																				
+17311	17392	put in	hand	spice shaker	counter,spice holder																			
+17472	17629	put in	hand	plastic box	counter,fridge							s26-d69_8_10												s26-d69_20_10
+17728	18736	stir	spatula	egg	pan																			
+18768	18811	change temperature	hand	stove			s26-d69_2_9															s26-d69_18_9		
+19132	19175	move	hand	towel	,hook																s26-d69_17_13		s26-d69_19_10	
+19273	19417	dry	towel	plate																			s26-d69_19_11	
+19576	19657	hang up	hand	towel	,hook	s26-d69_1_13																		
+19778	19925	stir	spatula	egg	pan																			
+20015	20216	add	spatula	egg	pan,plate		s26-d69_2_10			s26-d69_6_13			s26-d69_9_12	s26-d69_10_12		s26-d69_12_12	s26-d69_13_13					s26-d69_18_10	s26-d69_19_12	s26-d69_20_11
+20436	20538	add	hand	chive	cutting board,plate									s26-d69_10_13	s26-d69_11_9						s26-d69_17_14			
+20543	20688	add	hand	chive	cutting board,plate																			
+20717	20836	take out	hand	fork	drawer,plate									s26-d69_10_14	s26-d69_11_10								s26-d69_19_13	
+20854	20896	move	hand	plate	counter,cutting board	s26-d69_1_14	s26-d69_2_11	s26-d69_4_13		s26-d69_6_14		s26-d69_8_11				s26-d69_12_13					s26-d69_17_15	s26-d69_18_11	s26-d69_19_14	s26-d69_20_12

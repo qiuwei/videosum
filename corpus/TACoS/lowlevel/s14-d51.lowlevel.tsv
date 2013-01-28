@@ -1,0 +1,48 @@
+238	550	take out	hand	plastic bag	counter,fridge
+565	645	take out	hand	knife	counter,drawer
+652	756	take out	hand	knife	counter,drawer
+756	793	close	hand		drawer
+804	966	take out	hand	plastic box	counter,drawer
+978	1155	take out	hand	cutting board	counter,drawer
+1167	1249	rip open	hand	plastic bag	counter
+1249	1342	remove from package	hand	paper box	plastic bag
+1344	1443	move	hand	beans	cutting board,paper box
+1447	1525	move	hand	beans	cutting board,paper box
+1526	1612	package	hand	paper box	plastic bag
+1622	1841	put in	hand	plastic bag	counter,fridge
+1855	2014	take out	hand	bowl	counter,drawer
+2078	2427	wash	hand	beans	
+2427	2518	shake	hand	beans	
+2679	3032	cut	knife	beans	,plastic box
+3071	3222	cut	knife	beans	,plastic box
+3262	3468	cut	knife	beans	,plastic box
+3509	3816	cut	knife	beans	,plastic box
+3874	4246	cut	knife	beans	,plastic box
+4296	4458	cut	knife	beans	,plastic box
+4693	4988	slice	knife	beans	cutting board
+4998	5027	add	hand	beans	bowl,cutting board
+5032	5097	add	hand	beans	bowl,cutting board
+5106	5134	move	hand	beans	cutting board
+5134	5439	slice	knife	beans	cutting board
+5450	5487	add	hand	beans	bowl,cutting board
+5494	5523	add	hand	beans	bowl,cutting board
+5523	5540	move	hand	beans	cutting board
+5548	5808	slice	knife	beans	cutting board
+5814	5870	add	hand	beans	bowl,cutting board
+5873	5896	add	hand	beans	bowl,cutting board
+5896	5925	move	hand	beans	cutting board
+5932	6261	slice	knife	beans	cutting board
+6267	6340	add	hand	beans	bowl,cutting board
+6341	6366	move	hand	beans	cutting board
+6366	6671	slice	knife	beans	cutting board
+6683	6776	add	hand	beans	bowl,cutting board
+6776	6793	move	hand	beans	cutting board
+6801	7065	slice	knife	beans	cutting board
+7075	7127	add	hand	beans	bowl,cutting board
+7127	7166	add	hand	beans	bowl,cutting board
+7221	7313	move	hand	cutting board,knife	counter
+7320	7670	throw in garbage	hand,plastic box	beans	
+7698	7774	wash	hand	plastic box	
+7830	7898	wash	hand	knife	
+7901	7969	wash	hand	knife	
+8021	8217	wash	sponge	cutting board	

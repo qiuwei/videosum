@@ -1,0 +1,40 @@
+303	875	take out	hand	plastic bag	counter,fridge	s35-d48_1_1	s35-d48_2_1	s35-d48_3_1	s35-d48_5_1	s35-d48_7_1	s35-d48_8_1	s35-d48_9_1		s35-d48_11_1	s35-d48_12_1	s35-d48_13_1		s35-d48_16_1	s35-d48_17_1	s35-d48_18_1	s35-d48_19_1	s35-d48_20_1
+940	1362	take out	hand	plate	counter,cupboard	s35-d48_1_2				s35-d48_7_2	s35-d48_8_2	s35-d48_9_2			s35-d48_12_2			s35-d48_16_2	s35-d48_17_2	s35-d48_18_2		
+1369	1408	move	hand	plastic bag	counter			s35-d48_3_2					s35-d48_10_1									s35-d48_20_2
+1463	1675	wash	hand	plate																		
+1675	1865	wash	sponge	plate																		
+1865	2049	wash	hand	plate											s35-d48_12_3				s35-d48_17_3			
+2069	2111	shake	hand	plate		s35-d48_1_3	s35-d48_2_2		s35-d48_5_2	s35-d48_7_3	s35-d48_8_3	s35-d48_9_3	s35-d48_10_2	s35-d48_11_2		s35-d48_13_2		s35-d48_16_3		s35-d48_18_3	s35-d48_19_2	
+2211	2380	take out	hand	cutting board	counter,drawer	s35-d48_1_4		s35-d48_3_3			s35-d48_8_4				s35-d48_12_4			s35-d48_16_4	s35-d48_17_4			
+2399	2446	close	hand		drawer					s35-d48_7_4		s35-d48_9_4								s35-d48_18_4		
+2474	2574	take out	hand	knife	cutting board,drawer	s35-d48_1_5		s35-d48_3_4			s35-d48_8_5				s35-d48_12_5	s35-d48_13_3		s35-d48_16_5	s35-d48_17_5	s35-d48_18_5		
+2574	2630	close	hand		drawer		s35-d48_2_3		s35-d48_5_3	s35-d48_7_5		s35-d48_9_5	s35-d48_10_3								s35-d48_19_3	s35-d48_20_3
+2656	2861	remove from package	hand	chilli	plastic bag,plate																	
+2894	2993	remove from package	hand	chilli	plastic bag,plate			s35-d48_3_5														
+2997	3052	put in	hand	chilli	plastic bag,plate																	
+3052	3122	remove from package	hand	chilli	plastic bag,plate												s35-d48_14_1			s35-d48_18_6		
+3122	3193	package	hand	chilli	plastic bag							s35-d48_9_6				s35-d48_13_4			s35-d48_17_6			s35-d48_20_4
+3193	3428	put in	hand	plastic bag	counter,fridge	s35-d48_1_6			s35-d48_5_4		s35-d48_8_6	s35-d48_9_7		s35-d48_11_3	s35-d48_12_6			s35-d48_16_6	s35-d48_17_7	s35-d48_18_7	s35-d48_19_4	
+3544	3806	wash	hand	chilli	plate																	
+3861	3936	shake	hand	chilli,plate		s35-d48_1_7	s35-d48_2_4	s35-d48_3_6	s35-d48_5_5		s35-d48_8_7	s35-d48_9_8	s35-d48_10_4		s35-d48_12_7	s35-d48_13_5	s35-d48_14_2	s35-d48_16_7	s35-d48_17_8	s35-d48_18_8		s35-d48_20_5
+4105	4151	move	hand	chilli	cutting board,plate																	
+4158	4226	cut	knife	chilli	cutting board																	
+4226	4264	move	hand	chilli	cutting board			s35-d48_3_7									s35-d48_14_3					
+4264	5063	slice	knife	chilli	cutting board			s35-d48_3_8									s35-d48_14_4					
+5113	5159	move	hand	chilli	cutting board,plate																	s35-d48_20_6
+5159	5254	cut	knife	chilli	cutting board												s35-d48_14_5					
+5286	5320	move	hand	chilli	cutting board,plate									s35-d48_11_4	s35-d48_12_8							
+5426	5543	move	knife	chilli	cutting board,plate											s35-d48_13_6. s35-d48_13_7						
+5595	5623	move	hand	chilli	cutting board,plate			s35-d48_3_9			s35-d48_8_8											s35-d48_20_7
+5637	6358	slice	knife	chilli	cutting board	s35-d48_1_8									s35-d48_12_9	s35-d48_13_8	s35-d48_14_6	s35-d48_16_8				
+6426	6486	move	knife	chilli	cutting board,plate					s35-d48_7_6						s35-d48_13_9			s35-d48_17_9	s35-d48_18_9	s35-d48_19_5	
+6486	6663	arrange	knife	chilli	plate		s35-d48_2_5		s35-d48_5_6			s35-d48_9_9	s35-d48_10_5		s35-d48_12_10		s35-d48_14_7					s35-d48_20_8
+6849	6924	throw in garbage	hand	chilli								s35-d48_9_10		s35-d48_11_5					s35-d48_17_10	s35-d48_18_10		
+6972	7019	wash	hand	hand				s35-d48_3_10														
+7019	7056	shake	hand	hand								s35-d48_9_11								s35-d48_18_11		s35-d48_20_9
+7126	7216	wash	hand	cutting board																		
+7216	7265	wash	hand	knife																		
+7265	7316	wash	hand	cutting board																		
+7350	7397	shake	hand	cutting board,knife																		
+7411	7506	put in	hand	cutting board	,drawer							s35-d48_9_12	s35-d48_10_6	s35-d48_11_6								
+7530	7610	put in	hand	knife	,drawer		s35-d48_2_6		s35-d48_5_7			s35-d48_9_13				s35-d48_13_10	s35-d48_14_8		s35-d48_17_11	s35-d48_18_12	s35-d48_19_6	s35-d48_20_10

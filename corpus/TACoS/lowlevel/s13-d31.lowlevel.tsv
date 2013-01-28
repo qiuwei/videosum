@@ -1,0 +1,25 @@
+263	354	open	hand		drawer
+396	540	take out	hand	garlic press	counter,drawer
+540	584	close	hand		drawer
+584	632	close	hand		drawer
+676	912	take out	hand	plate	counter,cupboard
+949	1289	take out	hand	garlic	counter,cupboard
+1325	1519	take out	hand	knife	drawer,plate
+1519	1572	close	hand		drawer
+1632	1788	take out	hand	plate	counter,cupboard
+1887	2205	take apart	hand	garlic	
+2218	2288	cut	knife	garlic	
+2299	2694	peel	knife	garlic	
+2769	2931	peel	hand	garlic	
+3054	3189	cut	knife	garlic	
+3195	3384	peel	hand	garlic	
+3548	3611	put in	hand	garlic	garlic press,plate
+3635	3867	press	garlic press	garlic	garlic press,plate
+3890	3985	put in	hand	garlic	garlic press,plate
+4007	4193	press	garlic press	garlic	garlic press,plate
+4227	4270	put in	hand	garlic	garlic press,plate
+4287	4478	press	garlic press	garlic	garlic press,plate
+4530	4624	take out	hand	teaspoon	drawer
+4712	4835	scratch off	hand	garlic	garlic press,plate
+4835	4902	gather	teaspoon	garlic	plate
+4902	4952	move	hand	plate	counter

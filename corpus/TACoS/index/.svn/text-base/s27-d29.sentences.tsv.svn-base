@@ -1,0 +1,159 @@
+s27-d29_1_1	The man got the herbs out of the fridge.	s27-d29	230	552	herbs	487
+s27-d29_1_2	The man got out a cutting board.	s27-d29	562	678	herbs	677
+s27-d29_1_3	The man got out a knife.	s27-d29	678	884	herbs	863
+s27-d29_1_4	The man got the herbs out of the bag.	s27-d29	979	1307	herbs	1152
+s27-d29_1_5	The man rinsed off the herbs.	s27-d29	1321	1501	herbs	1506
+s27-d29_1_6	The man grabbed different herbs from next to the sink.	1501	2039
+s27-d29_1_7	The man washed those herbs.	1501	2039
+s27-d29_1_8	The man cut the herb from the stem.	s27-d29	2178	2476	herbs	2536
+s27-d29_1_9	The man diced the herbs.	s27-d29	2538	4670	herbs	4687
+s27-d29_1_10	The man combined the herbs and diced them one more time.	s27-d29	4717	5189	herbs	5346
+s27-d29_1_11	The man washed and dried his hands.	s27-d29	5356	5686	herbs	5679
+s27-d29_1_12	The man got a bowl.	s27-d29	5753	6109	herbs	6087
+s27-d29_1_13	The man put the herbs in the bowl.	s27-d29	6174	6916	herbs	6958
+s27-d29_1_14	The man put the herbs away.	s27-d29	7156	7935	herbs	8022
+s27-d29_2_1	The man pulls herbs from the refrigerator.	s27-d29	230	552	herbs	550
+s27-d29_2_2	He takes out a cutting board and knife.	s27-d29	562	884	herbs	876
+s27-d29_2_3	The man selects a stem and washes it.	s27-d29	979	1604	herbs	1646
+s27-d29_2_4	The man removes the stems.	s27-d29	1694	2476	herbs	2516
+s27-d29_2_5	The man dices the herbs.	s27-d29	2538	5189	herbs	5296
+s27-d29_2_6	The man washes his hands.	s27-d29	5356	5823	herbs	5862
+s27-d29_2_7	He places the herbs into the bowl.	s27-d29	5837	6916	herbs	6954
+s27-d29_2_8	The man puts the excess away.	s27-d29	7156	7935	herbs	8020
+s27-d29_3_1	The person gets out a bag of herbs.	s27-d29	230	552	herbs	542
+s27-d29_3_2	The person gets out a cutting board.	s27-d29	562	678	herbs	680
+s27-d29_3_3	The person gets out a knife.	s27-d29	678	884	herbs	868
+s27-d29_3_4	The person takes a few stalks of herbs out of the bag.	s27-d29	979	1307	herbs	1270
+s27-d29_3_5	The person rinses the herbs.	s27-d29	1321	1604	herbs	1624
+s27-d29_3_6	The person picks some of a different herb from a plant just off-camera and rinses them.	s27-d29	1694	2321	herbs	2342
+s27-d29_3_7	The person chops up the herbs.	s27-d29	2371	5189	herbs	5312
+s27-d29_3_8	The person washes his hands.	s27-d29	5356	5497	herbs	5512
+s27-d29_3_9	The person gets out a bowl.	s27-d29	5529	6109	herbs	6108
+s27-d29_3_10	The person scrapes the herbs into the bowl.	s27-d29	6174	6916	herbs	6934
+s27-d29_3_11	The person throws away the stalk of the first herb.	s27-d29	7156	7269	herbs	7280
+s27-d29_3_12	The person puts the bag of herbs back into the refrigerator.	s27-d29	7303	7812	herbs	7816
+s27-d29_4_1	The person gets out a bag of herbs.	s27-d29	230	552	herbs	542
+s27-d29_4_2	The person gets out a cutting board.	s27-d29	562	678	herbs	688
+s27-d29_4_3	The person gets out a knife.	s27-d29	678	884	herbs	864
+s27-d29_4_4	The person takes some herbs out of the bag and rinses them.	s27-d29	979	1604	herbs	1636
+s27-d29_4_5	The person picks some of a different herb from a plant off-camera and rinses them.	s27-d29	1694	2321	herbs	2334
+s27-d29_4_6	The person chops up the herbs.	s27-d29	2371	5189	herbs	5310
+s27-d29_4_7	The person washes his hands.	s27-d29	5356	5497	herbs	5514
+s27-d29_4_8	The person gets out a bowl.	s27-d29	5529	6109	herbs	6078
+s27-d29_4_9	The person puts the herbs in the bowl.	s27-d29	6174	6916	herbs	6934
+s27-d29_4_10	The person throws away the stalk from one of the herbs.	s27-d29	7156	7269	herbs	7266
+s27-d29_4_11	The person puts the bag of herbs back in the fridge.	s27-d29	7303	7812	herbs	7814
+s27-d29_5_1	get fresh herbs out of refrigerator and place on counter	s27-d29	230	552	herbs	544
+s27-d29_5_2	get cutting board and knife out, place on counter to use	s27-d29	562	832	herbs	854
+s27-d29_5_3	unwrap fresh herbs and take out portion needed for recipe	s27-d29	832	1307	herbs	1300
+s27-d29_5_4	rinse herb in running water, shake off excess water and place on cutting board	s27-d29	1321	1604	herbs	1634
+s27-d29_5_5	grab portion of other herbs next to sink, wash, separate good piece from bad and place good portion on cutting board	s27-d29	1694	2321	herbs	2328
+s27-d29_5_6	cut top off herb and dice into small pieces	s27-d29	2371	3568	herbs	3650
+s27-d29_5_7	cut of any bad spots on second herb then dice and mix with first herb, dicing a bit more to mix them together	s27-d29	3696	5100	herbs	5132
+s27-d29_5_8	wipe off knife with hands, then wash and dry hands	s27-d29	5108	5686	herbs	5668
+s27-d29_5_9	find bowl and scrape fresh chopped herbs from cutting board into it	s27-d29	5753	6916	herbs	6964
+s27-d29_5_10	gather trash and throw it away	s27-d29	7156	7269	herbs	7274
+s27-d29_5_11	rewrap fresh herbs not used, gather any trash left, place wrapped herbs back in refrigerator, and throw out trash	s27-d29	7823	7935	herbs	8020
+s27-d29_6_1	He grabs the herbs.	s27-d29	230	552	herbs	510
+s27-d29_6_2	He gets a cutting board and knife.	s27-d29	562	832	herbs	838
+s27-d29_6_3	He rinses the herbs.	s27-d29	832	1604	herbs	1636
+s27-d29_6_4	He rinses the other type of herbs.	s27-d29	1694	2321	herbs	2328
+s27-d29_6_5	He chops the herbs.	s27-d29	2371	5189	herbs	5256
+s27-d29_6_6	He puts the herbs in a bowl.	s27-d29	5356	6916	herbs	6954
+s27-d29_6_7	He cleans up.	s27-d29	7156	7812	herbs	7804
+s27-d29_8_1	He took out herbs	s27-d29	230	552	herbs	540
+s27-d29_8_2	He took out cutting board	s27-d29	562	737	herbs	730
+s27-d29_8_3	He took out knife	s27-d29	753	884	herbs	904
+s27-d29_8_4	He washed herbs	s27-d29	979	1604	herbs	1662
+s27-d29_8_5	He took 2nd herbs	s27-d29	1694	2039	herbs	2120
+s27-d29_8_6	He washed 2nd herbs	s27-d29	2178	2321	herbs	2360
+s27-d29_8_7	He cut off stems	s27-d29	2371	2476	herbs	2534
+s27-d29_8_8	He chopped herbs	s27-d29	2538	3568	herbs	3122
+s27-d29_10_1	The person gathers the herbs, a cutting board, and a knife.	s27-d29	230	552	herbs	576
+s27-d29_10_2	The person selects and washes the desired amount of herbs.	s27-d29	562	1604	herbs	1654
+s27-d29_10_3	The person grabs and washes what looks like some kind of stems from a source that is off-screen (so I cannot see exactly what it is).	s27-d29	1694	2321	herbs	2378
+s27-d29_10_4	The person removes the stems from the herbs and dices them into fairly small pieces.	s27-d29	3696	3760	herbs	3976
+s27-d29_10_5	The person removes an undesired portion of the mystery herb and chops width-wise into small pieces.	s27-d29	3822	4670	herbs	4682
+s27-d29_10_6	The person combines these pieces with the first herb and dices all of them together.	s27-d29	4717	5189	herbs	5338
+s27-d29_10_7	The person collects all of the diced herbs into a bowl, throws away the scraps, and returns the unused herb to the fridge.	s27-d29	7823	7935	herbs	8020
+s27-d29_11_1	the person gets a cutting board and sharp knife	s27-d29	230	884	herbs	932
+s27-d29_11_2	the person washes the Fresh Herbs	s27-d29	979	1604	herbs	1702
+s27-d29_11_3	the person cuts the leaves off of the Fresh Herbs	s27-d29	1694	2476	herbs	2816
+s27-d29_11_4	the person dices the leaves	s27-d29	2371	3760	herbs	4134
+s27-d29_11_5	the person gets a bowl	s27-d29	3822	6109	herbs	6376
+s27-d29_11_6	the person puts the diced leaves in the bowl	s27-d29	6174	7455	herbs	7432
+s27-d29_12_1	Man enters and opens fridge.	230	552
+s27-d29_12_2	Man takes out herbs.	230	552
+s27-d29_12_3	Man takes out cutting board.	562	832
+s27-d29_12_4	Man takes out knife.	562	832
+s27-d29_12_5	Man begins to separate veggies.	s27-d29	832	884	herbs	1066
+s27-d29_12_6	Man washes herbs.	s27-d29	979	1307	herbs	1369
+s27-d29_12_7	Man begins to chop herbs.	s27-d29	1321	2476	herbs	2759
+s27-d29_12_8	Man washes his hands.	s27-d29	2538	5497	herbs	5549
+s27-d29_12_9	Man dries off hands.	s27-d29	5529	5686	herbs	5677
+s27-d29_12_10	Man puts herbs into bowl.	s27-d29	5753	6109	herbs	6349
+s27-d29_12_11	Man sets down knife and begins to clean up.	s27-d29	6174	7269	herbs	7215
+s27-d29_12_12	Man puts away extra herbs.	s27-d29	7303	7455	herbs	7527
+s27-d29_13_1	Take out a knife and cutting board.	s27-d29	230	832	herbs	826
+s27-d29_13_2	Wash the herbs.	s27-d29	832	2321	herbs	2322
+s27-d29_13_3	Chop the stem off of any herbs that have stems.	s27-d29	2371	2476	herbs	2556
+s27-d29_13_4	Slice the bunch of herbs.	2538	3568
+s27-d29_13_5	Rotate the herbs so you can slice the other direction.	2538	3568
+s27-d29_13_6	Chop ends off of herbs that have roots.	s27-d29	2538	3760	herbs	3840
+s27-d29_13_7	Slice herbs into small rounds.	s27-d29	3822	4670	herbs	4680
+s27-d29_13_8	Mix all of the herbs together and do a final chop through, of the pile of herbs.	s27-d29	4717	5189	herbs	5184
+s27-d29_13_9	Place herbs in a bowl.	s27-d29	5356	6916	herbs	6966
+s27-d29_13_10	Discard any stems or inedible portions.	s27-d29	7156	7269	herbs	7282
+s27-d29_14_1	Get a cutting board and a knife.	s27-d29	230	884	herbs	881
+s27-d29_14_2	Rinse with water.	s27-d29	979	1604	herbs	1680
+s27-d29_14_3	Cut off the stem.	s27-d29	1694	2476	herbs	2489
+s27-d29_14_4	Chop into small pieces.	s27-d29	2538	3568	herbs	3664
+s27-d29_14_5	Again chop into small pieces.	s27-d29	3696	4670	herbs	4760
+s27-d29_14_6	Place into a bowl.	s27-d29	4717	6916	herbs	6935
+s27-d29_15_1	He took out herbs	s27-d29	230	552	herbs	557
+s27-d29_15_2	He took out cutting board	s27-d29	562	678	herbs	694
+s27-d29_15_3	He took out knife	s27-d29	678	832	herbs	840
+s27-d29_15_4	He washed herbs	s27-d29	832	1526	herbs	1546
+s27-d29_15_5	He chopped off stem	s27-d29	1526	2476	herbs	2503
+s27-d29_15_6	He chopped herbs	s27-d29	3696	5189	herbs	5298
+s27-d29_15_7	He washed hands	s27-d29	5356	5497	herbs	5514
+s27-d29_15_8	He took out bowl	s27-d29	5529	6109	herbs	6037
+s27-d29_15_9	He put herbs in bowl	s27-d29	6174	6916	herbs	6652
+s27-d29_16_1	The person gets out a package of herbs.	s27-d29	230	552	herbs	540
+s27-d29_16_2	The person gets out a cutting board.	s27-d29	562	678	herbs	690
+s27-d29_16_3	The person gets out a knife.	s27-d29	678	832	herbs	850
+s27-d29_16_4	The person removes some herbs from the package and rinses them.	s27-d29	832	1604	herbs	1613
+s27-d29_16_5	The person picks some of a different type of herb.	s27-d29	1694	2321	herbs	2334
+s27-d29_16_6	The person cuts the stem off of herb #1.	s27-d29	2371	2476	herbs	2475
+s27-d29_16_7	The person chops up both herbs.	s27-d29	2538	5189	herbs	5346
+s27-d29_16_8	The person washes his hands.	s27-d29	5356	5686	herbs	5672
+s27-d29_16_9	The person gets out a bowl.	s27-d29	5753	6109	herbs	6073
+s27-d29_16_10	The person scrapes the herbs into the bowl.	s27-d29	6174	6916	herbs	6927
+s27-d29_16_11	The person throws away the stem from herb #1.	s27-d29	7156	7269	herbs	7276
+s27-d29_16_12	The person puts the rest of the package of herb #1 back in the fridge.	s27-d29	7455	7812	herbs	7806
+s27-d29_17_1	The person selects a small bunch of the herbs.	s27-d29	230	1307	herbs	1315
+s27-d29_17_2	The person washes the herbs in the sink.	s27-d29	1321	1604	herbs	1647
+s27-d29_17_3	The person selects and washes a second type of herb.	s27-d29	1694	2321	herbs	2338
+s27-d29_17_4	The person trims the stem off the first bunch of herbs.	s27-d29	2371	2476	herbs	2484
+s27-d29_17_5	The person finely chops the herbs with a knife.	s27-d29	2538	5189	herbs	5150
+s27-d29_17_6	The person washes his hands and dries them.	s27-d29	5356	5686	herbs	5682
+s27-d29_17_7	The person puts the chopped herbs into a small bowl.	s27-d29	5753	6916	herbs	6911
+s27-d29_17_8	The person cleans up the remainder of the unused herbs.	s27-d29	7303	7935	herbs	7905
+s27-d29_18_1	He takes out the herbs.	s27-d29	230	552	herbs	556
+s27-d29_18_2	The person takes out a cutting board.	s27-d29	562	678	herbs	680
+s27-d29_18_3	The person takes out a knife.	s27-d29	678	832	herbs	842
+s27-d29_18_4	The person rinses the herbs and places them on the cutting board.	s27-d29	832	2321	herbs	2346
+s27-d29_18_5	After removing the stems the person finely chops the herbs.	s27-d29	2538	5100	herbs	5136
+s27-d29_18_6	The person takes out a bowl.	s27-d29	5108	6109	herbs	6114
+s27-d29_18_7	The person puts the chopped herbs into the bowl.	s27-d29	6174	6916	herbs	6904
+s27-d29_18_8	The person is done.	s27-d29	7823	7935	herbs	8020
+s27-d29_19_1	He took out herbs	s27-d29	230	552	herbs	504
+s27-d29_19_2	He took out cutting board	s27-d29	562	678	herbs	666
+s27-d29_19_3	He took out knife	s27-d29	678	832	herbs	838
+s27-d29_19_4	He washed herbs	s27-d29	832	1526	herbs	1528
+s27-d29_19_5	He washed second set of herbs	s27-d29	1526	2321	herbs	2322
+s27-d29_19_6	He diced first herb	s27-d29	2371	3568	herbs	3656
+s27-d29_19_7	He diced second herb	s27-d29	2371	4670	herbs	4704
+s27-d29_19_8	He washed hands	s27-d29	4717	5497	herbs	5508
+s27-d29_19_9	He took out bowl	s27-d29	5529	6109	herbs	6036
+s27-d29_19_10	He put herbs in bowl	s27-d29	6174	6916	herbs	6912

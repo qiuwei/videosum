@@ -1,0 +1,186 @@
+s21-d42_1_1	Person takes out pot.	s21-d42	244	358	broccoli	343
+s21-d42_1_2	Person fills pot with water.	s21-d42	358	832	broccoli	839
+s21-d42_1_3	Person puts salt into pot.	s21-d42	832	1244	broccoli	1255
+s21-d42_1_4	Person puts pot onto stove.	s21-d42	1244	1453	broccoli	1453
+s21-d42_1_5	person turns stove on.	s21-d42	1467	1808	broccoli	1809
+s21-d42_1_6	person takes out head of broccoli.	s21-d42	1845	2334	broccoli	2349
+s21-d42_1_7	Person cuts the stem away from the head.	s21-d42	2353	2628	broccoli	2622
+s21-d42_1_8	Person rinses broccoli head off.	s21-d42	2657	3078	broccoli	3069
+s21-d42_1_9	Person cuts broccoli head in half.	s21-d42	3079	3277	broccoli	3261
+s21-d42_1_10	Person puts away half the broccoli head.	s21-d42	3341	4059	broccoli	3984
+s21-d42_1_11	Person cuts broccoli into smaller pieces	s21-d42	4090	4578	broccoli	4579
+s21-d42_1_12	Person puts broccoli pieces into pot.	s21-d42	4674	4990	broccoli	4997
+s21-d42_3_1	A pot is selected and filled with water.	s21-d42	244	952	broccoli	958
+s21-d42_3_2	The water is salted and the pot is placed on the stove.	s21-d42	1015	1551	broccoli	1544
+s21-d42_3_3	Broccoli is removed from the refrigerator.	s21-d42	1598	2103	broccoli	2116
+s21-d42_3_4	The person removes a cutting board and knife.	s21-d42	2130	2334	broccoli	2346
+s21-d42_3_5	The broccoli is opened and the main stem is cut off.	s21-d42	2353	2708	broccoli	2706
+s21-d42_3_6	The broccoli is washed and cut in half.	s21-d42	2716	3277	broccoli	3280
+s21-d42_3_7	Half of the broccoli is placed in the refrigerator.	s21-d42	3341	4059	broccoli	4040
+s21-d42_3_8	The broccoli is cut into pieces.	s21-d42	4090	4578	broccoli	4626
+s21-d42_3_9	The pieces are placed in the pot.	s21-d42	4674	4845	broccoli	4848
+s21-d42_3_10	The scraps are discarded.	s21-d42	4990	5412	broccoli	5404
+s21-d42_3_11	The counter is wiped.	5479	5732
+s21-d42_3_12	The broccoli is cooking.	5479	5732
+s21-d42_4_1	She took out pot	s21-d42	244	358	broccoli	350
+s21-d42_4_2	She put water in pot	s21-d42	358	832	broccoli	842
+s21-d42_4_3	She put lid on pot	s21-d42	832	952	broccoli	966
+s21-d42_4_4	She put salt in pot	s21-d42	1015	1289	broccoli	1312
+s21-d42_4_5	She put pot on stove	s21-d42	1289	1453	broccoli	1456
+s21-d42_4_6	She turned on stove	s21-d42	1467	1808	broccoli	1812
+s21-d42_4_7	She took out broccoli	s21-d42	1845	2103	broccoli	2118
+s21-d42_4_8	She took out cutting board	s21-d42	2130	2218	broccoli	2210
+s21-d42_4_9	She took out knife	s21-d42	2218	2334	broccoli	2316
+s21-d42_4_10	She washed broccoli	s21-d42	2353	3078	broccoli	3122
+s21-d42_4_11	She cut broccoli in half	s21-d42	3079	3277	broccoli	3348
+s21-d42_4_12	She put away unused broccoli	s21-d42	3341	4059	broccoli	4078
+s21-d42_4_13	She chopped up broccoli	s21-d42	4090	4578	broccoli	4650
+s21-d42_4_14	She put broccoli in pot	s21-d42	4674	4845	broccoli	4832
+s21-d42_5_1	The person gets out a pot.	s21-d42	244	358	broccoli	352
+s21-d42_5_2	The person puts water in the pot from the faucet, then puts the lid on the pot.	s21-d42	358	952	broccoli	932
+s21-d42_5_3	The person adds salt, then puts the lid back on pot.	s21-d42	1015	1289	broccoli	1280
+s21-d42_5_4	The person puts the pot on the stove to boil, and turns on the stove.	s21-d42	1289	1808	broccoli	1806
+s21-d42_5_5	The person gets out the cutting board, broccoli, and knife.	s21-d42	1845	2334	broccoli	2356
+s21-d42_5_6	The person removes the plastic wrapping from the broccoli and cuts off the stem.	s21-d42	2353	2708	broccoli	2702
+s21-d42_5_7	The person rinses the broccoli.	s21-d42	2716	3078	broccoli	3068
+s21-d42_5_8	The person cuts the broccoli in half.	s21-d42	3079	3277	broccoli	3272
+s21-d42_5_9	The person attempts to remove the plastic wrapping from the broccoli stem, then stops.	s21-d42	3341	3768	broccoli	3768
+s21-d42_5_10	The puts half of the broccoli in the fridge.	s21-d42	3786	4059	broccoli	4068
+s21-d42_5_11	The person cuts the broccoli into chunks.	s21-d42	4090	4578	broccoli	4602
+s21-d42_5_12	The person puts the broccoli in the pot of water.	s21-d42	4963	5031	broccoli	5050
+s21-d42_5_13	The person cleans the work area and rinses her hands.	s21-d42	5089	5732	broccoli	5838
+s21-d42_6_1	the person gets a pot and fills it with water	s21-d42	244	1070	broccoli	1080
+s21-d42_6_2	the person seasons the water in the pot with salt	s21-d42	1082	1551	broccoli	1564
+s21-d42_6_3	the person puts the pot over the stove and heats it up	s21-d42	1598	2547	broccoli	2588
+s21-d42_6_4	the person gets a cutting board and a knife	s21-d42	2570	2751	broccoli	2814
+s21-d42_6_5	the person cuts the stem off of the broccoli	s21-d42	2850	3078	broccoli	3028
+s21-d42_6_6	the person washes the broccoli over the sink	3079	3277
+s21-d42_6_7	the person cuts the Broccoli in half	3079	3277
+s21-d42_6_8	the person chops up the Broccoli	s21-d42	3341	4845	broccoli	4966
+s21-d42_6_9	the person puts the chopped up Broccoli in the pot	s21-d42	4963	5157	broccoli	5146
+s21-d42_7_1	The person takes out a lidded pot from the drawer.	s21-d42	244	358	broccoli	374
+s21-d42_7_2	The person fills the pot with water from the faucet.	s21-d42	358	890	broccoli	908
+s21-d42_7_3	The person gets a condiment and adds it to the water.	s21-d42	890	1353	broccoli	1368
+s21-d42_7_4	The person returns the condiment and turns on the stove.	s21-d42	1381	1808	broccoli	1822
+s21-d42_7_5	The person procures a stalk of broccoli from the fridge.	s21-d42	1845	2103	broccoli	2086
+s21-d42_7_6	The person takes out a cutting board and a knife from the drawers.	s21-d42	2130	2334	broccoli	2324
+s21-d42_7_7	The person uses the knife to cut away the plastic and cut the top of the broccoli from its stem.	s21-d42	2353	2708	broccoli	2718
+s21-d42_7_8	The person washes the broccoli in the sink.	s21-d42	2716	3165	broccoli	3144
+s21-d42_7_9	The person returns half the broccoli to the fridge.	s21-d42	3204	4059	broccoli	4040
+s21-d42_7_10	The person chops the broccoli on the cutting board.	s21-d42	4090	4578	broccoli	4650
+s21-d42_7_11	The person puts the chopped broccoli into the pot on the stove.	s21-d42	4674	5031	broccoli	5048
+s21-d42_7_12	The person gathers the refuse and puts it in the trash.	s21-d42	5186	5412	broccoli	5408
+s21-d42_7_13	The person cleans the countertop.	s21-d42	5479	5732	broccoli	5876
+s21-d42_8_1	She took out pot	s21-d42	244	358	broccoli	364
+s21-d42_8_2	She put water in pot	s21-d42	358	890	broccoli	884
+s21-d42_8_3	She added salt to pot	s21-d42	890	1289	broccoli	1306
+s21-d42_8_4	She put pot on stove	s21-d42	1289	1551	broccoli	1614
+s21-d42_8_5	She turned on stove	s21-d42	1598	1808	broccoli	1832
+s21-d42_8_6	She took out broccoli	s21-d42	1845	2103	broccoli	2124
+s21-d42_8_7	She took out cutting board	s21-d42	2130	2231	broccoli	2250
+s21-d42_8_8	She took out knife	s21-d42	2231	2334	broccoli	2330
+s21-d42_8_9	She cut off stem	s21-d42	2353	2751	broccoli	2846
+s21-d42_8_10	She washed broccoli	s21-d42	2850	3078	broccoli	3108
+s21-d42_8_11	She put back extra broccoli	s21-d42	3079	4059	broccoli	4068
+s21-d42_8_12	She chopped broccoli	s21-d42	4090	4685	broccoli	4682
+s21-d42_8_13	She put broccoli in pot	s21-d42	4686	4845	broccoli	4844
+s21-d42_9_1	The person takes out a lidded pot from the drawer.	s21-d42	244	413	broccoli	398
+s21-d42_9_2	The person fills the pot with water from the faucet.	s21-d42	423	890	broccoli	912
+s21-d42_9_3	The person gets a condiment and adds it to the water.	s21-d42	890	1353	broccoli	1342
+s21-d42_9_4	The person returns the condiment and turns on the stove.	s21-d42	1381	1808	broccoli	1824
+s21-d42_9_5	The person procures a stalk of broccoli from the fridge.	s21-d42	1845	2103	broccoli	2084
+s21-d42_9_6	The person takes out a cutting board and a knife from the drawers.	s21-d42	2130	2334	broccoli	2334
+s21-d42_9_7	The person uses the knife to cut away the plastic and cut the top of the broccoli from its stem.	s21-d42	2353	2751	broccoli	2790
+s21-d42_9_8	The person washes the broccoli in the sink.	s21-d42	2850	3165	broccoli	3146
+s21-d42_9_9	The person returns half the broccoli to the fridge.	s21-d42	3204	4059	broccoli	4048
+s21-d42_9_10	The person chops the broccoli on the cutting board.	s21-d42	4090	4578	broccoli	4652
+s21-d42_9_11	The person puts the chopped broccoli into the pot on the stove.	s21-d42	4963	5031	broccoli	5080
+s21-d42_9_12	The person gathers the refuse and puts it in the trash.	s21-d42	5089	5412	broccoli	5410
+s21-d42_9_13	The person cleans the countertop.	s21-d42	5479	5732	broccoli	5794
+s21-d42_10_1	She opens a drawer and takes out a pot.	s21-d42	244	413	broccoli	426
+s21-d42_10_2	She takes the pot to the sink and fills it with water.	s21-d42	423	832	broccoli	840
+s21-d42_10_3	She walks over to counter and get some salt and sprinkles it into the pot of water.	s21-d42	832	1353	broccoli	1386
+s21-d42_10_4	She places the pot on the stove and turns it on.	s21-d42	1381	1808	broccoli	1820
+s21-d42_10_5	She goes to the refrigerator and takes out some broccoli.	s21-d42	1845	2103	broccoli	2140
+s21-d42_10_6	She opens the drawers and takes out a cutting board and knife.	s21-d42	2130	2334	broccoli	2336
+s21-d42_10_7	She cuts the wrapper of the broccoli and then cuts the end of the broccoli off.	s21-d42	2353	2708	broccoli	2716
+s21-d42_10_8	She takes the broccoli to the sink and washes it.	s21-d42	2716	3165	broccoli	3188
+s21-d42_10_9	She cuts the broccoli in half and then tries to remove the broccoli end from its wrapper.	s21-d42	3204	3768	broccoli	3788
+s21-d42_10_10	She takes one half of the broccoli and returns it to the refrigerator.	s21-d42	3786	4059	broccoli	4076
+s21-d42_10_11	She chops the broccoli into pieces and then places them into the pot.	s21-d42	4090	4845	broccoli	4856
+s21-d42_10_12	She takes the waste and throws them away and then cleans up a bit.	s21-d42	5089	5732	broccoli	6042
+s21-d42_11_1	She took out pot	s21-d42	244	358	broccoli	364
+s21-d42_11_2	She put water in pot	s21-d42	358	890	broccoli	910
+s21-d42_11_3	She put salt in pot	s21-d42	890	1353	broccoli	1378
+s21-d42_11_4	She put pot on stove	s21-d42	1381	1453	broccoli	1502
+s21-d42_11_5	She turned on stove	s21-d42	1467	1808	broccoli	1872
+s21-d42_11_6	She took out broccoli	s21-d42	1845	2103	broccoli	2156
+s21-d42_11_7	She took out cutting board	s21-d42	2130	2218	broccoli	2222
+s21-d42_11_8	She took out knife	s21-d42	2218	2334	broccoli	2326
+s21-d42_11_9	She washed broccoli	s21-d42	2353	3078	broccoli	3092
+s21-d42_11_10	She cut broccoli in half	s21-d42	3079	3277	broccoli	3378
+s21-d42_11_11	She put back unused broccoli	s21-d42	3341	4059	broccoli	4090
+s21-d42_11_12	She chopped broccoli	s21-d42	4090	4720	broccoli	4720
+s21-d42_11_13	She put broccoli in pan	s21-d42	4727	4845	broccoli	4850
+s21-d42_12_1	She took out pan	s21-d42	244	358	broccoli	355
+s21-d42_12_2	She put water in pan	s21-d42	358	832	broccoli	855
+s21-d42_12_3	She put salt in pan	s21-d42	832	1289	broccoli	1290
+s21-d42_12_4	She turned on stove	s21-d42	1289	1808	broccoli	1823
+s21-d42_12_5	She took out broccoli	s21-d42	1845	2103	broccoli	2137
+s21-d42_12_6	She took out cutting board	s21-d42	2130	2218	broccoli	2214
+s21-d42_12_7	She took out knife	s21-d42	2218	2334	broccoli	2321
+s21-d42_12_8	She cut off top of broccoli	s21-d42	2353	2628	broccoli	2639
+s21-d42_12_9	She washed the broccoli	s21-d42	2657	3078	broccoli	3085
+s21-d42_12_10	She put some of broccoli back	s21-d42	3079	4059	broccoli	4063
+s21-d42_12_11	She put broccoli in pan	s21-d42	4090	4845	broccoli	4841
+s21-d42_12_12	She threw away scraps	s21-d42	4674	5412	broccoli	5416
+s21-d42_13_1	Get a large pot with a see through lid.	s21-d42	244	481	broccoli	540
+s21-d42_13_2	Fill it approximately a third of the way with water.	s21-d42	581	890	broccoli	902
+s21-d42_13_3	Add ten to fifteen dashes of salt to the water.	s21-d42	890	1289	broccoli	1292
+s21-d42_13_4	Set the water on the stove and begin to boil.	s21-d42	1289	1808	broccoli	1818
+s21-d42_13_5	Take the broccoli and cut off the stem.	s21-d42	1845	2628	broccoli	2664
+s21-d42_13_6	Rinse the broccoli under water.	s21-d42	2657	3165	broccoli	3150
+s21-d42_13_7	Cut the broccoli into smaller portions.	s21-d42	3204	4578	broccoli	4600
+s21-d42_13_8	Add the broccoli to the water on the stove.	s21-d42	4674	4845	broccoli	4866
+s21-d42_13_9	Discard of the stem.	s21-d42	4963	5412	broccoli	5490
+s21-d42_15_1	Person fetches saucepan.	s21-d42	244	413	broccoli	417
+s21-d42_15_2	Person fills saucepan with two inches of water and places on worktop.	s21-d42	423	952	broccoli	958
+s21-d42_15_3	Person fetches spice and pours some into saucepan.	s21-d42	1015	1353	broccoli	1351
+s21-d42_15_4	Person places saucepan on stove top.	s21-d42	1381	1453	broccoli	1461
+s21-d42_15_5	Person returns spice to spice rack.	s21-d42	1467	1551	broccoli	1552
+s21-d42_15_6	Person turns on burner on stove.	s21-d42	1598	1808	broccoli	1816
+s21-d42_15_7	Person fetches broccoli, cutting board and knife.	s21-d42	1845	2334	broccoli	2362
+s21-d42_15_8	Person works broccoli head out of plastic wrap and cuts of broccoli stem.	s21-d42	2353	2751	broccoli	2773
+s21-d42_15_9	Person washes whole broccoli head and cuts it in half.	s21-d42	2850	3277	broccoli	3345
+s21-d42_15_10	Person attempts to remove broccoli stem from plastic wrap, but eventually gives up.	s21-d42	3341	3768	broccoli	3784
+s21-d42_15_11	Person places one half of broccoli head back in refrigerator.	s21-d42	3786	4059	broccoli	4099
+s21-d42_15_12	Person cuts other half of broccoli into smaller pieces.	s21-d42	4090	4578	broccoli	4658
+s21-d42_15_13	Person puts broccoli pieces into saucepan.	s21-d42	4963	5031	broccoli	5076
+s21-d42_15_14	Person throws away unusable broccoli pieces and plastic wrap.	s21-d42	4674	5412	broccoli	5465
+s21-d42_15_15	Person washes hands, cleans up work area and walks to stove.	s21-d42	5479	5732	broccoli	5926
+s21-d42_16_1	The person gets out a pan.	s21-d42	244	413	broccoli	398
+s21-d42_16_2	The person fills the pan with water.	s21-d42	423	832	broccoli	835
+s21-d42_16_3	The person adds salt to the water.	s21-d42	832	1353	broccoli	1373
+s21-d42_16_4	The person puts the pan on the stove and turns it on.	s21-d42	1381	1808	broccoli	1819
+s21-d42_16_5	The person gets out a stalk of broccoli in shrink wrap.	s21-d42	1845	2103	broccoli	2126
+s21-d42_16_6	The person gets out a wooden plate.	s21-d42	2130	2218	broccoli	2223
+s21-d42_16_7	The person gets out a knife.	s21-d42	2218	2334	broccoli	2347
+s21-d42_16_8	The person unwraps the broccoli and cuts off the stem.	s21-d42	2353	2708	broccoli	2707
+s21-d42_16_9	The person rinses the broccoli.	s21-d42	2716	3078	broccoli	3109
+s21-d42_16_10	The person cuts the broccoli in half and puts one half of the broccoli back in the fridge.	s21-d42	3079	4059	broccoli	4067
+s21-d42_16_11	The person cuts the broccoli into smaller pieces and puts them in the pan to cook.	s21-d42	4963	5031	broccoli	5031
+s21-d42_16_12	The person gathers up and throws away the trash.	s21-d42	5089	5412	broccoli	5418
+s21-d42_16_13	The person washes her hands and wipes down the counter.	s21-d42	5479	5732	broccoli	5815
+s21-d42_17_1	The person just filled up the pot with water.	s21-d42	244	832	broccoli	844
+s21-d42_17_2	The person just added salt to the water	s21-d42	832	1289	broccoli	1268
+s21-d42_17_3	The person just put the pot on the stove.	s21-d42	1289	1453	broccoli	1467
+s21-d42_17_4	The person just turned on the stove.	s21-d42	1467	1808	broccoli	1818
+s21-d42_17_5	The person just washed the broccoli	s21-d42	1845	3078	broccoli	3076
+s21-d42_17_6	The person just cut up the broccolli.	s21-d42	3079	4578	broccoli	4613
+s21-d42_17_7	The person just added the broccoli to the water.	s21-d42	4963	5031	broccoli	5023
+s21-d42_17_8	The person just cleaned up.	s21-d42	5479	5732	broccoli	5821
+s21-d42_19_1	Girl gets a pot and fills it with water.	s21-d42	244	481	broccoli	668
+s21-d42_19_2	The girl adds salt to the water.	s21-d42	581	1289	broccoli	1304
+s21-d42_19_3	Girl get bag of vegetables out of fridge.	s21-d42	1289	3768	broccoli	3630
+s21-d42_19_4	Girl chops up vegetables a.	s21-d42	3786	4578	broccoli	4664
+s21-d42_19_5	Girl cleans up and washes the cutting board.	s21-d42	5479	5732	broccoli	5772

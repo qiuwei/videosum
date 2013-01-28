@@ -1,0 +1,91 @@
+s25-d51_1_1	The person gets the cutting board.	s25-d51	192	273	beans	309
+s25-d51_1_2	The person gets the beans from the refrigerator.	s25-d51	350	564	beans	600
+s25-d51_1_3	The person washes the beans in the sink.	s25-d51	615	912	beans	994
+s25-d51_1_4	The person cuts off the ends of the bean stalks.	s25-d51	973	1862	beans	1789
+s25-d51_1_5	The person cuts up the beans.	s25-d51	1897	3257	beans	3329
+s25-d51_2_1	The person removes a cutting board.	s25-d51	192	273	beans	456
+s25-d51_2_2	Beans are removed from the refrigerator.	s25-d51	350	711	beans	726
+s25-d51_2_3	The person selects a knife.	s25-d51	750	912	beans	876
+s25-d51_2_4	The beans are washed.	s25-d51	973	1135	beans	1146
+s25-d51_2_5	The ends are trimmed and discarded.	s25-d51	1186	1982	beans	2024
+s25-d51_2_6	The person rinsed their hands.	s25-d51	2009	2232	beans	2154
+s25-d51_2_7	The beans are stacked together and cut in pieces.	3270	3408
+s25-d51_2_8	The beans are prepared.	3270	3408
+s25-d51_3_1	Get out cutting board, broad beans and knife.	s25-d51	192	912	beans	894
+s25-d51_3_2	Rinse broad beans under water.	s25-d51	973	1135	beans	1144
+s25-d51_3_3	Cut the tips off both sides of the beans.	s25-d51	1186	1862	beans	1808
+s25-d51_3_4	Discard tips of beans.	s25-d51	1897	1982	beans	2018
+s25-d51_3_5	Cut into thin slices diagonally.	s25-d51	2257	3408	beans	3472
+s25-d51_4_1	The person gets out a cutting board.	s25-d51	192	564	beans	518
+s25-d51_4_2	The person gets out some beans.	s25-d51	615	711	beans	742
+s25-d51_4_3	The person gets out a knife.	s25-d51	750	912	beans	874
+s25-d51_4_4	The person rinses the beans.	s25-d51	973	1135	beans	1268
+s25-d51_4_5	The person cuts off the tips of the beans and throws them away.	s25-d51	1186	1982	beans	2034
+s25-d51_4_6	The person chops up the beans.	s25-d51	2009	3408	beans	3362
+s25-d51_5_1	He gets a cutting board.	s25-d51	192	273	beans	440
+s25-d51_5_2	He gets the beans and a knife.	s25-d51	350	912	beans	888
+s25-d51_5_3	He rinses the beans.	s25-d51	973	1135	beans	1168
+s25-d51_5_4	He cuts the ends off the beans and discards them.	s25-d51	1186	1982	beans	1994
+s25-d51_5_5	He chops the beans.	s25-d51	2009	3408	beans	3466
+s25-d51_7_1	He gets a cutting board.	s25-d51	192	564	beans	532
+s25-d51_7_2	He gets beans and a knife.	s25-d51	615	912	beans	886
+s25-d51_7_3	He rinses the beans.	s25-d51	973	1135	beans	1162
+s25-d51_7_4	He cuts off the ends of the beans and discards them.	s25-d51	1186	1982	beans	2034
+s25-d51_7_5	He chops the beans.	s25-d51	2009	3408	beans	3470
+s25-d51_8_1	The person takes out a cutting board from the drawer.	s25-d51	192	273	beans	442
+s25-d51_8_2	 The person procures a handful of broad beans from the fridge.	s25-d51	350	711	beans	732
+s25-d51_8_3	The person takes out a knife from the drawer.	s25-d51	750	912	beans	876
+s25-d51_8_4	The person washes the beans in the sink.	s25-d51	973	1135	beans	1186
+s25-d51_8_5	The person cuts the ends off the broad beans and throws them into the wastebin.	s25-d51	1186	1982	beans	2024
+s25-d51_8_6	The person washes his hands.	s25-d51	2009	2232	beans	2192
+s25-d51_8_7	The person chops the broad beans on the cutting board.	s25-d51	2009	3408	beans	3358
+s25-d51_9_1	He gets a cutting board.	s25-d51	192	273	beans	438
+s25-d51_9_2	He gets the beans.	s25-d51	350	711	beans	756
+s25-d51_9_3	He gets a knife.	s25-d51	750	912	beans	884
+s25-d51_9_4	He rinses the beans.	s25-d51	973	1135	beans	1162
+s25-d51_9_5	He cuts the ends off the beans and discards them.	s25-d51	1186	1982	beans	2030
+s25-d51_9_6	He chops the beans.	s25-d51	2257	3408	beans	3376
+s25-d51_10_1	The man takes out a cutting board and places it on the counter.	s25-d51	192	564	beans	592
+s25-d51_10_2	The man takes out broad beans and from the refrigerator.	615	912
+s25-d51_10_3	He also takes out a cutting knife and places it on the cutting board.	615	912
+s25-d51_10_4	He washes the broad beans in the sink and places them on the cutting board.	s25-d51	973	1135	beans	1346
+s25-d51_10_5	He slowly cuts the ends of the broad beans and throws them in the trash.	s25-d51	1186	1982	beans	2008
+s25-d51_10_6	Next, he cuts the broad beans in tiny pieces on the cutting board.	s25-d51	2009	3408	beans	3362
+s25-d51_12_1	person get out cutting board	s25-d51	192	273	beans	304
+s25-d51_12_2	person gets out fresh broad beans	s25-d51	350	564	beans	646
+s25-d51_12_3	person gets out knife	s25-d51	615	711	beans	741
+s25-d51_12_4	person washes fresh broad beans	s25-d51	750	912	beans	1018
+s25-d51_12_5	person cuts the ends off the fresh broad beans	s25-d51	973	1643	beans	1701
+s25-d51_12_6	person dices fresh broad beans	s25-d51	1661	3257	beans	3274
+s25-d51_13_1	The person takes out a cutting board from the drawer.	s25-d51	192	564	beans	458
+s25-d51_13_2	The person takes a handful of broad beans from the fridge.	s25-d51	615	711	beans	754
+s25-d51_13_3	The person takes out a knife from the drawer.	s25-d51	750	912	beans	900
+s25-d51_13_4	The person washes the broad beans in the sink.	s25-d51	973	1135	beans	1172
+s25-d51_13_5	The person cuts the ends off the broad beans and throws them away.	s25-d51	1186	1982	beans	2040
+s25-d51_13_6	The person washes his hands in the sink.	s25-d51	2009	2232	beans	2156
+s25-d51_13_7	The person chops the broad beans on the cutting board.	s25-d51	2009	3408	beans	3494
+s25-d51_14_1	The person gets out a cutting board, a knife, and a small handful of fresh broad beans.	s25-d51	192	711	beans	719
+s25-d51_14_2	The person washes the beans.	s25-d51	750	1135	beans	1153
+s25-d51_14_3	The person cuts off both ends of each bean.	s25-d51	1186	1862	beans	1825
+s25-d51_14_4	The person bunches the beans together so they will be easier to cut.	s25-d51	1897	2232	beans	2311
+s25-d51_14_5	The person cuts the beans into fine pieces.	s25-d51	3270	3408	beans	3353
+s25-d51_15_1	The person takes out a cutting board, and places it on the counter.	s25-d51	192	273	beans	281
+s25-d51_15_2	The person takes out some fresh broad beans from the refrigerator, and grabs a cutting knife.	s25-d51	350	711	beans	688
+s25-d51_15_3	The person thoroughly washes the broad beans in the sink.	s25-d51	750	912	beans	976
+s25-d51_15_4	The person places the broad beans on the cutting board, and uses the cutting knife to chop off the ends of the beans.	s25-d51	973	1643	beans	1703
+s25-d51_15_5	The person throws away the ends of the broad beans.	s25-d51	1661	1862	beans	1871
+s25-d51_15_6	The person groups the broad beans together, laying them on the flat side and proceeds to cut them into small pieces.	s25-d51	1897	3180	beans	3187
+s25-d51_15_7	The person cleans off the excess broad bean from the knife, and makes a pile of the freshly cut beans.	s25-d51	2257	3408	beans	3407
+s25-d51_16_1	The person takes a chopping board out of the drawer.	s25-d51	192	273	beans	288
+s25-d51_16_2	The person takes some broad beans out from the refrigerator.	s25-d51	350	564	beans	540
+s25-d51_16_3	The person takes a knife out from the drawer.	s25-d51	615	711	beans	701
+s25-d51_16_4	The person washes the broad beans.	s25-d51	750	912	beans	931
+s25-d51_16_5	The person chops off the ends of the broad beans and discards them.	s25-d51	973	1862	beans	1843
+s25-d51_16_6	The person rinses his hands.	s25-d51	1897	1949	beans	1963
+s25-d51_16_7	The person chops the broad beans into small pieces.	s25-d51	1961	3257	beans	3254
+s25-d51_19_1	The person gets out a cutting board.	s25-d51	192	273	beans	432
+s25-d51_19_2	The person gets out some beans.	s25-d51	350	711	beans	764
+s25-d51_19_3	The person gets out a knife.	s25-d51	750	912	beans	878
+s25-d51_19_4	The person rinses the beans.	s25-d51	973	1135	beans	1308
+s25-d51_19_5	The person cuts the tips off the beans and throws them away.	s25-d51	1186	1982	beans	2100
+s25-d51_19_6	The person cuts up the beans.	s25-d51	2257	3408	beans	3464

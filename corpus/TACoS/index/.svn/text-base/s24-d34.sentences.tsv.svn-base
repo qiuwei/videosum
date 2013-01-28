@@ -1,0 +1,141 @@
+s24-d34_1_1	She took out cutting board	s24-d34	203	390	ginger	376
+s24-d34_1_2	She took out knife	s24-d34	427	516	ginger	520
+s24-d34_1_3	She took out ginger	s24-d34	674	999	ginger	924
+s24-d34_1_4	She cut ginger in half	s24-d34	999	1091	ginger	1163
+s24-d34_1_5	She took out peeler	s24-d34	1226	1489	ginger	1476
+s24-d34_1_6	She peeled ginger	s24-d34	1489	2464	ginger	2601
+s24-d34_1_7	She threw away peels	s24-d34	2738	2793	ginger	2794
+s24-d34_1_8	She diced ginger	s24-d34	2829	5192	ginger	5170
+s24-d34_2_1	The person takes out a cutting board from the drawer.	s24-d34	203	390	ginger	377
+s24-d34_2_2	The person takes out a knife from the drawer.	s24-d34	427	516	ginger	605
+s24-d34_2_3	The person takes some ginger  from the pantry.	s24-d34	674	999	ginger	915
+s24-d34_2_4	The person cuts away a portion of ginger from the main root.	s24-d34	999	1091	ginger	1075
+s24-d34_2_5	The person takes out a peeler from the drawer.	s24-d34	1226	1489	ginger	1515
+s24-d34_2_6	The person peels the ginger.	s24-d34	1489	2291	ginger	2377
+s24-d34_2_7	 The person throws the peels into the wastebin.	s24-d34	2404	2793	ginger	2837
+s24-d34_2_8	The person chops the ginger on the cutting board.	s24-d34	2829	5192	ginger	5209
+s24-d34_3_1	The person takes out a cutting board from the drawer.	s24-d34	203	390	ginger	387
+s24-d34_3_2	The person takes out a knife from the drawer.	s24-d34	427	516	ginger	521
+s24-d34_3_3	The person takes a ginger root  from the pantry.	s24-d34	674	999	ginger	885
+s24-d34_3_4	The person cuts off a portion of the ginger root.	s24-d34	999	1091	ginger	1091
+s24-d34_3_5	The person takes a peeler from the drawer.	s24-d34	1226	1489	ginger	1497
+s24-d34_3_6	The person peels the ginger.	s24-d34	1489	2291	ginger	2393
+s24-d34_3_7	The person throws the ginger peels in the wastebin.	s24-d34	2404	2793	ginger	2825
+s24-d34_3_8	The person uses the knife to chop the ginger on the cutting board.	s24-d34	2829	5192	ginger	5207
+s24-d34_3_9	The person washes her hands.	s24-d34	5365	5429	ginger	5427
+s24-d34_4_1	The person takes out a cutting board from the drawer.	s24-d34	203	390	ginger	383
+s24-d34_4_2	The person takes out a knife from the drawer.	s24-d34	427	516	ginger	521
+s24-d34_4_3	The person takes a ginger root from the pantry.	s24-d34	674	999	ginger	911
+s24-d34_4_4	The person cuts off a portion of the ginger root.	s24-d34	999	1091	ginger	1087
+s24-d34_4_5	The person takes a peeler from the drawer.	s24-d34	1226	1489	ginger	1501
+s24-d34_4_6	The person peels the ginger.	s24-d34	1489	2291	ginger	2375
+s24-d34_4_7	The person throws the ginger peels in the wastebin.	s24-d34	2404	2793	ginger	2819
+s24-d34_4_8	The person uses the knife to chop the ginger on the cutting board.	s24-d34	2829	5192	ginger	5167
+s24-d34_4_9	The person washes her hands.	s24-d34	5365	5429	ginger	5427
+s24-d34_5_1	Get out cutting board	s24-d34	203	390	ginger	425
+s24-d34_5_2	get out knife	s24-d34	427	516	ginger	517
+s24-d34_5_3	get ginger root from cabinet	s24-d34	674	999	ginger	1001
+s24-d34_5_4	get peeler from drawer	999	1489
+s24-d34_5_5	peel ginger root	999	1489
+s24-d34_5_6	gather and throw away scraps	s24-d34	1489	2464	ginger	2715
+s24-d34_5_7	cut and dice ginger root	s24-d34	2738	3614	ginger	3729
+s24-d34_5_8	wash hands	s24-d34	5365	5429	ginger	5427
+s24-d34_6_1	She gets a cutting board.	s24-d34	203	390	ginger	385
+s24-d34_6_2	She gets a knife.	s24-d34	427	516	ginger	517
+s24-d34_6_3	She grabs some ginger.	s24-d34	674	999	ginger	875
+s24-d34_6_4	She cuts off a chunk of ginger.	s24-d34	999	1091	ginger	1153
+s24-d34_6_5	She peels that chunk of ginger.	s24-d34	1226	2291	ginger	2405
+s24-d34_6_6	She discards the peels.	s24-d34	2404	2793	ginger	2797
+s24-d34_6_7	She minces the ginger.	s24-d34	2829	5043	ginger	5029
+s24-d34_7_1	Woman opens drawer and pulls out a cutting board.	s24-d34	203	390	ginger	379
+s24-d34_7_2	Woman opens another drawer and pulls out a knife.	s24-d34	427	516	ginger	519
+s24-d34_7_3	She walks to a cabinet behind her a picks up what appears to be ginger.	s24-d34	674	999	ginger	939
+s24-d34_7_4	She places it on the cutting board and cuts off a piece of it.	s24-d34	999	1091	ginger	1075
+s24-d34_7_5	She tries to peel it with a knife.	s24-d34	1226	1309	ginger	1339
+s24-d34_7_6	Upon a failed attempt, she opens the drawer and pulls out a peeler.	1342	1489
+s24-d34_7_7	She peels the small piece of ginger with the peeler.	1342	1489
+s24-d34_7_8	After finishing peeling, she throws away the skin of the ginger.	s24-d34	1489	2464	ginger	2751
+s24-d34_7_9	She starts  cutting the ginger with the knife.	s24-d34	2738	2853	ginger	2973
+s24-d34_7_10	She finished cutting the ginger into very small fine pieces.	5086	5192
+s24-d34_7_11	She places the knife on the board and proceeds to wash her hands.	5086	5192
+s24-d34_8_1	The person gets out a cutting board.	s24-d34	203	390	ginger	419
+s24-d34_8_2	The person gets out a knife.	s24-d34	427	516	ginger	523
+s24-d34_8_3	The person gets out some ginger.	s24-d34	674	999	ginger	965
+s24-d34_8_4	The person cuts off a piece of ginger.	s24-d34	999	1091	ginger	1095
+s24-d34_8_5	The person tries to peel the ginger with the knife.	s24-d34	1226	1309	ginger	1343
+s24-d34_8_6	The person gets out a vegetable peeler.	s24-d34	1342	1489	ginger	1493
+s24-d34_8_7	The person peels the ginger.	s24-d34	1489	2291	ginger	2393
+s24-d34_8_8	The person throws away the peel.	s24-d34	2404	2793	ginger	2797
+s24-d34_8_9	The person chops up the ginger.	s24-d34	2952	5192	ginger	5215
+s24-d34_9_1	the person gets a cutting board and a sharp knife	s24-d34	203	516	ginger	719
+s24-d34_9_2	the person cuts a piece of Ginger off	s24-d34	674	1489	ginger	1457
+s24-d34_9_3	the person gets a peeler	s24-d34	1489	2291	ginger	2211
+s24-d34_9_4	the person uses the peeler to skins the Ginger and discards the skin	s24-d34	2404	2853	ginger	2859
+s24-d34_9_5	the person slices and dices the Ginger	s24-d34	2829	5192	ginger	5229
+s24-d34_10_1	She goes to drawer and takes out cutting board and knife.	s24-d34	203	516	ginger	581
+s24-d34_10_2	She goes to the cupboard and takes out some ginger.	s24-d34	674	999	ginger	971
+s24-d34_10_3	She cuts the ginger in half and tries to peel it.	s24-d34	999	1309	ginger	1341
+s24-d34_10_4	She goes into drawer and gets a peeler and peel the ginger.	s24-d34	1342	3939	ginger	3845
+s24-d34_10_5	She chops the ginger into very small pieces.	s24-d34	2952	5192	ginger	5223
+s24-d34_10_6	She goes to the sink and washes her hands.	s24-d34	5365	5429	ginger	5427
+s24-d34_11_1	gather cutting board, knife and fresh ginger	s24-d34	203	999	ginger	1005
+s24-d34_11_2	roughly cut ginger in half	s24-d34	999	1309	ginger	1349
+s24-d34_11_3	using potato peeler, scrape off skin	s24-d34	1342	2291	ginger	2395
+s24-d34_11_4	cut off knots and knobby ends from ginger and discard	s24-d34	2404	2793	ginger	2833
+s24-d34_11_5	cut ginger lengthwise, cut small diagonal pieces, rotate, chop, rotate again and dice until finished	s24-d34	3939	5192	ginger	5315
+s24-d34_11_6	wash hands to remove fresh ginger odor	s24-d34	3708	5429	ginger	5427
+s24-d34_12_1	She took out cutting board	s24-d34	203	390	ginger	377
+s24-d34_12_2	She took out a knife	s24-d34	427	516	ginger	523
+s24-d34_12_3	She took out ginger	s24-d34	674	999	ginger	966
+s24-d34_12_4	She cut the ginger	s24-d34	999	1091	ginger	1107
+s24-d34_12_5	She peeled the ginger	s24-d34	1226	2291	ginger	2388
+s24-d34_12_6	She sliced the ginger	s24-d34	2829	5131	ginger	5157
+s24-d34_13_1	She gets a cutting board.	s24-d34	203	390	ginger	397
+s24-d34_13_2	She gets a knife.	s24-d34	427	516	ginger	515
+s24-d34_13_3	She gets the ginger and cuts off a chunk.	s24-d34	674	1091	ginger	1091
+s24-d34_13_4	She peels the ginger.	s24-d34	1226	2291	ginger	2419
+s24-d34_13_5	She discards the peels.	s24-d34	2404	2793	ginger	2803
+s24-d34_13_6	She chops the ginger.	s24-d34	2404	5131	ginger	5155
+s24-d34_14_1	She took out cutting board	s24-d34	203	390	ginger	393
+s24-d34_14_2	She took out knife	s24-d34	427	516	ginger	556
+s24-d34_14_3	She took out ginger	s24-d34	674	999	ginger	972
+s24-d34_14_4	She cut off piece of ginger	s24-d34	999	1091	ginger	1138
+s24-d34_14_5	She peeled ginger	s24-d34	1226	2291	ginger	2421
+s24-d34_14_6	She threw away peels	s24-d34	2404	2793	ginger	2803
+s24-d34_14_7	She diced ginger	s24-d34	2829	5043	ginger	5032
+s24-d34_15_1	The person gets out a cutting board.	s24-d34	203	390	ginger	384
+s24-d34_15_2	The person gets out a knife.	s24-d34	427	516	ginger	528
+s24-d34_15_3	The person gets out some ginger.	s24-d34	674	999	ginger	1004
+s24-d34_15_4	The person cuts the ginger in half.	s24-d34	999	1091	ginger	1086
+s24-d34_15_5	The person gets out a peeler.	s24-d34	1226	1489	ginger	1521
+s24-d34_15_6	The person peels one half of the ginger.	s24-d34	1489	2291	ginger	2388
+s24-d34_15_7	The person throws away the ginger peel.	s24-d34	2404	2793	ginger	2818
+s24-d34_15_8	The person cuts up that half of the ginger.	s24-d34	5131	5192	ginger	5324
+s24-d34_16_1	The person got out a cutting board.	s24-d34	203	390	ginger	386
+s24-d34_16_2	The person selected a knife.	s24-d34	427	516	ginger	526
+s24-d34_16_3	The person removes ginger from the cabinet.	s24-d34	674	999	ginger	898
+s24-d34_16_4	The person sliced off a piece of ginger.	s24-d34	999	1054	ginger	1064
+s24-d34_16_5	Trimming is done with the knife.	s24-d34	1054	1309	ginger	1308
+s24-d34_16_6	A peeling tool is selected.	s24-d34	1342	1489	ginger	1488
+s24-d34_16_7	The piece is peeled.	s24-d34	1489	2291	ginger	2360
+s24-d34_16_8	The scraps are discarded.	s24-d34	2404	2793	ginger	2841
+s24-d34_16_9	The ginger is sliced.	s24-d34	2829	3123	ginger	3122
+s24-d34_16_10	The ginger is chopped finely.	s24-d34	5131	5192	ginger	5168
+s24-d34_17_1	The person gets out a cutting board.	s24-d34	203	390	ginger	364
+s24-d34_17_2	The person gets out a knife.	s24-d34	427	516	ginger	530
+s24-d34_17_3	The person gets out some ginger.	s24-d34	674	999	ginger	989
+s24-d34_17_4	The person cuts off a piece of ginger.	s24-d34	999	1091	ginger	1073
+s24-d34_17_5	The person gets out a peeler and peels the ginger.	s24-d34	1226	2291	ginger	2398
+s24-d34_17_6	The person throws away the peel.	s24-d34	2404	2793	ginger	2797
+s24-d34_17_7	The person chops up the ginger.	s24-d34	2829	5192	ginger	5196
+s24-d34_18_1	person get out cutting board	s24-d34	203	390	ginger	375
+s24-d34_18_2	person get out knife	s24-d34	427	516	ginger	525
+s24-d34_18_3	person gets out ginger	s24-d34	674	999	ginger	917
+s24-d34_18_4	person cuts ginger in half	s24-d34	999	1091	ginger	1081
+s24-d34_18_5	person peels off outer layer of ginger	s24-d34	1226	2793	ginger	2785
+s24-d34_18_6	person dices ginger	s24-d34	5086	5192	ginger	5171
+s24-d34_19_1	The person gets a cutting board, a shark knife, and a piece of ginger root.	s24-d34	203	999	ginger	935
+s24-d34_19_2	The person slices off a piece of the ginger root.	s24-d34	999	1091	ginger	1175
+s24-d34_19_3	The person gets a vegetable peeler and uses it to peel off the exterior skin of the piece of ginger root, then discards the skin.	s24-d34	1226	2793	ginger	2797
+s24-d34_19_4	The person places the piece of ginger root on the cutting board and thinly slices it with the knife.	s24-d34	2829	3123	ginger	3157
+s24-d34_19_5	The person uses the knife to cut the slices of ginger root from various angles until the ginger is minced into tiny chunks.	s24-d34	2829	5192	ginger	5241

@@ -1,0 +1,24 @@
+251	837	take out	hand	orange	counter,fridge
+847	1138	take out	hand	cutting board	counter,drawer
+1138	1200	close	hand		drawer
+1200	1389	take out	hand	knife	drawer
+1389	1420	move	hand	orange	counter,cutting board
+1517	1581	cut	knife	orange	cutting board
+1682	1749	open	hand		drawer
+1764	2141	take out	hand	squeezer	counter,drawer
+2192	3538	squeeze	squeezer	orange	squeezer
+3720	4835	squeeze	squeezer	orange	squeezer
+5292	5422	take out	hand	teaspoon	drawer
+5596	5687	throw in garbage	hand	peel	
+5768	6182	throw in garbage	teaspoon	garbage	
+6255	6516	take out	hand	glass	counter,cupboard
+6518	6556	move	hand	teaspoon	cutting board,squeezer
+6639	6814	pour	squeezer	orange	glass
+6892	6947	pour	squeezer	orange	glass
+7100	7366	take out	hand	paper bag	,cupboard
+7307	7412	open	hand	paper bag	
+7431	7516	take out	hand	teaspoon	drawer
+7532	7644	add	teaspoon	sugar	glass,paper bag
+7659	7749	stir	teaspoon	orange	glass
+7805	7891	close	hand	paper bag	
+7894	8080	put in	hand	sugar	counter,cupboard

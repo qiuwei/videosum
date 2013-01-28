@@ -1,0 +1,22 @@
+224	556	take out	hand	orange	counter,fridge
+562	662	take out	hand	cutting board	counter,drawer
+668	765	take out	hand	squeezer	counter,drawer
+784	978	take out	hand	knife	cutting board,drawer
+1030	1177	take out	hand	glass	counter,cupboard
+1190	1230	move	hand	sponge	counter,faucet
+1388	1836	wash	hand	orange	
+1836	1882	shake	hand	orange	
+1927	1974	dry	towel	hand	
+2272	2353	cut	knife	orange	cutting board
+2380	2422	move	hand	squeezer	counter,cutting board
+2446	3062	squeeze	squeezer	orange	squeezer
+3115	3913	squeeze	squeezer	orange	squeezer
+3924	4179	squeeze	squeezer	orange	squeezer
+4294	4540	squeeze	squeezer	orange	squeezer
+4943	5025	take out	hand	spoon	cutting board,drawer
+5105	5316	pour	squeezer	orange	glass
+5525	5587	add	spoon	orange	glass,squeezer
+5587	5637	stir	spoon	orange	glass
+5637	5721	add	spoon	orange	glass,squeezer
+5740	5765	move	hand	cutting board	counter
+5765	5794	move	hand	glass	counter

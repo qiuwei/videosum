@@ -1,0 +1,194 @@
+s33-d27_1_1	The woman takes out a knife and an onion, and cuts the peel off of the onion over the garbage.	s33-d27	137	1811	onion	1833
+s33-d27_1_2	She cuts a second onion over the garbage can.	s33-d27	1812	2879	onion	3071
+s33-d27_1_3	She cuts the first onion into small pieces on a cutting board.	s33-d27	2909	5847	onion	5869
+s33-d27_1_4	She takes out a frying pan.	s33-d27	5887	6039	onion	6063
+s33-d27_1_5	She cuts the second onion into small pieces on the cutting board, then puts the pieces in the frying pan.	s33-d27	6088	9214	onion	9232
+s33-d27_1_6	She turns the burner on.	s33-d27	9217	10249	onion	10190
+s33-d27_1_7	She adds oil to the onions.	s33-d27	10285	10575	onion	10579
+s33-d27_1_8	She stirs them with a wooden spatula.	s33-d27	10599	11773	onion	11842
+s33-d27_1_9	She waits until the onions are a golden brown.	s33-d27	11846	19861	onion	20001
+s33-d27_2_1	She took out onion	s33-d27	137	458	onion	561
+s33-d27_2_2	She took out knife	s33-d27	480	806	onion	789
+s33-d27_2_3	She peels onion	s33-d27	806	1864	onion	1943
+s33-d27_2_4	She peels second onion	s33-d27	1882	2879	onion	2963
+s33-d27_2_5	She takes out cutting board	s33-d27	2909	3346	onion	3345
+s33-d27_2_6	She chops first onion	s33-d27	3357	6039	onion	5981
+s33-d27_2_7	She takes out pan	s33-d27	6088	6232	onion	6215
+s33-d27_2_8	She puts onion in pan	s33-d27	6249	6348	onion	6343
+s33-d27_3_1	She gets out some onions.	s33-d27	137	835	onion	1099
+s33-d27_3_2	She peels the onions.	s33-d27	860	2879	onion	3011
+s33-d27_3_3	She chops the onions and puts them into a pan.	s33-d27	6355	9371	onion	9389
+s33-d27_3_4	She heats the pan and adds oil.	s33-d27	9431	10742	onion	10711
+s33-d27_3_5	She finishes the cooking and cleans up.	s33-d27	10751	19861	onion	19983
+s33-d27_4_1	She took out onion	s33-d27	137	458	onion	587
+s33-d27_4_2	She took out knife	s33-d27	480	835	onion	825
+s33-d27_4_3	She peeled onion	s33-d27	860	1864	onion	1949
+s33-d27_4_4	She peeled second onion	s33-d27	1882	2879	onion	2999
+s33-d27_4_5	She took out cutting board	s33-d27	2909	3346	onion	3405
+s33-d27_4_6	She diced first onion	s33-d27	3357	6039	onion	6019
+s33-d27_4_7	She took out pan	s33-d27	6088	6232	onion	6183
+s33-d27_4_8	She put onion in pan	s33-d27	6249	6348	onion	6343
+s33-d27_4_9	She diced second onion	s33-d27	2909	9042	onion	9081
+s33-d27_4_10	She put second onion in plate	s33-d27	9095	9474	onion	9477
+s33-d27_4_11	She turned on stove	s33-d27	9508	10249	onion	10311
+s33-d27_4_12	She took out oil	s33-d27	10285	10437	onion	10495
+s33-d27_4_13	She put oil in pan	s33-d27	10452	10742	onion	10757
+s33-d27_5_1	She gets out an onion and a knife.	s33-d27	137	835	onion	989
+s33-d27_5_2	She peels the onions.	s33-d27	860	2879	onion	3061
+s33-d27_5_3	She chops the onions and adds them to the pan.	s33-d27	6355	9371	onion	9379
+s33-d27_5_4	She turns on the stove.	s33-d27	9431	10382	onion	10381
+s33-d27_5_5	She adds oil to the pan.	s33-d27	10394	10742	onion	10745
+s33-d27_5_6	She removes the pan from the heat.	s33-d27	10751	18496	onion	18347
+s33-d27_5_7	She cleans up.	s33-d27	18589	19861	onion	20001
+s33-d27_6_1	She gets a knife and a couple onions.	s33-d27	137	835	onion	881
+s33-d27_6_2	She peels the onions.	s33-d27	860	2879	onion	2989
+s33-d27_6_3	She gets a cutting board.	s33-d27	2909	3346	onion	3403
+s33-d27_6_4	She chops the onions and adds them to the pan.	s33-d27	2909	9371	onion	9391
+s33-d27_6_5	She adds oil to the pan.	s33-d27	9431	10742	onion	10719
+s33-d27_6_6	She finishes cooking the onions.	s33-d27	10751	18117	onion	18267
+s33-d27_6_7	She cleans up.	s33-d27	18160	19641	onion	19817
+s33-d27_7_1	She gets onions and knife.	s33-d27	137	806	onion	791
+s33-d27_7_2	She peels onions with knife.	s33-d27	806	2879	onion	2981
+s33-d27_7_3	She gets cutting board.	s33-d27	2909	3346	onion	3361
+s33-d27_7_4	She cuts in half and dices onion #1	s33-d27	3357	6039	onion	6031
+s33-d27_7_5	She gets pan and places on stove.	s33-d27	6088	6232	onion	6179
+s33-d27_7_6	She puts onions into pan.	s33-d27	3357	6430	onion	6441
+s33-d27_7_7	She cuts in half and dices onion #2.	s33-d27	6439	9042	onion	9105
+s33-d27_7_8	She places remainder onions into pan.	s33-d27	9095	9371	onion	9355
+s33-d27_7_9	She sets fire on stove top.	s33-d27	9431	10249	onion	10271
+s33-d27_7_10	She adds cooking liquid to pan.	s33-d27	10285	10742	onion	10701
+s33-d27_7_11	She monitors and stirs onions as they cook.	s33-d27	10751	11773	onion	11863
+s33-d27_7_12	She cleans knife and watches pan (as onions cook).	s33-d27	11846	12782	onion	12771
+s33-d27_7_13	She continues to stir onions as they brown in pan.	s33-d27	12816	17414	onion	17473
+s33-d27_7_14	When onions are browned, she removes pan from heat	s33-d27	17428	18117	onion	18299
+s33-d27_8_1	She took out onion	s33-d27	137	458	onion	563
+s33-d27_8_2	She took out knife	s33-d27	480	806	onion	807
+s33-d27_8_3	She peeled onions	s33-d27	806	2879	onion	2989
+s33-d27_8_4	She took out cutting board	s33-d27	2909	3346	onion	3353
+s33-d27_8_5	She chopped up onions	s33-d27	3357	6039	onion	6007
+s33-d27_8_6	She took out pan	s33-d27	6088	6232	onion	6169
+s33-d27_8_7	She put onions in pan	s33-d27	6249	6348	onion	6353
+s33-d27_8_8	She chopped up second onion	s33-d27	6249	9042	onion	9109
+s33-d27_8_9	She put second onion in pan	s33-d27	9095	9371	onion	9371
+s33-d27_8_10	She turned on stove	s33-d27	9431	10249	onion	10287
+s33-d27_8_11	She took out oil	s33-d27	10285	10575	onion	10523
+s33-d27_8_12	She put oil in pan	s33-d27	10599	10742	onion	10723
+s33-d27_8_13	She put away oil	s33-d27	10751	11083	onion	11021
+s33-d27_9_1	She gets an onion and a knife.	s33-d27	137	722	onion	775
+s33-d27_9_2	She peels the onions.	s33-d27	751	2879	onion	2993
+s33-d27_9_3	She gets a cutting board.	s33-d27	2909	3346	onion	3421
+s33-d27_9_4	She chops the onions and puts them in a pan.	s33-d27	6355	9371	onion	9369
+s33-d27_9_5	She turns on the stove and adds oil to the pan.	s33-d27	9431	10742	onion	10705
+s33-d27_9_6	She finishes the cooking of the onions.	s33-d27	18160	19162	onion	19021
+s33-d27_9_7	She cleans up.	s33-d27	19796	19861	onion	19993
+s33-d27_10_1	The person peeled the onion with a knife	s33-d27	137	1864	onion	1967
+s33-d27_10_2	The person peeled a second onion	s33-d27	1882	2879	onion	2991
+s33-d27_10_3	The person cut the first onion into small pieces	s33-d27	2909	6039	onion	5977
+s33-d27_10_4	The person cut the second onion into small pieces	s33-d27	3357	9042	onion	9137
+s33-d27_10_5	The person added the chopped onions to a frying pan	s33-d27	9095	9474	onion	9673
+s33-d27_10_6	The person added an ingredients to the onions	s33-d27	10751	10910	onion	10863
+s33-d27_10_7	The person stirred the onions	s33-d27	10751	11773	onion	11905
+s33-d27_11_1	The woman takes out two onions from a cabinet.	s33-d27	137	722	onion	647
+s33-d27_11_2	She takes out a small knife, walks over to the trash can, and sets one onion on the counter.	s33-d27	751	835	onion	999
+s33-d27_11_3	She uses the small knife to cut off the outer layer of the onion.	s33-d27	860	1811	onion	1359
+s33-d27_11_4	She places the peeled onion in the sink and picks up the second onion.	s33-d27	1812	1864	onion	2039
+s33-d27_11_5	She peels the second onion and places it in the sink.	s33-d27	1882	2879	onion	3045
+s33-d27_11_6	She takes out a round cutting board and places one onion on it.	s33-d27	2909	3571	onion	3467
+s33-d27_11_7	She cuts the onion in tiny pieces on the cutting board.	s33-d27	3582	6039	onion	6021
+s33-d27_11_8	She pulls out a frying pan and places it on the stove.	s33-d27	6088	6232	onion	6177
+s33-d27_11_9	She places the onion pieces in the frying pan and cuts the other onion into small pieces.	s33-d27	6088	8283	onion	8225
+s33-d27_11_10	Next, she places the remaining onion pieces in the pan.	s33-d27	8292	9253	onion	9277
+s33-d27_11_11	She turns on the stove and places cooking oil in the pan.	s33-d27	9274	10742	onion	10697
+s33-d27_11_12	She uses a wooden spatula to constantly stir the onions.	s33-d27	11846	17325	onion	16975
+s33-d27_11_13	She washes the spatula, knife, and cutting board in the sink.	s33-d27	11106	19641	onion	19743
+s33-d27_12_1	The woman peels the onions.	s33-d27	137	2879	onion	3005
+s33-d27_12_2	The woman dices the first onion.	s33-d27	2909	6039	onion	5997
+s33-d27_12_3	The woman adds the first onion to the pan.	s33-d27	6249	6635	onion	6541
+s33-d27_12_4	The woman dices the second onion.	s33-d27	6640	9214	onion	9211
+s33-d27_12_5	She adds the second onion to the pan.	s33-d27	9217	9474	onion	9655
+s33-d27_12_6	The woman adds oil to the pan.	s33-d27	10751	10910	onion	10887
+s33-d27_12_7	The woman stirs the onions as they cook.	s33-d27	10935	18117	onion	18265
+s33-d27_12_8	The woman washes up.	s33-d27	19203	19861	onion	20109
+s33-d27_13_1	The woman removes two onions from a cabinet.	s33-d27	137	458	onion	583
+s33-d27_13_2	She then removes a knife from the drawer.	s33-d27	480	835	onion	855
+s33-d27_13_3	She peels the onion skins off into the recycling bin, and places the onions in the sink.	s33-d27	860	2879	onion	2977
+s33-d27_13_4	She slices and cuts up one onion into small pieces.	2909	6039
+s33-d27_13_5	She removes a frying pan from the cabinet and places it on the stove.	2909	6039
+s33-d27_13_6	She places the chopped onion into the frying pan.	s33-d27	6088	6430	onion	6517
+s33-d27_13_7	She chops the second onion, and places the pieces into the frying pan.	s33-d27	6439	9474	onion	9539
+s33-d27_13_8	She turns on the burner under the frying pan.	s33-d27	9508	10249	onion	10259
+s33-d27_13_9	She adds a bit of oil to the onion in the frying pan.	s33-d27	10285	10742	onion	10681
+s33-d27_13_10	She removes a wooden spatula from the drawer and stirs the onion in the pan.	s33-d27	9508	11969	onion	11923
+s33-d27_13_11	She continues to stir the cooking onion every few minutes.	s33-d27	11990	13409	onion	13415
+s33-d27_13_12	She removes the frying pan from the heat and turns off the burner.	s33-d27	13613	18117	onion	18275
+s33-d27_13_13	She washes her cutting board and spatula and places them in the dish drain.	s33-d27	18160	19641	onion	19739
+s33-d27_14_1	The person gets out two onions.	s33-d27	137	458	onion	475
+s33-d27_14_2	The person gets out a knife.	s33-d27	480	722	onion	694
+s33-d27_14_3	The person peels the onions and puts them in the sink.	s33-d27	751	2879	onion	2937
+s33-d27_14_4	The person gets out a wooden plate.	s33-d27	2909	3285	onion	3290
+s33-d27_14_5	The person cuts up an onion.	s33-d27	3307	5847	onion	5873
+s33-d27_14_6	The person gets out a frying pan and puts it on the stove.	s33-d27	5887	6039	onion	6051
+s33-d27_14_7	The person puts the onion pieces into the pan.	s33-d27	6088	6291	onion	6282
+s33-d27_14_8	The person cuts up the other onion and puts the pieces in the pan.	s33-d27	6088	9253	onion	9265
+s33-d27_14_9	The person turns on the stove.	s33-d27	9274	10249	onion	10156
+s33-d27_14_10	The person adds oil to the pan.	s33-d27	10751	10807	onion	10798
+s33-d27_14_11	The person gets out a wooden spatula and stirs the onions.	s33-d27	9508	11773	onion	11804
+s33-d27_14_12	The person washes the knife.	s33-d27	10935	12782	onion	12816
+s33-d27_14_13	The person stirs the onions while they cook.	s33-d27	18160	18496	onion	18571
+s33-d27_14_14	The person rinses the spatula and wooden plate.	s33-d27	18589	19641	onion	19651
+s33-d27_15_1	She gets a knife and onions.	s33-d27	137	835	onion	821
+s33-d27_15_2	She peels the onions.	s33-d27	860	2879	onion	2987
+s33-d27_15_3	She chops the onion and adds it to a pan.	s33-d27	6300	9371	onion	9369
+s33-d27_15_4	She heats the pan and adds oil.	s33-d27	10285	10910	onion	10871
+s33-d27_15_5	She finishes cooking and cleans up.	s33-d27	19796	19861	onion	20013
+s33-d27_16_1	The person has grabbed the onion and a knife.	s33-d27	137	835	onion	877
+s33-d27_16_2	The person has removed the outer layer of skin.	s33-d27	860	1811	onion	1823
+s33-d27_16_3	The person has removed the outer layer of skin on a second onion.	s33-d27	1812	2879	onion	2875
+s33-d27_16_4	The person has thinly sliced the onion and then chopped it into small pieces.	s33-d27	2909	5847	onion	5908
+s33-d27_16_5	The person has sliced and chopped the second onion.	s33-d27	2909	9042	onion	9112
+s33-d27_16_6	The person has placed the onions in a pan on the stove, and turned the stove on.	s33-d27	9095	10249	onion	10179
+s33-d27_16_7	The person has poured a small amount of oil over the onions.	s33-d27	9431	10807	onion	10811
+s33-d27_16_8	The person has stirred the onions to evenly distribute the oil	s33-d27	10935	11773	onion	11838
+s33-d27_16_9	The person has washed the previously used knife.	s33-d27	10812	12782	onion	12826
+s33-d27_16_10	The person has frequently stirred the onions, slightly.	s33-d27	12816	17959	onion	17974
+s33-d27_16_11	The person has removed the pan from heat and stirred the onions for a few more seconds.	s33-d27	11846	18673	onion	18670
+s33-d27_16_12	The person has washed up everything else she has used while the onions rest in the pan.	s33-d27	17340	19861	onion	20001
+s33-d27_17_1	The person gets out two onions.	s33-d27	137	458	onion	458
+s33-d27_17_2	The person gets out a knife.	s33-d27	480	722	onion	697
+s33-d27_17_3	The person peels the onions and puts them in the sink.	s33-d27	751	2879	onion	2881
+s33-d27_17_4	The person gets out a wooden plate.	s33-d27	2909	3285	onion	3287
+s33-d27_17_5	The person cuts up an onion.	s33-d27	3307	5847	onion	5866
+s33-d27_17_6	The person gets out a frying pan and puts it on the stove.	s33-d27	5887	6039	onion	6091
+s33-d27_17_7	The person cuts up the other onion and puts the pieces in the pan.	s33-d27	5887	9253	onion	9272
+s33-d27_17_8	The person turns on the stove.	s33-d27	9274	10249	onion	9998
+s33-d27_17_9	The person adds oil to the pan.	s33-d27	10285	10742	onion	10771
+s33-d27_17_10	The person gets out a wooden spatula and stirs the onions.	s33-d27	10812	11773	onion	11780
+s33-d27_17_11	The person washes the knife.	s33-d27	11846	12782	onion	12791
+s33-d27_17_12	The person stirs the onions while they cook.	s33-d27	17995	18496	onion	18567
+s33-d27_17_13	The person rinses the spatula and wooden plate.	s33-d27	18589	19641	onion	19657
+s33-d27_18_1	The person obtains two small onions from the pantry.	s33-d27	137	722	onion	635
+s33-d27_18_2	The person takes a small knife from the drawer.	s33-d27	751	835	onion	839
+s33-d27_18_3	The person peels the onions over the trashcan with the knife then sets them in the sink.	s33-d27	860	3250	onion	3119
+s33-d27_18_4	The person chooses a circular cutting board from the drawer and sets it on the countertop.	s33-d27	3256	3346	onion	3411
+s33-d27_18_5	The person chops and dices one onion on the cutting board.	s33-d27	3357	6039	onion	5997
+s33-d27_18_6	The person takes a pan from a drawer and places it on the stove.	s33-d27	6088	6232	onion	6165
+s33-d27_18_7	The person scoops the diced onion into the pan.	s33-d27	6088	6376	onion	6385
+s33-d27_18_8	The person dices the second onion and then scoops it into the pan.	s33-d27	6398	9371	onion	9419
+s33-d27_18_9	The person turns the stove on, retrieves a bottle of cooking oil from the pantry, daubs the oil into the pan and then replaces the bottle in the pantry.	s33-d27	10751	11083	onion	11011
+s33-d27_18_10	The person takes a wooden spoon from the drawer and stirs the onions frying in the pan.	s33-d27	10285	11773	onion	11889
+s33-d27_18_11	The person notably washes the knife in the sink with a scrub brush and soap, the first person to do so in 40 or so videos.	s33-d27	11846	12782	onion	12899
+s33-d27_18_12	The person turns off the stove and then proceeds to properly wash the cutting board and the wooden spoon in the sink.	s33-d27	12816	19641	onion	19765
+s33-d27_19_1	The person gets an onion from the pantry.	s33-d27	137	458	onion	589
+s33-d27_19_2	The person takes a knife from the drawer.	s33-d27	480	835	onion	823
+s33-d27_19_3	The person peels an onion over the trash can.	s33-d27	860	1864	onion	2027
+s33-d27_19_4	The person peels another onion over the wastebin with the knife.	s33-d27	1882	2879	onion	2997
+s33-d27_19_5	The person takes out a cutting board from the drawer.	s33-d27	2909	3346	onion	3405
+s33-d27_19_6	The person dices the onion on the cutting board.	s33-d27	3357	6039	onion	6003
+s33-d27_19_7	The person takes a pan from the drawer and places it onto the stove.	s33-d27	6088	6232	onion	6169
+s33-d27_19_8	The person scoops the onions into the pan.	s33-d27	6249	6348	onion	6347
+s33-d27_19_9	The person chops another onion on the cutting board.	s33-d27	6249	9042	onion	9083
+s33-d27_19_10	The person disposes of some peel into the wastebin.	s33-d27	9095	9214	onion	9181
+s33-d27_19_11	The person scoops the chopped onion into the pan and turns on the stove.	s33-d27	9217	9474	onion	9599
+s33-d27_19_12	The person gets from oil from the pantry and pours it on the onions in the pan.	s33-d27	9508	10742	onion	10733
+s33-d27_19_13	The person takes out a wooden spoon and stirs the onions.	s33-d27	11106	11180	onion	11285
+s33-d27_19_14	The person washes off the knife in the sink.	s33-d27	11846	12782	onion	12969

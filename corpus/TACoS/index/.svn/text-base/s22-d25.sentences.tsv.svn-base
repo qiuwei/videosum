@@ -1,0 +1,84 @@
+s22-d25_1_1	Take loaf from pantry.	s22-d25	290	455	bread	446
+s22-d25_1_2	Find cutting board.	s22-d25	476	701	bread	698
+s22-d25_1_3	Find serrated knife.	s22-d25	735	917	bread	906
+s22-d25_1_4	Take loaf out of package.	s22-d25	968	1106	bread	1091
+s22-d25_1_5	Slice loaf about 3/4 inch thick using a back and forth sawing motion.	1155	1426
+s22-d25_1_6	Put knife down and smile lovely.	1155	1426
+s22-d25_3_1	The person gets out a loaf of bread in plastic wrap.	s22-d25	290	455	bread	458
+s22-d25_3_2	The person gets out a wooden plate.	s22-d25	476	701	bread	708
+s22-d25_3_3	The person gets out a knife.	s22-d25	735	917	bread	922
+s22-d25_3_4	The person unwraps the bread.	s22-d25	968	1106	bread	1122
+s22-d25_3_5	The person cuts off a slice of bread.	s22-d25	1155	1426	bread	1402
+s22-d25_4_1	Take out the loaf of bread you would like to slice.	s22-d25	290	455	bread	414
+s22-d25_4_2	You will need to take out a cutting board and a knife.	s22-d25	476	701	bread	732
+s22-d25_4_3	Place the loaf of bread on the cutting board.	735	1106
+s22-d25_4_4	With the knife cut into the bread as thick as you would like your slices.	735	1106
+s22-d25_4_5	Repeat until you have cut the whole loaf.	s22-d25	1155	1426	bread	1448
+s22-d25_5_1	Take out the loaf of bread.	s22-d25	290	455	bread	442
+s22-d25_5_2	Get out a cutting board.	s22-d25	476	701	bread	690
+s22-d25_5_3	Get a knife to cut the bread with.	s22-d25	735	917	bread	908
+s22-d25_5_4	Place the loaf of bread onto the cutting board.	s22-d25	968	1106	bread	1102
+s22-d25_5_5	While holding loaf firmly, use knife to cut from the end of the loaf.	1155	1426
+s22-d25_5_6	Place knife down on cutting board.	1155	1426
+s22-d25_6_1	She gets the bread.	s22-d25	290	455	bread	448
+s22-d25_6_2	She gets a cutting board.	s22-d25	476	701	bread	696
+s22-d25_6_3	She gets a knife.	s22-d25	735	917	bread	910
+s22-d25_6_4	She takes the bread from the packaging.	s22-d25	968	1106	bread	1080
+s22-d25_6_5	She cuts off a slice.	s22-d25	1155	1426	bread	1418
+s22-d25_7_1	The person takes a loaf of bread from the pantry.	290	455
+s22-d25_7_2	The person sets the loaf of bread on the countertop.	290	455
+s22-d25_7_3	The person takes out a cutting board from the drawer.	s22-d25	476	701	bread	696
+s22-d25_7_4	The person takes out a knife from the drawer.	s22-d25	735	917	bread	934
+s22-d25_7_5	The person unwraps the bread loaf and sets it on the cutting board.	s22-d25	968	1106	bread	1114
+s22-d25_7_6	The person uses the knife to slice a piece of bread from the loaf.	s22-d25	1155	1426	bread	1576
+s22-d25_8_1	Woman walks to the cabinet and pulls out a bag with bread.	s22-d25	290	455	bread	466
+s22-d25_8_2	She places it on the counter and takes out a knife and cutting board.	s22-d25	476	917	bread	910
+s22-d25_8_3	She takes out the bread and places it on the cutting board.	s22-d25	968	1106	bread	1152
+s22-d25_8_4	She slowly cuts a loaf of bread.	1155	1426
+s22-d25_8_5	She puts the knife down on the counter.	1155	1426
+s22-d25_9_1	The woman walks to the refrigerator and pulls out a a bag with bread.	290	455
+s22-d25_9_2	She places the bread on the counter.	290	455
+s22-d25_9_3	Next, she takes out a cutting board and places it on the counter.	s22-d25	476	701	bread	706
+s22-d25_9_4	Also, she pulls out a knife and places it on the counter.	s22-d25	735	917	bread	922
+s22-d25_9_5	She takes the loaf of bread and places it on the cutting board.	s22-d25	968	1106	bread	1072
+s22-d25_9_6	She slowly cuts a slice of bread.	s22-d25	1155	1426	bread	1432
+s22-d25_10_1	The person gets out a loaf of bread in plastic wrap.	s22-d25	290	455	bread	456
+s22-d25_10_2	The person gets out a wooden plate.	s22-d25	476	701	bread	710
+s22-d25_10_3	The person gets out a knife.	s22-d25	735	917	bread	928
+s22-d25_10_4	The person unwraps the bread.	s22-d25	968	1106	bread	1116
+s22-d25_10_5	The person cuts a slice of bread.	s22-d25	1155	1426	bread	1408
+s22-d25_11_1	She took out bread	s22-d25	290	455	bread	458
+s22-d25_11_2	She took out cutting board	s22-d25	476	701	bread	736
+s22-d25_11_3	She took out knife	s22-d25	735	917	bread	1014
+s22-d25_11_4	She unwrapped bread	s22-d25	968	1106	bread	1180
+s22-d25_11_5	She sliced bread	s22-d25	1155	1426	bread	1496
+s22-d25_13_1	She gets a loaf of bread from the cupboard.	s22-d25	290	455	bread	398
+s22-d25_13_2	She gets a cutting board from the cupboard.	s22-d25	476	701	bread	686
+s22-d25_13_3	She gets a knife from the drawer.	s22-d25	735	917	bread	910
+s22-d25_13_4	She removes the loaf of bread from its bag.	s22-d25	968	1106	bread	1100
+s22-d25_13_5	She cuts a slice off the loaf of bread.	s22-d25	1155	1426	bread	1392
+s22-d25_14_1	The person takes a loaf of bread out of the cupboard.	s22-d25	290	455	bread	379
+s22-d25_14_2	The person takes a chopping board out of the drawer.	s22-d25	476	701	bread	691
+s22-d25_14_3	The person takes a bread knife out of the drawer.	s22-d25	735	917	bread	878
+s22-d25_14_4	The person takes the bread out of its plastic wrapping.	s22-d25	968	1106	bread	1104
+s22-d25_14_5	The person cuts a slice off the loaf of bread.	s22-d25	1155	1426	bread	1387
+s22-d25_15_1	The person gets out a loaf of bread in plastic wrap.	s22-d25	290	455	bread	452
+s22-d25_15_2	The person gets out a wooden plate.	s22-d25	476	701	bread	694
+s22-d25_15_3	The person gets out a knife.	s22-d25	735	917	bread	926
+s22-d25_15_4	The person unwraps the bread.	s22-d25	968	1106	bread	1119
+s22-d25_15_5	The person cuts off a slice of bread.	s22-d25	1155	1426	bread	1401
+s22-d25_16_1	The person takes a loaf of bread from the cupboard.	s22-d25	290	455	bread	379
+s22-d25_16_2	The person takes a chopping board out from the drawer.	s22-d25	476	701	bread	717
+s22-d25_16_3	The person takes a knife out from the drawer.	s22-d25	735	917	bread	943
+s22-d25_16_4	The person removes the loaf of bread from its plastic wrapping.	s22-d25	968	1106	bread	1132
+s22-d25_16_5	The person cuts a slice of bread from the loaf.	s22-d25	1155	1426	bread	1433
+s22-d25_17_1	The person takes a loaf of bread out from the cupboard.	s22-d25	290	455	bread	387
+s22-d25_17_2	The person takes a chopping board out of the drawer.	s22-d25	476	701	bread	716
+s22-d25_17_3	The person takes a knife out of the drawer.	s22-d25	735	917	bread	937
+s22-d25_17_4	The person takes the loaf of bread out of its plastic wrapping.	s22-d25	968	1106	bread	1091
+s22-d25_17_5	The person uses the knife to cut a slice of bread from the loaf.	s22-d25	1155	1426	bread	1419
+s22-d25_19_1	The first step is to grab a loaf of bread from the refrigerator.	s22-d25	290	455	bread	390
+s22-d25_19_2	The second step is to grab a butcher block from the drawer.	s22-d25	476	701	bread	708
+s22-d25_19_3	The next step is to grab a knife.	s22-d25	735	917	bread	926
+s22-d25_19_4	The fourth step is to take the loaf of bread out of the bag.	s22-d25	968	1106	bread	1116
+s22-d25_19_5	The last step is to slice the loaf of bread.	s22-d25	1155	1426	bread	1506

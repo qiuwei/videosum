@@ -1,0 +1,26 @@
+200	429	take out	hand	pepper	,cupboard
+465	570	wash	hand	pepper	
+573	593	shake	hand	pepper	
+600	684	take out	hand	cutting board	counter,drawer
+694	803	take out	hand	knife	,drawer
+821	902	cut	knife	pepper	cutting board
+908	939	take apart	hand	pepper	
+954	1042	cut	knife	pepper	cutting board
+1044	1075	take apart	hand	pepper,seed	
+1122	1219	cut	knife	pepper	cutting board
+1219	1235	take apart	hand	pepper	
+1263	1285	take apart	hand	pepper,seed	
+1285	1321	take apart	hand	pepper,seed	
+1325	1372	take apart	hand	pepper,seed	
+1372	1401	take apart	hand	pepper,seed	
+1502	1629	throw in garbage	hand	pepper,seed	
+1664	1827	slice	knife	pepper	cutting board
+1842	1996	slice	knife	pepper	cutting board
+1996	2021	take apart	hand	pepper	cutting board
+2073	2205	take out	hand	plate	counter,cupboard
+2208	2252	move	hand	pepper	cutting board,plate
+2257	2289	move	hand	pepper	cutting board,plate
+2294	2324	move	hand	pepper	cutting board,plate
+2324	2352	move	hand	pepper	cutting board,plate
+2357	2673	put in	hand	plate	counter,cupboard
+2728	2778	close	hand		cupboard

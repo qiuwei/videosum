@@ -1,0 +1,81 @@
+247	369	take out	hand	cutting board	counter,drawer	He took out cutting board					He took out cutting board							He took out cutting board				
+419	730	take out	hand	broccoli	counter,fridge			He took out cutting board					He took out cutting board	He gets the cutting board out of the cupboard. 	He took out cutting board		He took out cutting board	He took out broccoli	He took out cutting board	The person got out a cutting board.		
+749	857	take out	hand	knife	,drawer																	
+857	894	close	hand		drawer	He took out broccoli. He took out knife	He gets a cutting board and broccoli.	He took out broccoli	He gets a cutting board and broccoli. 	He gets the cutting board, broccoli, and a knife.	He took out broccoli. He took out knife	the person gets a cutting board and a sharp knife	He took out broccoli. He took out knife	He gets the broccoli out of the fridge.. He gets a knife out of the drawer. 	He took out broccoli. He took out knife		He took out broccoli. He took out knife	He took out knife	He took out broccoli. He took out knife	The person got out the broccoli.	He gets out the required items, including the broccoli.	Man selects a piece of broccoli.
+974	1546	cut	knife	broccoli	cutting board																	
+1551	1581	gather	knife	broccoli	cutting board																	
+1585	1689	cut	knife	broccoli	cutting board																	
+1717	1741	move	hand	broccoli	counter,cutting board													He chopped broccoli 				
+1840	1918	throw in garbage	hand	stem		He cut leaves off stem	He gets a knife and chops the heads off the broccoli.	He chopped broccoli		He cuts the heads off the broccoli.	He cut broccoli off stem				He cut up broccoli		He cut leaves	He threw away scraps	He cut off sem			Man uses knife to slice broccoli into smaller pieces.
+2039	2135	take out	hand	lid,pot	,drawer	He threw out stem		He threw away scraps	He cuts the heads off the broccoli and discards the rest. 		He threw away stem	the person separates the Broccoli from it's stem and discards the stem	He chopped broccoli. He threw away stem	He cuts the broccoli into separate florets.			He threw out stem	He took out a pan	He threw away stem	The person cut the florets off the broccoli.	He cuts up the broccoli and discards the rest.	
+2135	2221	close	leg		drawer	He took out pot		He took out pot			He took out pot		He took out pot		He took out pot	Using a cutting board remove broccoli florets from stem.	He took out pot					
+2256	2578	pour	faucet	water	pot									He gets a pot out of the cupboard.					He took out pot			
+2599	2708	move	hand	pot	,stove													He put pan on stove				
+2719	2813	turn on	hand	stove		He put water in pot		He put water in pot. He put water in pot			He put water in pot. He put pot on stove		He put water in pot. He put pot on stove 	He fills the pot with water..  He puts the pot on the stovetop.	He put water in pot		He put water in pot	He turned on stove	He put water in pot	The person got out a pot and put water in it.		
+2919	2952	take out	hand	spice	,spice holder	He put pot on stove 																
+2974	3022	screw	hand	lid	spice shaker	He turned on stove	He fills a pit with water and puts it on the stove.	He turned on stove	He fills a pot with water and heats it on the stove. 	He puts water in the pot and starts heating it.	He turned on stove	the person gets a pot and fill it with water	He turned on stove	He turns on the stovetop.	He turned on stove	Fill a pot with water and bring it to a boil on the stove.			He turned on stove	The person turned on the stove.	He places a water filled pot on the stove and starts the stove.	The man adds water to a pot and places it on heat.
+3041	3420	spice	spice shaker	spice	pot							the person put the pot over the stove and heats the stove										
+3423	3466	screw	hand	lid	spice shaker													He put salt in pot				
+3538	3581	put lid	hand	lid	pot	He added salt. He put lid on pot	He salts the water.	He put salt in pot . He put lid on pot	He season the water. 		He added salt to pot. He put lid on pot	the person seasons the water with salt and covers the pot	He put salt in pot. He put lid on pot	He adds salt to the water.	He added salt to pot. He put lid on pot	Add some salt to the water as it's heating.		He put lid on pan	He added salt to pot	The person put salt in the water.	He salts the water.	He adds salt to the water.
+4174	4198	move	hand	knife	counter,cutting board																	
+4204	4342	gather	hand	broccoli	cutting board																	
+4347	4447	gather	hand	garbage	cutting board																	
+4462	4557	throw in garbage	hand	garbage														He threw out trash				
+4608	4704	put in	hand	spice shaker	counter,spice holder	He threw away scraps		He threw away scraps														
+4736	4784	move	hand	cutting board,knife	counter																	
+4839	4865	remove lid	hand	lid	pot																	
+4865	4926	put lid	hand	lid	pot		He cleans up while waiting for the water to heat.	He put away salt 														
+5444	5498	remove lid	hand	lid	cutting board,pot																	
+5503	5618	move	hand	broccoli	cutting board,pot																	
+5665	5721	put lid	hand	lid	cutting board,pot															The person got the water up to temperature.	He places the broccoli in the pot after waiting for the water to heat up. 	
+5763	5946	take out	hand	fork	counter,drawer	He put broccoli in pot	He puts the broccoli in the water.		He puts the broccoli in the pot. 			the person puts the Broccoli in the pot and covers it		He adds the broccoli to the heated water.		Add broccoli florets to the boiling water and cover the pot.				The person put the broccoli in the pot and covered it.		The man adds broccoli to the pot.
+6077	6292	wash	sponge	knife																		
+6372	6541	dry	towel	knife																		
+6585	6681	put in	hand	knife	,drawer																	
+6770	6937	wash	hand	cutting board																		
+6973	7071	wash	sponge	cutting board																		
+7193	7440	dry	towel	cutting board																		
+7470	7630	put in	hand	cutting board	,drawer																	
+7675	7706	remove lid	hand	lid	pot																	
+7718	7805	stir	fork	broccoli	pot					He cleans the cutting board and knife.												
+7805	7844	put lid	hand	lid	pot		He cleans up.		He cleans up while the broccoli is cooking. 			the person gets a fork									He cleans up while the cooking is going on. 	The man washes up while waiting.
+9273	9299	remove lid	hand	lid	pot																	
+9303	9387	stir	fork	broccoli	pot																	
+9387	9437	put lid	hand	lid	pot											Stir the broccoli occasionally.						
+11137	11194	wring out	hand	sponge																		
+11273	11451	dry	hand	towel																		
+11455	11515	hang up	hand	towel	hook																	
+11636	11658	remove lid	hand	lid	pot																	
+11658	11780	stir	fork	broccoli	pot																	
+11780	11835	put lid	hand	lid	pot							the person brings the pot to a boil										The man waits for the broccoli to cook.
+12293	12338	change temperature	hand	stove																		
+14293	14315	remove lid	hand	lid	pot																	
+14315	14476	stir	fork	broccoli	pot																	
+14476	14525	put lid	hand	lid	pot																	
+14987	15275	take out	hand	plate	counter,cupboard									He gets a plate out of the cupboard.								
+15295	15770	take out	hand	pot	counter,drawer																	
+15886	15919	remove lid	hand	lid	pot		He gets out a plate and colander. 					the person gets a plate and a metal strainer		He gets a strainer out of the cupboard.								
+15919	16164	stir	fork	broccoli	pot																He gets out a strainer and a plate.	
+16164	16207	put lid	hand	lid	pot																	
+17562	17635	change temperature	hand	stove																		
+17692	17732	change temperature	hand	stove																		The man gathers more supplies while waiting.
+18528	18558	remove lid	hand	lid	pot																	
+18558	18870	stir	fork	broccoli	pot																	
+18870	18914	put lid	hand	lid	pot																	
+19098	19128	take out	hand	towel	,hook																	
+19163	19223	clean	towel	stove																		
+19233	19333	change temperature	hand	stove																		
+19365	19571	change temperature	hand	stove																		
+19767	19808	change temperature	hand	stove																		
+20014	20066	hang up	hand	towel	hook																	
+20457	20597	change temperature	hand	stove																		
+20601	20769	remove lid	hand	lid	counter,pot															The person cooked the broccoli.		
+20794	20996	move	hand	pot	plate,stove																	
+20997	21036	move	hand	pot	counter,sink																	
+21095	21251	move	hand	broccoli	pot																	
+21256	21309	move	hand	pot	,stove		He strains the broccoli. 		He pour the broccoli through a strainer. 	He strains the broccoli and water through a colander.				He strains the broccoli.						The person strained the broccoli in a colander.	He removes the pot from the stove and strains the broccoli. 	
+21448	21638	pour	faucet	water	pot							the person takes the Broccoli from the pot and drains the water in the metal stainer				Remove from heat and strain the broccoli in a colander. 						
+21701	21770	pour	hand	water	pot,sink					He rinses the broccoli.												
+21870	21965	move	hand	broccoli	plate,pot																	
+21983	22030	move	hand	pot	,counter																	
+22052	22096	move	hand	plate	counter		He rinses the broccoli and puts it on a plate.		He rinse the broccoli and puts it on a plate. 	He puts the broccoli on a plate.		the person washes the Broccoli. the person puts the Broccoli on the plate		He puts the broccoli on the plate.		Rinse broccoli and serve on plate.				The person rinsed off the broccoli.. The person put the broccoli on a plate.	He rinses the broccoli and places them on a plate. 	The man strains the water out of the broccoli.. He places it on a plate.

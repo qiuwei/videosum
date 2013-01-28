@@ -1,0 +1,72 @@
+174	241	take out	hand	pot	,drawer
+241	288	remove lid	hand	lid	counter,pot
+351	769	fill	faucet	water	pot
+902	949	turn on	hand	stove	
+961	1088	change temperature	hand	stove	
+1182	1204	take out	hand	spice shaker	spice holder
+1222	1259	screw	hand	spice shaker	
+1280	1378	spice	spice shaker	salt	pot,spice shaker
+1398	1778	spice	spice shaker	salt	pot,spice shaker
+1789	1818	screw	hand	spice shaker	
+1839	1921	put in	hand	spice shaker	,spice holder
+1941	2250	take out	hand	cauliflower	,fridge
+2277	2962	wash	hand	cauliflower	
+3036	3053	shake	hand	hand	
+3061	3172	take out	hand	cutting board	counter,drawer
+3218	3236	move	hand	lid	counter
+3243	3529	take out	hand	knife	,drawer
+3603	3703	cut	knife	cauliflower	cutting board
+3718	3764	move	knife	cauliflower	counter,cutting board
+3889	3936	scratch off	hand	cauliflower	counter,knife
+3972	4314	cut	knife	cauliflower	cutting board
+4355	4402	cut	knife	cauliflower	cutting board
+4486	4550	take apart	hand	cauliflower	
+4630	5383	cut	knife	cauliflower	cutting board
+5423	5465	scratch off	hand	cauliflower	cutting board,knife
+5880	6392	add	knife	cauliflower	cutting board,pot
+6590	6667	put lid	hand	lid	counter,pot
+6747	7038	throw in garbage	hand	cauliflower	
+7154	7816	wash	hand	cutting board	
+7951	8072	wash	hand	knife	
+8156	8232	wash	hand	sponge	
+8248	8307	wring out	hand	sponge	
+8322	8355	wring out	hand	sponge	
+8393	8753	clean	sponge	counter	
+8767	8886	throw in garbage	hand	cauliflower	
+8916	9094	wash	hand	sponge	
+9104	9156	wring out	hand	sponge	
+9294	9315	wash	hand	hand	
+9318	9437	shake	hand	hand	
+9462	9567	dry	towel	hand	
+9640	9667	remove lid	hand	lid	pot
+9717	9801	put lid	hand	lid	,pot
+9889	9924	move	hand	cauliflower	counter,sink
+9945	9987	move	hand	cauliflower	counter,sink
+10061	10153	open	hand		drawer
+11172	11196	remove lid	hand	lid	,pot
+11245	11344	put lid	hand	lid	,pot
+12549	12573	remove lid	hand	lid	,pot
+12572	12622	put lid	hand	lid	,pot
+12731	12971	open	hand		cupboard
+13427	13465	change temperature	hand	stove	
+13590	13634	change temperature	hand	stove	
+14096	14226	take out	hand	fork	,drawer
+14272	14313	remove lid	hand	lid	,pot
+14339	14599	poke	fork	cauliflower	pot
+14606	14670	put lid	hand	lid	,pot
+14776	14834	wash	hand	fork	
+14837	14882	shake	hand	fork	
+14938	14980	shake	hand	hand	
+15001	15029	shake	hand	hand	
+15076	15286	take out	hand	plate	counter,cupboard
+15364	15758	take out	hand	colander	drawer,sink
+15847	15915	change temperature	hand	stove	
+15912	16034	remove lid	hand	lid	counter,pot
+16062	16154	move	hand	pot	sink,stove
+16162	16333	pour	pot	cauliflower	colander,pot
+16419	16510	shake	colander	cauliflower	colander
+16578	16685	shake	colander	cauliflower	colander
+16700	16813	add	colander	cauliflower	colander,plate
+16825	16854	move	hand	cauliflower	colander,counter
+16868	16923	move	hand	colander	,sink
+17017	17079	move	hand	lid	counter

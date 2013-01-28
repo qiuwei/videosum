@@ -1,0 +1,128 @@
+s15-d35_1_1	She took out plums	s15-d35	187	574	plum	504
+s15-d35_1_2	She took out bowl	s15-d35	594	733	plum	738
+s15-d35_1_3	She took out cutting board	s15-d35	748	851	plum	862
+s15-d35_1_4	She took out knife	s15-d35	949	1171	plum	1177
+s15-d35_1_5	She washed plumbs	s15-d35	1198	1708	plum	1728
+s15-d35_1_6	She peeled one plum	s15-d35	1708	3026	plum	3191
+s15-d35_1_7	She sliced one plum	s15-d35	3026	3657	plum	3686
+s15-d35_1_8	She peeled second plumb	s15-d35	3743	4675	plum	4708
+s15-d35_1_9	She sliced second plumb	s15-d35	4771	6212	plum	6206
+s15-d35_3_1	She took out plum	s15-d35	187	574	plum	515
+s15-d35_3_2	She took out bowl	594	851
+s15-d35_3_3	She took out cutting board	594	851
+s15-d35_3_4	She took out two knives	s15-d35	949	1356	plum	1365
+s15-d35_3_5	She washed plums	s15-d35	1396	1865	plum	1865
+s15-d35_3_6	She peeled first plum	s15-d35	1937	3026	plum	3021
+s15-d35_3_7	She cut first plum	s15-d35	3026	3657	plum	3693
+s15-d35_3_8	She peeled second plum	s15-d35	3743	4675	plum	4723
+s15-d35_3_9	She cut up second plum	s15-d35	4771	5987	plum	6059
+s15-d35_4_1	The person gets out two plums.	s15-d35	187	574	plum	643
+s15-d35_4_2	The person gets out a bowl.	s15-d35	594	733	plum	753
+s15-d35_4_3	The person gets out a cutting board.	s15-d35	748	851	plum	853
+s15-d35_4_4	The person gets out two knives.	s15-d35	949	1356	plum	1361
+s15-d35_4_5	The person rinses the plums.	s15-d35	1396	1770	plum	1785
+s15-d35_4_6	The person peels a  plum and slices it up.	s15-d35	1824	3657	plum	3665
+s15-d35_4_7	The person peels the other plum and slices it up.	s15-d35	6164	6191	plum	6199
+s15-d35_5_1	She gets the plums.	s15-d35	187	574	plum	633
+s15-d35_5_2	She gets a bowl, cutting board, and knife.	s15-d35	594	1320	plum	1337
+s15-d35_5_3	She rinses the plums.	s15-d35	1329	1708	plum	1725
+s15-d35_5_4	She peels the first plum and chops it up.	s15-d35	1708	3657	plum	3711
+s15-d35_5_5	She peels the other plum and chops it.	s15-d35	6191	6212	plum	6213
+s15-d35_6_1	The woman takes out two plums.	s15-d35	187	574	plum	595
+s15-d35_6_2	The woman takes out the supplies she will need.	s15-d35	594	1356	plum	1367
+s15-d35_6_3	The woman rinses the plums.	s15-d35	1396	1770	plum	1801
+s15-d35_6_4	The woman peels and slices the first plum.	s15-d35	1824	3657	plum	3679
+s15-d35_6_5	The woman peels and slices the second plum.	s15-d35	6222	6315	plum	6287
+s15-d35_7_1	Take out as many plums as you would like to prepare.	s15-d35	187	574	plum	325
+s15-d35_7_2	Next take out a bowl and cutting board.	s15-d35	594	851	plum	939
+s15-d35_7_3	Find a small knife for cutting the plums.	s15-d35	949	1356	plum	1353
+s15-d35_7_4	If there is a sticker on it take it off.	s15-d35	1396	1527	plum	1573
+s15-d35_7_5	Wash the plums with water.	s15-d35	1551	1708	plum	1647
+s15-d35_7_6	Take the plum and knife and cut the skin off the plum.	s15-d35	1708	1865	plum	2191
+s15-d35_7_7	Cut chunks off the plum around the seed in the middle.	s15-d35	1937	3026	plum	3293
+s15-d35_7_8	Repeat the process for other plums	s15-d35	3026	3982	plum	3867
+s15-d35_8_1	Woman walk to the fridge and grabs two small plums.	s15-d35	187	574	plum	487
+s15-d35_8_2	She places the plums on the counter and pulls out a bowl and cutting board from the drawer beneath.	s15-d35	594	851	plum	875
+s15-d35_8_3	She pulls out a peeler and a knife from the drawer.	s15-d35	949	1356	plum	1347
+s15-d35_8_4	She washes the plums.	s15-d35	1396	1708	plum	1715
+s15-d35_8_5	She peeled the first plum.	s15-d35	1708	3026	plum	3069
+s15-d35_8_6	She finished cutting the first plum.	s15-d35	3026	3657	plum	3785
+s15-d35_8_7	She peels the second plum.	s15-d35	4092	4675	plum	4719
+s15-d35_8_8	She cuts the second Plum.	s15-d35	4771	5987	plum	6081
+s15-d35_9_1	The woman takes out two plums from the refrigerator.	s15-d35	187	574	plum	589
+s15-d35_9_2	She also takes out a bowl, cutting board, and two small knifes.	s15-d35	594	1356	plum	1353
+s15-d35_9_3	She removes the stem from a plum and washes it in the sink.	s15-d35	1396	1527	plum	1597
+s15-d35_9_4	She also washes the second plum.	s15-d35	1551	1708	plum	1689
+s15-d35_9_5	She places one plum on the cutting board and holds the other.	s15-d35	1708	1865	plum	2003
+s15-d35_9_6	She uses a small knife and peels the skin off of the plum.	s15-d35	1937	2821	plum	2821
+s15-d35_9_7	She takes the peeled plum and and cuts it in slices on the cutting board.	s15-d35	2876	3634	plum	3449
+s15-d35_9_8	She takes the second plum and begins to peel it with the small knife.	s15-d35	3634	3657	plum	3821
+s15-d35_9_9	She places the peeled plum on the cutting board and cuts it in slices.	s15-d35	3743	5987	plum	6021
+s15-d35_9_10	She places all the peelings in the bowl.	s15-d35	6222	6242	plum	6233
+s15-d35_11_1	The person removes two plums from the fridge.	s15-d35	187	574	plum	597
+s15-d35_11_2	The person removes a metal bowl and a cutting board from a drawer.	s15-d35	594	851	plum	951
+s15-d35_11_3	The person removes two knives from the drawer.	s15-d35	949	1356	plum	1343
+s15-d35_11_4	The person cleans both plums in the sink.	s15-d35	1396	1770	plum	1765
+s15-d35_11_5	The person uses a knife to remove the skin from one of the plums; placing the discarded skin in the bowl.	s15-d35	1824	2821	plum	2847
+s15-d35_11_6	The person cuts a slit around the circumference of the plum.	s15-d35	2876	3026	plum	3035
+s15-d35_11_7	The person cuts the fruit off of the large pit and discards the pit into the bowl.	s15-d35	3026	3657	plum	3663
+s15-d35_11_8	The person uses the knife to remove the skin from the second plum.	3743	4675
+s15-d35_11_9	The person cuts a slit in the second plum.	3743	4675
+s15-d35_11_10	The person cuts the fruit from the pit on the second plum and places the pit into the bowl.	s15-d35	4771	5987	plum	6103
+s15-d35_11_11	The person tastes a piece of the fruit.	s15-d35	3743	6212	plum	6221
+s15-d35_11_12	The person presents the finished product.	s15-d35	6352	6376	plum	6469
+s15-d35_12_1	She took out plums	s15-d35	187	574	plum	525
+s15-d35_12_2	She took out bowl	s15-d35	594	733	plum	750
+s15-d35_12_3	She took out cutting board	s15-d35	748	851	plum	873
+s15-d35_12_4	She took out knife	s15-d35	949	1356	plum	1359
+s15-d35_12_5	She washed plums	s15-d35	1396	1708	plum	1718
+s15-d35_12_6	She peeled plum	s15-d35	1708	2821	plum	2856
+s15-d35_12_7	She chopped plum	s15-d35	2876	3657	plum	3676
+s15-d35_12_8	She peeled plum	s15-d35	3743	4675	plum	4695
+s15-d35_12_9	She chopped up plum	s15-d35	4771	5987	plum	6167
+s15-d35_13_1	The person removes two plums from the refrigerator.	s15-d35	187	574	plum	585
+s15-d35_13_2	The person sets out a bowl and a cutting board.	s15-d35	594	851	plum	863
+s15-d35_13_3	The person sets out two knives.	s15-d35	949	1356	plum	1351
+s15-d35_13_4	The person washes the plums.	s15-d35	1396	1770	plum	1789
+s15-d35_13_5	The person peels a plum.	s15-d35	1824	2821	plum	2859
+s15-d35_13_6	The person cuts up the plum and removes the pit.	s15-d35	2876	3657	plum	3673
+s15-d35_13_7	The person peels a plum.	s15-d35	3743	4675	plum	4745
+s15-d35_13_8	The person cuts up the plum and removes the pit.	s15-d35	4771	5987	plum	6169
+s15-d35_15_1	She gets out some plums.	s15-d35	187	574	plum	582
+s15-d35_15_2	She sets out the needed equipment.	s15-d35	594	1356	plum	1351
+s15-d35_15_3	She washes the plums.	s15-d35	1396	1770	plum	1783
+s15-d35_15_4	She peels and cuts the plums.	s15-d35	3743	6242	plum	6280
+s15-d35_15_5	She rearranges the items on the counter.	s15-d35	6254	6376	plum	6394
+s15-d35_16_1	The person takes two plums out of the refrigerator.	s15-d35	187	574	plum	411
+s15-d35_16_2	The person takes a small metal bowl, a chopping board and two knives out of the drawer.	s15-d35	594	1356	plum	1369
+s15-d35_16_3	The person washes the plums.	s15-d35	1396	1708	plum	1738
+s15-d35_16_4	The person peels the skin off one plum into the metal bowl.	s15-d35	1708	2821	plum	2860
+s15-d35_16_5	The person cuts the peeled plum into small slices.	s15-d35	2876	3657	plum	3710
+s15-d35_16_6	The person peels the skin off the second plum into the metal bowl.	s15-d35	1824	4675	plum	4719
+s15-d35_16_7	The person cuts the second peeled plum into small slices.	s15-d35	4771	5987	plum	6170
+s15-d35_17_1	She gets two plums from the refrigerator and places them on the counter.	s15-d35	187	574	plum	590
+s15-d35_17_2	She gets a metal bowl and wooden cutting board out and then she pulls on a cloth, bringing the drawer out again.	s15-d35	594	1171	plum	1164
+s15-d35_17_3	She takes out a knife from the drawer.	s15-d35	1198	1356	plum	1384
+s15-d35_17_4	She washes the plums in the sink and places them in the metal bowl.	s15-d35	1396	1770	plum	1810
+s15-d35_17_5	She places one plum on the cutting board and then uses a knife to remove the skin from one of the plums, holding it above the metal bowl, before putting it back on the cutting board.	s15-d35	1824	3026	plum	3085
+s15-d35_17_6	She uses a knife to cut the skinless plum into pieces and throws the part she does not want into the metal bowl.	s15-d35	3026	3657	plum	3747
+s15-d35_17_7	She picks up the other plum and cuts all the skin off of it, into the metal bowl.	s15-d35	3743	4675	plum	4841
+s15-d35_17_8	She uses the knife to cut the other plum which is now skinless, over the cutting board, into pieces and then throws a piece away after tasting a piece of the plum.	s15-d35	6164	6212	plum	6221
+s15-d35_17_9	She puts the knives together by the bowl and centers the cutting board in the middle of the counter.	s15-d35	3743	6376	plum	6470
+s15-d35_18_1	A lady retrieves 2 plums from the refrigerator.	s15-d35	187	574	plum	595
+s15-d35_18_2	She removes a small bowl and a small wooden cutting board from the drawer and places them on the counter.	s15-d35	594	851	plum	943
+s15-d35_18_3	She chooses two small knives from the drawer.	s15-d35	949	1356	plum	1373
+s15-d35_18_4	She cleans the plums by removing the stickers and washing them in the sink.	s15-d35	1396	1770	plum	1827
+s15-d35_18_5	She peels one plum, discarding the peel into the bowl.	s15-d35	1824	2821	plum	2875
+s15-d35_18_6	She slices the fruit off of the pit, and discards the pit into the bowl.	s15-d35	2876	3657	plum	3669
+s15-d35_18_7	She peels the second plum, again discarding the peel in the bowl.	s15-d35	3743	4675	plum	4709
+s15-d35_19_1	She took out plums	s15-d35	187	574	plum	525
+s15-d35_19_2	She took out bowl	s15-d35	594	733	plum	743
+s15-d35_19_3	She took out cutting board	s15-d35	748	851	plum	851
+s15-d35_19_4	She took out knife	s15-d35	949	1171	plum	1171
+s15-d35_19_5	She took out second knife	s15-d35	1198	1320	plum	1319
+s15-d35_19_6	She washed plum	s15-d35	1329	1708	plum	1723
+s15-d35_19_7	She peeled first plum	s15-d35	1708	3026	plum	3127
+s15-d35_19_8	She sliced first plum	s15-d35	3026	3657	plum	3713
+s15-d35_19_9	She peeled second plum	s15-d35	3743	4675	plum	4697
+s15-d35_19_10	She sliced second plum	s15-d35	4771	5987	plum	6087

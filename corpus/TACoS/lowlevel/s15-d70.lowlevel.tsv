@@ -1,0 +1,42 @@
+221	494	take out	hand	orange	fridge
+597	697	wash	hand	orange	
+697	767	shake	hand	orange	
+851	1032	take out	hand	squeezer	counter,drawer
+1036	1073	close	hand,leg		drawer
+1119	1176	open	hand		drawer
+1191	1293	take out	hand	knife	drawer
+1307	1428	take out	hand	cutting board	counter,drawer
+1438	1454	move	hand	orange	counter,cutting board
+1471	1591	cut	knife	orange	cutting board
+1694	1772	squeeze	squeezer	orange	squeezer
+1817	1950	cut	knife	orange	cutting board
+2013	2554	squeeze	squeezer	orange	squeezer
+2589	2919	squeeze	squeezer	orange	squeezer
+2977	3245	squeeze	squeezer	orange	squeezer
+3267	3431	squeeze	squeezer	orange	squeezer
+3521	3677	cut	knife	orange	cutting board
+3772	4226	squeeze	squeezer	orange	squeezer
+4237	4655	squeeze	squeezer	orange	squeezer
+4692	4890	squeeze	squeezer	orange	squeezer
+4906	5042	squeeze	squeezer	orange	squeezer
+5123	5447	squeeze	squeezer	orange	squeezer
+5537	5588	throw in garbage	hand	peel	
+5671	5772	scratch off	knife	orange	squeezer
+5787	5866	remove lid	hand	lid	squeezer
+5950	6194	take out	hand	glass	counter,cupboard
+6223	6335	pour	squeezer	orange	glass
+6419	6568	take out	hand	spoon	drawer
+6588	6688	scratch off	spoon	orange	lid
+6688	6786	add	spoon	orange	glass,lid
+6804	6868	scratch off	spoon	orange	lid
+6868	6918	add	spoon	orange	glass,lid
+6976	7474	scratch off	spoon	orange	squeezer
+7497	7699	add	spoon	orange	glass,squeezer
+7718	7766	move	hand	spoon,squeezer	,sink
+7791	7850	move	hand	cutting board,knife	counter,sink
+7885	8018	take out	hand	spoon	drawer
+8018	8070	put in	hand	spoon	,drawer
+8083	8114	take out	hand	fork	drawer
+8118	8209	stir	fork	orange	glass
+8217	8242	taste	fork	orange	
+8251	8279	move	hand	fork	,sink

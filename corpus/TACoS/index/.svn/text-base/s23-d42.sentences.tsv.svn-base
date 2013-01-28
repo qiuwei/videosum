@@ -1,0 +1,162 @@
+s23-d42_1_1	The person gets a cutting board, knife, plate, and the broccoli prepared on the counter.	s23-d42	294	1326	broccoli	1365
+s23-d42_1_2	The person removes the plastic wrap from the broccoli.	s23-d42	1441	2265	broccoli	2296
+s23-d42_1_3	The person washes the broccoli using the tap water from the sink, then shakes it dry.	s23-d42	2276	3027	broccoli	3050
+s23-d42_1_4	The person cuts off the end of the broccoli.	s23-d42	3027	3247	broccoli	3179
+s23-d42_1_5	The person cuts the broccoli in half from top to bottom.	s23-d42	3276	3450	broccoli	3471
+s23-d42_1_6	The person cuts off the ends of the broccoli from each half.	s23-d42	3456	3659	broccoli	3633
+s23-d42_1_7	The person gets another plate from the cabinet for the edible portion of the broccoli.	s23-d42	3694	4077	broccoli	4208
+s23-d42_1_8	The person begins to cut the broccoli into smaller portions.	s23-d42	4163	4783	broccoli	4778
+s23-d42_1_9	The person continues to cut the broccoli flower, both head and stem, into smaller portions.	s23-d42	4792	8802	broccoli	8908
+s23-d42_1_10	The person places the smaller pieces of broccoli onto a plate.	s23-d42	8953	9279	broccoli	9320
+s23-d42_1_11	The person places the broccoli discards onto the other plate and then dumps that plate into the trash.	s23-d42	9300	9795	broccoli	9835
+s23-d42_1_12	The person rinses the plate off into the sink.	s23-d42	9858	10109	broccoli	10138
+s23-d42_1_13	The person rinses the knife off into the sink.	s23-d42	10151	10298	broccoli	10344
+s23-d42_1_14	The person rinses the cutting board off into the sink.	s23-d42	10372	10796	broccoli	10831
+s23-d42_1_15	The person dries off the knife, cutting board, and discard plate with a dish rag and puts them up.	s23-d42	10914	11872	broccoli	11878
+s23-d42_2_1	He gets out the broccoli and a knife and cutting board.	s23-d42	294	1005	broccoli	1004
+s23-d42_2_2	He rinses the broccoli.	s23-d42	1035	3027	broccoli	3036
+s23-d42_2_3	He chops the broccoli.	s23-d42	3027	9354	broccoli	9340
+s23-d42_2_4	He discards the bad parts.	s23-d42	9410	9795	broccoli	9816
+s23-d42_2_5	He cleans up.	s23-d42	11914	12272	broccoli	12318
+s23-d42_3_1	He gets a knife and a cutting board.	294	1005
+s23-d42_3_2	He gets broccoli.	294	1005
+s23-d42_3_3	He unwraps the broccoli.	s23-d42	1035	2265	broccoli	2092
+s23-d42_3_4	He washes the broccoli.	s23-d42	2276	2947	broccoli	2884
+s23-d42_3_5	He cuts the broccoli in half.	s23-d42	2947	3450	broccoli	3482
+s23-d42_3_6	He puts the chopped broccoli onto a plate.	s23-d42	3456	5767	broccoli	5830
+s23-d42_3_7	He washes the plate.	s23-d42	5825	10077	broccoli	10052
+s23-d42_3_8	He cleans up the area.	s23-d42	9858	12272	broccoli	12312
+s23-d42_4_1	The person gets out a cutting board.	s23-d42	294	502	broccoli	528
+s23-d42_4_2	The person gets out a knife.	s23-d42	520	624	broccoli	626
+s23-d42_4_3	The person gets out a big stalk of broccoli.	s23-d42	624	1005	broccoli	1000
+s23-d42_4_4	The person gets out a plate.	s23-d42	1035	1326	broccoli	1326
+s23-d42_4_5	The person removes the plastic wrap from the broccoli and throws it away.	s23-d42	1441	2425	broccoli	2464
+s23-d42_4_6	The person rinses the broccoli.	s23-d42	2563	3027	broccoli	3014
+s23-d42_4_7	The person cuts off the stem of the broccoli.	s23-d42	3027	3247	broccoli	3258
+s23-d42_4_8	The person begins cutting the broccoli into smaller stalks.	s23-d42	3276	3659	broccoli	3686
+s23-d42_4_9	The person gets out a second plate and rinses it.	s23-d42	3694	4077	broccoli	4098
+s23-d42_4_10	The person cuts up the broccoli and puts it on the new plate.	s23-d42	4163	9279	broccoli	9326
+s23-d42_4_11	The person throws away the large broccoli stem and some "crumbs" from cutting the rest up.	s23-d42	9300	9795	broccoli	9842
+s23-d42_4_12	The person washes and puts away the plate, knife and cutting board.	s23-d42	9858	11872	broccoli	11874
+s23-d42_4_13	The person wipes down the counter.	s23-d42	10077	12078	broccoli	12184
+s23-d42_5_1	The person took out a cutting board.	s23-d42	294	456	broccoli	446
+s23-d42_5_2	The person got out a knife.	s23-d42	478	624	broccoli	616
+s23-d42_5_3	The person got out some broccoli.	s23-d42	624	1005	broccoli	958
+s23-d42_5_4	The person got out a plate.	s23-d42	1035	1326	broccoli	1272
+s23-d42_5_5	The person took the broccoli out of the plastic wrap.	s23-d42	1441	2265	broccoli	2272
+s23-d42_5_6	The person rinsed off the broccoli.	s23-d42	2276	3077	broccoli	3064
+s23-d42_5_7	The person cut up the broccoli.	s23-d42	3096	9354	broccoli	9380
+s23-d42_5_8	The person rinsed off the board, knife, and plate.	s23-d42	9410	11097	broccoli	11092
+s23-d42_6_1	He gets a cutting board.	s23-d42	294	456	broccoli	484
+s23-d42_6_2	He gets a knife.	s23-d42	478	662	broccoli	648
+s23-d42_6_3	He gets the broccoli.	s23-d42	699	1005	broccoli	1002
+s23-d42_6_4	He rinses the broccoli.	s23-d42	1035	2947	broccoli	2940
+s23-d42_6_5	He chops the broccoli and puts it on a plate.	s23-d42	2947	9454	broccoli	9506
+s23-d42_6_6	He cleans up.	s23-d42	12192	12272	broccoli	12308
+s23-d42_7_1	He gets a cutting board.	s23-d42	294	456	broccoli	476
+s23-d42_7_2	He gets a knife.	s23-d42	478	662	broccoli	770
+s23-d42_7_3	He gets broccoli.	s23-d42	699	1005	broccoli	1024
+s23-d42_7_4	He gets a plate.	s23-d42	1035	1503	broccoli	1486
+s23-d42_7_5	He unwraps the broccoli.	s23-d42	1515	2265	broccoli	2142
+s23-d42_7_6	He washes the broccoli.	s23-d42	2276	3027	broccoli	2998
+s23-d42_7_7	He cuts the broccoli in half.	3027	3827
+s23-d42_7_8	He washes a plate.	3027	3827
+s23-d42_7_9	He starts cutting up the broccoli.	s23-d42	3848	4324	broccoli	4502
+s23-d42_7_10	He puts the broccoli onto the plate.	s23-d42	4343	8148	broccoli	8224
+s23-d42_7_11	He washes the plate.	s23-d42	8190	10077	broccoli	10004
+s23-d42_8_1	He gets a cutting board and a knife.	s23-d42	294	624	broccoli	624
+s23-d42_8_2	He gets the broccoli.	s23-d42	624	1005	broccoli	994
+s23-d42_8_3	He removes the broccoli from the wrap and puts it on a plate.	s23-d42	1035	2425	broccoli	2386
+s23-d42_8_4	He rinses the broccoli.	s23-d42	2563	3027	broccoli	2988
+s23-d42_8_5	He chops the broccoli and puts it on a plate.	s23-d42	3027	9354	broccoli	9348
+s23-d42_8_6	He cleans up.	s23-d42	11914	12272	broccoli	12302
+s23-d42_10_1	He took out cutting board	s23-d42	294	456	broccoli	456
+s23-d42_10_2	He took out knife	s23-d42	478	624	broccoli	616
+s23-d42_10_3	He took out broccoli	s23-d42	624	1005	broccoli	992
+s23-d42_10_4	He took out plate	s23-d42	1035	1326	broccoli	1278
+s23-d42_10_5	He washed broccoli	s23-d42	1441	2947	broccoli	2954
+s23-d42_10_6	He cut off bottom of broccoli	s23-d42	2947	3247	broccoli	3258
+s23-d42_10_7	He took out plate	s23-d42	3276	3827	broccoli	3834
+s23-d42_10_8	He washed plate	s23-d42	3848	4077	broccoli	4100
+s23-d42_10_9	He chopped broccoli	s23-d42	4163	9024	broccoli	9084
+s23-d42_12_1	He took out cutting board	s23-d42	294	456	broccoli	474
+s23-d42_12_2	He took out knife	s23-d42	478	624	broccoli	639
+s23-d42_12_3	He took out broccoli	s23-d42	624	1005	broccoli	950
+s23-d42_12_4	He took out plate	s23-d42	1035	1326	broccoli	1261
+s23-d42_12_5	He unwrapped broccoli	s23-d42	1441	2425	broccoli	2437
+s23-d42_12_6	He washed broccoli	s23-d42	2563	3027	broccoli	3046
+s23-d42_12_7	He chopped off broccoli stem	s23-d42	3027	3324	broccoli	3307
+s23-d42_12_8	He took out second plate	s23-d42	3358	3827	broccoli	3837
+s23-d42_12_9	He washed plate	s23-d42	3848	4077	broccoli	4079
+s23-d42_12_10	He chopped up broccoli	s23-d42	9080	9279	broccoli	9324
+s23-d42_12_11	He threw away scraps	s23-d42	9300	9795	broccoli	9853
+s23-d42_12_12	He washed dish	s23-d42	9410	10109	broccoli	10157
+s23-d42_12_13	He washed knife	s23-d42	10151	10298	broccoli	10355
+s23-d42_12_14	He washed cutting board	s23-d42	10372	10796	broccoli	10853
+s23-d42_13_1	The person gets out a cutting board.	s23-d42	294	502	broccoli	512
+s23-d42_13_2	The person gets out a knife.	s23-d42	520	662	broccoli	652
+s23-d42_13_3	The person gets out some broccoli.	s23-d42	699	1005	broccoli	994
+s23-d42_13_4	The person gets out a plate.	s23-d42	1035	1326	broccoli	1316
+s23-d42_13_5	The person rinses the broccoli.	s23-d42	1441	2947	broccoli	2954
+s23-d42_13_6	The person starts to chop up the broccoli.	s23-d42	2947	3659	broccoli	3692
+s23-d42_13_7	The person gets out and rinses another plate.	s23-d42	3694	4077	broccoli	4108
+s23-d42_13_8	The person continues to chop the broccoli, putting it on one plate and trash on the other.	s23-d42	4163	9354	broccoli	9346
+s23-d42_13_9	The person throws away the trash.	s23-d42	9410	9795	broccoli	9846
+s23-d42_13_10	The person rinses and puts away the plate, knife and cutting board.	s23-d42	10077	11872	broccoli	11948
+s23-d42_14_1	He took out cutting board	s23-d42	294	456	broccoli	480
+s23-d42_14_2	He took out knife	s23-d42	478	662	broccoli	649
+s23-d42_14_3	He took out broccoli	s23-d42	699	1005	broccoli	968
+s23-d42_14_4	He took out dish	s23-d42	1035	1326	broccoli	1297
+s23-d42_14_5	He threw out wrapping	s23-d42	1441	2425	broccoli	2399
+s23-d42_14_6	He washed broccoli	s23-d42	2563	3077	broccoli	3061
+s23-d42_14_7	He cut broccoli in half	s23-d42	3096	3450	broccoli	3482
+s23-d42_14_8	He took out 2nd plate	s23-d42	3456	4077	broccoli	4098
+s23-d42_14_9	He chopped broccoli	s23-d42	4163	9156	broccoli	9133
+s23-d42_15_1	He took out cutting board	s23-d42	294	502	broccoli	567
+s23-d42_15_2	He took out knife	s23-d42	520	624	broccoli	610
+s23-d42_15_3	He took out broccoli	s23-d42	624	1005	broccoli	936
+s23-d42_15_4	He took out plate	s23-d42	1035	1326	broccoli	1260
+s23-d42_15_5	He washed broccoli	s23-d42	1441	2947	broccoli	2937
+s23-d42_15_6	He cut off bottom of stem	s23-d42	2947	3247	broccoli	3295
+s23-d42_15_7	He cut broccoli in half	s23-d42	3276	3450	broccoli	3467
+s23-d42_15_8	He took out another plate	s23-d42	3456	3827	broccoli	3852
+s23-d42_15_9	He washed plate	s23-d42	3848	4031	broccoli	4038
+s23-d42_16_1	The person takes a cutting board from a drawer.	s23-d42	294	502	broccoli	500
+s23-d42_16_2	The person gets a knife out.	s23-d42	520	662	broccoli	651
+s23-d42_16_3	The person takes the broccoli from the fridge.	s23-d42	699	1005	broccoli	961
+s23-d42_16_4	The person gets a plate from the cupboard.	s23-d42	1035	1326	broccoli	1280
+s23-d42_16_5	The person cuts the plastic off of the broccoli and disposes of it in the trash.	s23-d42	1441	2425	broccoli	2422
+s23-d42_16_6	The person rinses the broccoli in the sink.	s23-d42	2563	3077	broccoli	3057
+s23-d42_16_7	The person chops the stalks off the broccoli.	s23-d42	3096	3659	broccoli	3716
+s23-d42_16_8	The person gets another plate from the cupboard and rinses it under the faucet.	s23-d42	4043	4077	broccoli	4087
+s23-d42_16_9	The person spends ten minutes chopping the broccoli as if he were stoned and then puts it on the plate.	s23-d42	9176	9279	broccoli	9304
+s23-d42_16_10	The person disposes of the stalks into the trashbin.	s23-d42	9300	9795	broccoli	9827
+s23-d42_16_11	The person rinses off the plate, then the knife, and finally the cutting board.	s23-d42	9858	10796	broccoli	10870
+s23-d42_16_12	The person dries off the knife and the cutting board and replaces them in their drawers.	s23-d42	10914	11562	broccoli	11623
+s23-d42_16_13	The person replaces the plate in the cupboard.	s23-d42	11584	11872	broccoli	11894
+s23-d42_16_14	The person wipes off the countertop.	s23-d42	11134	12272	broccoli	12244
+s23-d42_18_1	The man takes out a knife and cutting board	s23-d42	294	1005	broccoli	892
+s23-d42_18_2	The man takes out a large head of broccoli and a plate.	s23-d42	1035	1326	broccoli	1320
+s23-d42_18_3	The man removes the wrapper from the broccoli.	s23-d42	1441	1655	broccoli	1696
+s23-d42_18_4	The Man washes the broccoli.	s23-d42	1671	2425	broccoli	2674
+s23-d42_18_5	The man removes the stem and cuts the broccoli into smaller parts	s23-d42	2563	3509	broccoli	3540
+s23-d42_18_6	The man pulls out and washes another plate.	s23-d42	3541	4031	broccoli	3958
+s23-d42_18_7	The man begins to cut the broccoli into bite size parts.	s23-d42	3694	4324	broccoli	4312
+s23-d42_18_8	The man has finished chopping the broccoli and sets it aside on the new plate.	s23-d42	4163	9354	broccoli	9354
+s23-d42_18_9	The man washes the original plate knife and cutting board.	s23-d42	9858	10796	broccoli	10834
+s23-d42_18_10	The man dries and puts away the knife board and plate.	s23-d42	9858	11770	broccoli	11794
+s23-d42_18_11	The man wipes down the counter and is done.	s23-d42	9489	12272	broccoli	12412
+s23-d42_19_1	The person gets a cutting board from the drawer.	s23-d42	294	456	broccoli	456
+s23-d42_19_2	The person gets a large knife from the drawer.	s23-d42	478	662	broccoli	672
+s23-d42_19_3	The person gets a stalk of broccoli from the crisper.	s23-d42	699	1005	broccoli	1018
+s23-d42_19_4	The person procures a plate from the cabinet.	s23-d42	1035	1326	broccoli	1240
+s23-d42_19_5	The person cuts the plastic from off the broccoli stalk and throws it in the wastebin.	s23-d42	1441	2425	broccoli	2436
+s23-d42_19_6	The person washes the broccoli in the sink.	s23-d42	2563	2947	broccoli	2920
+s23-d42_19_7	The person cuts the stem from the broccoli.	s23-d42	2947	3450	broccoli	3424
+s23-d42_19_8	The person gets a plate from the cabinet and rinses it in the sink.	s23-d42	4043	4077	broccoli	4102
+s23-d42_19_9	The person chops the broccoli on the cutting board and places it on the plate.	s23-d42	4163	8802	broccoli	8916
+s23-d42_19_10	The person scoops bits of stem onto the second plate.	s23-d42	4163	9563	broccoli	9596
+s23-d42_19_11	The person disposes of the stems into the trash.	s23-d42	9612	9795	broccoli	9850
+s23-d42_19_12	The person washes the plate, the knife, and the cutting board in the sink.	s23-d42	9410	10796	broccoli	10810
+s23-d42_19_13	The person dries the knife with a towel and puts it back in its drawer.	s23-d42	10914	11324	broccoli	11350
+s23-d42_19_14	The person dries off the cutting board and the plate and returns them to their cabinets.	s23-d42	11367	11872	broccoli	11902

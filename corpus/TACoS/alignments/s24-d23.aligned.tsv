@@ -1,0 +1,26 @@
+279	945	take out	hand	carrot	fridge,sink	s24-d23_1_1	s24-d23_2_1		s24-d23_4_1	s24-d23_5_1		s24-d23_7_1	s24-d23_8_1	s24-d23_9_1		s24-d23_11_1	s24-d23_12_1	s24-d23_13_1	s24-d23_14_1	s24-d23_16_1. s24-d23_16_2. s24-d23_16_3	s24-d23_17_1	s24-d23_18_1	s24-d23_19_1	s24-d23_20_1
+972	1048	open	hand		drawer			s24-d23_3_1																
+1053	1129	open	hand		drawer																			
+1133	1280	take out	hand	peeler	drawer	s24-d23_1_2	s24-d23_2_2		s24-d23_4_2	s24-d23_5_2	s24-d23_6_1	s24-d23_7_2	s24-d23_8_2	s24-d23_9_2	s24-d23_10_1	s24-d23_11_2	s24-d23_12_2		s24-d23_14_2	s24-d23_16_4		s24-d23_18_2	s24-d23_19_2	s24-d23_20_2
+1405	1921	peel	peeler	carrot				s24-d23_3_2																
+2014	2454	peel	peeler	carrot		s24-d23_1_3	s24-d23_2_3		s24-d23_4_3	s24-d23_5_3	s24-d23_6_2		s24-d23_8_3	s24-d23_9_3		s24-d23_11_3	s24-d23_12_3	s24-d23_13_2	s24-d23_14_3	s24-d23_16_5	s24-d23_17_2	s24-d23_18_3	s24-d23_19_3	s24-d23_20_3
+2600	2659	open	hand		cupboard																			
+2750	2874	take out	hand	cutting board	counter,drawer		s24-d23_2_4	s24-d23_3_3		s24-d23_5_4				s24-d23_9_4			s24-d23_12_4		s24-d23_14_4	s24-d23_16_6		s24-d23_18_4	s24-d23_19_4	
+2885	2933	close	hand		drawer	s24-d23_1_4			s24-d23_4_4				s24-d23_8_4					s24-d23_13_3						
+2989	3052	wash	hand	carrot			s24-d23_2_5			s24-d23_5_5											s24-d23_17_3		s24-d23_19_5	
+3052	3090	shake	hand	carrot		s24-d23_1_5						s24-d23_7_3		s24-d23_9_5		s24-d23_11_4	s24-d23_12_5	s24-d23_13_4	s24-d23_14_5					s24-d23_20_4
+3188	3230	shake	hand	peel				s24-d23_3_4					s24-d23_8_5		s24-d23_10_2									
+3248	3451	throw in garbage	hand	peel			s24-d23_2_6			s24-d23_5_6		s24-d23_7_4	s24-d23_8_6	s24-d23_9_6		s24-d23_11_5		s24-d23_13_5	s24-d23_14_6			s24-d23_18_5	s24-d23_19_6	s24-d23_20_5
+3484	3601	wash	hand	hand			s24-d23_2_7													s24-d23_16_7			s24-d23_19_7	
+3601	3645	shake	hand	hand						s24-d23_5_7	s24-d23_6_3		s24-d23_8_7	s24-d23_9_7					s24-d23_14_7	s24-d23_16_8	s24-d23_17_4			
+3699	3867	take out	hand	knife	drawer	s24-d23_1_6	s24-d23_2_8	s24-d23_3_5		s24-d23_5_8. s24-d23_5_9			s24-d23_8_8	s24-d23_9_8	s24-d23_10_3		s24-d23_12_6		s24-d23_14_8	s24-d23_16_9			s24-d23_19_8	s24-d23_20_6
+3961	4133	cut	knife	carrot	cutting board						s24-d23_6_4						s24-d23_12_7		s24-d23_14_9				s24-d23_19_9	
+4158	4190	peel	knife	carrot	cutting board		s24-d23_2_9							s24-d23_9_9										
+4200	4218	scratch off	hand	peel	cutting board,knife										s24-d23_10_4			s24-d23_13_6						s24-d23_20_7
+4337	4773	slice	knife	carrot	cutting board																			
+4784	4807	scratch off	hand	carrot	cutting board,knife																			
+4829	4962	slice	knife	carrot	cutting board																			
+4976	4998	scratch off	hand	carrot	cutting board,knife	s24-d23_1_7	s24-d23_2_10	s24-d23_3_6	s24-d23_4_5	s24-d23_5_10		s24-d23_7_5	s24-d23_8_9	s24-d23_9_10	s24-d23_10_5	s24-d23_11_6	s24-d23_12_8	s24-d23_13_7	s24-d23_14_10	s24-d23_16_10	s24-d23_17_5	s24-d23_18_6	s24-d23_19_10	s24-d23_20_8
+5215	5444	throw in garbage	hand	carrot		s24-d23_1_8	s24-d23_2_11	s24-d23_3_7	s24-d23_4_6	s24-d23_5_11				s24-d23_9_11		s24-d23_11_7			s24-d23_14_11		s24-d23_17_6	s24-d23_18_7	s24-d23_19_11	
+5458	5584	wash	hand	peeler																				
+5584	5627	shake	hand	peeler			s24-d23_2_12			s24-d23_5_12	s24-d23_6_5			s24-d23_9_12	s24-d23_10_6					s24-d23_16_11	s24-d23_17_7		s24-d23_19_12	s24-d23_20_9

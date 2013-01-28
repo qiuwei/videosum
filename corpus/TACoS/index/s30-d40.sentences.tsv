@@ -1,0 +1,135 @@
+s30-d40_1_1	Girl takes out lime	s30-d40	214	325	lime	322
+s30-d40_1_2	Girl takes out cutting board	s30-d40	338	447	lime	444
+s30-d40_1_3	Girl takes out juicer	s30-d40	463	616	lime	624
+s30-d40_1_4	Girl washes lime	s30-d40	616	883	lime	853
+s30-d40_1_5	Girl takes out knife	s30-d40	910	1030	lime	1043
+s30-d40_1_6	Girl cuts lime in half	s30-d40	1055	1193	lime	1196
+s30-d40_1_7	Girl twists lime on juicer	s30-d40	1224	4590	lime	4651
+s30-d40_1_8	Girl washes knife	s30-d40	4706	4806	lime	4859
+s30-d40_2_1	She gets out a lime, cutting board, and juicer.	s30-d40	214	616	lime	620
+s30-d40_2_2	She washes the lime.	s30-d40	616	883	lime	852
+s30-d40_2_3	She gets a knife and cuts the lime in half.	s30-d40	910	1193	lime	1182
+s30-d40_2_4	She juices the first half of the lime.	s30-d40	1224	2855	lime	2840
+s30-d40_2_5	After scoring the lime, she juices the rest of it.	s30-d40	2899	4590	lime	4670
+s30-d40_3_1	A lime is removed from the refrigerator.	s30-d40	214	325	lime	340
+s30-d40_3_2	The person selects a cutting board.	s30-d40	338	447	lime	452
+s30-d40_3_3	The person removes a juicer.	s30-d40	463	616	lime	620
+s30-d40_3_4	The lime is washed.	s30-d40	616	883	lime	894
+s30-d40_3_5	A knife is selected.	s30-d40	910	1030	lime	1040
+s30-d40_3_6	The lime is cut in half.	s30-d40	1055	1193	lime	1202
+s30-d40_3_7	One half of the lime is juiced.	s30-d40	1224	2812	lime	2812
+s30-d40_3_8	Slits are cut into the other lime half.	s30-d40	2812	3177	lime	3188
+s30-d40_3_9	The other half of the lime is juiced.	s30-d40	3202	4376	lime	4402
+s30-d40_3_10	The first half is juiced some more.	s30-d40	4453	4590	lime	4648
+s30-d40_3_11	The person washed the knife.	s30-d40	4706	4806	lime	4840
+s30-d40_4_1	The person gets out a lime.	s30-d40	214	325	lime	310
+s30-d40_4_2	The person gets out a cutting board.	s30-d40	338	447	lime	450
+s30-d40_4_3	The person gets out a juicer.	s30-d40	463	616	lime	622
+s30-d40_4_4	The person rinses the lime.	s30-d40	616	883	lime	866
+s30-d40_4_5	The person gets out a knife.	s30-d40	910	1030	lime	1034
+s30-d40_4_6	The person cuts the lime in half.	s30-d40	1055	1193	lime	1188
+s30-d40_4_7	The person juices the lime.	s30-d40	1224	4590	lime	4658
+s30-d40_4_8	The person rinses the knife.	s30-d40	4848	4891	lime	4908
+s30-d40_5_1	The person removes a lime from the fridge.	s30-d40	214	325	lime	334
+s30-d40_5_2	The person removes a cutting board and juicer from the drawer.	s30-d40	338	648	lime	644
+s30-d40_5_3	The person rinses off the lime.	s30-d40	667	883	lime	896
+s30-d40_5_4	The person removes a knife from the drawer.	s30-d40	910	1030	lime	1034
+s30-d40_5_5	The person cuts the lime in half.	s30-d40	1055	1193	lime	1204
+s30-d40_5_6	The person juices the first half of the lime.	s30-d40	1224	2855	lime	2834
+s30-d40_5_7	The person makes small incisions in the fruit of the other half of the lime.	s30-d40	2899	3177	lime	3192
+s30-d40_5_8	The person juices the remaining half of the lime.	s30-d40	3202	4590	lime	4650
+s30-d40_5_9	The person rinses the knife off.	s30-d40	4848	4891	lime	4908
+s30-d40_6_1	Get your lime, cutting board, knife and juicer ready.	s30-d40	214	648	lime	662
+s30-d40_6_2	Rinse off your lime and place on the cutting board.	s30-d40	667	883	lime	898
+s30-d40_6_3	Cut your lime in half.	s30-d40	910	1193	lime	1206
+s30-d40_6_4	Place half of the lime firmly over the top of the juicer and twist back and forth.	s30-d40	1224	2855	lime	2834
+s30-d40_6_5	Repeat the steps for the second half of the lime.	s30-d40	2899	4590	lime	4648
+s30-d40_7_1	The person gets out a lime.	s30-d40	214	325	lime	310
+s30-d40_7_2	The person gets out a cutting board.	s30-d40	338	447	lime	446
+s30-d40_7_3	The person gets out a juicer.	s30-d40	463	616	lime	620
+s30-d40_7_4	The person rinses the lime.	s30-d40	616	883	lime	902
+s30-d40_7_5	The person gets out a knife.	s30-d40	910	1030	lime	1020
+s30-d40_7_6	The person cuts the lime in half.	s30-d40	1055	1160	lime	1164
+s30-d40_7_7	The person juices the lime.	s30-d40	1160	4590	lime	4634
+s30-d40_7_8	The person rinses the knife.	s30-d40	4706	4806	lime	4854
+s30-d40_8_1	Takes lime out of refrigerator.	s30-d40	214	325	lime	326
+s30-d40_8_2	Takes cutting board out of drawer.	s30-d40	338	447	lime	452
+s30-d40_8_3	Takes juice extractor out of drawer.	s30-d40	463	616	lime	632
+s30-d40_8_4	Rinses lime off in the sink.	s30-d40	616	819	lime	842
+s30-d40_8_5	Takes knife out of drawer.	s30-d40	819	1030	lime	1038
+s30-d40_8_6	Slices lime in half.	s30-d40	1055	1193	lime	1204
+s30-d40_8_7	Uses juice extractor on first half of lime.	s30-d40	1224	2812	lime	2818
+s30-d40_8_8	Uses juice extractor on second half of lime.	s30-d40	2812	4376	lime	4402
+s30-d40_8_9	Rinses off the knife in the sink.	s30-d40	4706	4806	lime	4840
+s30-d40_9_1	The woman walks to the fridge, opens the door, removes one lime and closes the fridge door.	s30-d40	214	325	lime	328
+s30-d40_9_2	She walks to the counter, opens a drawer, removes a cutting board, closes the drawer and places it on the counter.	s30-d40	338	447	lime	464
+s30-d40_9_3	She opens the drawer again, removes a juice extractor, places it on the counter and closes the drawer.	s30-d40	463	648	lime	636
+s30-d40_9_4	She goes to the sink, turns on the faucet, rinses the fruit and places it on the counter.	s30-d40	667	883	lime	894
+s30-d40_9_5	The woman opens a drawer, removes a knife, then closes the drawer.	s30-d40	910	1030	lime	1034
+s30-d40_9_6	She cuts the line in half, picks up one half and removes the juice with the juice extractor.	s30-d40	1055	2855	lime	2836
+s30-d40_9_7	She picks up the other half, cuts it open a little for easier juicing.  She repeats the process of removing the juice with the extractor.	s30-d40	2899	4376	lime	4396
+s30-d40_9_8	She attempts to get a little more juice from the first half.  Then sets it back on the cutting board.	s30-d40	4453	4590	lime	4626
+s30-d40_9_9	She picks up the knife, takes it to the sink and washes it.	s30-d40	4706	4891	lime	4908
+s30-d40_10_1	She goes to refrigerator and takes out a lime.	s30-d40	214	325	lime	354
+s30-d40_10_2	She opens the drawer and takes out a cutting board and juicer.	s30-d40	338	648	lime	634
+s30-d40_10_3	She goes to the sink and washes the lime.	s30-d40	667	883	lime	904
+s30-d40_10_4	She goes into the drawer and takes out a knife.	s30-d40	910	1030	lime	1048
+s30-d40_10_5	She then cuts the lime in half.	s30-d40	1055	1193	lime	1218
+s30-d40_10_6	She picks up half of the lime and start juicing it.	s30-d40	1224	2812	lime	2822
+s30-d40_10_7	She then takes the other half of the lime and cuts slices into it and begins juicing it.	s30-d40	2812	4376	lime	4448
+s30-d40_10_8	She picks up the knife and washes it.	s30-d40	4706	4891	lime	4908
+s30-d40_11_1	Lady enters the kitchen, pulls out a lime out of the fridge, then pulls out a cutting board and juice squeezer and places them on the counter. She then begins to wash the lime.	s30-d40	214	648	lime	708
+s30-d40_11_2	She finishes washing the lime and pulls out a knife. She then places the lime on the cutting boar and begins to slice up the lime.	s30-d40	667	1030	lime	1078
+s30-d40_11_3	After slicing the lime in half, she takes on half of it and starts to squish it into the juicer, trying to get as much juice as she can from the lime.	s30-d40	1055	1753	lime	1860
+s30-d40_11_4	She is taking her time and thoroughly getting as much juice as she can from the half of lime.	s30-d40	1776	2752	lime	2652
+s30-d40_11_5	After being satisfied she got all the juice out of the lime, she then placed the half lime back on the cutting board and picks up the other half. She cuts a bunch of slats into the other half of the lime to make it turn easier in the juicer.	s30-d40	2756	3177	lime	3198
+s30-d40_11_6	she then proceeds to try and get as much juice out of the lime.	s30-d40	3202	4005	lime	4108
+s30-d40_11_7	After getting as much juice as she can from the limes, she then washes the knife and sets it aside.	s30-d40	4848	4891	lime	4908
+s30-d40_12_1	Get a lime, a cutting board and a squeezer out.	s30-d40	214	648	lime	651
+s30-d40_12_2	Wash the lime.	s30-d40	667	883	lime	856
+s30-d40_12_3	Cut lime in half with a knife	s30-d40	910	1193	lime	1200
+s30-d40_12_4	Press one half energetically against the squeezer until there is no juice left in it.	s30-d40	1224	2812	lime	2813
+s30-d40_12_5	Make cuts in the other half of the lime to ease the squeezed process.	s30-d40	2812	3177	lime	3184
+s30-d40_12_6	Press the other half against the squeezer until there is no more juice in the lime.	s30-d40	3202	4376	lime	4397
+s30-d40_12_7	Squeeze the lime again to check there's no more juice left.	s30-d40	4453	4590	lime	4600
+s30-d40_12_8	Wash the knife.	s30-d40	4453	4806	lime	4842
+s30-d40_13_1	gather lime, cutting board and juicer	s30-d40	214	648	lime	666
+s30-d40_13_2	wash lime and then cut it in half on the cutting board	s30-d40	667	1193	lime	1202
+s30-d40_13_3	put 1/2 of the lime on the ridged oval part of the juicer, push down and rotate lime several times	s30-d40	1224	2812	lime	2812
+s30-d40_13_4	with the second half of the lime, try scoring the top several times to make juicing easier, again, push down and rotate the lime on the juicer several times	s30-d40	2812	4376	lime	4406
+s30-d40_13_5	for good measure, redo the first half of the lime a few times	s30-d40	4453	4590	lime	4642
+s30-d40_14_1	The woman takes out a cutting board, a lime, and a manual juicer.	s30-d40	214	648	lime	637
+s30-d40_14_2	The woman washes off the lime.	s30-d40	667	819	lime	850
+s30-d40_14_3	Using a knife she cuts the lime into two equal peices.	s30-d40	819	1193	lime	1214
+s30-d40_14_4	She takes one half of the lime, pushes the flat side onto the top of the juicer and twists.	s30-d40	1224	2812	lime	2818
+s30-d40_14_5	She cuts the flat side of the other half of the lime with the knife.	s30-d40	2812	3177	lime	3193
+s30-d40_14_6	She repeats step 4 with the second half of the lime.	s30-d40	3202	4376	lime	4426
+s30-d40_14_7	She washes the knife used during the video.	s30-d40	4706	4806	lime	4807
+s30-d40_15_1	Take lime out of refrigerator	s30-d40	214	325	lime	267
+s30-d40_15_2	Take out cutting board and juicer	s30-d40	338	616	lime	596
+s30-d40_15_3	Clean lime by washing it under sink water	s30-d40	616	648	lime	686
+s30-d40_15_4	Take out knife to begin cutting	s30-d40	667	1030	lime	991
+s30-d40_15_5	Cut lime down the middle and begin twisting lime on juicer top	s30-d40	1055	1292	lime	1259
+s30-d40_15_6	After getting all the juice, take the other side of the lime and begin twisting	1292	2855
+s30-d40_15_7	Cut slits in the middle of the lime to make it easier to juice	1292	2855
+s30-d40_15_8	Make sure all juice is extracted from the lime	s30-d40	2899	4376	lime	4414
+s30-d40_16_1	She takes a lime from the fridge	s30-d40	214	325	lime	345
+s30-d40_16_2	She takes out a cutting board	s30-d40	338	447	lime	452
+s30-d40_16_3	she takes out a hand-held juice extractor	s30-d40	463	616	lime	629
+s30-d40_16_4	she rinses the lime	s30-d40	616	819	lime	844
+s30-d40_16_5	she takes out a knife	s30-d40	819	1030	lime	1020
+s30-d40_16_6	she cuts the lime in half	s30-d40	1055	1160	lime	1164
+s30-d40_16_7	She uses the extractor on one half of the lime	s30-d40	1160	2812	lime	2815
+s30-d40_16_8	She extracts the juice from the other half of the lime	s30-d40	2812	4376	lime	4395
+s30-d40_17_1	The person removes a lime from the refrigerator.	s30-d40	214	325	lime	291
+s30-d40_17_2	The person got out a cutting board.	s30-d40	338	447	lime	444
+s30-d40_17_3	The person removed a juicer.	s30-d40	463	616	lime	614
+s30-d40_17_4	The lime is washed.	616	883
+s30-d40_17_5	The lime is placed on the cutting board.	616	883
+s30-d40_17_6	A knife is chosen.	s30-d40	910	1030	lime	1024
+s30-d40_17_7	The lime is sliced in half.	s30-d40	1055	1193	lime	1190
+s30-d40_17_8	One half of the lime is juiced.	s30-d40	1224	2812	lime	2807
+s30-d40_17_9	The person cuts slits into the lime half.	s30-d40	2812	3177	lime	3184
+s30-d40_17_10	The other lime half is juiced.	s30-d40	3202	4376	lime	4394
+s30-d40_17_11	Juicing is complete.	s30-d40	4453	4590	lime	4633
+s30-d40_17_12	The person rinsed the knife.	s30-d40	4706	4806	lime	4839

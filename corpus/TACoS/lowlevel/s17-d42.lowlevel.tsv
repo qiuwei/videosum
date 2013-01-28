@@ -1,0 +1,68 @@
+223	419	take out	hand	plastic bag	counter,fridge
+452	597	take out	hand	pot	,drawer
+606	660	remove lid	hand	lid	counter,pot
+740	1072	fill	faucet	water	,pot
+1264	1314	turn on	hand	stove	
+1323	1390	change temperature	hand	stove	
+1446	1505	put lid	hand	lid	counter,pot
+1629	1875	take out	hand	cutting board	counter,drawer
+1892	2001	remove from package	hand	broccoli	plastic bag
+2017	2052	open	hand		drawer
+2052	2135	throw in garbage	hand	plastic bag	
+2135	2180	close	hand		drawer
+2227	2602	wash	hand	broccoli	
+2608	2859	shake	hand	broccoli	
+2955	3111	take out	hand	knife	,drawer
+3180	3292	cut	knife	broccoli	cutting board
+3310	3373	cut	knife	broccoli	cutting board
+3413	3471	cut	knife	broccoli	cutting board
+3540	4162	cut	knife	broccoli	cutting board
+4333	4477	throw in garbage	hand	broccoli	
+4765	4871	cut	knife	broccoli	cutting board
+4903	4959	cut	knife	broccoli	cutting board
+4986	5066	cut	knife	broccoli	cutting board
+5089	5145	clean	hand	broccoli	cutting board,knife
+5271	5311	remove lid	hand	lid	pot
+5331	5382	put lid	hand	lid	pot
+5496	5557	wash	hand	hand	
+5557	5596	shake	hand	hand	
+5610	5752	dry	towel	hand	
+5956	6012	take out	hand	spice shaker	spice holder
+6113	6200	remove lid	hand	lid	counter,pot
+6214	6257	screw	hand	spice shaker	
+6271	6719	spice	spice shaker	salt	pot
+6737	6795	screw	hand	spice shaker	
+6795	6873	put in	hand	spice shaker	,spice holder
+7166	7273	add	cutting board,knife	broccoli	cutting board,pot
+7286	7319	add	hand	broccoli	pot,stove
+7332	7599	add	cutting board,knife	broccoli	cutting board,pot
+7599	7666	shake	hand	knife	
+7713	7780	put lid	hand	lid	counter,pot
+8801	8968	take out	hand	jar	,cupboard
+8972	9027	screw	hand	jar	
+9087	9131	add	jar	peppercorn	jar,lid
+9166	9215	remove lid	hand	lid	pot
+9215	9254	add	lid	peppercorn	pot
+9254	9293	put lid	hand	lid	pot
+9314	9357	screw	hand	jar	
+9401	9529	put in	hand	jar	,cupboard
+11346	11418	remove lid	hand	lid	pot
+11582	11643	put lid	hand	lid	pot
+12242	12271	take out	hand	spice shaker	spice holder
+12276	12449	read	hand	spice shaker	
+12486	12547	screw	hand	spice shaker	
+12579	12598	remove lid	hand	lid	pot
+12610	12874	spice	spice shaker	spice	pot
+12880	12923	put lid	hand	lid	pot
+12949	13009	screw	hand	spice shaker	
+13048	13085	put in	hand	spice shaker	,spice holder
+13292	13640	take out	hand	plate	counter,cupboard
+13667	13848	take out	hand	spoon	counter,drawer
+14249	14362	change temperature	hand	stove	
+14447	14571	remove lid	hand	lid	cutting board,pot
+14644	14774	move	spoon	broccoli	plate,pot
+14788	14898	move	spoon	broccoli	plate,pot
+14902	14992	move	spoon	broccoli	plate,pot
+14997	15080	move	spoon	broccoli	plate,pot
+15084	15152	move	spoon	broccoli	plate,pot
+15159	15242	move	spoon	broccoli	plate,pot

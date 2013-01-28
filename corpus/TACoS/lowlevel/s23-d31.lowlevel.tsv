@@ -1,0 +1,21 @@
+214	342	take out	hand	cutting board	counter,drawer
+361	429	take out	hand	knife	cutting board,drawer
+429	485	close	hand		drawer
+526	673	take out	hand	plate	cupboard
+679	918	take out	hand	garlic	,cupboard
+918	1045	take apart	hand	garlic	,plate
+1064	1135	put in	hand	garlic	,cupboard
+1188	1367	take apart	hand	garlic	plate
+1367	1414	move	hand	garlic	cutting board,plate
+1429	1494	squash	knife	garlic	cutting board
+1520	1580	squash	knife	garlic	cutting board
+1601	1819	peel	hand	garlic	
+1837	1992	peel	hand	garlic	
+2072	2298	cut	knife	garlic	cutting board
+2310	2371	move	hand	garlic	cutting board,plate
+2403	2528	chop	knife	garlic	cutting board
+2528	2569	scratch off	hand	garlic	cutting board,knife
+2694	2790	chop	knife	garlic	cutting board
+2790	2831	scratch off	hand	garlic	cutting board,knife
+2858	2993	chop	knife	garlic	cutting board
+3000	3053	scratch off	hand	garlic	cutting board,knife

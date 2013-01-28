@@ -1,0 +1,76 @@
+250	763	take out	hand	egg	counter,fridge
+859	1047	take out	hand	pot	,drawer
+1083	1363	wash	hand	pot	
+1493	1581	turn on	hand	stove	
+1581	1632	change temperature	hand	stove	
+1876	2058	take out	hand	wrapping paper	counter,fridge
+2058	2219	remove from package	hand	butter	wrapping paper
+2334	2573	put in	hand	egg	counter,fridge
+2706	2779	open	hand		cupboard
+2802	2905	take out	hand	teaspoon	,drawer
+2963	3169	add	teaspoon	butter	pot,wrapping paper
+3186	3314	add	teaspoon	butter	pot,wrapping paper
+3340	3384	change temperature	hand	stove	
+3443	3514	take out	hand	spatula	,drawer
+3599	3798	open egg	hand	egg	pot
+3806	4122	stir	spatula	butter,egg	pot
+4122	4175	move	hand	pot	counter,stove
+4188	4347	open egg	hand	egg	pot
+4424	4473	move	hand	pot	counter,stove
+4473	4540	stir	spatula	butter,egg	pot
+4540	4576	change temperature	hand	stove	
+4576	5099	stir	spatula	butter,egg	pot
+5149	5185	take out	hand	spice shaker	,spice holder
+5196	5226	screw	hand	spice shaker	
+5237	5399	spice	spice shaker	salt	pot
+5415	5440	screw	hand	spice shaker	
+5443	5487	put in	hand	spice shaker	,spice holder
+5487	5539	take out	hand	spice shaker	,spice holder
+5539	5565	screw	hand	spice shaker	
+5584	5691	spice	spice shaker	spice	pot
+5699	5733	screw	hand	spice shaker	
+5733	5773	put in	hand	spice shaker	,spice holder
+5777	5858	take out	hand	bottle	,fridge
+5858	5903	remove lid	hand	lid	plastic bottle
+5907	6003	add	hand	ketchup	plastic bottle,pot
+6003	6033	put lid	hand	lid	plastic bottle
+6051	6158	put in	hand	bottle	,fridge
+6178	6211	change temperature	hand	stove	
+6224	6267	change temperature	hand	stove	
+6270	7981	stir	spatula	butter,egg,ketchup	pot
+7981	8063	change temperature	hand	stove	
+8070	8127	move	hand	pot	counter,stove
+8199	8452	clean	towel	stove	
+8467	8785	stir	spatula	egg	pot
+8813	8886	open	hand		drawer
+8919	9048	take out	hand	plate	,cupboard
+9075	9148	wash	hand	plate	
+9210	9368	move	spatula	egg	plate,pot
+9607	9692	move	spatula	egg	plate,pot
+9760	9799	move	spatula	egg	plate,pot
+9831	10001	scratch off	hand	egg	plate,spatula
+10125	10177	move	spatula	egg	plate,pot
+10204	10280	scratch off	hand	egg	plate,spatula
+10294	10350	move	hand	pot	counter,sink
+10350	10394	wash	hand	hand	
+10394	10502	wash	hand	spatula	
+10564	10636	put in	hand	spatula	,drawer
+10688	10725	take out	hand	spice shaker	,spice holder
+10725	10768	screw	hand	spice shaker	
+10797	11042	spice	spice shaker	spice	plate
+11042	11071	shake	hand	spice shaker	
+11081	11121	spice	spice shaker	spice	plate
+11127	11155	screw	hand	spice shaker	
+11167	11207	put in	hand	spice shaker	,spice holder
+11211	11341	take out	hand	fork	,drawer
+11361	11558	stir	fork	egg,spice	plate
+11582	11643	pour	pot	water	sink
+11643	11819	move	hand	pot	counter,sink
+11838	11962	clean	towel	counter	
+11983	12048	throw in garbage	hand	eggshell	
+12054	12121	wash	hand	hand	
+12153	12235	clean	towel	counter	
+12280	12435	put in	hand	wrapping paper	,fridge
+12597	12633	wash	hand	hand	
+12633	12662	shake	hand	hand	
+12725	12799	clean	towel	stove	

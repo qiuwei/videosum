@@ -1,0 +1,212 @@
+s36-d42_1_1	Person unwraps broccoli head.	s36-d42	257	2188	broccoli	2175
+s36-d42_1_2	Person chops broccoli head into small chunks.	s36-d42	2249	3908	broccoli	3870
+s36-d42_1_3	Person throws away remainder of broccoli head.	s36-d42	4008	4177	broccoli	4130
+s36-d42_1_4	Person puts broccoli into bowl.	s36-d42	4185	4661	broccoli	4663
+s36-d42_1_5	Person rinses broccoli in bowl.	s36-d42	4737	4911	broccoli	4875
+s36-d42_1_6	Person takes out pot and fills with water.	s36-d42	5004	5547	broccoli	5538
+s36-d42_1_7	Person turns on stove and places pot on burner.	s36-d42	5707	5943	broccoli	5986
+s36-d42_1_8	Person puts broccoli into pot.	s36-d42	6121	6515	broccoli	6552
+s36-d42_1_9	Person pours more water into pot.	s36-d42	6616	7305	broccoli	7295
+s36-d42_1_10	Person sprinkles salt into pot.	s36-d42	7404	7769	broccoli	7773
+s36-d42_1_11	Person places lid on pot.	s36-d42	7775	8041	broccoli	8032
+s36-d42_1_12	Person tests broccoli with fork.	s36-d42	8214	14395	broccoli	14729
+s36-d42_1_13	Person drains broccoli.	s36-d42	15001	16005	broccoli	15997
+s36-d42_1_14	Person serves broccoli onto plate.	s36-d42	16074	17264	broccoli	17272
+s36-d42_1_15	Person sprinkles pepper on broccoli.	s36-d42	17351	17948	broccoli	17934
+s36-d42_2_1	A man takes out a circular cutting board, a large bowl, and a knife	s36-d42	257	1031	broccoli	1029
+s36-d42_2_2	he takes broccoli from the refrigerator and unwraps it from its packaging	s36-d42	1047	2188	broccoli	2197
+s36-d42_2_3	he cuts off the stem from the broccoli head	s36-d42	2249	3908	broccoli	4077
+s36-d42_2_4	he moves all of the broccoli pieces into the bowl and rinses them in the sink	s36-d42	4008	4911	broccoli	4921
+s36-d42_2_5	he takes out a large pot, fills it about a fourth of the way with water, and puts it on the stove	s36-d42	5004	5943	broccoli	5967
+s36-d42_2_6	he moves the broccoli pieces from the bowl to the pot	s36-d42	6121	6515	broccoli	6569
+s36-d42_2_7	he uses the bowl to add more water to the pot with the broccoli	s36-d42	6616	7305	broccoli	7295
+s36-d42_2_8	he adds salt to the broccoli in the pot of water	s36-d42	7404	7850	broccoli	7877
+s36-d42_2_9	he puts a lid on the pot and lets the broccoli cook	s36-d42	7860	8041	broccoli	8093
+s36-d42_2_10	he takes a plate out of the cabinet and rinses it in the sink	s36-d42	8214	11954	broccoli	12017
+s36-d42_2_11	he takes the lid off and checks the broccoli	s36-d42	12201	14395	broccoli	14639
+s36-d42_2_12	he takes the pot off of the stove and drains the pot of its water, being careful to keep the broccoli	s36-d42	15001	15762	broccoli	15923
+s36-d42_2_13	he puts the broccoli onto the plate and puts pepper on it	s36-d42	17948	18043	broccoli	18131
+s36-d42_3_1	Retrieves cutting board, bowl, and knife.	s36-d42	257	1031	broccoli	1053
+s36-d42_3_2	Removes broccoli from refrigerator.	s36-d42	1047	1842	broccoli	1747
+s36-d42_3_3	Unwraps broccoli.	s36-d42	1848	2188	broccoli	2203
+s36-d42_3_4	Cuts florets from broccoli.	s36-d42	2249	3908	broccoli	3965
+s36-d42_3_5	Places broccoli florets into bowl.	s36-d42	4008	4661	broccoli	4637
+s36-d42_3_6	Fills bowl with water.	s36-d42	4737	4911	broccoli	4913
+s36-d42_3_7	Retrieves pan and lid.	s36-d42	5004	5156	broccoli	5137
+s36-d42_3_8	Fills pan with water.	s36-d42	5223	5547	broccoli	5557
+s36-d42_3_9	Turns on burner and places pan on stove.	s36-d42	5707	5943	broccoli	6031
+s36-d42_3_10	Removes broccoli from bow and places it into the pan.	s36-d42	6121	6515	broccoli	6579
+s36-d42_3_11	Seasons broccoli with salt.	s36-d42	6616	7769	broccoli	7809
+s36-d42_3_12	Removes pan from stove and dumps water out of pan.	s36-d42	7775	15762	broccoli	15845
+s36-d42_3_13	Removes broccoli from pan and places it on a plate; seasons with pepper.	s36-d42	15932	17983	broccoli	17975
+s36-d42_4_1	The person takes out a cutting board and a metal bowl from the drawer.	s36-d42	257	788	broccoli	783
+s36-d42_4_2	The person takes out a knife from the drawer.	s36-d42	788	1031	broccoli	1015
+s36-d42_4_3	The person procures a package of broccoli from the fridge, removes it plastic wrapper and discards it in the trash.	s36-d42	1047	2375	broccoli	2369
+s36-d42_4_4	The person cuts the broccoli onto the cutting board and into the bowl.	s36-d42	2488	3908	broccoli	3921
+s36-d42_4_5	The person throws the stem and a piece which fell on the floor into the wastebin.	s36-d42	4008	4177	broccoli	4169
+s36-d42_4_6	The person puts the broccoli into the metal bowl and fills it with water.	s36-d42	4185	4911	broccoli	4943
+s36-d42_4_7	The person takes out a pot from the drawer, fills it with water, then sets it on the stove and turns the stove on.	s36-d42	5004	5943	broccoli	5979
+s36-d42_4_8	The person plucks the chopped broccoli from the bowl and places it into the pot on the stove.	s36-d42	6121	6515	broccoli	6585
+s36-d42_4_9	The person rinses the bowl and knife, returns the knife to the drawer, and then fills the bowl with water which he dumps into the pot on the stove.	s36-d42	6616	7305	broccoli	7357
+s36-d42_4_10	The person adds salt to the water then puts a lid on the pot.	s36-d42	7404	8041	broccoli	8063
+s36-d42_4_11	The person washes the cutting board and returns it to the drawer.	s36-d42	8214	8602	broccoli	8635
+s36-d42_4_12	The person cleans the countertop.	s36-d42	8734	10347	broccoli	10423
+s36-d42_4_13	The person procures a plate from the cabinet and rinses it in the sink.	s36-d42	10403	11954	broccoli	12039
+s36-d42_4_14	The person takes out a fork from the drawer, tests the broccoli, then pours the water from the pot into the sink.	s36-d42	12201	16005	broccoli	16061
+s36-d42_4_15	The person uses the fork to pluck the broccoli from the pot and set it on the plate.	s36-d42	16074	17264	broccoli	17335
+s36-d42_5_1	He took out cutting board	s36-d42	257	490	broccoli	485
+s36-d42_5_2	He took out bowl	s36-d42	633	679	broccoli	677
+s36-d42_5_3	He took out knife	s36-d42	711	1031	broccoli	1015
+s36-d42_5_4	He took out broccoli	s36-d42	1047	1842	broccoli	1829
+s36-d42_5_5	He cut leaves off stem	s36-d42	1848	3908	broccoli	3923
+s36-d42_5_6	He threw away stem	s36-d42	4008	4177	broccoli	4175
+s36-d42_5_7	He washed hands	s36-d42	4185	4241	broccoli	4241
+s36-d42_5_8	He put water in bowl	s36-d42	4330	4358	broccoli	4375
+s36-d42_5_9	He put broccoli in bowl	s36-d42	4365	4661	broccoli	4747
+s36-d42_5_10	He washed broccoli	s36-d42	4737	4911	broccoli	4913
+s36-d42_6_1	He gets the needed equipment.	s36-d42	257	1031	broccoli	1053
+s36-d42_6_2	He gets the broccoli.	s36-d42	1047	1842	broccoli	1839
+s36-d42_6_3	He cuts the heads off the broccoli.	s36-d42	1848	3908	broccoli	3933
+s36-d42_6_4	He throws the rest away.	s36-d42	4008	4177	broccoli	4175
+s36-d42_6_5	He puts the broccoli in a bowl and adds water.	s36-d42	4185	4911	broccoli	4975
+s36-d42_6_6	He puts water in a pot and starts heating it.	s36-d42	5004	5943	broccoli	6023
+s36-d42_6_7	He puts the broccoli in the pot.	s36-d42	6121	6515	broccoli	6631
+s36-d42_6_8	He adds more water to the pot.	s36-d42	6616	7305	broccoli	7333
+s36-d42_6_9	He salts the water.	s36-d42	7404	7769	broccoli	7809
+s36-d42_6_10	He cleans up a bit.	s36-d42	7775	10347	broccoli	10405
+s36-d42_6_11	He removes the broccoli from the heat and pours out the water.	s36-d42	10403	15762	broccoli	15885
+s36-d42_6_12	He puts the broccoli on a plate.	s36-d42	15932	17264	broccoli	17333
+s36-d42_6_13	He seasons the broccoli.	s36-d42	15932	17983	broccoli	17969
+s36-d42_7_1	The man takes out his supplies.	s36-d42	257	1031	broccoli	1059
+s36-d42_7_2	The man slices off the broccoli he will use.	s36-d42	1047	3908	broccoli	3937
+s36-d42_7_3	The man discards the unwanted pieces.	s36-d42	4008	4241	broccoli	4283
+s36-d42_7_4	He washes the broccoli.	s36-d42	4330	4911	broccoli	5025
+s36-d42_7_5	The man adds water to a pot and heats it.	s36-d42	5004	5943	broccoli	6049
+s36-d42_7_6	The man adds the broccoli to the pot.	s36-d42	6121	6515	broccoli	6605
+s36-d42_7_7	The man adds some more water and some salt to the pot.	s36-d42	6616	7900	broccoli	7923
+s36-d42_7_8	The man cleans while waiting for the broccoli to cook.	s36-d42	7960	10347	broccoli	10429
+s36-d42_7_9	The man waits for the broccoli to cook.	s36-d42	10403	15161	broccoli	15147
+s36-d42_7_10	He drains the water from the pot.	s36-d42	15238	16005	broccoli	16049
+s36-d42_7_11	The man places the broccoli onto a plate.	s36-d42	17351	17562	broccoli	17601
+s36-d42_8_1	He gets a cutting board, knife, and bowl.	s36-d42	257	1031	broccoli	1043
+s36-d42_8_2	He gets the broccoli.	s36-d42	1047	1842	broccoli	1773
+s36-d42_8_3	He cuts the heads off the broccoli and discards the rest.	s36-d42	1848	4177	broccoli	4181
+s36-d42_8_4	He rinses the broccoli.	s36-d42	4185	4911	broccoli	4965
+s36-d42_8_5	He fills a pot with water and activates the stove.	s36-d42	5004	5943	broccoli	6013
+s36-d42_8_6	He puts the broccoli in the pot.	s36-d42	6121	6515	broccoli	6583
+s36-d42_8_7	He adds more water to the pot.	s36-d42	6616	7305	broccoli	7339
+s36-d42_8_8	He salts the water.	s36-d42	7404	7769	broccoli	7803
+s36-d42_8_9	He gets a plate.	s36-d42	7775	11954	broccoli	12011
+s36-d42_8_10	He takes the pot from the stove and pours out the water.	s36-d42	12201	15762	broccoli	15773
+s36-d42_8_11	He puts the broccoli on the plate.	s36-d42	15932	17264	broccoli	17381
+s36-d42_8_12	He seasons the broccoli.	s36-d42	17351	17983	broccoli	17971
+s36-d42_10_1	He gets out a cutting board, bowl, and knife.	s36-d42	257	1031	broccoli	1033
+s36-d42_10_2	He chooses the broccoli.	s36-d42	1047	1842	broccoli	1749
+s36-d42_10_3	He remove the broccoli from the plastic.	s36-d42	1848	2188	broccoli	2219
+s36-d42_10_4	He cuts of the broccoli heads.	s36-d42	2249	3908	broccoli	3931
+s36-d42_10_5	He discards the stalk.	s36-d42	4008	4177	broccoli	4177
+s36-d42_10_6	He puts the broccoli in a bowl.	s36-d42	4185	4661	broccoli	4717
+s36-d42_10_7	He puts water in the bowl.	s36-d42	4737	4911	broccoli	4931
+s36-d42_10_8	He puts water in a pot.	s36-d42	5004	5547	broccoli	5577
+s36-d42_10_9	He turns on the stove and puts the pot on it.	s36-d42	5707	5943	broccoli	6009
+s36-d42_10_10	He puts the broccoli in the pot.	s36-d42	6121	6515	broccoli	6573
+s36-d42_10_11	He puts more water in the pot.	s36-d42	6616	7305	broccoli	7341
+s36-d42_10_12	He salts the water.	s36-d42	7404	7769	broccoli	7803
+s36-d42_10_13	He cleans up a bit.	s36-d42	7775	10276	broccoli	10287
+s36-d42_10_14	He takes the pot and pours out the water.	s36-d42	10302	15762	broccoli	15777
+s36-d42_10_15	He puts the broccoli on a plate.	s36-d42	15932	17264	broccoli	17297
+s36-d42_11_1	The man begins by placing a cutting board, a knife and a small metal bowl on the counter.	s36-d42	257	1329	broccoli	1513
+s36-d42_11_2	He then selects a crown of broccoli from the fridge and removes the plastic wrapping.	s36-d42	1542	2188	broccoli	2175
+s36-d42_11_3	Next, he uses the knife to cut the broccoli away from the stalk and then discards the stalk.	s36-d42	2249	4177	broccoli	4123
+s36-d42_11_4	He then places the broccoli into the metal bowl.	s36-d42	5004	5156	broccoli	5211
+s36-d42_11_5	Next, he selects a pot, fills it halfway full with water and then adds the broccoli to the pot.	s36-d42	5223	6194	broccoli	6189
+s36-d42_11_6	He adds salt to the pot and then places the lid on it.	s36-d42	6198	8041	broccoli	8037
+s36-d42_11_7	After the broccoli has boiled for awhile, he pours to excess water into the sink.	s36-d42	8214	16332	broccoli	16381
+s36-d42_11_8	Using a fork, he then places each piece of broccoli onto a plate.	s36-d42	16405	17264	broccoli	17345
+s36-d42_11_9	Finally, the man sprinkles some spice on the broccoli.	s36-d42	16074	17948	broccoli	17833
+s36-d42_12_1	He took out cutting board	s36-d42	257	490	broccoli	506
+s36-d42_12_2	He took out bowl	s36-d42	633	679	broccoli	675
+s36-d42_12_3	He took out knife	s36-d42	711	1031	broccoli	1023
+s36-d42_12_4	He took out broccoli	s36-d42	1047	1842	broccoli	1791
+s36-d42_12_5	He cut broccoli off stem	s36-d42	1848	3908	broccoli	3893
+s36-d42_12_6	He threw away stem	s36-d42	4008	4177	broccoli	4168
+s36-d42_12_7	He washed hands	s36-d42	4185	4241	broccoli	4247
+s36-d42_12_8	He put broccoli in bowl	s36-d42	4330	4661	broccoli	4681
+s36-d42_12_9	He washed broccoli	s36-d42	4737	4911	broccoli	4909
+s36-d42_12_10	He took out pot	s36-d42	4185	5156	broccoli	5143
+s36-d42_12_11	He put water in pot	s36-d42	5223	5547	broccoli	5549
+s36-d42_12_12	He turned on stove	s36-d42	5707	5943	broccoli	5959
+s36-d42_12_13	He put broccoli in pot	s36-d42	6121	6515	broccoli	6574
+s36-d42_12_14	He washed knife	s36-d42	6616	7047	broccoli	7048
+s36-d42_13_1	He gets out some hardware.	s36-d42	257	1031	broccoli	1025
+s36-d42_13_2	He gets broccoli from the fridge.	s36-d42	1047	1842	broccoli	1745
+s36-d42_13_3	He cuts the good pieces of broccoli off.	s36-d42	1848	3908	broccoli	3945
+s36-d42_13_4	He puts the broccoli in a bowl.	s36-d42	4008	4661	broccoli	4725
+s36-d42_13_5	He puts water in a pot and puts it on a heating stove.	s36-d42	5004	5943	broccoli	5989
+s36-d42_13_6	He puts the broccoli in the water.	s36-d42	6121	6515	broccoli	6595
+s36-d42_13_7	He adds more water to the pot.	s36-d42	7057	7305	broccoli	7331
+s36-d42_13_8	He salts the water.	s36-d42	7404	7769	broccoli	7795
+s36-d42_13_9	He gets a plate out.	s36-d42	7775	11954	broccoli	12027
+s36-d42_13_10	He pours the water out of the pot.	s36-d42	12201	15762	broccoli	15773
+s36-d42_13_11	He puts the broccoli on the plate.	s36-d42	17351	17562	broccoli	17493
+s36-d42_13_12	He seasons the broccoli.	s36-d42	17351	17948	broccoli	17955
+s36-d42_14_1	He gets out equipment.	s36-d42	257	1031	broccoli	1047
+s36-d42_14_2	He gets the broccoli.	s36-d42	1047	1842	broccoli	1769
+s36-d42_14_3	He cuts off the heads of the broccoli.	s36-d42	1848	3908	broccoli	3921
+s36-d42_14_4	He puts water in a bowl with the broccoli.	s36-d42	4008	4911	broccoli	4989
+s36-d42_14_5	He sets a pot of water on a hot stove.	s36-d42	4737	5943	broccoli	6007
+s36-d42_14_6	He puts the broccoli in the pot.	s36-d42	6121	6515	broccoli	6605
+s36-d42_14_7	He salts the water.	s36-d42	6616	7850	broccoli	7817
+s36-d42_14_8	He get a plate out.	s36-d42	7860	11954	broccoli	12025
+s36-d42_14_9	He pours out the hot water.	s36-d42	12201	15762	broccoli	15769
+s36-d42_14_10	He puts the broccoli on the plate and seasons it.	s36-d42	17983	18043	broccoli	18017
+s36-d42_15_1	The man places his utensils on the counter.	s36-d42	257	1031	broccoli	1029
+s36-d42_15_2	He removes the broccoli from the refrigerator and unwraps it.	s36-d42	1047	2375	broccoli	2381
+s36-d42_15_3	Using the cutting board and knife, he cuts the individual florets off of the broccoli stem.	s36-d42	2488	3908	broccoli	4017
+s36-d42_15_4	He throws the remaining stem into the recycling bin and washes his hands.	s36-d42	4008	4241	broccoli	4243
+s36-d42_15_5	He places the broccoli florets into a bowl and rinses them in water.	s36-d42	4330	4911	broccoli	4943
+s36-d42_15_6	He fills a small stockpot with water and places it on the stovetop.	s36-d42	5004	5943	broccoli	5985
+s36-d42_15_7	He adds the rinses broccoli florets to the stockpot on the stovetop.	s36-d42	6121	6515	broccoli	6579
+s36-d42_15_8	He adds more water to the stockpot on the stove.	s36-d42	6616	7305	broccoli	7309
+s36-d42_15_9	He seasons the broccoli florets by adding salt to the water.	s36-d42	7404	7769	broccoli	7801
+s36-d42_15_10	He places a stockpot lid on the pot.	s36-d42	7775	8041	broccoli	8059
+s36-d42_15_11	He cleans the counter and utensils while waiting for the broccoli to boil.	s36-d42	8214	10134	broccoli	10153
+s36-d42_15_12	He tests how thoroughly cooked the broccoli florets are by placing a fork into one.	s36-d42	10134	14395	broccoli	14827
+s36-d42_15_13	Keeping the stockpot lid slightly off, he drains the stockpot water into the sink.	s36-d42	15001	16005	broccoli	16063
+s36-d42_15_14	He places the broccoli florets onto a plate and arranges them neatly.	s36-d42	15932	17562	broccoli	17575
+s36-d42_15_15	He seasons the broccoli florets on the plate.	s36-d42	17351	17948	broccoli	17951
+s36-d42_16_1	He took out cutting board	s36-d42	257	490	broccoli	461
+s36-d42_16_2	He took out bowl	s36-d42	633	679	broccoli	673
+s36-d42_16_3	He took out knife	s36-d42	711	1031	broccoli	1017
+s36-d42_16_4	He took out broccoli	s36-d42	1047	1842	broccoli	1811
+s36-d42_16_5	He cut up broccoli	s36-d42	1848	3570	broccoli	3579
+s36-d42_16_6	He threw away scraps	s36-d42	3575	4177	broccoli	4191
+s36-d42_16_7	He washed hands	s36-d42	4185	4241	broccoli	4285
+s36-d42_18_1	The person takes a cutting board and a metal bowl from the drawer.	s36-d42	257	788	broccoli	755
+s36-d42_18_2	The person take a knife from the drawer.	s36-d42	788	1031	broccoli	1039
+s36-d42_18_3	The person gets a stalk of broccoli from the fridge, removes its plastic wrapper and disposes of the latter in the wastebin.	s36-d42	1047	2375	broccoli	2325
+s36-d42_18_4	The person chops the broccoli off the stalk onto the cutting board and into the bowl.	s36-d42	2488	3908	broccoli	3961
+s36-d42_18_5	The person disposes of the stalk and several pieces that fell on the floor into the wastebin and then washes his hands in the sink.	s36-d42	4008	4241	broccoli	4263
+s36-d42_18_6	The person places all the broccoli on the cutting board into the metal bowl and then fills it with water from the faucet.	s36-d42	4330	4911	broccoli	4937
+s36-d42_18_7	The person takes a pot from a drawer, fills it with water, then places it on the stove and turns it on.	s36-d42	5004	5943	broccoli	5991
+s36-d42_18_8	The person places the broccoli from the bowl into the pot and then rinses the bowl in the sink.	s36-d42	6121	6787	broccoli	6815
+s36-d42_18_9	The person adds salt to the pot.	s36-d42	6616	7900	broccoli	7919
+s36-d42_18_10	The person places a lid on the pot, then washes off the cutting board in the sink and replaces it in the drawer.	s36-d42	7960	8602	broccoli	8631
+s36-d42_18_11	The person cleans the counter while the broccoli is cooking in the pot on the stove.	s36-d42	8734	10347	broccoli	10389
+s36-d42_18_12	The person gets a plate from the cupboard	s36-d42	10403	11653	broccoli	11677
+s36-d42_18_13	The person takes a fork from the drawer and test the broccoli and then removes the pot from the stove.	s36-d42	11778	15161	broccoli	15229
+s36-d42_18_14	The person drains the water in the pot from the broccoli into the sink.	s36-d42	15238	16136	broccoli	16109
+s36-d42_18_15	The person uses the fork to place the broccoli on the plate.	s36-d42	16161	17264	broccoli	17451
+s36-d42_19_1	He took out cutting board	s36-d42	257	490	broccoli	475
+s36-d42_19_2	He took out bowl	s36-d42	633	679	broccoli	699
+s36-d42_19_3	He took out knife	s36-d42	711	1031	broccoli	1039
+s36-d42_19_4	He took out broccoli	s36-d42	1047	1842	broccoli	1855
+s36-d42_19_5	He cut broccoli off stem	s36-d42	1848	3908	broccoli	3947
+s36-d42_19_6	He threw away stem	s36-d42	4008	4177	broccoli	4183
+s36-d42_19_7	He washed hands	s36-d42	4185	4241	broccoli	4271
+s36-d42_19_8	He put water in bowl	s36-d42	4330	4385	broccoli	4397
+s36-d42_19_9	He put broccoli in bowl	s36-d42	4390	4661	broccoli	4703
+s36-d42_19_10	He washed broccoli	s36-d42	4737	4911	broccoli	4961
+s36-d42_19_11	He took out pan	s36-d42	5004	5156	broccoli	5173
+s36-d42_19_12	He put water in pan	s36-d42	5223	5547	broccoli	5587
+s36-d42_19_13	He turned on stove	s36-d42	5707	5943	broccoli	6013

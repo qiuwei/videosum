@@ -1,0 +1,50 @@
+224	358	take out	hand	pan	drawer,stove
+418	732	take out	hand	egg	counter,fridge
+841	1014	take out	hand	cup	counter,cupboard
+1016	1210	take out	hand	fork	counter,drawer
+1237	1350	open egg	cup,hand	egg	cup
+1350	1428	shake	hand	eggshell	
+1480	1554	throw in garbage	hand	eggshell	
+1627	1662	take out	hand	spice shaker	spice holder
+1670	1722	screw	hand	spice shaker	
+1729	1904	spice	spice shaker	salt	cup
+1921	1959	screw	hand	spice shaker	
+1971	2022	put in	hand	spice shaker	,spice holder
+2037	2085	take out	hand	spice shaker	spice holder
+2099	2116	screw	hand	spice shaker	
+2128	2188	spice	spice shaker	pepper	cup
+2202	2262	screw	hand	spice shaker	
+2270	2303	put in	hand	spice shaker	,spice holder
+2374	2939	stir	fork	egg	cup
+3044	3189	wash	hand	hand	
+3217	3290	dry	towel	hand	
+3290	3353	hang up	hand	towel	,handle
+3410	3526	turn on	hand	stove	
+3526	3603	change temperature	hand	stove	
+3673	3873	take out	hand	bottle	cupboard
+3911	3981	screw	hand	bottle	
+3990	4045	pour	bottle	oil	pan
+4099	4158	pour	bottle	oil	pan
+4182	4268	screw	hand	bottle	
+4303	4392	put in	hand	bottle	,cupboard
+4444	4592	spread	pan	oil	pan
+4759	4864	stir	fork	egg	cup
+4990	5313	stir	fork	egg	cup
+5401	5766	add	cup,fork	egg	cup,pan
+5822	5919	move	hand	cup	,sink
+6001	6064	change temperature	hand	stove	
+6909	7041	take out	hand	spatula	,drawer
+7525	7550	move	hand	spatula	,counter
+7600	7809	take out	hand	bowl	counter,cupboard
+7822	8105	strew	hand	parsley	bowl,pan
+8109	8226	strew	hand	parsley	bowl,pan
+8237	8403	put in	hand	bowl	counter,cupboard
+8507	8650	move	spatula	parsley	pan
+9108	9142	move	hand	spatula	,counter
+9192	9439	take out	hand	plate	counter,cupboard
+9657	9888	take out	hand	fork,knife	counter,drawer
+11674	11738	change temperature	hand	stove	
+11912	12170	move	pan,spatula	egg	pan,plate
+12170	12228	move	hand	pan	,stove
+12308	12348	move	hand	fork	counter
+12362	12398	move	hand	knife	counter

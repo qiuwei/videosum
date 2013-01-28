@@ -1,0 +1,146 @@
+s30-d53_2_1	person gets out cutting board	s30-d53	195	333	avocado	315
+s30-d53_2_2	person gets out knife	s30-d53	345	433	avocado	455
+s30-d53_2_3	person gets out avocado	s30-d53	471	586	avocado	597
+s30-d53_2_4	person washes avocado	s30-d53	588	1475	avocado	1449
+s30-d53_2_5	person peels avocado	s30-d53	1520	2370	avocado	2393
+s30-d53_2_6	person slice avocado	s30-d53	2409	3922	avocado	3951
+s30-d53_2_7	person gets out salt and pepper	s30-d53	4006	4355	avocado	4425
+s30-d53_2_8	person adds salt and pepper to avocado	s30-d53	4416	4979	avocado	5001
+s30-d53_2_9	person gets out grater	s30-d53	4979	6461	avocado	6507
+s30-d53_2_10	person grates avocado	s30-d53	6504	10674	avocado	10759
+s30-d53_2_11	person mashes avocado with fork	s30-d53	10723	12153	avocado	12175
+s30-d53_3_1	person gets cutting board	s30-d53	195	333	avocado	353
+s30-d53_3_2	person gets knife	s30-d53	345	433	avocado	447
+s30-d53_3_3	person gets avocado	s30-d53	471	586	avocado	585
+s30-d53_3_4	person washes avocado	s30-d53	588	1414	avocado	1443
+s30-d53_3_5	person peels avocado with knife	s30-d53	1421	2370	avocado	2387
+s30-d53_3_6	person cuts avocado going around the pit	s30-d53	2409	3922	avocado	3965
+s30-d53_3_7	person puts salt and pepper on avocado	s30-d53	4006	4979	avocado	4997
+s30-d53_3_8	person uses grater to cut avocado	s30-d53	4979	11008	avocado	11081
+s30-d53_3_9	person uses fork to mash avocado	s30-d53	12159	13166	avocado	13193
+s30-d53_4_1	She took out cutting board	s30-d53	195	333	avocado	339
+s30-d53_4_2	She took out knife	s30-d53	345	433	avocado	427
+s30-d53_4_3	She took out avocado	s30-d53	471	620	avocado	667
+s30-d53_4_4	She took out plate	s30-d53	634	1191	avocado	1149
+s30-d53_4_5	She washed avocado	s30-d53	1215	1475	avocado	1453
+s30-d53_4_6	She peeled avocado	s30-d53	1520	2370	avocado	2373
+s30-d53_4_7	She cut up avocado	s30-d53	2409	3922	avocado	4029
+s30-d53_4_8	She washed hands	s30-d53	4006	4125	avocado	4149
+s30-d53_4_9	She added pepper	s30-d53	4139	4758	avocado	4747
+s30-d53_4_10	She added salt	s30-d53	4779	4940	avocado	4961
+s30-d53_5_1	She gets out a cutting board and a knife.	s30-d53	195	433	avocado	441
+s30-d53_5_2	She gets an avocado.	s30-d53	471	899	avocado	949
+s30-d53_5_3	She peels the avocado.	s30-d53	971	2370	avocado	2395
+s30-d53_5_4	She gets the good parts away from the pit.	s30-d53	2409	3922	avocado	4009
+s30-d53_5_5	She seasons the avocado.	s30-d53	4943	4979	avocado	4973
+s30-d53_5_6	She grates the avocado.	s30-d53	4979	10674	avocado	10709
+s30-d53_5_7	She mashes the avocado and adds more salt.	s30-d53	11049	13166	avocado	13227
+s30-d53_6_1	The woman takes an avocado out of the refrigerator.	s30-d53	195	620	avocado	745
+s30-d53_6_2	The woman rinses the avocado.	s30-d53	634	1475	avocado	1529
+s30-d53_6_3	The woman peels the avocado with a knife.	s30-d53	1520	2370	avocado	2399
+s30-d53_6_4	The woman slices the flesh away from the pit.	s30-d53	2409	3922	avocado	3993
+s30-d53_6_5	The woman seasons the avocado.	s30-d53	4006	4979	avocado	5029
+s30-d53_6_6	The woman grates the avocado.	s30-d53	4979	10674	avocado	10707
+s30-d53_6_7	She mixes the avocado with a fork.	s30-d53	10723	12153	avocado	12145
+s30-d53_6_8	The woman seasons the avocado.	s30-d53	13247	13331	avocado	13377
+s30-d53_7_1	Sh gets a cutting board and knife.	s30-d53	195	433	avocado	435
+s30-d53_7_2	She gets an avocado.	s30-d53	471	586	avocado	575
+s30-d53_7_3	She gets a plate.	s30-d53	588	1191	avocado	1187
+s30-d53_7_4	She rinses the avocado.	s30-d53	1215	1414	avocado	1445
+s30-d53_7_5	She cuts the pit away.	s30-d53	1421	3922	avocado	3983
+s30-d53_7_6	She grate the avocado and cleans the grater.	s30-d53	4006	11008	avocado	11025
+s30-d53_7_7	She mashes the avocado with a fork.	s30-d53	12159	13166	avocado	13207
+s30-d53_8_1	Takes out a cutting board.	s30-d53	195	333	avocado	335
+s30-d53_8_2	Takes out a knife.	s30-d53	345	433	avocado	437
+s30-d53_8_3	Takes an avocado out of the refrigerator.	s30-d53	471	586	avocado	593
+s30-d53_8_4	Takes a plate out of the cabinet.	s30-d53	588	1191	avocado	1147
+s30-d53_8_5	Peels the avocado.	s30-d53	1215	2370	avocado	2391
+s30-d53_8_6	Slices up the avocado.	s30-d53	2409	3922	avocado	4003
+s30-d53_8_7	Grates the avocado slices on the plate.	s30-d53	4006	10674	avocado	10719
+s30-d53_9_1	She gets a cutting board and knife.	s30-d53	195	433	avocado	453
+s30-d53_9_2	She sets an avocado on the counter.	s30-d53	471	899	avocado	945
+s30-d53_9_3	She gets a plate.	s30-d53	971	1191	avocado	1183
+s30-d53_9_4	She rinses the avocado.	s30-d53	1215	1475	avocado	1467
+s30-d53_9_5	She peels the avocado.	s30-d53	1520	2370	avocado	2395
+s30-d53_9_6	She cuts the avocado from the pit.	s30-d53	2409	3922	avocado	3965
+s30-d53_9_7	She seasons the avocado.	s30-d53	4006	4979	avocado	4981
+s30-d53_9_8	She grates the avocado.	s30-d53	4979	10674	avocado	10771
+s30-d53_9_9	She mashes and salts the avocado.	s30-d53	13247	13331	avocado	13301
+s30-d53_10_1	She opens a drawer and takes out a cutting board and knife.	s30-d53	195	433	avocado	439
+s30-d53_10_2	She goes to the refrigerator and takes out an avocado and removes the sticker.	s30-d53	471	899	avocado	921
+s30-d53_10_3	She goes to the cupboard and takes out plate and places it on the counter.	s30-d53	971	1191	avocado	1179
+s30-d53_10_4	She washes the avocado in the sink.	s30-d53	1215	1475	avocado	1515
+s30-d53_10_5	She cuts the peel off the avocado.	s30-d53	1520	2370	avocado	2389
+s30-d53_10_6	She cuts the avocado into pieces and places it on the plate and then washes hands.	s30-d53	2409	4170	avocado	4161
+s30-d53_10_7	She goes over to counter and gets spices and sprinkles them on top of avocado.	s30-d53	4006	4979	avocado	5011
+s30-d53_10_8	She goes to drawer and takes out fork and tries to smash avocado.	s30-d53	4979	5498	avocado	5483
+s30-d53_10_9	She opens the drawer and looks around for a grater.	s30-d53	5570	6461	avocado	6475
+s30-d53_10_10	She grates the avocado.	s30-d53	6504	10674	avocado	10691
+s30-d53_10_11	She go to the sink and  washes the grater and her hands.	s30-d53	10723	10981	avocado	10995
+s30-d53_10_12	She takes the fork and mashes the avocado.	s30-d53	10984	12153	avocado	12155
+s30-d53_10_13	She then adds more spices and blends together again.	s30-d53	10723	13331	avocado	13377
+s30-d53_11_1	A woman walks in and takes out a cutting board and knife and sets it on the counter.	s30-d53	195	586	avocado	587
+s30-d53_11_2	She takes out an avocado and a plate and washes the avocado.	s30-d53	588	1475	avocado	1499
+s30-d53_11_3	She peels the avocado down to the seed.	s30-d53	1520	3922	avocado	3747
+s30-d53_11_4	She washes her hands and seasons the avocado with salt and pepper.	s30-d53	4006	4940	avocado	4887
+s30-d53_11_5	The woman grates the avocado.	s30-d53	4166	6461	avocado	6775
+s30-d53_11_6	The takes a fork and mashes whats left of the avocado.	s30-d53	10723	12116	avocado	11645
+s30-d53_11_7	She adds more salt, mashes some more and puts away the salt and pepper.	s30-d53	13247	13331	avocado	13377
+s30-d53_12_1	The person retrieves needed utensils, equipment and the avocado.	s30-d53	195	1191	avocado	1204
+s30-d53_12_2	The person washes and peels the avocado.	s30-d53	1215	2370	avocado	2375
+s30-d53_12_3	The person removes the avocado flesh from around the pit.	s30-d53	2409	3922	avocado	3957
+s30-d53_12_4	The person seasons the avocado flesh.	s30-d53	4943	4979	avocado	4974
+s30-d53_12_5	The person grates the avocado flesh.	s30-d53	4979	10674	avocado	10686
+s30-d53_12_6	The person mashes the avocado flesh.	s30-d53	12122	12285	avocado	12279
+s30-d53_12_7	The person mixes in more seasoning.	s30-d53	12294	13166	avocado	13186
+s30-d53_13_1	She gets a cutting board and knife.	s30-d53	195	433	avocado	439
+s30-d53_13_2	She gets the avocado and a plate.	s30-d53	471	1191	avocado	1177
+s30-d53_13_3	She rinses the avocado.	s30-d53	1215	1475	avocado	1453
+s30-d53_13_4	She peels the avocado.	s30-d53	1520	2370	avocado	2385
+s30-d53_13_5	She cuts the good part from the pit.	s30-d53	2409	3922	avocado	4025
+s30-d53_13_6	She seasons the avocado.	s30-d53	4006	4979	avocado	4969
+s30-d53_13_7	She grate the avocado.	s30-d53	4979	10674	avocado	10709
+s30-d53_13_8	She mashes and seasons the avocado.	s30-d53	6504	13166	avocado	13287
+s30-d53_14_1	She takes out a cutting board, a knife, a plate, and an avocado which she washes.	s30-d53	195	1475	avocado	1515
+s30-d53_14_2	She cuts the skin off the avocado.	s30-d53	1520	2516	avocado	2564
+s30-d53_14_3	She cuts the outside off the avocado.	s30-d53	2543	3922	avocado	4001
+s30-d53_14_4	She washes her hands and puts salt and pepper on top.	s30-d53	4006	4979	avocado	5026
+s30-d53_14_5	She uses a grinder and a knife to break the avocado up into small pieces.	s30-d53	4979	10674	avocado	10758
+s30-d53_14_6	She washes her hands, mushes the avocados further with the fork, and beings to put things away such as the salt and pepper.	s30-d53	11049	13331	avocado	13377
+s30-d53_15_1	She took out cutting board	195	433
+s30-d53_15_2	She took out knife	195	433
+s30-d53_15_3	She took out avocado	s30-d53	471	620	avocado	729
+s30-d53_15_4	She took out plate	s30-d53	634	1191	avocado	1287
+s30-d53_15_5	She washed avocado	s30-d53	1215	1475	avocado	1481
+s30-d53_15_6	She peeled avocado	s30-d53	1520	2370	avocado	2411
+s30-d53_15_7	She sliced avocado	s30-d53	2409	2862	avocado	2865
+s30-d53_17_1	Gather plate, cutting board, knife and washed avocado	s30-d53	195	1475	avocado	1487
+s30-d53_17_2	Peel Avocado with knife.	s30-d53	1520	2370	avocado	2366
+s30-d53_17_3	Cut avocado away from pit with knife.	s30-d53	2877	3922	avocado	3952
+s30-d53_17_4	Wash Hands	s30-d53	4006	4263	avocado	4283
+s30-d53_17_5	Salt and Pepper avocado	s30-d53	4006	4979	avocado	4984
+s30-d53_17_6	attempted to mash with fork, failed.	s30-d53	4979	5595	avocado	5645
+s30-d53_17_7	Grate Avocado with grater to smaller softer pieces	s30-d53	5612	10674	avocado	10693
+s30-d53_17_8	Mash remaining pieces with fork.	s30-d53	10723	12116	avocado	12126
+s30-d53_17_9	Add salt and mix with fork	s30-d53	10723	13166	avocado	13250
+s30-d53_18_1	A woman enters the kitchen, removes a cutting board and knife from the drawer and an avocado from the refrigerator.	s30-d53	195	899	avocado	953
+s30-d53_18_2	She retrieves a plate from the cupboard and places everything on the counter.	s30-d53	971	1191	avocado	1193
+s30-d53_18_3	She washes the avocado.	s30-d53	1215	1475	avocado	1521
+s30-d53_18_4	Using the knife, she peels the rind from the avocado.	s30-d53	1520	2370	avocado	2405
+s30-d53_18_5	Using the knife, she carves all of the avocado from around the pit, allowing the avocado meat to fall onto the plate.	s30-d53	2409	3922	avocado	4005
+s30-d53_18_6	She washes her hands.	s30-d53	4006	4476	avocado	4475
+s30-d53_18_7	She lightly salts and peppers the avocado.	s30-d53	4283	7872	avocado	7711
+s30-d53_18_8	She removes a cheese grater from the drawer and grates the avocado.	s30-d53	7985	10674	avocado	10793
+s30-d53_18_9	She washes her hands.	s30-d53	10723	11008	avocado	11055
+s30-d53_18_10	With a fork she mashes the avocado, adds a bit more salt and finishes mashing the avocado with the fork.	s30-d53	10723	13331	avocado	13377
+s30-d53_19_1	She took out cutting board	s30-d53	195	333	avocado	317
+s30-d53_19_2	She took out knife	s30-d53	345	433	avocado	443
+s30-d53_19_3	She took out avoado	s30-d53	471	620	avocado	765
+s30-d53_19_4	She took out plate	s30-d53	634	1191	avocado	1175
+s30-d53_19_5	She washed avocado	s30-d53	1215	1475	avocado	1547
+s30-d53_19_6	She peeled avocado	s30-d53	1520	2370	avocado	2443
+s30-d53_19_7	She sliced avocado	s30-d53	2409	3922	avocado	4019
+s30-d53_19_8	She washed hands	s30-d53	4006	4170	avocado	4159
+s30-d53_19_9	She added pepper	s30-d53	4166	4721	avocado	4737
+s30-d53_19_10	She added salt	s30-d53	4529	4979	avocado	5015
+s30-d53_19_11	She took out fork	s30-d53	4979	5114	avocado	5155

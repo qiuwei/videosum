@@ -1,0 +1,116 @@
+s21-d55_1_1	the person walks to the fridge and takes the figs out.	s21-d55	243	451	figs	468
+s21-d55_1_2	the person takes a cutting board out from a drawer.	s21-d55	463	634	figs	662
+s21-d55_1_3	the person takes a knife out for cutting the figs.	s21-d55	634	769	figs	800
+s21-d55_1_4	the person takes a small plate out and puts it on the counter.	s21-d55	805	950	figs	1002
+s21-d55_1_5	the person washes the figs in the sink and puts them on the cutting board.	s21-d55	1029	1234	figs	1251
+s21-d55_1_6	the person cuts the stems off the figs.	s21-d55	1283	1378	figs	1397
+s21-d55_1_7	the person dices the figs into quarters.	s21-d55	1391	1659	figs	1721
+s21-d55_1_8	the person arranges the quarters on the small plate.	s21-d55	1659	1942	figs	1984
+s21-d55_1_9	the person throws the stems of the figs in the garbage.	s21-d55	1954	2075	figs	2131
+s21-d55_2_1	The person procures a fig from the fridge.	s21-d55	243	451	figs	405
+s21-d55_2_2	The person takes out a cutting board from the drawer.	s21-d55	463	594	figs	597
+s21-d55_2_3	The person takes out a knife from the drawer.	s21-d55	594	769	figs	751
+s21-d55_2_4	The person procures a plate from the cabinet.	s21-d55	805	950	figs	925
+s21-d55_2_5	The person washes the fig in the sink.	s21-d55	1029	1234	figs	1251
+s21-d55_2_6	The person uses the knife to cut off the fig ends, then cuts it into slices and places it on the plate.	s21-d55	1283	1942	figs	1979
+s21-d55_2_7	The person tosses the fig ends into the trashbin.	s21-d55	1954	2075	figs	2101
+s21-d55_3_1	The person gets out two figs.	s21-d55	243	451	figs	467
+s21-d55_3_2	The person gets out a wooden plate.	s21-d55	463	594	figs	607
+s21-d55_3_3	The person gets out a knife.	s21-d55	594	769	figs	741
+s21-d55_3_4	The person gets out a small plate.	s21-d55	805	950	figs	963
+s21-d55_3_5	The person rinses the figs.	s21-d55	1029	1234	figs	1251
+s21-d55_3_6	The person cuts the tops off the figs.	s21-d55	1283	1378	figs	1403
+s21-d55_3_7	The person cuts the figs into quarters.	s21-d55	1391	1659	figs	1731
+s21-d55_3_8	The person puts the quarters on the plate and throws away the tops.	s21-d55	1659	2075	figs	2083
+s21-d55_5_1	Take out your figs, and a cutting board.	s21-d55	243	769	figs	817
+s21-d55_5_2	Take out a small knife for cutting the figs.	s21-d55	805	950	figs	885
+s21-d55_5_3	Run the figs under water to get the dirt off, and place them on your cutting board.	s21-d55	1029	1234	figs	1267
+s21-d55_5_4	Cut the stems and make a horizontal and vertical cut down the top and middle of the figs.	s21-d55	1283	1545	figs	1565
+s21-d55_5_5	Place them on your serving dish and throw away the stems.	s21-d55	1550	2075	figs	2059
+s21-d55_6_1	She gets out the figs.	s21-d55	243	451	figs	467
+s21-d55_6_2	She gets a cutting board.	s21-d55	463	594	figs	603
+s21-d55_6_3	She gets a knife.	s21-d55	594	769	figs	807
+s21-d55_6_4	She washes the figs.	s21-d55	805	1234	figs	1217
+s21-d55_6_5	She chops the figs and puts them on a plate.	s21-d55	1283	1942	figs	1993
+s21-d55_7_1	Washes the fruit	243	1234
+s21-d55_7_2	Takes out knife	243	1234
+s21-d55_7_3	Takes out cutting Board	243	1234
+s21-d55_7_4	Takes Kiwi out of the fridge	243	1234
+s21-d55_7_5	Dice the kiwi	s21-d55	1283	1659	figs	1753
+s21-d55_7_6	Arrange on plate	s21-d55	1659	1942	figs	1999
+s21-d55_8_1	She took out figs	s21-d55	243	451	figs	427
+s21-d55_8_2	She took out cutting board	s21-d55	463	634	figs	635
+s21-d55_8_3	She took out knife	s21-d55	634	769	figs	775
+s21-d55_8_4	She took out plate	s21-d55	805	950	figs	1025
+s21-d55_8_5	She washed fig	s21-d55	1029	1234	figs	1243
+s21-d55_8_6	She sliced fig	s21-d55	1283	1659	figs	1759
+s21-d55_8_7	She put fig on plate	s21-d55	1659	1942	figs	2009
+s21-d55_9_1	The person procures a fig from the fridge.	s21-d55	243	451	figs	417
+s21-d55_9_2	The person takes out a cutting board from the drawer.	s21-d55	463	594	figs	591
+s21-d55_9_3	The person takes out a knife from the drawer.	s21-d55	594	769	figs	723
+s21-d55_9_4	The person procures a plate from the cabinet.	s21-d55	805	950	figs	949
+s21-d55_9_5	The person washes the fig in the sink.	s21-d55	1029	1234	figs	1217
+s21-d55_9_6	The person cuts the stem from the figs.	s21-d55	1283	1378	figs	1385
+s21-d55_9_7	The person quarters the figs and sets them on the plate.	s21-d55	1391	1942	figs	1953
+s21-d55_9_8	The person throws the stems into the wastebin.	s21-d55	1954	2075	figs	2091
+s21-d55_10_1	The woman takes out two figs from the refrigerator and places them on the counter.	s21-d55	243	451	figs	469
+s21-d55_10_2	Next, she places a cutting board and knife on the counter.	s21-d55	463	769	figs	747
+s21-d55_10_3	She also places a small plate on the counter.	s21-d55	805	950	figs	963
+s21-d55_10_4	She goes to the sink and washes the figs.	s21-d55	1029	1177	figs	1195
+s21-d55_10_5	She places the figs on the cutting board and cuts the tips off of each fig.	s21-d55	1190	1378	figs	1373
+s21-d55_10_6	Next, she cuts each fig in four pieces.	s21-d55	1391	1659	figs	1759
+s21-d55_10_7	She places the pieces on the small plate.	s21-d55	1659	1907	figs	1917
+s21-d55_10_8	She throws the garbage in the trash.	s21-d55	1954	2075	figs	2103
+s21-d55_12_1	Get figs out of the fridge and place on countertop.	s21-d55	243	451	figs	448
+s21-d55_12_2	Get out a cutting board.	s21-d55	463	634	figs	619
+s21-d55_12_3	Get out a knife.	s21-d55	634	769	figs	766
+s21-d55_12_4	Get out a serving dish.	s21-d55	805	950	figs	945
+s21-d55_12_5	Wash figs with water thoroughly.	s21-d55	1029	1234	figs	1243
+s21-d55_12_6	Cut ends off of each fig.	s21-d55	1283	1378	figs	1385
+s21-d55_12_7	Cut figs into quarters lengthwise.	s21-d55	1391	1659	figs	1678
+s21-d55_12_8	Arrange figs on serving dish.	s21-d55	1659	1942	figs	1952
+s21-d55_12_9	Throw away the fig end pieces.	1954	2075
+s21-d55_12_10	Enjoy.	1954	2075
+s21-d55_13_1	The woman retrieves a knife, a cutting board, a plate, and the figs.	s21-d55	243	950	figs	977
+s21-d55_13_2	She washes the figs.	s21-d55	1029	1234	figs	1239
+s21-d55_13_3	She cuts the tip of each fig off.	s21-d55	1283	1378	figs	1413
+s21-d55_13_4	She cuts each fig into fourths.	s21-d55	1391	1659	figs	1731
+s21-d55_13_5	She distributes the fig pieces on to the plate.	s21-d55	1659	1942	figs	1991
+s21-d55_13_6	She discards the extra pieces.	s21-d55	1954	2075	figs	2131
+s21-d55_14_1	The person gets out two figs.	s21-d55	243	451	figs	449
+s21-d55_14_2	The person gets out a wooden plate.	s21-d55	463	634	figs	619
+s21-d55_14_3	The person gets out a knife.	s21-d55	634	769	figs	742
+s21-d55_14_4	The person gets out a small plate.	s21-d55	805	950	figs	955
+s21-d55_14_5	The person rinses the figs and puts them on the wooden plate.	s21-d55	1029	1234	figs	1286
+s21-d55_14_6	The person cuts off the top of each fig.	s21-d55	1283	1378	figs	1384
+s21-d55_14_7	The person cuts each fig into quarters.	s21-d55	1391	1659	figs	1672
+s21-d55_14_8	The person puts the fig pieces on the small plate.	s21-d55	1659	1942	figs	1953
+s21-d55_14_9	The person throws away the tops of the figs.	s21-d55	1919	2075	figs	2077
+s21-d55_15_1	The person takes two figs out of the refrigerator.	s21-d55	243	451	figs	392
+s21-d55_15_2	The person takes a round chopping board out of the drawer.	s21-d55	463	594	figs	613
+s21-d55_15_3	The person takes a knife out of the drawer.	s21-d55	594	769	figs	758
+s21-d55_15_4	The person takes a plate out of the cupboard.	s21-d55	805	950	figs	914
+s21-d55_15_5	The person washes the figs.	s21-d55	1029	1177	figs	1187
+s21-d55_15_6	The person cuts off the tops of the figs.	s21-d55	1190	1378	figs	1376
+s21-d55_15_7	The person cuts the figs into sections and arranges them on the plate.	s21-d55	1391	1942	figs	1962
+s21-d55_15_8	The person discards the tops of the figs.	s21-d55	1954	2075	figs	2087
+s21-d55_16_1	The person takes a fig out of the refrigerator.	s21-d55	243	451	figs	385
+s21-d55_16_2	The person takes a round chopping board out of the drawer.	s21-d55	463	594	figs	604
+s21-d55_16_3	The person takes a small knife out of the drawer.	s21-d55	594	769	figs	785
+s21-d55_16_4	The person takes a small plate out of the cupboard.	s21-d55	805	950	figs	974
+s21-d55_16_5	The person washes the fig.	s21-d55	1029	1177	figs	1203
+s21-d55_16_6	The person chops the fig into small sections.	s21-d55	1954	2075	figs	2083
+s21-d55_17_1	Remove figs from fridge.	s21-d55	243	451	figs	376
+s21-d55_17_2	Gather knife, cutting board, and plate.	s21-d55	463	950	figs	955
+s21-d55_17_3	Rinse figs in water.	s21-d55	1029	1177	figs	1179
+s21-d55_17_4	Cut top off of figs.	s21-d55	1190	1378	figs	1373
+s21-d55_17_5	Slice figs into quarters.	s21-d55	1391	1659	figs	1670
+s21-d55_17_6	Arrange figs on plate.	s21-d55	1659	1942	figs	1950
+s21-d55_18_1	The person gets some figs from the fridge.	s21-d55	243	451	figs	405
+s21-d55_18_2	The person takes a cutting board from a drawer.	s21-d55	463	634	figs	625
+s21-d55_18_3	The person takes a knife from a drawer and lays it on the countertop.	s21-d55	634	769	figs	767
+s21-d55_18_4	The persons gets out a plate from the cabinet.	s21-d55	805	950	figs	905
+s21-d55_18_5	The persons rinses the figs under the faucet.	s21-d55	1029	1177	figs	1187
+s21-d55_18_6	The person cuts off the stems from the figs on the cutting board.	s21-d55	1190	1378	figs	1401
+s21-d55_18_7	The person quarters each fig and arranges them on the plate.	s21-d55	1391	1942	figs	1961
+s21-d55_18_8	The person throws the stems into the wastebin.	s21-d55	1954	2075	figs	2087

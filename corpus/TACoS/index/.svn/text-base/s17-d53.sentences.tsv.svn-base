@@ -1,0 +1,164 @@
+s17-d53_1_1	He took out cutting board	s17-d53	169	269	avocado	281
+s17-d53_1_2	He took out avocado	s17-d53	310	432	avocado	452
+s17-d53_1_3	He washed avocado	s17-d53	469	799	avocado	817
+s17-d53_1_4	He took out peeler	s17-d53	799	1106	avocado	1139
+s17-d53_1_5	He peeled avocado	s17-d53	1124	2451	avocado	2426
+s17-d53_1_6	He took out knife	s17-d53	2451	3712	avocado	3738
+s17-d53_1_7	He cut avocado in half	s17-d53	3739	3974	avocado	3998
+s17-d53_1_8	He took out avocado pit	s17-d53	4052	4439	avocado	4519
+s17-d53_1_9	He diced avocado	s17-d53	4537	6756	avocado	6872
+s17-d53_2_1	The person takes out a cutting board from the drawer.	s17-d53	169	269	avocado	265
+s17-d53_2_2	The person procures an avocado from the fridge.	s17-d53	310	432	avocado	441
+s17-d53_2_3	The person peels a sticker off the avocado and puts it in the trashbin, then washes the avocado in the sink.	s17-d53	469	944	avocado	969
+s17-d53_2_4	The person takes out a peeler from the drawer then peels the avocado.	s17-d53	961	2390	avocado	2351
+s17-d53_2_5	The person puts the peeler in the sink and then throws the peels into the wastebin.	s17-d53	2396	2859	avocado	2879
+s17-d53_2_6	The person washes and dries his hands.	s17-d53	2973	3570	avocado	3583
+s17-d53_2_7	The person takes out a knife from the drawer.	s17-d53	3598	3712	avocado	3719
+s17-d53_2_8	The person uses the knife to cut the avocado in half on the cutting board, then removes the seed and throws it in the trash.	s17-d53	3739	4698	avocado	4683
+s17-d53_2_9	The person washes his hands then dices the avocado.	4713	6756
+s17-d53_2_10	The person puts the knife into the sink.	4713	6756
+s17-d53_3_1	He took out avocado	s17-d53	169	432	avocado	457
+s17-d53_3_2	He washed avocado	s17-d53	469	799	avocado	821
+s17-d53_3_3	He took out peeler	s17-d53	799	1106	avocado	1131
+s17-d53_3_4	He peeled avocado	s17-d53	1124	2390	avocado	2403
+s17-d53_3_5	He threw away peels	s17-d53	2396	2859	avocado	2941
+s17-d53_3_6	He washed hands	s17-d53	2973	3217	avocado	3213
+s17-d53_3_7	He took out knife	s17-d53	3243	3712	avocado	3713
+s17-d53_3_8	He cut avocado in half	s17-d53	3739	3974	avocado	4019
+s17-d53_3_9	He threw away pit	s17-d53	4052	4698	avocado	4691
+s17-d53_3_10	He washed hands	s17-d53	4713	4920	avocado	4925
+s17-d53_4_1	The person selects a cutting board.	s17-d53	169	269	avocado	287
+s17-d53_4_2	An avocado is removed from the refrigerator.	s17-d53	310	432	avocado	475
+s17-d53_4_3	The avocado is washed.	s17-d53	469	987	avocado	1003
+s17-d53_4_4	A peeler is selected.	s17-d53	1014	1106	avocado	1141
+s17-d53_4_5	The avocado is peeled.	s17-d53	1124	2390	avocado	2403
+s17-d53_4_6	The scraps are discarded.	s17-d53	2396	3065	avocado	3089
+s17-d53_4_7	The person rinses their hands.	s17-d53	3091	3476	avocado	3487
+s17-d53_4_8	A knife is selected.	s17-d53	3476	3712	avocado	3719
+s17-d53_4_9	The avocado is cut in half.	s17-d53	3739	3974	avocado	3975
+s17-d53_4_10	The seed is pried out with the knife	s17-d53	4052	4439	avocado	4519
+s17-d53_4_11	The seed is discarded.	s17-d53	4537	4698	avocado	4707
+s17-d53_4_12	The person rinses their hands.	s17-d53	4713	4920	avocado	4925
+s17-d53_4_13	The avocado halves are sliced then chopped.	5070	6756
+s17-d53_4_14	The knife is placed in the sink.	5070	6756
+s17-d53_4_15	The avocado is ready.	5070	6756
+s17-d53_5_1	The person took out a cutting board.	s17-d53	169	269	avocado	261
+s17-d53_5_2	The person took out an avocado.	s17-d53	310	432	avocado	431
+s17-d53_5_3	The person rinsed the avocado off.	s17-d53	469	799	avocado	831
+s17-d53_5_4	The person took out a vegetable peeler.	s17-d53	799	1106	avocado	1293
+s17-d53_5_5	The person peeled the avocado.	s17-d53	1124	2390	avocado	2415
+s17-d53_5_6	The person cut the avocado in half and took out the pit.	s17-d53	2396	4439	avocado	4509
+s17-d53_5_7	The person diced the avocado.	s17-d53	5070	6756	avocado	6837
+s17-d53_6_1	He gets a cutting board.	s17-d53	169	269	avocado	251
+s17-d53_6_2	He grabs an avocado.	s17-d53	310	432	avocado	417
+s17-d53_6_3	He rinses the avocado.	s17-d53	469	799	avocado	815
+s17-d53_6_4	He gets a knife.	s17-d53	799	1106	avocado	1117
+s17-d53_6_5	He peels the avocado.	s17-d53	1124	2390	avocado	2395
+s17-d53_6_6	He discards the peels.	s17-d53	2396	2859	avocado	2863
+s17-d53_6_7	He removes the pit and discards it.	s17-d53	2973	4698	avocado	4653
+s17-d53_6_8	He dices the avocado.	s17-d53	4537	6756	avocado	6777
+s17-d53_8_1	The person washed the avocado.	s17-d53	169	799	avocado	825
+s17-d53_8_2	The person peeled the avocado.	s17-d53	799	2490	avocado	2475
+s17-d53_8_3	The person disposed of the avocado peels.	s17-d53	2614	3065	avocado	3095
+s17-d53_8_4	The person washed and dried his hands.	s17-d53	3091	3499	avocado	3509
+s17-d53_8_5	The person sliced the avocado in half.	s17-d53	3499	3974	avocado	4007
+s17-d53_8_6	The person removed the avocado pit and disposed of it.	s17-d53	4052	4698	avocado	4713
+s17-d53_8_7	The person washed his hands.	s17-d53	4713	4920	avocado	4937
+s17-d53_8_8	The person cubed the avocado.	s17-d53	4713	6756	avocado	6847
+s17-d53_9_1	The person selected a cutting board.	s17-d53	169	269	avocado	273
+s17-d53_9_2	An avocado is removed from the refrigerator.	s17-d53	310	432	avocado	447
+s17-d53_9_3	The avocado is washed.	s17-d53	469	987	avocado	979
+s17-d53_9_4	A peeler is selected.	s17-d53	1014	1106	avocado	1127
+s17-d53_9_5	The avocado is peeled.	s17-d53	1124	2390	avocado	2381
+s17-d53_9_6	The peeler is placed in the sink.	s17-d53	2396	2490	avocado	2505
+s17-d53_9_7	The scraps are discarded.	s17-d53	2614	3065	avocado	3079
+s17-d53_9_8	The person rinsed and dried their hands.	s17-d53	3091	3570	avocado	3581
+s17-d53_9_9	A knife is selected.	s17-d53	3598	3712	avocado	3713
+s17-d53_9_10	The avocado is cut in half.	s17-d53	3739	3974	avocado	4007
+s17-d53_9_11	The seed is pried out with the knife	s17-d53	4052	4439	avocado	4523
+s17-d53_9_12	The seed is discarded.	s17-d53	4537	4698	avocado	4713
+s17-d53_9_13	The person rinses their hands.	s17-d53	4713	4920	avocado	4923
+s17-d53_9_14	The avocado halves are sliced then chopped.	5070	6756
+s17-d53_9_15	The knife is placed in the sink.	5070	6756
+s17-d53_10_1	The person takes out a cutting board.	s17-d53	169	269	avocado	259
+s17-d53_10_2	The person takes out an avocado.	s17-d53	310	432	avocado	407
+s17-d53_10_3	The person takes out a fruit peeler.	s17-d53	469	1106	avocado	1187
+s17-d53_10_4	The person peels the avocado.	s17-d53	1124	2390	avocado	2373
+s17-d53_10_5	The person takes out a knife.	s17-d53	2396	3712	avocado	3711
+s17-d53_10_6	Using the knife, the person separates the avocado in half.	s17-d53	3739	3974	avocado	4037
+s17-d53_10_7	Using the knife, the person takes out the avocado seed.	s17-d53	4052	4439	avocado	4535
+s17-d53_10_8	The person cuts each avocado half in slices length-wise and then width-wise, ending up with small chopped pieces.	5070	6756
+s17-d53_10_9	The person is done.	5070	6756
+s17-d53_11_1	The man begins by retrieving a cutting board and placing it on the counter.	s17-d53	169	432	avocado	381
+s17-d53_11_2	Next, he selects an avocado from the fridge which he then rinses with water.	s17-d53	469	693	avocado	701
+s17-d53_11_3	Next, he uses a peeler to peel the skin of the avocado and then discards the waste.	s17-d53	716	2490	avocado	2651
+s17-d53_11_4	He then uses a knife to split open the avocado and remove the pit leaving him with two halves.	s17-d53	2614	4439	avocado	4553
+s17-d53_11_5	Finally, he uses the knife to cut the avocado into thin strips and then he cuts the opposite way leaving smaller diced chunks.	s17-d53	4537	6722	avocado	6663
+s17-d53_12_1	Person gets a small wooden cutting board.	s17-d53	169	269	avocado	283
+s17-d53_12_2	Person gets an avocado from the refrigerator and removes the sticker	s17-d53	310	693	avocado	698
+s17-d53_12_3	Person washes the avocado and shakes it dry.	s17-d53	716	987	avocado	1006
+s17-d53_12_4	Person uses a peeler to remove the hard green peeling from the avocado.	s17-d53	1014	2390	avocado	2330
+s17-d53_12_5	Person throws away the peeling.	s17-d53	2396	2859	avocado	2905
+s17-d53_12_6	Person washes and dries his hands.	s17-d53	2973	3570	avocado	3572
+s17-d53_12_7	Person gets a knife.	s17-d53	3598	3712	avocado	3731
+s17-d53_12_8	Person cuts the avocado in half and removes the large pit.	s17-d53	3739	4439	avocado	4510
+s17-d53_12_9	Person washes his hands again.	s17-d53	4537	4920	avocado	4927
+s17-d53_12_10	Person dices the avocado halves into 1/4 inch cubes.	s17-d53	6723	6756	avocado	6755
+s17-d53_13_1	The person selects a cutting board.	s17-d53	169	269	avocado	271
+s17-d53_13_2	An avocado is removed from the refrigerator.	s17-d53	310	432	avocado	463
+s17-d53_13_3	The avocado is washed.	s17-d53	469	987	avocado	1001
+s17-d53_13_4	A peeler is selected.	s17-d53	1014	1106	avocado	1129
+s17-d53_13_5	The person peeled the avocado.	s17-d53	1124	2390	avocado	2393
+s17-d53_13_6	The peeler is placed in the sink.	s17-d53	2396	2490	avocado	2513
+s17-d53_13_7	The scraps are discarded.	s17-d53	2614	3065	avocado	3089
+s17-d53_13_8	The person rinsed and dried their hands.	s17-d53	3091	3570	avocado	3577
+s17-d53_13_9	A knife is selected.	s17-d53	3598	3712	avocado	3713
+s17-d53_13_10	The avocado is cut in half.	s17-d53	3739	3974	avocado	3987
+s17-d53_13_11	The seed is removed with the knife.	s17-d53	4052	4439	avocado	4497
+s17-d53_13_12	The seed is discarded and the person rinses their hands.	s17-d53	4537	4920	avocado	4923
+s17-d53_13_13	The avocado halves are sliced then chopped.	4537	6756
+s17-d53_13_14	The knife is placed in the sink.	4537	6756
+s17-d53_14_1	A man enters the kitchen, removes a cutting board from the drawer and places it on the counter top.	s17-d53	169	269	avocado	279
+s17-d53_14_2	Man removes a single avocado from the refrigerator, removes the sticker, and washes it in the sink.	s17-d53	310	987	avocado	1035
+s17-d53_14_3	The man removes a peeler from the drawer and peels the avocado.	s17-d53	1014	2390	avocado	2388
+s17-d53_14_4	The man places the peeler in the sink, cleans up and washes his hands.	s17-d53	2396	3570	avocado	3596
+s17-d53_14_5	The man takes a knife out of the drawer, cuts the avocado in half, removes the core and washes his hands.	s17-d53	3598	4920	avocado	4953
+s17-d53_14_6	The man dices both halves of the avocado and places the knife into the sink.	s17-d53	5070	6756	avocado	7029
+s17-d53_15_1	He gets a cutting board from the cupboard.	s17-d53	169	269	avocado	251
+s17-d53_15_2	He gets an avocado from the refrigerator.	s17-d53	310	432	avocado	423
+s17-d53_15_3	He rinses the avocado in the sink.	s17-d53	469	799	avocado	796
+s17-d53_15_4	He gets a peeler from the drawer.	s17-d53	799	1106	avocado	1092
+s17-d53_15_5	He peels the avocado.	s17-d53	1124	2390	avocado	2348
+s17-d53_15_6	He gets a knife from the drawer.	s17-d53	2396	3712	avocado	3726
+s17-d53_15_7	He slices the avocado in half.	s17-d53	3739	3974	avocado	3998
+s17-d53_15_8	He removes the pit from the avocado.	s17-d53	4052	4439	avocado	4491
+s17-d53_15_9	He slices the avocado into small pieces.	s17-d53	5070	6756	avocado	6749
+s17-d53_16_1	He took out cutting board	s17-d53	169	269	avocado	262
+s17-d53_16_2	He took out avocado	s17-d53	310	432	avocado	446
+s17-d53_16_3	He washed avocado	s17-d53	469	799	avocado	846
+s17-d53_16_4	He took out knife	s17-d53	799	1106	avocado	1125
+s17-d53_16_5	He peeled avocado	s17-d53	1124	2390	avocado	2372
+s17-d53_16_6	He threw out peels	s17-d53	2396	3065	avocado	3083
+s17-d53_16_7	He washed hands	s17-d53	3091	3476	avocado	3484
+s17-d53_16_8	He took out knife	s17-d53	3476	3712	avocado	3738
+s17-d53_16_9	He took avocado in half	s17-d53	3739	3974	avocado	4015
+s17-d53_16_10	He took out pit	s17-d53	4052	4698	avocado	4714
+s17-d53_16_11	He washed hands	s17-d53	4713	4920	avocado	4904
+s17-d53_16_12	He chopped avocado	s17-d53	5070	6756	avocado	6770
+s17-d53_17_1	He gets out an avocado and removes the sticker.	s17-d53	169	537	avocado	578
+s17-d53_17_2	He washes the avocado.	s17-d53	544	944	avocado	966
+s17-d53_17_3	He peels the avocado.	s17-d53	961	2451	avocado	2459
+s17-d53_17_4	He discards the skins.	s17-d53	2451	2859	avocado	2814
+s17-d53_17_5	He washes his hands.	s17-d53	2973	3538	avocado	3551
+s17-d53_17_6	He cuts it in half and removes the pit.	s17-d53	3538	4439	avocado	4567
+s17-d53_17_7	He slices the avocado.	s17-d53	4537	6756	avocado	6895
+s17-d53_18_1	person gets out cutting board	s17-d53	169	269	avocado	269
+s17-d53_18_2	person gets out avocado	s17-d53	310	432	avocado	433
+s17-d53_18_3	person washes avocado	s17-d53	469	944	avocado	915
+s17-d53_18_4	person gets out peeler	s17-d53	961	1106	avocado	1177
+s17-d53_18_5	person peels avocado	s17-d53	1124	2390	avocado	2379
+s17-d53_18_6	person gets out knife	s17-d53	2396	3712	avocado	3715
+s17-d53_18_7	person gets out avocado	s17-d53	3739	3974	avocado	3979
+s17-d53_18_8	person takes out the pit	s17-d53	4052	4439	avocado	4513
+s17-d53_18_9	person dices one of the halfs of avocado	s17-d53	4537	5778	avocado	5803
+s17-d53_18_10	person dices second half of avocado	s17-d53	5070	6756	avocado	6763

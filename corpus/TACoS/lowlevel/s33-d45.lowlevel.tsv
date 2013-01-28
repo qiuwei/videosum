@@ -1,0 +1,49 @@
+213	528	take out	hand	pepper	counter,fridge
+647	731	close	hand		fridge
+755	894	wash	hand	pepper	
+902	949	shake	hand	pepper	
+983	1127	take out	hand	cutting board	counter,drawer
+1142	1174	move	hand	pepper	,cutting board
+1184	1212	move	hand	pepper	counter,cutting board
+1212	1249	close	hand		drawer
+1257	1381	take out	hand	knife	drawer
+1411	2040	cut	hand	pepper	cutting board
+2108	2401	take out	hand	plate	counter,cupboard
+2406	2449	move	hand	pepper	cutting board,plate
+2483	2511	move	hand	pepper	cutting board,plate
+2515	2551	move	hand	pepper	cutting board,plate
+2555	2607	move	hand	pepper	cutting board,plate
+2636	2700	throw in garbage	hand	pepper	
+2736	2926	cut	knife	pepper	cutting board
+2954	3410	chop	knife	pepper	cutting board
+3410	3613	take apart	hand	pepper	
+3636	3762	move	hand	pepper	cutting board,plate
+3776	3826	move	hand	pepper	cutting board,plate
+3842	3916	cut	knife	pepper	
+3934	3975	take apart	hand	pepper	
+3990	4035	cut	knife	pepper	
+4095	4128	cut	knife	pepper	cutting board
+4159	4426	chop	knife	pepper	
+4426	4486	chop	knife	pepper	
+4508	4587	cut	knife	pepper	
+4609	4771	cut	knife	pepper	cutting board
+4812	5114	chop	knife	pepper	cutting board
+5140	5223	cut	knife	pepper	cutting board
+5239	5508	chop	knife	pepper	cutting board
+5591	5656	throw in garbage	hand	garbage	
+5760	5826	cut	knife	pepper	
+5933	5966	cut	knife	pepper	
+6046	6166	move	hand	pepper	cutting board,plate
+6184	6249	move	hand	pepper	cutting board,plate
+6286	6404	cut	knife	pepper	cutting board
+6421	6615	chop	knife	pepper	cutting board
+6681	6798	take apart	hand	pepper	
+6815	6895	move	hand	pepper	cutting board,plate
+6918	6981	move	hand	pepper	cutting board,plate
+6983	7134	take apart	hand	pepper	
+7183	7251	move	hand	knife	cutting board,sink
+7263	7394	wash	hand	cutting board	
+7417	7517	wash	hand	knife	
+7525	7553	move	hand	sponge	,faucet
+7553	7620	dry	sponge	hand	
+7620	7653	move	hand	sponge	,faucet

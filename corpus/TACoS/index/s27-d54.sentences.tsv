@@ -1,0 +1,157 @@
+s27-d54_1_1	He took out mango	s27-d54	230	564	mango	570
+s27-d54_1_2	He took out cutting board	s27-d54	566	1243	mango	1215
+s27-d54_1_3	He washed mango	s27-d54	1246	1480	mango	1553
+s27-d54_1_4	He took out knife	s27-d54	1623	1794	mango	1778
+s27-d54_1_5	He cut mango in half	s27-d54	1826	2163	mango	2170
+s27-d54_1_6	He sliced mango	s27-d54	2246	4491	mango	4603
+s27-d54_1_7	He took out bowl	s27-d54	4695	5094	mango	5054
+s27-d54_1_8	He cut up mango	s27-d54	5239	6759	mango	6843
+s27-d54_1_9	He got out second plate	s27-d54	6830	7309	mango	7301
+s27-d54_1_10	He put mango on plate	s27-d54	7536	9028	mango	9100
+s27-d54_2_1	He gets a mango.	s27-d54	230	925	mango	972
+s27-d54_2_2	He washes the mango.	s27-d54	1011	1480	mango	1572
+s27-d54_2_3	He gets a knife and cuts the mango.	s27-d54	1623	2163	mango	2188
+s27-d54_2_4	He gets a bowl.	s27-d54	2246	5094	mango	5128
+s27-d54_2_5	He discards the pit.	s27-d54	5239	6944	mango	6930
+s27-d54_2_6	He finishes cutting.	s27-d54	7009	8235	mango	8258
+s27-d54_2_7	He puts the mango on a plate.	s27-d54	8292	9028	mango	9088
+s27-d54_2_8	He seasons the mango.	s27-d54	9571	10366	mango	10344
+s27-d54_3_1	Remove sticker from mango.	s27-d54	230	633	mango	682
+s27-d54_3_2	Get cutting board.	s27-d54	633	1294	mango	1276
+s27-d54_3_3	Wash mango.	s27-d54	1329	1418	mango	1428
+s27-d54_3_4	Cut into mango at its widest point, circling the seed.	s27-d54	1418	2641	mango	2790
+s27-d54_3_5	Scrape fruit off seed with knife.	s27-d54	2641	5643	mango	5750
+s27-d54_3_6	Discard seed.	s27-d54	5692	6944	mango	6894
+s27-d54_3_7	Cut into cubes and plate.	s27-d54	7009	9028	mango	9106
+s27-d54_3_8	Add salt.	s27-d54	9571	9821	mango	9862
+s27-d54_3_9	Add pepper.	s27-d54	9826	10283	mango	10300
+s27-d54_4_1	He took out mango	s27-d54	230	564	mango	572
+s27-d54_4_2	He took out cutting board	s27-d54	566	1243	mango	1230
+s27-d54_4_3	He washed mango	s27-d54	1246	1418	mango	1442
+s27-d54_4_4	He took out knife	s27-d54	1418	1794	mango	1794
+s27-d54_4_5	He cut mango in half	s27-d54	1826	2023	mango	2070
+s27-d54_4_6	He sliced mango	s27-d54	2023	4491	mango	4594
+s27-d54_4_7	He took out plate	s27-d54	4695	5094	mango	5092
+s27-d54_4_8	He threw away core	s27-d54	5239	6944	mango	6892
+s27-d54_4_9	He took out plate	s27-d54	7009	7309	mango	7264
+s27-d54_4_10	He put mango on plate	s27-d54	7536	9028	mango	9124
+s27-d54_5_1	The person gets out a mango.	s27-d54	230	925	mango	972
+s27-d54_5_2	The person gets out a cutting board.	s27-d54	1011	1243	mango	1224
+s27-d54_5_3	The person rinses the mango.	s27-d54	1246	1480	mango	1566
+s27-d54_5_4	The person gets out a knife.	s27-d54	1623	1794	mango	1800
+s27-d54_5_5	The person removes half of the mango's outside.	s27-d54	1826	2163	mango	2194
+s27-d54_5_6	The person chops up the half of the mango he's peeled -- both the skin and the flesh, leaving the pit sticking out of the other half.	s27-d54	2246	4491	mango	4524
+s27-d54_5_7	The person gets out a bowl.	s27-d54	4695	5094	mango	5094
+s27-d54_5_8	The person cuts the rest of the mango off of the pit in large chunks.	s27-d54	5239	5643	mango	5666
+s27-d54_5_9	The person chops up the large chunks of mango.	s27-d54	5692	6759	mango	6846
+s27-d54_5_10	The person throws away the pit.	s27-d54	6830	6944	mango	6934
+s27-d54_5_11	The person gets out a plate.	s27-d54	7009	7309	mango	7290
+s27-d54_5_12	The person scrapes the mango pieces onto the plate.	s27-d54	7536	9028	mango	9124
+s27-d54_5_13	The person adds salt and pepper.	s27-d54	10372	10431	mango	10402
+s27-d54_5_14	The person adds a fork to the plate.	s27-d54	10481	10705	mango	10696
+s27-d54_6_1	He gets a mango.	s27-d54	230	564	mango	562
+s27-d54_6_2	He gets a cutting board and washes the mango.	s27-d54	566	1480	mango	1562
+s27-d54_6_3	He gets a knife.	s27-d54	1623	1794	mango	1764
+s27-d54_6_4	He cuts up half the mango and then also chops up the skin.	s27-d54	1826	4491	mango	4526
+s27-d54_6_5	He gets a small plate.	s27-d54	4695	5094	mango	5130
+s27-d54_6_6	He chops the rest of the mango and gets a plate.	s27-d54	5239	7309	mango	7302
+s27-d54_6_7	He does some final chopping and puts the mango on the plate.	s27-d54	7536	9028	mango	9106
+s27-d54_6_8	He salts the mango.	s27-d54	9571	9821	mango	9838
+s27-d54_6_9	He adds pepper to the mango.	s27-d54	9826	10283	mango	10310
+s27-d54_6_10	He puts a fork on the plate.	s27-d54	10286	10705	mango	10678
+s27-d54_7_1	He grabs a mango.	s27-d54	230	564	mango	468
+s27-d54_7_2	He gets a cutting board and washes the mango.	s27-d54	566	1480	mango	1552
+s27-d54_7_3	He gets a knife.	s27-d54	1623	1794	mango	1784
+s27-d54_7_4	He gets a small dish.	s27-d54	1826	5094	mango	5098
+s27-d54_7_5	He gets a plate.	s27-d54	5239	7309	mango	7292
+s27-d54_7_6	He chops the mango.	s27-d54	7536	8235	mango	8260
+s27-d54_7_7	He puts the mango on the plate.	s27-d54	8292	9028	mango	9014
+s27-d54_7_8	He seasons the mango.	s27-d54	10286	10366	mango	10332
+s27-d54_9_1	The person procures a larger plate from the cabinet.	230	7309
+s27-d54_9_2	The person throws the core into the wastebin.	230	7309
+s27-d54_9_3	The person chops up the other half of the mango on the cutting board.	230	7309
+s27-d54_9_4	The person procures a small plate from the cabinet.	230	7309
+s27-d54_9_5	 The person chops half the mango, peel and all, on the cutting board.	230	7309
+s27-d54_9_6	The person takes out a knife from the drawer.	230	7309
+s27-d54_9_7	The person washes the mango in the sink.	230	7309
+s27-d54_9_8	The person takes out a cutting board from the drawer.	230	7309
+s27-d54_9_9	The person peels a sticker from the mango and throws it out.	230	7309
+s27-d54_9_10	The person procures a mango from the fridge.	230	7309
+s27-d54_9_11	The person sets the mango slices on the plate.	s27-d54	7536	9028	mango	9030
+s27-d54_9_12	The person pours several condiments on the mango slices.	s27-d54	9571	10366	mango	10376
+s27-d54_9_13	The person takes out a fork from the drawer and sets it on the plate.	s27-d54	9571	10705	mango	10622
+s27-d54_10_1	A mango is removed from the refrigerator.	s27-d54	230	564	mango	566
+s27-d54_10_2	The person removes a cutting board.	s27-d54	566	1243	mango	1214
+s27-d54_10_3	The mango is rinsed.	s27-d54	1246	1480	mango	1564
+s27-d54_10_4	The person selects a knife.	s27-d54	1623	1794	mango	1776
+s27-d54_10_5	The mango is cut in half.	s27-d54	1826	2163	mango	2140
+s27-d54_10_6	The fruit is cut away from the seed from half the mango.	s27-d54	2246	3300	mango	3322
+s27-d54_10_7	The fruit and peel are chopped.	s27-d54	3303	4491	mango	4506
+s27-d54_10_8	A small plate is removed for the mango.	s27-d54	4695	5094	mango	5074
+s27-d54_10_9	The fruit from the other half is cut away from the seed.	s27-d54	5239	5643	mango	5658
+s27-d54_10_10	The fruit is chopped.	s27-d54	5692	6759	mango	6812
+s27-d54_10_11	The seed is discarded.	s27-d54	6830	6944	mango	6926
+s27-d54_10_12	A large plate is removed for the mango.	s27-d54	7009	7309	mango	7290
+s27-d54_10_13	Some more chopping and the pieces are placed on the plate.	s27-d54	7536	9028	mango	9060
+s27-d54_10_14	Two things are sprinkled on the mango.	s27-d54	10372	10431	mango	10408
+s27-d54_10_15	A fork is placed on the plate.	s27-d54	10481	10705	mango	10672
+s27-d54_12_1	The person gets out a mango.	s27-d54	230	925	mango	960
+s27-d54_12_2	The person gets out a cutting board.	s27-d54	1011	1243	mango	1252
+s27-d54_12_3	The person washes the mango.	s27-d54	1246	1480	mango	1556
+s27-d54_12_4	The person gets out a knife.	s27-d54	1623	1794	mango	1786
+s27-d54_12_5	The person scores the mango around the middle and twists to remove one half of the outside.	s27-d54	1826	2163	mango	2159
+s27-d54_12_6	The person scores the inside of the mango in three places.	s27-d54	2246	2641	mango	2646
+s27-d54_12_7	The person slices off strips of mango and cuts the strips into small chunks.	s27-d54	2641	3565	mango	3594
+s27-d54_12_8	The person cuts the outside of the mango into strips, then cuts the strips into chunks.	s27-d54	3565	4491	mango	4532
+s27-d54_12_9	The person gets out a white bowl.	s27-d54	4695	5094	mango	5097
+s27-d54_12_10	The person cuts off large chunks of the other half of the mango, then dices them.	s27-d54	5239	6759	mango	6781
+s27-d54_12_11	The person throws away the mango pit.	s27-d54	6830	6944	mango	6932
+s27-d54_12_12	The person gets out a plate and scrapes the mango pieces onto it.	s27-d54	7009	9028	mango	9123
+s27-d54_12_13	The person adds salt and pepper to the mango pieces.	s27-d54	9571	10366	mango	10333
+s27-d54_12_14	The person gets out a fork and puts it on the plate.	s27-d54	10372	10705	mango	10645
+s27-d54_13_1	The person removes a mango from the refrigerator.	s27-d54	230	925	mango	966
+s27-d54_13_2	The person gets out a cutting board.	s27-d54	1011	1243	mango	1254
+s27-d54_13_3	The person washes the mango.	s27-d54	1246	1480	mango	1560
+s27-d54_13_4	The person cuts up part of the mango.	s27-d54	1623	4491	mango	4642
+s27-d54_13_5	The person cuts up the rest of the mango.	s27-d54	4695	7029	mango	7030
+s27-d54_13_6	The person gets out a plate.	s27-d54	7065	7309	mango	7320
+s27-d54_13_7	The person transfers the mango to the plate.	s27-d54	7536	9028	mango	9128
+s27-d54_13_8	The person seasons the mango.	s27-d54	9571	10366	mango	10386
+s27-d54_15_1	Cut around the edge (Horizontally).	s27-d54	230	2023	mango	2027
+s27-d54_15_2	Twist and pull the top half off.	s27-d54	2023	2163	mango	2182
+s27-d54_15_3	Cut out as much as you can.	s27-d54	2246	3434	mango	3406
+s27-d54_15_4	Cut into small strips.	s27-d54	3463	3565	mango	3603
+s27-d54_15_5	Cut the outer skin into small chunks.	s27-d54	3565	4491	mango	4527
+s27-d54_15_6	Cut the remains into smaller chunks.	s27-d54	4695	5643	mango	5707
+s27-d54_15_7	Place all the cut up pieces on a plate.	s27-d54	5692	9028	mango	9224
+s27-d54_15_8	Sprinkle your desired spices on.	s27-d54	9571	10366	mango	10349
+s27-d54_16_1	He took out mango	s27-d54	230	564	mango	556
+s27-d54_16_2	He took out cutting board	s27-d54	566	1243	mango	1212
+s27-d54_16_3	He washed mango	s27-d54	1246	1418	mango	1438
+s27-d54_16_4	He took out knife	s27-d54	1418	1794	mango	1785
+s27-d54_16_5	He cut mango in half	s27-d54	1826	2163	mango	2172
+s27-d54_16_6	He cut up mango	s27-d54	2246	4491	mango	4619
+s27-d54_16_7	He took out plate	s27-d54	4695	5094	mango	5212
+s27-d54_16_8	He threw out mango pit	s27-d54	5239	6944	mango	6899
+s27-d54_16_9	He took out plate	s27-d54	7009	7309	mango	7298
+s27-d54_16_10	He put mango on plate	s27-d54	7536	9028	mango	9076
+s27-d54_18_1	The person gets a mango from the crisper and removes the sticker from its peel.	s27-d54	230	633	mango	648
+s27-d54_18_2	The person gets a cutting board from a drawer and places the mango upon it.	s27-d54	633	1294	mango	1274
+s27-d54_18_3	The person washes the mango.	s27-d54	1329	1480	mango	1546
+s27-d54_18_4	The person gets a large knife from a drawer.	s27-d54	1623	1794	mango	1770
+s27-d54_18_5	The person cuts the mango in halves.	s27-d54	1826	2163	mango	2142
+s27-d54_18_6	The person, who obviously has never cut a mango before, attempts to chop up the core, and then slices its peel into bits with the fruit.	s27-d54	2246	4491	mango	4552
+s27-d54_18_7	The person gets a small bowl from the cupboard.	s27-d54	4695	5094	mango	5044
+s27-d54_18_8	The person throws the core into the garbage after cutting the fruit into bits with the peel still on it.	s27-d54	5239	6944	mango	6934
+s27-d54_18_9	The person procures a plate from the cabinet.	s27-d54	7009	7309	mango	7244
+s27-d54_18_10	The person scoops the mango slices peel and all onto the plate.	s27-d54	7536	9028	mango	9036
+s27-d54_18_11	The person gets a condiment and sprinkles a bit onto the mango.	s27-d54	9571	9821	mango	9830
+s27-d54_19_1	He took out mango	s27-d54	230	564	mango	574
+s27-d54_19_2	He took out cutting board	s27-d54	566	1243	mango	1200
+s27-d54_19_3	He washed mango	s27-d54	1246	1480	mango	1468
+s27-d54_19_4	He took out knife	s27-d54	1623	1794	mango	1764
+s27-d54_19_5	He cut mango in half	s27-d54	1826	2163	mango	2192
+s27-d54_19_6	He sliced mango	s27-d54	2246	4491	mango	4582
+s27-d54_19_7	He took out bowl	s27-d54	4695	5094	mango	5048
+s27-d54_19_8	He sliced mango	s27-d54	5239	6759	mango	6826
+s27-d54_19_9	He threw away core	s27-d54	6830	6944	mango	6918

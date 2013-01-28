@@ -1,0 +1,136 @@
+199	446	take out	hand	potato	,cupboard
+466	599	take out	hand	knife	,drawer
+604	737	take out	hand	bowl,cutting board	counter,drawer
+754	782	add	hand	potato	bowl
+800	966	wash	hand	potato	bowl
+966	1035	shake	hand	bowl,potato	
+1061	1097	move	hand	potato	bowl,cutting board
+1153	1200	cut	knife	potato	cutting board
+1226	1408	cut	knife	potato	cutting board
+1745	2172	chop	knife	potato	cutting board
+2185	2213	scratch off	hand	potato	cutting board,knife
+2305	2461	slice	knife	potato	cutting board
+2506	2563	cut	knife	potato	cutting board
+2656	3060	chop	knife	potato	cutting board
+3060	3155	chop	knife	potato	cutting board
+3155	3188	scratch off	hand	potato	cutting board,knife
+3228	3258	move	hand	potato	,bowl
+3295	3374	add	knife	potato	bowl,cutting board
+3423	3513	fill	faucet	water	,bowl
+3606	3659	cut	knife	potato	cutting board
+3675	3705	cut	knife	potato	cutting board
+3728	3748	cut	knife	potato	cutting board
+3786	3811	move	hand	potato	bowl,cutting board
+3825	3858	move	hand	potato	bowl,cutting board
+3937	4157	slice	knife	potato	cutting board
+4233	4598	slice	knife	potato	cutting board
+4598	4956	chop	knife	potato	cutting board
+4987	5051	add	knife	potato	bowl,cutting board
+5082	5123	move	hand	potato	bowl,cutting board
+5130	5255	slice	knife	potato	cutting board
+5292	5575	slice	knife	potato	cutting board
+5575	5779	chop	knife	potato	cutting board
+5802	5884	add	knife	potato	bowl,cutting board
+5918	5986	move	hand	potato	bowl,cutting board
+6006	6112	slice	knife	potato	cutting board
+6161	6415	slice	knife	potato	cutting board
+6415	6555	chop	knife	potato	cutting board
+6577	6627	add	knife	potato	bowl,cutting board
+6740	6809	move	hand	potato	bowl,cutting board
+6859	7252	slice	knife	potato	cutting board
+7271	7644	slice	knife	potato	cutting board
+7667	8051	chop	knife	potato	cutting board
+8068	8172	add	knife	potato	bowl,cutting board
+8246	8300	wash	hand	cutting board	
+8300	8331	shake	hand	cutting board	
+8353	8394	scratch off	hand	potato	bowl,knife
+8488	8544	fill	faucet	water	,bowl
+8622	8785	take out	hand	pot	drawer,stove
+8832	8895	turn on	hand	stove	
+8895	9025	change temperature	hand	stove	
+9169	9274	add	bowl	potato	bowl,pot
+9274	9361	move	bowl,hand	potato	bowl,pot
+9422	9462	fill	faucet	water	,bowl
+9503	9563	pour	bowl	water	pot
+9628	9684	fill	faucet	water	,bowl
+9707	9765	pour	bowl	water	pot
+9931	9982	take out	hand	spice shaker	,spice holder
+9990	10045	screw	hand	spice shaker	
+10049	10150	spice	spice shaker	salt	pot
+10169	10212	screw	hand	spice shaker	
+10212	10251	put in	hand	spice shaker	,spice holder
+10288	10381	put lid	hand	lid	counter,pot
+10498	10556	wash	hand	knife	
+10578	10651	put in	hand	knife	,drawer
+10659	10724	move	hand	bowl	counter
+11546	11653	remove lid	hand	lid	pot
+11653	11719	put lid	hand	lid	pot
+11813	12063	take out	hand	pan	drawer,stove
+12545	12648	open	hand		cupboard
+12823	12848	remove lid	hand	lid	pot
+12848	12913	shake	hand	lid	
+12980	13005	shake	hand	lid	
+13005	13051	put lid	hand	lid	pot
+13141	13182	remove lid	hand	lid	pot
+13214	13251	put lid	hand	lid	pot
+13299	13353	change temperature	hand	stove	
+13371	13435	change temperature	hand	stove	
+13447	13544	move	hand	pot	counter,stove
+13544	13581	move	hand	lid	pot
+13605	13982	pour	pot	water	sink
+14010	14165	remove lid	hand	lid	cutting board,pot
+14264	14363	turn on	hand	stove	
+14363	14400	change temperature	hand	stove	
+14496	14643	take out	hand	bottle	,drawer
+14663	14733	screw	hand	bottle	
+14738	14859	pour	bottle	oil	pan
+14869	14989	pour	bottle	oil	pan
+15002	15052	screw	hand	bottle	
+15052	15119	screw	hand	bottle	
+15122	15310	pour	bottle	oil	pan
+15323	15377	screw	hand	bottle	
+15393	15636	put in	hand	bottle	,cupboard
+15742	15849	take out	hand	spatula	bowl,drawer
+15911	15996	add	hand	potato	pan,pot
+16023	16229	add	spatula	potato	pan,pot
+16254	16481	add	hand	potato	pan,pot
+16495	16966	stir	spatula	potato	pan
+17009	17164	take out	hand	spice shaker	counter,spice holder
+17164	17200	screw	hand	spice shaker	
+17211	17310	spice	spice shaker	salt	pan
+17315	17341	screw	hand	spice shaker	
+17362	17384	screw	hand	spice shaker	
+17415	17471	spice	spice shaker	pepper	pan
+17488	17517	screw	hand	spice shaker	
+17522	17699	stir	spatula	potato	pan
+17699	17843	spice	spice shaker	spice	pan
+17843	18062	stir	spatula	potato	pan
+18044	18060	screw	hand	spice shaker	counter
+18068	18126	screw	hand	spice shaker	counter
+18126	18396	put in	hand	spice shaker	counter,spice holder
+18447	19503	stir	spatula	potato	pan
+19544	19685	take out	hand	bottle	,cupboard
+19693	19722	screw	hand	bottle	
+19731	19781	pour	bottle	oil	pan
+19792	19826	screw	hand	bottle	
+19826	19946	put in	hand	bottle	,cupboard
+19964	21353	stir	spatula	potato	pan
+21353	21379	tap	spatula	pan	
+21379	21401	scratch off	spatula	potato	pan,spatula
+21401	21424	tap	spatula	pan	
+21424	22834	stir	spatula	potato	pan
+22837	22917	change temperature	hand	stove	
+22925	22964	stir	spatula	potato	pan
+22964	23006	move	hand	bowl	counter
+23053	23134	open	hand		cupboard
+23164	23371	take out	hand	bowl	counter,cupboard
+23381	23969	stir	spatula	potato	pan
+24023	24175	wash	hand	pot	
+24198	24344	wash	sponge	pot	
+24348	24726	wash	hand	pot	
+24857	25002	wash	hand	lid	
+25042	25181	put in	hand	lid,pot	counter,drawer
+25181	25542	stir	spatula	potato	pan
+25560	26242	add	spatula	potato	pan
+26409	26709	wash	hand	pan	
+26773	26850	put in	hand	pan	,drawer

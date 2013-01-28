@@ -1,0 +1,88 @@
+145	448	take out	hand	pineapple	counter,cupboard	s14-d46_1_1	s14-d46_2_1			s14-d46_6_1	s14-d46_8_1	s14-d46_9_1	s14-d46_10_1	s14-d46_11_1		s14-d46_13_1	s14-d46_14_1	s14-d46_15_1	s14-d46_16_1		s14-d46_18_1	s14-d46_19_1	s14-d46_20_1
+469	682	take out	hand	knife	counter,drawer												s14-d46_14_2					s14-d46_19_2	
+691	775	take out	hand	knife	counter,drawer		s14-d46_2_2			s14-d46_6_2							s14-d46_14_3					s14-d46_19_3	
+794	848	close	hand		drawer	s14-d46_1_2						s14-d46_9_2	s14-d46_10_2	s14-d46_11_2		s14-d46_13_2		s14-d46_15_2	s14-d46_16_2		s14-d46_18_2		s14-d46_20_2
+858	1001	take out	hand	cutting board	counter,drawer		s14-d46_2_3				s14-d46_8_2	s14-d46_9_3	s14-d46_10_3			s14-d46_13_3	s14-d46_14_4	s14-d46_15_3				s14-d46_19_4	
+1008	1071	take out	hand	bowl	counter,drawer							s14-d46_9_4				s14-d46_13_4	s14-d46_14_5	s14-d46_15_4				s14-d46_19_5	
+1109	1150	take out	hand	plastic box	counter,drawer		s14-d46_2_4					s14-d46_9_5		s14-d46_11_3		s14-d46_13_5	s14-d46_14_6	s14-d46_15_5					s14-d46_20_3
+1150	1181	close	hand		drawer						s14-d46_8_3		s14-d46_10_4						s14-d46_16_3	s14-d46_17_1	s14-d46_18_3	s14-d46_19_6	
+1181	1249	move	hand	bowl	drawer																		
+1249	1318	close	hand		drawer	s14-d46_1_3			s14-d46_4_1														
+1323	1377	move	hand	pineapple	counter,cutting board			s14-d46_3_1															
+1392	1932	cut	knife	pineapple	cutting board	s14-d46_1_4		s14-d46_3_2					s14-d46_10_5				s14-d46_14_7			s14-d46_17_2		s14-d46_19_7	
+1957	2001	add	hand	pineapple	cutting board,plastic box		s14-d46_2_5				s14-d46_8_4								s14-d46_16_4				
+2004	2079	add	hand	peel	cutting board,plastic box							s14-d46_9_6					s14-d46_14_8				s14-d46_18_4		s14-d46_20_4
+2124	2265	cut	knife	pineapple	cutting board	s14-d46_1_5														s14-d46_17_3			
+2276	2304	add	hand	pineapple	cutting board,plastic box				s14-d46_4_2				s14-d46_10_6	s14-d46_11_4	s14-d46_12_1. s14-d46_12_2. s14-d46_12_3	s14-d46_13_6	s14-d46_14_9	s14-d46_15_6	s14-d46_16_5				s14-d46_20_5
+2349	2910	peel	knife	pineapple	cutting board												s14-d46_14_10						
+2921	2979	add	hand	peel	cutting board,plastic box																		s14-d46_20_6
+2985	3023	add	hand	peel	cutting board,plastic box												s14-d46_14_11						
+3023	3057	move	knife	peel	cutting board																		
+3079	3523	peel	knife	pineapple	cutting board			s14-d46_3_3	s14-d46_4_3								s14-d46_14_12					s14-d46_19_8	
+3537	3571	peel	knife	pineapple	cutting board		s14-d46_2_6										s14-d46_14_13						
+3657	3823	peel	knife	pineapple	cutting board																		
+3833	3846	add	hand	peel	cutting board,plastic box												s14-d46_14_14			s14-d46_17_4			
+3846	3890	add	hand	peel	cutting board,plastic box	s14-d46_1_6							s14-d46_10_7										
+3893	3953	add	hand	peel	cutting board,plastic box																s14-d46_18_5		s14-d46_20_7
+3972	4022	peel	knife	pineapple	cutting board																		
+4028	4050	add	hand	peel	knife,plastic box																		
+4068	4098	add	hand	peel	cutting board,plastic box																		
+4142	4175	peel	knife	pineapple	cutting board																		
+4181	4204	add	hand	peel	knife,plastic box																		
+4215	4242	peel	knife	pineapple	cutting board																		
+4247	4265	add	hand	peel	knife,plastic box																		
+4274	4335	peel	knife	pineapple	cutting board																		
+4339	4358	add	hand	peel	knife,plastic box																		
+4393	4421	peel	knife	pineapple	cutting board																		
+4426	4445	add	hand	peel	knife,plastic box																		
+4456	4497	peel	knife	pineapple	cutting board																		
+4501	4519	add	hand	peel	knife,plastic box																		
+4523	4592	peel	knife	pineapple	cutting board																		
+4597	4614	add	hand	peel	knife,plastic box																		
+4699	4732	peel	knife	pineapple	cutting board																		
+4737	4754	add	hand	peel	knife,plastic box																		
+4754	4789	peel	knife	pineapple	cutting board																		
+4794	4825	add	hand	peel	knife,plastic box																		
+4833	4883	peel	knife	pineapple	cutting board																		
+4889	4902	add	hand	peel	knife,plastic box																		
+4924	4982	peel	knife	pineapple	cutting board																		
+4987	5004	add	hand	peel	knife,plastic box																		
+5010	5068	peel	knife	pineapple	cutting board																		
+5072	5085	add	hand	peel	knife,plastic box																		
+5087	5124	peel	knife	pineapple	cutting board																		
+5129	5143	add	hand	peel	knife,plastic box																		
+5151	5204	peel	knife	pineapple	cutting board																		
+5209	5268	add	knife	peel	knife,plastic box																		
+5315	5361	peel	knife	pineapple	cutting board																		
+5365	5378	add	hand	peel	knife,plastic box																		
+5385	5429	peel	knife	pineapple	cutting board																		
+5434	5451	add	hand	peel	knife,plastic box																		
+5454	5523	peel	knife	pineapple	cutting board																		
+5528	5547	add	hand	peel	knife,plastic box																		
+5553	5594	peel	knife	pineapple	cutting board																		
+5599	5629	add	hand	peel	knife,plastic box																		
+5636	5703	peel	knife	pineapple	cutting board																		
+5709	5726	add	hand	peel	knife,plastic box																		
+5738	5793	peel	knife	pineapple	cutting board																		
+5797	5833	add	hand	peel	knife,plastic box																		
+5862	5914	peel	knife	pineapple	cutting board																		
+5919	5944	add	hand	peel	knife,plastic box																		
+5950	5985	peel	knife	pineapple	cutting board																		
+5990	6002	add	hand	peel	knife,plastic box																		
+6005	6043	add	hand	peel	bowl,cutting board																		
+6070	6115	peel	knife	pineapple	cutting board																		
+6121	6145	add	hand	peel	knife,plastic box	s14-d46_1_7	s14-d46_2_7	s14-d46_3_4			s14-d46_8_5		s14-d46_10_8							s14-d46_17_5			
+6221	6329	move	hand	peel	counter,cutting board					s14-d46_6_3					s14-d46_12_4	s14-d46_13_7					s14-d46_18_6		s14-d46_20_8
+6433	6503	add	hand	peel	cutting board,plastic box				s14-d46_4_4			s14-d46_9_7						s14-d46_15_7					
+6532	6579	wash	hand	hand			s14-d46_2_8							s14-d46_11_5						s14-d46_17_6			
+6582	6617	shake	hand	hand					s14-d46_4_5					s14-d46_11_6				s14-d46_15_8	s14-d46_16_6		s14-d46_18_7	s14-d46_19_9	s14-d46_20_9
+6717	6788	wash	hand	knife																			
+6788	6809	shake	hand	knife			s14-d46_2_9											s14-d46_15_9				s14-d46_19_10	s14-d46_20_10
+6832	7752	slice	knife	pineapple	cutting board	s14-d46_1_8	s14-d46_2_10		s14-d46_4_6	s14-d46_6_4	s14-d46_8_6		s14-d46_10_9	s14-d46_11_7						s14-d46_17_7			s14-d46_20_11
+7789	7876	add	hand	pineapple	bowl,cutting board		s14-d46_2_11			s14-d46_6_5	s14-d46_8_7			s14-d46_11_8	s14-d46_12_5						s14-d46_18_8	s14-d46_19_11	s14-d46_20_12
+7929	8185	cut	knife	pineapple	cutting board																		
+8191	8218	add	hand	pineapple	cutting board,plastic box		s14-d46_2_12																s14-d46_20_13
+8229	8348	add	hand	pineapple	bowl,cutting board	s14-d46_1_9		s14-d46_3_5		s14-d46_6_6		s14-d46_9_8	s14-d46_10_10	s14-d46_11_9	s14-d46_12_6	s14-d46_13_8		s14-d46_15_10	s14-d46_16_7	s14-d46_17_8	s14-d46_18_9		
+8403	8648	wash	hand	knife		s14-d46_1_10	s14-d46_2_13					s14-d46_9_9		s14-d46_11_10	s14-d46_12_7	s14-d46_13_9		s14-d46_15_11	s14-d46_16_8	s14-d46_17_9	s14-d46_18_10	s14-d46_19_12	s14-d46_20_14
+8653	9154	throw in garbage	hand,plastic box	peel,pineapple			s14-d46_2_14		s14-d46_4_7	s14-d46_6_7				s14-d46_11_11		s14-d46_13_10		s14-d46_15_12	s14-d46_16_9	s14-d46_17_10	s14-d46_18_11	s14-d46_19_13	
+9166	9248	wash	hand	plastic box		s14-d46_1_11		s14-d46_3_6			s14-d46_8_8	s14-d46_9_10		s14-d46_11_12							s14-d46_18_12		s14-d46_20_15

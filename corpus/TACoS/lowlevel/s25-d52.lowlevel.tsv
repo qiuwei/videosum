@@ -1,0 +1,16 @@
+205	311	take out	hand	kiwi	cupboard
+395	534	take out	hand	cutting board	counter,drawer
+548	681	take out	hand	peeler	drawer
+834	880	open	hand		drawer
+920	3534	peel	peeler	kiwi	
+3567	3656	wash	hand	peeler	
+3656	3688	shake	hand	peeler	
+3694	3772	put in	hand	peeler	,drawer
+3791	3971	wash	hand	kiwi	
+3989	4100	take out	hand	knife	drawer
+4142	4689	cut	knife	kiwi	cutting board
+4719	4958	peel	knife	kiwi	cutting board
+4964	5013	scratch off	hand	peel	cutting board,knife
+5059	5100	throw in garbage	hand	peel	
+5292	5357	wash	hand	kiwi	
+5447	5502	wash	hand	knife	

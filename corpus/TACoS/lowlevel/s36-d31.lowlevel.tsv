@@ -1,0 +1,44 @@
+203	307	take out	hand	net bag	cupboard
+357	540	take out	hand	cutting board	counter,drawer
+545	584	close	hand		drawer
+585	704	take out	hand	knife	cutting board,drawer
+737	1008	remove from package	hand	garlic	net bag
+1029	1366	peel	hand	garlic	
+1373	1643	take apart	hand	garlic	
+1668	1783	take apart	hand	garlic	
+1789	1950	peel	hand	garlic	
+2037	2107	package	hand	garlic	net bag
+2115	2182	put in	hand	net bag	,cupboard
+2301	2346	peel	hand	garlic	
+2378	2591	cut	knife	garlic	cutting board
+2597	2643	peel	hand	garlic	
+2658	2789	cut	knife	garlic	cutting board
+2875	2926	cut	knife	garlic	cutting board
+2932	3194	peel	hand	garlic	
+3255	3344	cut	knife	garlic	cutting board
+3526	3610	move	hand	peel	counter,cutting board
+3621	3814	throw in garbage	cutting board,hand	peel	
+3837	3895	wash	hand	cutting board	
+3901	3995	clean	sponge	counter	
+3996	4024	wash	hand	sponge	
+4049	4067	wash	hand	hand	
+4171	4344	take out	hand	garlic	cupboard
+4357	4410	take apart	hand	garlic	
+4417	4460	put in	hand	knife	counter,drawer
+4469	4506	take out	hand	knife	drawer
+4538	5355	peel	hand	garlic	
+5427	5545	cut	knife	garlic	cutting board
+5551	5570	scratch off	hand	garlic	cutting board,knife
+5582	5705	chop	knife	garlic	cutting board
+5733	5884	chop	knife	garlic	cutting board
+5887	5922	scratch off	hand	garlic	cutting board,knife
+5943	6193	chop	knife	garlic	cutting board
+6198	6228	scratch off	hand	garlic	cutting board,knife
+6235	6290	gather	hand,knife	garlic	cutting board
+6306	6513	move	hand	peel	counter,hand
+6515	6612	throw in garbage	hand	peel	
+6625	6665	wash	hand	hand	
+6671	6687	clean	hand	counter	
+6692	6789	wash	hand	hand	
+6794	6851	shake	hand	hand	
+6873	7019	dry	towel	hand	

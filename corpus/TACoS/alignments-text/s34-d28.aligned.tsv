@@ -1,0 +1,74 @@
+201	334	take out	hand	knife	counter,drawer				The person takes out a knife.				He took out knife	Get a plate, a small knife and a bowl.		He took out knife	He took out knife				
+428	487	close	hand		drawer	The person gets out a knife.	The person gets out a knife.			The man takes out a knife.					Takes a knife out of the drawer.					The gentleman enters the kitchen and retrieves a knife from the drawer.	
+501	609	take out	hand	cutting board	counter,drawer		The person gets out a wooden plate.		The person takes out a cutting board.				He took out cutting board		Takes out a cutting board.	He took out cutting board	He took out cutting board				
+753	835	take out	hand	bowl	counter,drawer				The person takes out a bowl.		He gets out the equipment.		He took out bowl		Takes out a bowl.	He took out bowl	He took out bowl				Man collects a knife, cutting board, and a bowl.
+880	954	close	hand		drawer	The person gets out a wooden plate and a bowl.	The person gets out a bowl.	He gets out the needed equipment. 		The man takes out a cutting board and bowl.	He gets an orange.			Get the orange out of the refridgerator				He opens drawers to take out a knife, a circular cutting board, and a metal bowl.		He then proceeds to get a cutting board and silver bowl from another drawer.	
+1007	1473	take out	hand	orange	fridge	The person gets out an orange.	The person gets out an orange.	He gets an orange. 	The person takes out an orange.	The man takes the orange out of the refrigerator.		Take out a small knife, a cutting board, a bowl, and an orange.	He took out orange	Peel the orange	Takes an orange of the refrigerator.	He took out orange	He took out orange	He gets an orange from the refrigerator and goes back to the counter with it.		The man gets an orange from the refrigerator.	Man collects an orange from the refrigerator. 
+1537	2613	peel	hand	orange				He peels the orange. 	The person uses his hands to peel the orange.	The man peels the orange with his finger.	He peels the orange.					He peeled orange	He peeled orange	He uses his fingers to rip off the peels of the orange.		He uses his fingers to peel the skin of the orange.	The man peels the orange with his fingers.
+2669	2850	cut	knife	orange	cutting board																
+2906	2980	cut	knife	orange	cutting board	The person peels the orange.	The person peels the orange.					Peel the orange with your hands, using the knife for any difficult spots.	He peeled orange		Peels the skin off the orange.			He uses a knife to cut off remaining areas which he does not want attached to the orange.		He takes a knife and cuts off the tip of the peeled orange, before cleaning up the scraps.	
+3122	3179	throw in garbage	hand	peel																	
+3301	3341	throw in garbage	hand	peel												He threw away peel	He threw out peels				Man finishes removing the peel with his knife and cleans up the unwanted pieces.
+3412	3506	throw in garbage	hand	peel		The person throws away the orange peel.	The person throws away the peel.	He discards the peels. 			He discards the rind.		He threw away peel	Cut the bottom off the orange				He opens the drawer for the trash and throws away all remnants of the peel.			
+3570	3657	take apart	hand	orange																He uses his hand and breaks the orange apart. 	
+3699	3749	take apart	hand	orange																	
+3777	3810	take apart	hand	orange																He then takes the two parts that he broke apart and breaks each one into two, so there are 4 halves. 	
+3830	3864	take apart	hand	orange			The person breaks the orange into quarters.		The person separates the orange into quarters.		He separates the slices.			Tear the orange into quarters, disposing of the middle.		He broke up orange	He separated orange		He broke orange into parts		
+3941	3995	throw in garbage	hand	orange		The person breaks the orange into quarters.						Discard the orange peel, separate the orange into four sections, removing and discarding the inner white part.	He broke orange into pieces 			He threw away seeds		He uses his fingers to tear the orange apart into several pieces and throws one pieces away into the trash.			Man separates pieces of fruit with his hands.
+4099	4267	slice	hand	orange	cutting board																
+4280	4545	chop	hand	orange	cutting board																
+4551	4609	take apart	hand	orange																	
+4650	4691	take apart	hand	orange																	
+4731	4814	chop	knife	orange	cutting board																
+4825	4857	take apart	hand	orange																	
+4888	4934	chop	knife	orange	cutting board																
+4979	5078	chop	knife	orange	cutting board																
+5113	5179	take apart	hand	orange																	
+5221	5375	chop	knife	orange	cutting board																
+5450	5534	take apart	hand	orange																	
+5549	5635	take apart	hand	orange																	
+5662	5762	take apart	hand	orange																	
+5791	5904	chop	knife	orange	cutting board																
+5925	6027	chop	knife	orange	cutting board														He chopped up orange. He peeled orange. He threw away peel. He took out an orange. Took out bowl. Took out knife. Took out cutting board		
+6042	6098	take apart	hand	orange																	
+6126	6247	chop	knife	orange	cutting board															He then takes the knife and makes slices into the orange halves. 	
+6305	6453	take apart	hand	orange																	
+6477	6643	chop	knife	orange	cutting board																
+6676	6848	chop	knife	orange	cutting board	The person cuts the orange into chunks.	The person cuts the orange quarters into pieces.		The person takes each quarter of orange and separates them into individual slices then chops each slice with-wise.	The man slices the orange and places it into the bowl.		Separate the orange into individual sections and cut all of these into small chunks.		Tear each quarter in half and cut the resulting eighths into three pieces.		He cut orange	He cut up orange	He uses the knife and his fingers to tear the pieces of oranges apart and then cut them into smaller pieces.			
+6893	7195	add	knife	orange	bowl,cutting board	The person scrapes the pieces of orange into the bowl.	The person puts the orange pieces in the bowl.	He chops the orange and puts it into a bowl. 	The person places the orange pieces into the bowl.		He chops the slices and puts them in a bowl.				Slices up the orange and puts the pieces into a bowl.	He put orange in bowl	He put orange in bowl	He uses the knife to brush all of the pieces of oranges from the cutting board into the metal pot.		After all the halves are sliced smaller, he picks up the cutting board and places the pieces into the waiting silver bowl.	Man slices the orange into small pieces and places it into the bowl.
+7217	7306	shake	hand	bowl										Dump the orange pieces into the bowl.							
+7359	7553	take out	hand	paper bag	counter,cupboard												He took out sugar				
+7583	7737	take out	hand	teaspoon	drawer									Get some sugar from the cabinet and a spoon.							
+7832	7911	strew	teaspoon	sugar	bowl																
+7967	8021	strew	teaspoon	sugar	bowl		The person adds sugar to the orange pieces.	He puts sugar on the oranges. 	The person sprinkles sugar on top of the oranges.		He adds sugar to the oranges.			Spread a spoon and a half of sugar evenly over the orange pieces in the bowl.	Sprinkles some kind of powder on the oranges.		He put sugar in bowl			He shakes the bowl with the oranges, then goes to retrieve some sugar from the cabinet. He then puts two teaspoons of sugar on the oranges.	
+8050	8202	put in	hand	paper bag	counter,cupboard	The person adds sugar to the orange pieces.				The man adds sugar to the bowl.		Put the cut orange chunks in the bowl and take out sugar and a spoon, sprinkle two spoonful of sugar on the oranges and put away the sugar.						He goes to the cabinet and gets out a container of sugar and then spoons some sugar onto the oranges.			Man sprinkles sugar on the orange pieces in the bowl.
+8234	8412	take out	hand	paper box	fridge																
+8430	8539	pour	paper box	milk	bowl			He puts milk on the oranges. 	The person adds a little bit of milk to the oranges.		He adds milk to the oranges.			Get some milk out of the refrigerator and pour a small amount over the oranges.	Pours a liquid on the oranges.		He poured juice in bowl			He then retrieves milk from the refrigerator and pours some into the bowl.	
+8574	8679	put in	hand	paper box	,fridge	The person adds cream to the oranges.												He goes to the refrigerator and gets out a carton of milk and pours some milk onto the oranges.			The man adds milk to the bowl.
+8705	8767	shake	hand	bowl																	
+8793	9187	stir	teaspoon	milk,orange	bowl	The person stirs the orange pieces.			The person mixes the oranges, sugar and milk with a spoon.		He stirs the bowl.			Stir the oranges with the spoon.	Stirs it all together.		He mixed up oranges	He shakes the bowl and then uses the spoon to mix around the ingredients that are inside the bowl.		He then uses a spoon to mix the oranges with the sugar and milk.	The bowl is mixed.
+9226	9325	take out	hand	bottle	fridge																
+9332	9390	screw	hand	bottle																	
+9481	9506	pour	bottle	cream	bowl																
+9510	9601	add	teaspoon	cream	bowl,plastic bottle																
+9603	9670	add	teaspoon	cream	bowl,plastic bottle																
+9670	9833	pour	bottle	cream	bowl				The person adds yogurt(?) to the oranges.		He adds cream to the bowl.			Get some cream out of the refrigerator and pour a small amount onto the oranges.	Pours a different liquid on the oranges.						
+9901	9956	screw	hand	bottle				He stirs them up and adds cream. 													
+9970	10091	put in	hand	bottle	,fridge	The person adds milk to the orange pieces.	The person adds milk and cream to the orange pieces.			The man adds milk and cream to the bowl and mixes it in.		Take out a box of milk product and add some to the oranges, then put it away and get a different milk product and add it to the oranges, then swirl and stir with a spoon.						He goes back to the refrigerator and gets out some cream (white liquid substance) which he pours on top of the mixture in the bowl.			Man adds another ingredient to the mixture.
+10149	10211	clean	sponge	counter					The person is done.												
+10266	10325	wash	hand	sponge																	
+10337	10393	wash	hand	hand																	
+10417	10479	stir	teaspoon	cream,milk,orange	bowl													He uses a rag to clean the area around the bowl and then washes his hands before using a spoon to mix the ingredients some more.			
+10503	10653	wash	hand	teaspoon										Stir the oranges again.							
+10708	10848	dry	sponge	teaspoon																	
+10862	10949	put in	hand	teaspoon	,drawer																
+11002	11076	wash	hand	knife																	
+11082	11099	move	hand	sponge	,faucet																
+11099	11135	dry	sponge	knife																	
+11135	11153	move	hand	sponge	,faucet																
+11190	11253	put in	hand	knife	,drawer																
+11284	11376	wash	hand	cutting board																	
+11378	11390	move	hand	sponge	,faucet																
+11390	11546	dry	sponge	cutting board																	
+11546	11568	move	hand	sponge	,faucet							Wash your hands, and wash and put away the spoon, the knife, and the cutting board.									
+11605	11750	put in	hand	cutting board	,drawer	The person washes and puts away the dishes he used.	The person rinses and puts away the dishes.	He cleans up.		The man washes up.	He cleans up.			Clean up.				He individually washes the spoon, knife, and cutting board before putting them back in their original spots.			Man cleans up after preparing the orange.

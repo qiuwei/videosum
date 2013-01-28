@@ -1,0 +1,15 @@
+243	451	take out	hand	fig	counter,fridge
+463	594	take out	hand	cutting board	counter,drawer
+594	634	close	hand		drawer
+634	769	take out	hand	knife	counter,drawer
+805	950	take out	hand	plate	counter,cupboard
+1029	1177	wash	hand	fig	
+1190	1234	shake	hand	fig	
+1283	1319	cut	knife	fig	cutting board
+1329	1378	cut	knife	fig	cutting board
+1391	1510	cut	knife	fig	cutting board
+1510	1545	move	hand	fig	cutting board
+1550	1659	cut	knife	fig	cutting board
+1659	1907	put on	hand	fig	cutting board,plate
+1919	1942	move	hand	fig	cutting board,plate
+1954	2075	throw in garbage	hand	fig	

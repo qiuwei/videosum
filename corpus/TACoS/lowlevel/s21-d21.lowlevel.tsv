@@ -1,0 +1,21 @@
+273	428	take out	hand	cucumber	fridge
+457	592	wash	hand	cucumber	
+653	735	take out	hand	cutting board	counter,drawer
+735	786	close	hand		drawer
+786	875	take out	hand	knife	cutting board,drawer
+875	916	put in	hand	knife	cutting board,drawer
+916	951	take out	hand	knife	cutting board,drawer
+951	1007	close	hand		drawer
+1047	1257	take out	hand	bowl	counter,cupboard
+1330	1467	take out	hand	peeler	drawer
+1488	2646	peel	peeler	cucumber	
+2827	2925	throw in garbage	hand	peel	
+3046	3089	cut	knife	cucumber	cutting board
+3103	3216	cut	knife	cucumber	cutting board
+3226	3526	chop	knife	cucumber	cutting board
+3551	3669	cut	knife	cucumber	cutting board
+3677	3764	cut	knife	cucumber	cutting board
+3778	3979	chop	knife	cucumber	cutting board
+3990	4019	move	hand	cucumber	counter,cutting board
+4059	4227	add	hand	cucumber	bowl,cutting board
+4324	4386	throw in garbage	hand	garbage	

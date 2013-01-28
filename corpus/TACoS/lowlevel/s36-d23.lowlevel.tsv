@@ -1,0 +1,103 @@
+237	262	wash	hand	hand	
+262	294	shake	hand	hand	
+337	592	take out	hand	carrot	,fridge
+628	761	take out	hand	bowl	counter,drawer
+790	844	take out	hand	cutting board	counter,drawer
+896	1137	wash	hand	carrot	
+1145	1212	shake	hand	carrot	
+1330	1388	close	hand		drawer
+1431	1647	take out	hand	knife	,drawer
+1647	1669	move	hand	cutting board	counter
+1673	1705	move	hand	carrot	bowl,cutting board
+1736	1818	cut	knife	carrot	cutting board
+1919	3395	slice	knife	carrot	cutting board
+3423	3516	chop	knife	carrot	cutting board
+3586	3643	chop	knife	carrot	cutting board
+3976	4072	chop	knife	carrot	cutting board
+4117	4316	chop	knife	carrot	cutting board
+4411	4587	add	knife	carrot	bowl,cutting board
+4716	4754	move	hand	carrot	bowl,cutting board
+4762	4841	cut	knife	carrot	cutting board
+4971	5387	slice	knife	carrot	cutting board
+5407	5590	chop	knife	carrot	cutting board
+5618	5920	slice	knife	carrot	cutting board
+5942	6121	chop	knife	carrot	cutting board
+6157	6351	slice	knife	carrot	cutting board
+6378	6483	cut	knife	carrot	cutting board
+6514	6643	add	knife	carrot	bowl,cutting board
+6661	6765	wash	hand	cutting board,knife	
+6776	6824	shake	hand	cutting board,knife	
+6878	6915	shake	hand	knife	
+6936	7010	put in	hand	knife	,drawer
+7070	7111	open	hand		drawer
+7111	7179	turn on	hand	stove	
+7191	7240	change temperature	hand	stove	
+7240	7265	turn on	hand	stove	
+7265	7315	change temperature	hand	stove	
+7320	7448	take out	hand	pan	drawer,stove
+7502	7732	take out	hand	bottle	counter,cupboard
+7882	8123	take out	hand	spatula	cutting board,drawer
+8171	8222	screw	hand	bottle	
+8227	8427	pour	bottle	oil	pan
+8438	8498	screw	hand	bottle	
+8519	8623	put in	hand	bottle	,cupboard
+8903	8938	take out	hand	spice shaker	,spice holder
+8992	9109	take out	hand	spice shaker	counter,spice holder
+9229	9338	add	bowl,spatula	carrot	bowl,pan
+9332	9505	stir	spatula	carrot	pan
+9520	9590	screw	hand	spice shaker	
+9598	9697	spice	spice shaker	salt	pan
+9700	9744	screw	hand	spice shaker	
+9758	9776	screw	hand	spice shaker	
+9778	9837	spice	spice shaker	spice	pan
+9842	9870	screw	hand	spice shaker	
+9877	9977	put in	hand	spice shaker	counter,spice holder
+10013	11514	stir	spatula	carrot	pan
+11552	11602	open	hand		cupboard
+11702	11744	close	hand		cupboard
+11744	11801	open	hand		cupboard
+11853	11891	close	hand		cupboard
+11934	12030	take out	hand	jar	,drawer
+12030	12098	read	hand	jar	
+12098	12177	screw	hand	jar	
+12184	12271	take out	hand	teaspoon	,drawer
+12275	12334	add	teaspoon	roast onion lard	jar,pan
+12359	12414	add	teaspoon	roast onion lard	jar,pan
+12442	12469	screw	hand	jar	
+12474	12564	put in	hand	jar	,cupboard
+12573	12617	move	hand	teaspoon	,sink
+12643	12844	stir	spatula	carrot	pan
+12847	12951	change temperature	hand	stove	
+12951	14775	stir	spatula	carrot	pan
+14775	14949	move	hand	pan	cutting board,stove
+14943	15021	gather	hand	garbage	counter
+15021	15052	open	hand		drawer
+15052	15137	put in	hand	spoon	,drawer
+15137	15226	gather	hand	garbage	counter
+15298	15356	open	hand		dish washer
+15362	15646	throw in garbage	hand	garbage	
+15667	15721	wash	hand	hand	
+15721	15860	wash	hand	teaspoon	
+15912	15984	wash	sponge	teaspoon	
+16157	16266	wash	sponge	teaspoon	
+16288	16382	wash	hand	teaspoon	
+16382	16497	shake	hand	teaspoon	
+16511	16583	put in	hand	teaspoon	,drawer
+16589	16608	move	hand	sponge	,faucet
+16608	16658	dry	sponge	hand	
+16658	16674	move	hand	sponge	,faucet
+16748	17132	add	spatula	carrot	bowl,pan
+17181	17359	wash	hand	pan	
+17378	17772	wash	sponge	pan	
+17799	18088	wash	hand	pan	
+18128	18262	shake	hand	pan	
+18301	18426	put in	hand	pan	,drawer
+18507	18551	open	hand		drawer
+18566	18632	put in	hand	cutting board	,drawer
+18859	18938	wash	sponge	spatula	
+18946	19022	wash	hand	spatula	
+19022	19068	shake	hand	spatula	
+19082	19173	put in	hand	spatula	,drawer
+19190	19287	throw in garbage	hand	carrot	
+19305	19331	wash	hand	hand	
+19331	19368	shake	hand	hand	

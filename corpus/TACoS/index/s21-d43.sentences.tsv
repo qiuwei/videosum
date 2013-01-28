@@ -1,0 +1,159 @@
+s21-d43_1_1	The person took out a knife and a peeler.	s21-d43	231	412	potatoes	399
+s21-d43_1_2	The person took out the potato and brought it to the sink.	s21-d43	418	828	potatoes	835
+s21-d43_1_3	The person peeled potato #1.	s21-d43	833	1503	potatoes	1519
+s21-d43_1_4	The person peeled potato #2.	s21-d43	1521	2297	potatoes	2332
+s21-d43_1_5	The person washed the potatoes.	s21-d43	2370	2440	potatoes	2434
+s21-d43_1_6	The person got out a cutting board.	s21-d43	2444	2577	potatoes	2615
+s21-d43_1_7	The person filled a pot with water.	s21-d43	2618	3090	potatoes	3093
+s21-d43_1_8	The person put some salt in the pot.	s21-d43	3090	3214	potatoes	3222
+s21-d43_1_9	The person put the pot on the burner and turned it on.	s21-d43	3223	3507	potatoes	3512
+s21-d43_1_10	The person cut the potatoes.	s21-d43	3553	3791	potatoes	3829
+s21-d43_1_11	The person put the potatoes in the pot and put the cover on.	s21-d43	3795	3938	potatoes	3955
+s21-d43_2_1	The person takes out a knife and a peeler from the drawer.	s21-d43	231	412	potatoes	411
+s21-d43_2_2	The person takes a pair of potatoes from the pantry.	s21-d43	418	754	potatoes	731
+s21-d43_2_3	The person uses the peeler to skin the potatoes over the sink.	s21-d43	760	2297	potatoes	2351
+s21-d43_2_4	The person washes the potatoes in the sink.	s21-d43	2370	2471	potatoes	2497
+s21-d43_2_5	The person takes a pot from a cabinet, fills it with water, and adds salt.	s21-d43	2478	3214	potatoes	3247
+s21-d43_2_6	The person places the water filled pot onto the stove and turns it on.	s21-d43	3223	3507	potatoes	3529
+s21-d43_2_7	The person chops the potato and places it into the pot and covers it with a lid.	s21-d43	3553	3938	potatoes	3943
+s21-d43_3_1	The person takes out a knife.	s21-d43	231	357	potatoes	357
+s21-d43_3_2	The person takes out a vegetable peeler.	s21-d43	366	412	potatoes	421
+s21-d43_3_3	The person takes out potatoes.	s21-d43	418	828	potatoes	829
+s21-d43_3_4	The person peels the potatoes.	s21-d43	833	2297	potatoes	2299
+s21-d43_3_5	The person takes out a cutting board.	s21-d43	2370	2577	potatoes	2589
+s21-d43_3_6	The person fills a pot with water.	s21-d43	2618	3090	potatoes	3099
+s21-d43_3_7	The person adds salt to the pot of water.	s21-d43	3090	3214	potatoes	3239
+s21-d43_3_8	The person puts the pot on the range and turns it on.	s21-d43	3223	3507	potatoes	3517
+s21-d43_3_9	The person slices the potatoes in half, length-wise and then width-wise.	s21-d43	3553	3791	potatoes	3807
+s21-d43_3_10	The person puts the potatoes into the pot and covers it with the lid.	3795	3938
+s21-d43_3_11	The person is done.	3795	3938
+s21-d43_4_1	She took out knife	s21-d43	231	357	potatoes	361
+s21-d43_4_2	She took out peeler	s21-d43	366	412	potatoes	409
+s21-d43_4_3	She took out potato	s21-d43	418	806	potatoes	787
+s21-d43_4_4	She peeled potatoes	s21-d43	813	2297	potatoes	2305
+s21-d43_4_5	She washed potatoes	s21-d43	2370	2471	potatoes	2485
+s21-d43_4_6	She took out cutting board	s21-d43	2478	2577	potatoes	2577
+s21-d43_4_7	She took out pot	s21-d43	2618	2711	potatoes	2709
+s21-d43_4_8	She put water in pot	s21-d43	2723	3067	potatoes	3065
+s21-d43_4_9	She put salt in pot	s21-d43	3078	3214	potatoes	3235
+s21-d43_4_10	She put pot on stove	s21-d43	3223	3338	potatoes	3345
+s21-d43_4_11	She turned on stove	s21-d43	3356	3507	potatoes	3519
+s21-d43_4_12	She cut up potato	s21-d43	3553	3898	potatoes	3867
+s21-d43_4_13	She put potato in pot	3905	3938
+s21-d43_4_14	She put lid on pot	3905	3938
+s21-d43_5_1	The person takes out a knife and a peeler from the drawer.	s21-d43	231	412	potatoes	419
+s21-d43_5_2	The person takes a pair of small potatoes from the pantry.	s21-d43	418	754	potatoes	769
+s21-d43_5_3	The person peels both potatoes over the sink with the peeler.	s21-d43	760	2297	potatoes	2401
+s21-d43_5_4	The person washes the potatoes in the sink.	s21-d43	2370	2471	potatoes	2485
+s21-d43_5_5	The person takes out a cutting board from the drawer.	s21-d43	2478	2577	potatoes	2579
+s21-d43_5_6	The person takes out a pot from the drawer and sets it on the stove.	s21-d43	2618	2711	potatoes	2739
+s21-d43_5_7	The person fills the pot with water.	s21-d43	2723	3025	potatoes	3055
+s21-d43_5_8	The person adds salt to the potted water.	s21-d43	3047	3214	potatoes	3245
+s21-d43_5_9	The person turns on the stove.	s21-d43	3223	3507	potatoes	3565
+s21-d43_5_10	The person quarters the potatoes on the cutting board.	s21-d43	3553	3898	potatoes	3849
+s21-d43_5_11	The person places the potatoes in the pot on the stove.	s21-d43	3905	3938	potatoes	3971
+s21-d43_6_1	The woman walks to the counter, opens a drawer, removes a small knife and potato peeler. She places them on the counter and closes the drawer.	s21-d43	231	449	potatoes	445
+s21-d43_6_2	She picks up the knife, walks to a cupboard, opens the door and removes two small potatoes. She closes the cupboard door, returns to the counter and sets down the knife.	s21-d43	462	828	potatoes	835
+s21-d43_6_3	She sets down one potato, picks up the peeler, goes to the sink and begins peeling the potato. She sets down the first peeled potato.	s21-d43	833	1503	potatoes	1521
+s21-d43_6_4	She picks up the second potato, peels it and sets down the peeler.	s21-d43	1521	2297	potatoes	2327
+s21-d43_6_5	She picks up both potatoes, turns on the faucet and rinses them off.	s21-d43	2370	2471	potatoes	2479
+s21-d43_6_6	She opens a drawer, removes a cutting board, places it on the counter and closes the drawer. She set the peeled potatoes on the cutting board.	s21-d43	2478	2577	potatoes	2613
+s21-d43_6_7	The woman opens another drawer, removes a sauce pan and places it on the stove.	s21-d43	2618	2758	potatoes	2749
+s21-d43_6_8	She removes the lid and takes the pan to the sink and adds water.	s21-d43	2766	3067	potatoes	3075
+s21-d43_6_9	she places the pan on the counter and adds some salt.	s21-d43	3078	3214	potatoes	3213
+s21-d43_6_10	She places the pan back on the stove and turns on the burner.	s21-d43	3223	3507	potatoes	3507
+s21-d43_6_11	She picks up the knife and cuts the potatoes into large pieces.	s21-d43	3553	3791	potatoes	3827
+s21-d43_6_12	She places the cut potatoes in the pan and puts the lid on the pan.	s21-d43	3795	3938	potatoes	4031
+s21-d43_7_1	The person takes out a knife and a peeler from the drawer.	s21-d43	231	412	potatoes	417
+s21-d43_7_2	The person takes a pair of small potatoes from the pantry.	s21-d43	418	754	potatoes	753
+s21-d43_7_3	The person uses the peeler to peel the potatoes over the sink.	s21-d43	760	2297	potatoes	2307
+s21-d43_7_4	The person washes the potatoes in the sink.	s21-d43	2370	2471	potatoes	2467
+s21-d43_7_5	The person takes out a cutting board from the drawer and sets the potatoes on it.	s21-d43	2478	2577	potatoes	2583
+s21-d43_7_6	The person takes out a pot  from the drawer, fills it with water, adds salt, places it on the stove and turns it on.	s21-d43	2618	3507	potatoes	3553
+s21-d43_7_7	The person chops the potatoes on the cutting board, puts them in the pot, and covers it with a lid.	s21-d43	3553	3938	potatoes	3955
+s21-d43_8_1	The person gets out a knife and potato peeler.	s21-d43	231	449	potatoes	445
+s21-d43_8_2	The person gets out two potatoes.	s21-d43	462	754	potatoes	757
+s21-d43_8_3	The person peels the potatoes.	s21-d43	760	2297	potatoes	2379
+s21-d43_8_4	The person rinses the potatoes.	s21-d43	2370	2471	potatoes	2475
+s21-d43_8_5	The person gets out a wooden plate.	s21-d43	2478	2577	potatoes	2581
+s21-d43_8_6	The person gets out a pot, fills it with water, puts it on the stove and turns it on.	s21-d43	2618	3507	potatoes	3501
+s21-d43_8_7	The person cuts up the potatoes and puts them in the pot.	s21-d43	3553	3938	potatoes	3929
+s21-d43_9_1	She gets a knife and another sharp tool.	s21-d43	231	449	potatoes	481
+s21-d43_9_2	She gets two potatoes.	s21-d43	462	855	potatoes	931
+s21-d43_9_3	She starts skinning the potato.	875	1503
+s21-d43_9_4	She starts skinning the second potato.	875	1503
+s21-d43_9_5	She washed the two potatoes.	s21-d43	1521	2440	potatoes	2447
+s21-d43_9_6	She gets a circular cutting board.	s21-d43	2444	2577	potatoes	2615
+s21-d43_9_7	She gets a pot.	s21-d43	2618	2787	potatoes	2881
+s21-d43_9_8	He puts the sliced potatoes in the pot.	s21-d43	2838	3938	potatoes	3931
+s21-d43_10_1	The person gathers a knife, a potato peeler, and potatoes.	s21-d43	231	855	potatoes	1005
+s21-d43_10_2	The person peels, then rinses the potatoes.	s21-d43	875	2471	potatoes	2519
+s21-d43_10_3	The person prepares water to boil; enough to boil the two small potatoes. She adds salt to the water.	s21-d43	2478	3507	potatoes	3543
+s21-d43_10_4	The person chops each potato into four pieces.	s21-d43	3553	3898	potatoes	3879
+s21-d43_10_5	The person places these pieces into the water that is heating.	s21-d43	3905	3938	potatoes	4031
+s21-d43_11_1	She gets out a knife and a peeler from the drawers.	s21-d43	231	412	potatoes	415
+s21-d43_11_2	She picks up the knife and gets a potato from the cupboard.	s21-d43	418	828	potatoes	821
+s21-d43_11_3	She uses the peelers to remove the skin of the potatoes over the sink.	s21-d43	833	2297	potatoes	2391
+s21-d43_11_4	She washes the potatoes in the sink.	s21-d43	2370	2440	potatoes	2455
+s21-d43_11_5	She gets out a circular cutting board and places the potatoes on top of the cutting board.	s21-d43	2444	2577	potatoes	2599
+s21-d43_11_6	She gets out a pot and fills it up with water from the sink.	s21-d43	2618	3025	potatoes	3033
+s21-d43_11_7	She pours some liquid into the pot.	s21-d43	3047	3214	potatoes	3249
+s21-d43_11_8	She places the pot on the stove and turns on the stove.	s21-d43	3223	3440	potatoes	3467
+s21-d43_11_9	She uses the knife to cut each of the potatoes into fourths.	s21-d43	3440	3791	potatoes	3799
+s21-d43_11_10	She puts the potato pieces into the pot.	s21-d43	3795	3938	potatoes	4031
+s21-d43_14_1	The person gets out a knife.	s21-d43	231	357	potatoes	358
+s21-d43_14_2	The person gets out a vegetable peeler.	s21-d43	366	412	potatoes	422
+s21-d43_14_3	The person gets out two potatoes.	s21-d43	418	855	potatoes	847
+s21-d43_14_4	The person peels the potatoes.	s21-d43	875	2297	potatoes	2365
+s21-d43_14_5	The person rinses the potatoes.	s21-d43	2370	2471	potatoes	2472
+s21-d43_14_6	The person gets out a wooden plate and puts the potatoes on it.	s21-d43	2478	2577	potatoes	2583
+s21-d43_14_7	The person gets out a pot.	s21-d43	2618	2711	potatoes	2732
+s21-d43_14_8	The person fills the pot with water.	s21-d43	2723	3025	potatoes	3023
+s21-d43_14_9	The person appears to be adding salt just off-camera.	s21-d43	3047	3214	potatoes	3235
+s21-d43_14_10	The person puts the pot on the stove and turns it on.	s21-d43	3223	3440	potatoes	3469
+s21-d43_14_11	The person cuts the potatoes into quarters.	s21-d43	3440	3791	potatoes	3825
+s21-d43_14_12	The person puts the potatoes in the pot.	s21-d43	3795	3938	potatoes	3938
+s21-d43_15_1	Take knives out	s21-d43	231	449	potatoes	449
+s21-d43_15_2	Take out potatoes	s21-d43	462	754	potatoes	710
+s21-d43_15_3	Peel all the skin off the potatoes with peeler	s21-d43	760	855	potatoes	910
+s21-d43_15_4	Rinse peeled potatoes under water	s21-d43	875	2297	potatoes	2391
+s21-d43_15_5	Take out cutting board	s21-d43	2370	2577	potatoes	2531
+s21-d43_15_6	Take out pot and fill with water	s21-d43	2618	2787	potatoes	2806
+s21-d43_15_7	after filling water add salt to pot	s21-d43	2838	3090	potatoes	3098
+s21-d43_15_8	Put back on stove and heat the water in pot	s21-d43	3090	3338	potatoes	3372
+s21-d43_15_9	Slice the potatoes once down the middle and then in little pieces	s21-d43	3356	3597	potatoes	3612
+s21-d43_15_10	Add potatoes in pot and then cover as they cook	s21-d43	3623	3938	potatoes	3955
+s21-d43_16_1	The person peels two potatoes.	s21-d43	231	2297	potatoes	2300
+s21-d43_16_2	The person rinses both potatoes briefly.	s21-d43	2370	2440	potatoes	2427
+s21-d43_16_3	The person adds water to a pot.	s21-d43	2444	3025	potatoes	3021
+s21-d43_16_4	The person adds salt to the water and turns the stove top on	s21-d43	3047	3507	potatoes	3509
+s21-d43_16_5	The person cuts each potato into quarters.(1/4)	s21-d43	3553	3791	potatoes	3799
+s21-d43_16_6	The person adds potatoes to the pot and put the lid on.	s21-d43	3795	3938	potatoes	3945
+s21-d43_17_1	The person takes a knife and a peeler out from the drawer.	s21-d43	231	412	potatoes	429
+s21-d43_17_2	The person takes two potatoes out from the cupboard.	s21-d43	418	828	potatoes	821
+s21-d43_17_3	The person peels the first potato.	s21-d43	833	1503	potatoes	1504
+s21-d43_17_4	The person peels the second potato.	s21-d43	1521	2297	potatoes	2298
+s21-d43_17_5	The person rinses both potatoes.	s21-d43	2370	2471	potatoes	2477
+s21-d43_17_6	The person places both potatoes on the chopping board.	s21-d43	2478	2577	potatoes	2627
+s21-d43_17_7	The person takes out a pot and fills it with water.	s21-d43	2618	3067	potatoes	3061
+s21-d43_17_8	The person adds salt to the water.	s21-d43	3078	3214	potatoes	3235
+s21-d43_17_9	The person puts the pot on the stove and turn on the gas.	s21-d43	3223	3507	potatoes	3546
+s21-d43_17_10	The person cuts each potato into four pieces and puts them all into the pot of water.	s21-d43	3553	3938	potatoes	4031
+s21-d43_18_1	The person takes a knife and peeler from a drawer.	s21-d43	231	412	potatoes	423
+s21-d43_18_2	The person gets two small potatoes from the pantry.	s21-d43	418	828	potatoes	837
+s21-d43_18_3	The person deftly peels the potatoes over the sink, then takes out a cutting board and places them on it.	s21-d43	833	2577	potatoes	2633
+s21-d43_18_4	The person gets a pot and a lid from a cabinet and places it on the stove.	s21-d43	2618	2758	potatoes	2749
+s21-d43_18_5	The person fills the pot with water from the sink and adds salt.	s21-d43	2766	3214	potatoes	3241
+s21-d43_18_6	The person turns on the stove.	s21-d43	3223	3507	potatoes	3529
+s21-d43_18_7	The person quarters the potatoes on the cutting board with the knife.	s21-d43	3553	3791	potatoes	3827
+s21-d43_18_8	The person puts the potatoes in the pot on the stove and covers it with the lid.	s21-d43	3795	3938	potatoes	3963
+s21-d43_19_1	He took out knife	s21-d43	231	412	potatoes	415
+s21-d43_19_2	She took out potato	s21-d43	418	806	potatoes	795
+s21-d43_19_3	She peeled potato	s21-d43	813	2297	potatoes	2361
+s21-d43_19_4	He washed potato	s21-d43	2370	2471	potatoes	2511
+s21-d43_19_5	She took out cutting board	s21-d43	2478	2711	potatoes	2729
+s21-d43_19_6	She took out pot	s21-d43	2723	2787	potatoes	2813
+s21-d43_19_7	She put water in pot	s21-d43	2838	3067	potatoes	3081
+s21-d43_19_8	She put salt in pot	s21-d43	3078	3214	potatoes	3251
+s21-d43_19_9	She turned on stove	s21-d43	3223	3507	potatoes	3529
+s21-d43_19_10	She cut up potato	s21-d43	3553	3898	potatoes	3855

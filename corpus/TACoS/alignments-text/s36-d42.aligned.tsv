@@ -1,0 +1,106 @@
+257	354	open	hand		drawer															He took out cutting board			
+354	490	take out	hand	cutting board	counter,drawer					He took out cutting board						He took out cutting board		He gets out equipment.	The man places his utensils on the counter.	He took out bowl. He took out knife		He took out cutting board	
+633	679	take out	hand	bowl	counter,drawer					He took out bowl						He took out bowl						He took out bowl	
+711	788	close	hand		drawer				The person takes out a cutting board and a metal bowl from the drawer.												The person takes a cutting board and a metal bowl from the drawer.		
+788	1031	take out	hand	knife	cutting board,drawer		A man takes out a circular cutting board, a large bowl, and a knife	Retrieves cutting board, bowl, and knife.	The person takes out a knife from the drawer.	He took out knife	He gets the needed equipment. 	The man takes out his supplies.	He gets a cutting board, knife, and bowl. 	He gets out a cutting board, bowl, and knife.		He took out knife	He gets out some hardware.	He gets the broccoli. 		He took out broccoli	The person take a knife from the drawer.	He took out knife	The man grabs a cutting board, bowl, and a knife.
+1047	1329	take out	hand	broccoli	,fridge										The man begins by placing a cutting board, a knife and a small metal bowl on the counter.				He removes the broccoli from the refrigerator and unwraps it.				
+1542	1609	put in	hand	broccoli	,fridge																		
+1609	1842	take out	hand	plastic bag	,fridge			Removes broccoli from refrigerator.		He took out broccoli	He gets the broccoli.		He gets the broccoli.	He chooses the broccoli.		He took out broccoli	He gets broccoli from the fridge.			He cut up broccoli		He took out broccoli	The man grabs some sealed broccoli. 
+1848	2188	remove from package	hand	broccoli	plastic bag	Person unwraps broccoli head.	he takes broccoli from the refrigerator and unwraps it from its packaging	Unwraps broccoli.						He remove the broccoli from the plastic.	He then selects a crown of broccoli from the fridge and removes the plastic wrapping.			He cuts off the heads of the broccoli. 	Using the cutting board and knife, he cuts the individual florets off of the broccoli stem.. He throws the remaining stem into the recycling bin and washes his hands.	He threw away scraps. He washed hands			
+2249	2375	throw in garbage	hand	plastic bag					The person procures a package of broccoli from the fridge, removes it plastic wrapper and discards it in the trash.												The person gets a stalk of broccoli from the fridge, removes its plastic wrapper and disposes of the latter in the wastebin.		The man unseals the broccoli and disposes of the wrapper.
+2488	2552	move	hand	broccoli	bowl,cutting board													He puts water in a bowl with the broccoli. 	He places the broccoli florets into a bowl and rinses them in water.				
+2578	2847	cut	knife	broccoli	cutting board																		
+2859	2898	take apart	hand	broccoli	cutting board																		
+2919	3082	cut	knife	broccoli	cutting board													He sets a pot of water on a hot stove.	He fills a small stockpot with water and places it on the stovetop.				
+3120	3570	cut	knife	broccoli	cutting board													He puts the broccoli in the pot.	He adds the rinses broccoli florets to the stockpot on the stovetop.				
+3575	3908	cut	knife	broccoli	bowl	Person chops broccoli head into small chunks.	he cuts off the stem from the broccoli head	Cuts florets from broccoli.	The person cuts the broccoli onto the cutting board and into the bowl.	He cut leaves off stem	He cuts the heads off the broccoli. 	The man slices off the broccoli he will use.		He cuts of the broccoli heads.		He cut broccoli off stem	He cuts the good pieces of broccoli off.	He salts the water.	He adds more water to the stockpot on the stove.. He seasons the broccoli florets by adding salt to the water.		The person chops the broccoli off the stalk onto the cutting board and into the bowl.	He cut broccoli off stem	
+4008	4177	throw in garbage	hand	broccoli		Person throws away remainder of broccoli head. 			The person throws the stem and a piece which fell on the floor into the wastebin.	He threw away stem	He throws the rest away. 		He cuts the heads off the broccoli and discards the rest.	He discards the stalk.	Next, he uses the knife to cut the broccoli away from the stalk and then discards the stalk.	He threw away stem			He places a stockpot lid on the pot.			He threw away stem	
+4185	4241	wash	hand	hand						He washed hands		The man discards the unwanted pieces.				He washed hands					The person disposes of the stalk and several pieces that fell on the floor into the wastebin and then washes his hands in the sink.	He washed hands	
+4330	4358	fill	faucet	water	,bowl					He put water in bowl													
+4365	4385	add	hand	broccoli	bowl,cutting board																	He put water in bowl	
+4390	4411	add	hand	broccoli	bowl,cutting board																		
+4411	4449	add	hand	broccoli	bowl,cutting board																		
+4466	4482	add	hand	broccoli	bowl,cutting board																		
+4482	4507	add	hand	broccoli	bowl,cutting board																		
+4516	4557	add	hand	broccoli	bowl,cutting board																		
+4576	4599	add	hand	broccoli	bowl,cutting board																		
+4599	4661	add	hand	broccoli	bowl,cutting board	Person puts broccoli into bowl.		Places broccoli florets into bowl.		He put broccoli in bowl				He puts the broccoli in a bowl.		He put broccoli in bowl	He puts the broccoli in a bowl. 					He put broccoli in bowl	The man cuts off the broccoli flower heads, disposes of the stem and places the heads into the bowl.
+4737	4911	change temperature	faucet	water	bowl	Person rinses broccoli in bowl.	he moves all of the broccoli pieces into the bowl and rinses them in the sink	Fills bowl with water.	The person puts the broccoli into the metal bowl and fills it with water.	He washed broccoli	He puts the broccoli in a bowl and adds water. 	He washes the broccoli.	He rinses the broccoli. 	He puts water in the bowl.		He washed broccoli					The person places all the broccoli on the cutting board into the metal bowl and then fills it with water from the faucet.	He washed broccoli	The man rinses the flower heads.
+5004	5156	take out	hand	lid,pot	,drawer			Retrieves pan and lid.							He then places the broccoli into the metal bowl.	He took out pot			He cleans the counter and utensils while waiting for the broccoli to boil.			He took out pan	
+5223	5346	wash	hand	pot																			
+5375	5547	fill	faucet	water	,pot	Person takes out pot and fills with water.		Fills pan with water.						He puts water in a pot.		He put water in pot						He put water in pan	
+5707	5763	turn on	hand	stove																			
+5763	5943	change temperature	hand	stove		Person turns on stove and places pot on burner.	he takes out a large pot, fills it about a fourth of the way with water, and puts it on the stove	Turns on burner and places pan on stove.	The person takes out a pot from the drawer, fills it with water, then sets it on the stove and turns the stove on.		He puts water in a pot and starts heating it. 	The man adds water to a pot and heats it.	He fills a pot with water and activates the stove.	He turns on the stove and puts the pot on it.		He turned on stove	He puts water in a pot and puts it on a heating stove.	He get a plate out.			The person takes a pot from a drawer, fills it with water, then places it on the stove and turns it on.	He turned on stove	The man grabs a pot, places some water in it and begins to heat it on the stove.
+6121	6145	add	hand	broccoli	bowl,pot																		
+6165	6194	add	hand	broccoli	bowl,pot										Next, he selects a pot, fills it halfway full with water and then adds the broccoli to the pot.								
+6198	6246	add	hand	broccoli	bowl,pot																		
+6258	6325	add	hand	broccoli	bowl,pot																		
+6329	6403	add	hand	broccoli	bowl,pot																		
+6406	6462	add	hand	broccoli	bowl,pot																		
+6489	6515	add	hand	broccoli	bowl,pot	Person puts broccoli into pot.	he moves the broccoli pieces from the bowl to the pot	Removes broccoli from bow and places it into the pan.	The person plucks the chopped broccoli from the bowl and places it into the pot on the stove.		He puts the broccoli in the pot. 	The man adds the broccoli to the pot.	He puts the broccoli in the pot.	He puts the broccoli in the pot.		He put broccoli in pot	He puts the broccoli in the water.						
+6616	6660	pour	bowl	water	sink																		
+6671	6787	wash	hand	bowl																	The person places the broccoli from the bowl into the pot and then rinses the bowl in the sink.		
+6888	6937	wash	hand	knife																			
+6959	7047	put in	hand	knife	,drawer											He washed knife							
+7057	7149	fill	faucet	water	,bowl																		
+7186	7305	pour	bowl	water	pot	Person pours more water into pot. 	he uses the bowl to add more water to the pot with the broccoli		The person rinses the bowl and knife, returns the knife to the drawer, and then fills the bowl with water which he dumps into the pot on the stove.		He adds more water to the pot. 		He adds more water to the pot.	He puts more water in the pot.			He adds more water to the pot.						
+7404	7461	take out	hand	spice shaker	,spice holder																		
+7471	7544	screw	hand	spice shaker															He tests how thoroughly cooked the broccoli florets are by placing a fork into one.				
+7555	7769	spice	spice shaker	salt	pot	Person sprinkles salt into pot. 		Seasons broccoli with salt.			He salts the water. 		He salts the water.	He salts the water.			He salts the water.						The man adds the flower heads to the pot, puts some more water in it and tops the broccoli off with some salt seasoning.
+7775	7850	screw	hand	spice shaker			he adds salt to the broccoli in the pot of water																
+7860	7900	put in	hand	spice shaker	,spice holder							The man adds some more water and some salt to the pot.						He pours out the hot water.			The person adds salt to the pot.		
+7960	8041	put lid	hand	lid	pot	Person places lid on pot.	he puts a lid on the pot and lets the broccoli cook		The person adds salt to the water then puts a lid on the pot.						He adds salt to the pot and then places the lid on it.				Keeping the stockpot lid slightly off, he drains the stockpot water into the sink.				The man covers the pot.
+8214	8381	wash	hand	cutting board																			
+8381	8460	shake	hand	cutting board																			
+8473	8518	open	hand		drawer																		
+8531	8602	put in	hand	cutting board	,drawer				The person washes the cutting board and returns it to the drawer.												The person places a lid on the pot, then washes off the cutting board in the sink and replaces it in the drawer.		The man rinses the cutting board and puts it back to its original position.
+8734	8773	move	hand	bowl	counter													He puts the broccoli on the plate and seasons it.	He places the broccoli florets onto a plate and arranges them neatly.. He seasons the broccoli florets on the plate.				
+8884	9780	clean	cleaning brush	counter																			
+9859	9915	wash	hand	cleaning brush																			
+9948	10113	wash	hand	hand																			
+10113	10134	move	hand	sponge	,faucet																		The man wipes off the counter and rinses his hands.
+10134	10257	dry	sponge	hand																			
+10257	10276	move	hand	sponge	,faucet									He cleans up a bit.									
+10302	10347	shake	hand	bowl					The person cleans the countertop.		He cleans up a bit. 	The man cleans while waiting for the broccoli to cook.									The person cleans the counter while the broccoli is cooking in the pot on the stove.		
+10403	10470	remove lid	hand	lid	pot																		
+10588	10649	put lid	hand	lid	pot																		
+11118	11213	open	hand		cupboard																		
+11225	11286	open	hand		cupboard																		
+11293	11349	open	hand		cupboard																		
+11352	11391	open	hand		cupboard																		
+11395	11653	take out	hand	plate	,cupboard																The person gets a plate from the cupboard		
+11778	11828	wash	hand	plate																			
+11828	11954	shake	hand	plate			he takes a plate out of the cabinet and rinses it in the sink		The person procures a plate from the cabinet and rinses it in the sink.				He gets a plate.				He gets a plate out.						The man grabs a plate and rinses it off.
+12201	12245	remove lid	hand	lid	pot																		
+12245	12368	shake	hand	lid																			
+12492	12635	move	hand	lid	,counter																		
+13134	13208	put lid	hand	lid	pot																		
+13406	13484	take out	hand	spice shaker	counter,spice holder																		
+13956	14010	remove lid	hand	lid	pot																		
+14010	14185	shake	hand	lid																			
+14185	14248	move	hand	lid	,counter																		
+14254	14395	take out	hand	fork	,drawer	Person tests broccoli with fork.	he takes the lid off and checks the broccoli 																
+15001	15062	put lid	hand	lid	pot																		
+15075	15161	move	hand	pot	counter,stove							The man waits for the broccoli to cook.									The person takes a fork from the drawer and test the broccoli and then removes the pot from the stove.		
+15238	15762	pour	pot	water	sink		he takes the pot off of the stove and drains the pot of its water, being careful to keep the broccoli	Removes pan from stove and dumps water out of pan.			He removes the broccoli from the heat and pours out the water.		He takes the pot from the stove and pours out the water.	He takes the pot and pours out the water.			He pours the water out of the pot.						The man drains the water from the pot.
+15932	16005	pour	pot	water	sink	Person drains broccoli.			The person takes out a fork from the drawer, tests the broccoli, then pours the water from the pot into the sink.			He drains the water from the pot.											
+16074	16136	remove lid	hand	pot																	The person drains the water in the pot from the broccoli into the sink.		
+16161	16183	move	hand	plate	counter																		
+16183	16205	move	hand	bowl	counter																		
+16205	16228	move	hand	pot	counter																		
+16290	16332	move	hand	broccoli	plate,pot										After the broccoli has boiled for awhile, he pours to excess water into the sink.								
+16405	16507	move	fork	broccoli	plate,pot																		
+16512	16586	move	fork	broccoli	plate,pot																		
+16597	16655	move	fork	broccoli	plate,pot																		
+16660	16732	move	fork	broccoli	plate,pot																		
+16744	16838	move	fork	broccoli	plate,pot																		
+16843	16894	move	fork	broccoli	plate,pot																		
+16914	16967	move	fork	broccoli	plate,pot																		
+16978	17021	move	fork	broccoli	pot																		
+17026	17074	move	fork	broccoli	plate,pot																		
+17116	17264	move	fork	broccoli	plate,pot	Person serves broccoli onto plate.			The person uses the fork to pluck the broccoli from the pot and set it on the plate.		He puts the broccoli on a plate.		He puts the broccoli on the plate.	He puts the broccoli on a plate.	Using a fork, he then places each piece of broccoli onto a plate. 						The person uses the fork to place the broccoli on the plate.		Using a fork, the man places all of flower heads from the pot to the plate.
+17351	17562	arrange	hand	broccoli	plate							The man places the broccoli onto a plate.					He puts the broccoli on the plate.						
+17618	17669	screw	hand	spice shaker																			
+17686	17948	spice	spice shaker	spice	plate	Person sprinkles pepper on broccoli.									Finally, the man sprinkles some spice on the broccoli. 		He seasons the broccoli.						
+17948	17983	screw	hand	spice shaker				Removes broccoli from pan and places it on a plate; seasons with pepper.			He seasons the broccoli. 		He seasons the broccoli.										The man seasons the broccoli with what appears to be black pepper.
+17983	18043	put in	hand	spice shaker	,spice holder		he puts the broccoli onto the plate and puts pepper on it																The man completes his assigned task.

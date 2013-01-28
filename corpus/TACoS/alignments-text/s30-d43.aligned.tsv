@@ -1,0 +1,64 @@
+190	539	take out	hand	bottle,potato	counter,cupboard		Potatoes and oil are removed from a cabinet.	Woman get out oil and two potatoes.	She gets potatoes and oil.	She took out potatoes and oil	The person takes a pair of potatoes and a bottle of oil from the pantry.	She gets oil and potatoes.			She took out potato and oil	She gets oil and potatoes.	She took out oil. She took out potato	She gets some potatoes and some oil out of the cupboard.		The person takes a bottle of oil and two small potatoes from the pantry.		
+581	618	close	hand		cupboard									She goes to cupboard and gets out potatoes and oil.								
+670	738	open	hand		drawer														She took out oil and potatoes			
+751	882	take out	hand	pan	drawer,stove		A frying pan is selected and placed on the stove.			She took out pan	The person takes out a pan from the drawer and places it on the stove.		Lady enters the kitchen and goes into the cupboard, she pulls out potatoes and some sauce. She the pulls out a frying pan and places it onto the stove.		She took out pan		She took out pan	She get a frying pan out of the cupboard.	She took out pan	The person takes a pan from a drawer and places it on the stove.		
+921	987	open	hand		drawer																	
+1003	1092	move	hand	cutting board	counter			Woman takes out pan and cutting board.		She took out cutting board	The person takes a cutting board from off screen.	She gets a pan and a cutting board.		She goes to the drawer and takes out a fry pan and then reaches for a cutting board.	She took out cutting board		She took out cutting board		She took out cutting board	The person takes a cutting board from the countertop.	She gets the required items. 	The woman gathers her supplies.
+1121	1385	wash	hand	potato																		
+1411	1615	wash	hand	potato								She rinses the potatoes. 			She washed potatoes							
+1619	1681	shake	hand	potato			A cutting board is placed on the counter and the potatoes are washed.		She rinses the potatoes.	She washed potatoes	The person washes the potatoes in the sink. 			She goes to the sink and washes the potatoes.		She washes the potatoes. 	She washed potato	She rinses the potatoes.	She washed potatoes	The person rinses the potatoes in the sink.	She washes the potatoes.	The woman rinses the potatoes.
+1697	1799	take out	hand	peeler	,drawer			She rinses the potatoes.		She took out peeler	The person takes out a peeler from the drawer.		She then pulls out a cutting board and places it on the counter. She then thoroughly washes both potatoes in the sink. She then pulls out a potato peeler and starts to take the skin off of the potatoes. 		She took out peeler		She took out peeler		She took out peeler	The person takes out a peeler.		
+1813	2694	peel	peeler	potato													She peeled potato					
+2748	3680	peel	peeler	potato			The person selects a peeler and the potatoes are peeled.	The woman peels the potaoes.	She peels the potatoes. 	She peeled potatoes	The person peels the potatoes.	She peels the potatoes. 		She goes to the drawer and takes out a peeler and starts peeling the potatoes.	She peeled potatoes	She peels the potatoes.	She peeled second potato	She gets a peeler out and peels the potatoes.	She peeled potatoes	The person skins the potatoes with the peeler.	She peels the potatoes. 	The woman peels the potatoes.
+3792	3871	wash	hand	potato						She washed potatoes					She washed potatoes	She rinses them again.	She washed potatoes			The person rinses the skinned potatoes under the faucet.		
+3877	3931	shake	hand	potato			The potatoes are rinsed and placed on the cutting board.				The person washes the potatoes in the sink.	She rinses them again.		She then rinses the potatoes in the sink.					She washed potatoes			
+3955	3997	shake	hand	hand																		
+4036	4108	turn on	hand	stove																		
+4113	4205	change temperature	hand	stove				She turns on the heat for the pan.		She turned on stove					She turned on stove			 She turns on the stovetop.	She turned on stove			
+4244	4305	screw	hand	bottle																		
+4310	4557	pour	bottle	oil	bottle,pan					She put oil in pan					She added oil to pan	She turns on the stove and adds oil to the pan.		She pours some oil in the frying pan.	She put oil in pan			
+4569	4624	screw	hand	bottle					She heats the pan and adds oil.		The person turns the stove on and adds oil to the pan.		After peeling each potato fully, she then turns on the stove and pours a decent amount of sauce into the pan.							The person turns on the stove and pours oil into the pan.		
+4656	4761	spread	pan	oil	pan		The stove is turned on and oil is added to the pan.	The woman adds oil to the pan.				She adds oil to the pan and turns the stove on.		She then turns on the stove and adds oil to the pan.	She took out knife						She adds oil to the pan. 	She adds oil to the pan and turns on the heat.
+4892	5383	slice	knife	potato	cutting board																	
+5389	5404	move	hand	potato	cutting board																	
+5444	5455	move	knife	potato	cutting board																	
+5470	5971	slice	knife	potato	cutting board																	
+5979	6018	move	hand	potato	cutting board		A knife is picked up and the potatoes are sliced.	The woman slices the potatoes.	She chops the potatoes. 	She sliced potatoes	The person takes a knife from the sink and chops the potatoes.		While the pan simmers she cuts each potato up into slices and gathers up the peels.	She picks up a knife and begins slicing the potatoes.	She sliced potatoes	She chops the potatoes.		She chops up the potatoes. 		The person takes a knife from the sink and cuts up the potatoes on the cutting board.	She chops the potatoes. 	
+6067	6370	throw in garbage	hand	peel						She threw out scraps	The person throws the peels into the wastebin.	She cuts the potatoes and discards the peels. 			She threw away potato scraps	She discards the peels.				The person gathers the skins from the counter and throws them into the rubbish bin.	She discards the skins. 	The woman slices the potatoes and discards the peels.
+6427	6528	wash	hand	peeler											She washed peeler							
+6520	6573	shake	hand	peeler							The person washes the peeler in the sink.			She picks up the rinds and throws them away and rinses the peeler.								
+6604	6660	shake	hand	hand			The peels are discarded and the peeler is washed.	She cleans up while waiting for the pan to get hot.							She checked the heat							
+6799	6846	move	hand	cutting board	counter																	
+6912	7166	take out	hand	spatula	,drawer										She took out spoon							
+7189	7203	move	hand	potato	cutting board,spatula																	
+7209	7360	add	spatula	potato	pan,spatula																	
+7373	7445	add	hand	potato	cutting board,pan																	
+7450	7483	move	spatula	potato	pan																	
+7494	7554	add	hand	potato	cutting board,pan																	
+7563	7628	add	hand	potato	cutting board,pan																	
+7632	7690	add	hand	potato	cutting board,pan			The woman places the potato pieces into the pan.														
+7701	7727	add	hand	potato	cutting board,pan		A spatula is removed and the potato slices are placed in the pan.		She adds them to the pan.			She puts the potatoes in the pan. 	After throwing away the peels and checking that the pan was warmed up, she takes and puts the potatoes that she cut up into the pan to cook.			She adds the potatoes to the oil.		She puts the potatoes in the frying pan.		The person takes a plastic spatula from the drawer and puts the potato slices into the frying pan.	She adds the potatoes to the pan. 	She adds the potatoes to the pan.
+7732	9217	move	spatula	potato	pan																	
+9231	9254	move	hand	cutting board	counter						The person takes out a spatula from the drawer, scoops the chopped potatoes into the pan, then stirs them with the spatula.			She opens the drawer and gets out a spatula and adds potatoes to the pan and then stirs.								
+9265	9318	change temperature	hand	stove																		
+9389	9574	take out	hand	plate	counter,cupboard		A plate is removed for serving.	The woman separates and turns the potatoes in the pan.			The person procures a plate from the cabinet.		As the potatoes cook, she sits there and stirs them constantly so that one side does not cook faster than the other.					She gets a plate out of the cupboard.		The person takes a plate from the cupboard.		
+9620	14529	move	spatula	potato	pan		The potato slices are turned over in the pan.	She flips the potatoes.						She goes to the cupboard and takes out a plate and then re-stirs the potatoes.								The woman flips the potatoes slices over in the pan.
+14627	14789	take out	hand	bottle	counter,fridge		Ketchup is removed from the refrigerator.				The person stirs the frying potatoes with the spatula, then takes a bottle of ketchup from the fridge.		After stirring the potatoes for a few minutes, she goes and gets ketchup from the fridge.					She gets a bottle of ketchup out of the fridge.		The person gets some ketchup from the fridge.		
+14878	17088	move	spatula	potato	pan																	She moves them around in the oil.
+17155	17211	change temperature	hand	stove		The woman stirs and flips the slices to brown them evenly on both sides.. The woman adds the potato slices to the pan, and spreads them out evenly with a spatula.. The woman thinly slices the potatoes.. The woman cleans her station by throwing away the potato peels and washing the peeler.. The woman rinses the peeled potatoes.. The woman preheats the pan and adds enough oil to coat the bottom of the pan.. The woman washes the potatoes in the sink.. The woman peels the potatoes.. The woman sets up her station by getting a large fry pan and a cutting board.. The woman grabs potatoes and cooking oil from the cupboard.	The potatoes are cooked.							She goes to the refrigerator and takes out some ketchup and then re-stirs the potatoes.							She cooks the potatoes. 	
+17287	17435	move	spatula	potato	pan,plate																	
+17458	17689	move	spatula	potato	pan,plate								When the potatoes are cooked, she takes the pot off of the oven and starts to scoop out the cooked potatoes, making sure not to scoop out any of the sauce she cooked it in.									
+17717	17968	move	spatula	potato	pan,plate																	
+18000	18255	move	spatula	potato	pan,plate																	
+18281	18387	move	spatula	potato	pan,plate																	
+18429	18614	move	spatula	potato	pan,plate																	
+18638	18775	move	spatula	potato	pan,plate																	
+18810	18860	move	spatula	potato	pan,plate																	
+18877	19009	move	spatula	potato	pan,plate	The woman removes the potato slices from the pan, draining the oil, and putting them on a plate.	The cooked potatoes are placed on the plate.	The woman removes the potatoes from the pan.	She finishes cooking and puts the potatoes on a plate.			She puts the potatoes on the plate. 		She takes the potatoes out of the pan and places them on the plate.		She finishes cooking and puts the potatoes on a plate.		She takes the potatoes out of the frying pan and puts them on the plate. 		The person carefully removes the fried potatoes from the pan onto the plate using the spatula.	She adds the potatoes to the plate.	She removes the potatoes from the pan.
+19255	19326	add	bottle	ketchup	plastic bottle,plate				She puts ketchup on the plate.			She puts ketchup on the plate. 				She puts ketchup on a plate.		She puts some ketchup on the side for the potatoes.			She puts ketchup on the plate.	
+19407	19429	take out	hand	spice shaker	,spice holder																	
+19434	19461	screw	hand	spice shaker																		
+19479	19622	spice	spice shaker	salt	plate	The woman serves the fried potatoes with some ketchup and pepper.																
+19642	19667	spice	spice shaker	salt	plate		Ketchup is squeezed on the plate and the potatoes are salted.		She salts the potatoes. 		The person scoops the fried potatoes from the pan to the plate and adds ketchup and salt.	She salts the potatoes. 	After she was done scooping out the potatoes, she added some salt and Ketchup.			She seasons the potatoes.				The person squirts a daub of ketchup onto the plate and then adds several sprinklings of salt.		
+19667	19806	screw	hand	spice shaker																		
+19728	19756	put in	hand	spice shaker	spice holder			She adds seasons for serving.						She take some ketchup and squirts it on the plate and then adds some salt.							She salts the potatoes. 	The woman adds salt and is now finished.

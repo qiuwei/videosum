@@ -1,0 +1,46 @@
+230	564	take out	hand	mango	fridge	s27-d54_1_1			s27-d54_4_1		s27-d54_6_1	s27-d54_7_1			s27-d54_10_1				s27-d54_16_1		s27-d54_19_1	
+566	633	remove label	hand	mango				s27-d54_3_1												s27-d54_18_1		
+633	733	move	hand	label	,counter																	s27-d54_20_1
+751	925	throw in garbage	hand	label			s27-d54_2_1			s27-d54_5_1						s27-d54_12_1	s27-d54_13_1					
+1011	1243	take out	hand	cutting board	counter,drawer	s27-d54_1_2			s27-d54_4_2	s27-d54_5_2					s27-d54_10_2	s27-d54_12_2	s27-d54_13_2		s27-d54_16_2		s27-d54_19_2	
+1246	1294	move	hand	mango	counter,cutting board			s27-d54_3_2												s27-d54_18_2		
+1329	1418	wash	hand	mango				s27-d54_3_3	s27-d54_4_3										s27-d54_16_3			
+1418	1480	shake	hand	mango		s27-d54_1_3	s27-d54_2_2			s27-d54_5_3	s27-d54_6_2	s27-d54_7_2			s27-d54_10_3	s27-d54_12_3	s27-d54_13_3			s27-d54_18_3	s27-d54_19_3	s27-d54_20_2
+1623	1794	take out	hand	knife	drawer	s27-d54_1_4			s27-d54_4_4	s27-d54_5_4	s27-d54_6_3	s27-d54_7_3			s27-d54_10_4	s27-d54_12_4			s27-d54_16_4	s27-d54_18_4	s27-d54_19_4	
+1826	2023	cut	knife	mango	cutting board				s27-d54_4_5									s27-d54_15_1				
+2023	2163	take apart	hand	mango		s27-d54_1_5	s27-d54_2_3			s27-d54_5_5					s27-d54_10_5	s27-d54_12_5		s27-d54_15_2	s27-d54_16_5	s27-d54_18_5	s27-d54_19_5	
+2246	2641	cut	knife	mango	cutting board			s27-d54_3_4								s27-d54_12_6						
+2641	3300	cut	knife	mango	cutting board										s27-d54_10_6							
+3303	3434	cut	knife	mango	cutting board													s27-d54_15_3				
+3463	3565	cut	knife	mango	cutting board											s27-d54_12_7		s27-d54_15_4				
+3565	3873	slice	knife	mango	cutting board																	
+3884	4491	chop	knife	mango	cutting board	s27-d54_1_6			s27-d54_4_6	s27-d54_5_6	s27-d54_6_4				s27-d54_10_7	s27-d54_12_8	s27-d54_13_4	s27-d54_15_5	s27-d54_16_6	s27-d54_18_6	s27-d54_19_6	s27-d54_20_3
+4695	4774	open	hand		cupboard																	
+4793	5094	take out	hand	bowl	counter,cupboard	s27-d54_1_7	s27-d54_2_4		s27-d54_4_7	s27-d54_5_7	s27-d54_6_5	s27-d54_7_4			s27-d54_10_8	s27-d54_12_9			s27-d54_16_7	s27-d54_18_7	s27-d54_19_7	
+5239	5643	cut	knife	mango	cutting board			s27-d54_3_5		s27-d54_5_8					s27-d54_10_9			s27-d54_15_6				
+5692	5889	chop	knife	mango	cutting board																	
+5889	6068	chop	knife	mango	cutting board																	
+6068	6190	cut	knife	mango	cutting board																	
+6190	6295	chop	knife	mango	cutting board																	
+6353	6544	cut	knife	mango	cutting board																	
+6544	6638	chop	knife	mango	cutting board																	
+6676	6759	chop	knife	mango	cutting board	s27-d54_1_8				s27-d54_5_9					s27-d54_10_10	s27-d54_12_10					s27-d54_19_8	s27-d54_20_4
+6830	6944	throw in garbage	hand	stone			s27-d54_2_5	s27-d54_3_6	s27-d54_4_8	s27-d54_5_10					s27-d54_10_11	s27-d54_12_11			s27-d54_16_8	s27-d54_18_8	s27-d54_19_9	
+7009	7029	open	hand		cupboard												s27-d54_13_5					
+7065	7309	take out	hand	plate	counter,cupboard	s27-d54_1_9			s27-d54_4_9	s27-d54_5_11	s27-d54_6_6	s27-d54_7_5		s27-d54_9_1. s27-d54_9_2. s27-d54_9_3. s27-d54_9_4. s27-d54_9_5. s27-d54_9_6. s27-d54_9_7. s27-d54_9_8. s27-d54_9_9. s27-d54_9_10	s27-d54_10_12		s27-d54_13_6		s27-d54_16_9	s27-d54_18_9		s27-d54_20_5
+7536	7591	move	hand	garbage	bowl,cutting board																	
+7614	7698	move	knife	mango	cutting board,plate																	
+7775	8235	chop	knife	mango	cutting board		s27-d54_2_6					s27-d54_7_6										
+8292	9028	move	knife	mango	cutting board,plate	s27-d54_1_10	s27-d54_2_7	s27-d54_3_7	s27-d54_4_10	s27-d54_5_12	s27-d54_6_7	s27-d54_7_7		s27-d54_9_11	s27-d54_10_13	s27-d54_12_12	s27-d54_13_7	s27-d54_15_7	s27-d54_16_10	s27-d54_18_10		s27-d54_20_6
+9571	9647	take out	hand	spice shaker	spice holder																	
+9661	9699	screw	hand	spice shaker																		
+9740	9821	spice	spice shaker	salt	plate			s27-d54_3_8			s27-d54_6_8									s27-d54_18_11		
+9826	9901	screw	hand	spice shaker																		
+9907	9943	put in	hand	spice shaker	,spice holder																	
+9943	9988	take out	hand	spice shaker	spice holder																	
+10015	10087	screw	hand	spice shaker																		
+10115	10283	spice	spice shaker	pepper	plate			s27-d54_3_9			s27-d54_6_9											s27-d54_20_7
+10286	10366	screw	hand	spice shaker			s27-d54_2_8					s27-d54_7_8		s27-d54_9_12		s27-d54_12_13	s27-d54_13_8	s27-d54_15_8		s27-d54_18_12		
+10372	10431	put in	hand	spice shaker	,spice holder					s27-d54_5_13					s27-d54_10_14							
+10481	10705	take out	hand	fork	drawer,plate					s27-d54_5_14	s27-d54_6_10			s27-d54_9_13	s27-d54_10_15	s27-d54_12_14				s27-d54_18_13		
+10725	10861	throw in garbage	hand	garbage																		

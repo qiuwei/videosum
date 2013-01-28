@@ -1,0 +1,23 @@
+307	518	take out	hand	bundle	counter,fridge
+540	786	take out	hand	knife	counter,drawer
+792	875	take out	hand	cutting board	counter,drawer
+875	937	close	hand		drawer
+984	1152	take out	hand	bowl	counter,cupboard
+1154	1209	move	hand	knife	,counter
+1209	1264	cut	knife	carrot	counter
+1264	1312	cut	knife	carrot	
+1360	1461	wash	hand	carrot	
+1461	1480	shake	hand	carrot	
+1480	1517	move	hand	carrot	,cutting board
+1522	1563	open	hand		drawer
+1569	1633	open	hand		drawer
+1634	1736	throw in garbage	hand	carrot	
+1736	1778	close	hand		drawer
+1797	1979	take out	hand	peeler	drawer
+2020	2467	peel	peeler	carrot	
+2467	2532	scratch off	hand	peel	cutting board,side peeler
+2651	2748	throw in garbage	hand	peel	
+2754	2800	move	hand	knife	,counter
+2809	3031	slice	knife	carrot	cutting board
+3031	3097	add	hand	carrot	bowl,cutting board
+3130	3366	put in	hand	bundle	counter,fridge

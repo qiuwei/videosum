@@ -1,0 +1,61 @@
+242	656	take out	hand	lime	,fridge	She took out limes 	Select your lime from your refrigerator.	She took out lime	She gets a lime out of the fridge.						A lime is removed from the refrigerator.	Obtain one small lime.	A lime is removed from the refrigerator.	She gets out a lime	She took out limes	Remove lime from fridge.	She took out lime		She gets a lime out of the fridge.	She gets out some limes
+716	812	open	hand		drawer									The woman begins by selecting one lime from the fridge.										
+864	956	wash	hand	lime																Rinse lime in water.	She washed lime			
+956	993	shake	hand	lime		She washed limes	Rinse your lime off.	She washed lime			the person washes the Lime		the person washes the Lime	She rinses the lime in water. 	The lime is washed.	Rinse the lime in water.	The lime is washed.	She washes the lime.	She washed limes			Woman pulls a lime and rinses it.	She rinses off the lime in the sink.	She rinses the limes.
+1027	1120	take out	hand	bowl	,drawer	She took out bowl		She took out bowl													She took out bowl			
+1144	1272	shake	hand	bowl		She washed bowl	Select your bowl and rinse it out.	She washed bowl							A bowl is removed and rinsed.		A bowl for the lime is removed and rinsed.		She washed bowl		She washed bowl			
+1315	1336	shake	hand	hand			Place your lime in the bowl.							She then retrieves a small metal bowl that she rinses with water and then places the lime in.		Rinse one medium sized bowl, and place lime in bowl.								
+1391	1453	take out	hand	squeezer	,drawer				She gets the juicer out of the cupboard.			the person takes out a metal bowl and put the Lime in it			The person removes a juicer.		The person removes a juicer.				She took out juicer			
+1464	1586	take out	hand	cutting board	counter,drawer	She took out cutting board		She took out cutting board	She gets the cutting board out of the cupboard.						The person selects a cutting board.		The person selects a cutting board.		She took out cutting board		She took out cutting board			
+1603	1675	close	hand		drawer		Get out your juicer and cutting board.									Place cutting board on counter.							She gets the cutting board and juicer out of the cupboard.	
+1673	1849	take out	hand	knife	cutting board,drawer	She took out knife		She took out knife	She gets the knife out of the drawer. 						A knife is selected.		A knife is selected.		She took out knife		She took out knife		She gets the knife out of the drawer. 	
+1853	1918	close	hand		drawer		Retrieve a sharp knife and lay on the cutting board.						the person gets a metal bowl, cutting board, sharp knife and a manual juicer	Next, she gets out a small cutting board, a knife, and a juicer that she rinses with water. 				She gets out the needed equipment.		Gather juicer, cutting board, and knife on counter.				
+1991	2055	remove lid	hand	lid	squeezer						the person gets a metal bowl, manual juicer, sharp knife and cutting board	the person takes out a manual juicer, knife and a cutting board				Place knife on counter								
+2055	2363	wash	hand	squeezer		She washed plastic container		She washed juicer							The juicer is rinsed.	Rinse tupperware countainer			She washed juicer		She washed juicer			
+2434	2598	shake	hand	squeezer			Rinse off your juicer.			Get out your cutting board, knife, bowl, juicer, and lime.							The juicer is rinsed.					Woman pulls the supplies she needs.		She gets out and washes the needed items.
+2721	2789	move	hand	lid	bowl,cutting board																			
+2881	2971	cut	knife	lime	cutting board	She cut lime in half	Cut your lime in half.	She cut lime in half	She cuts the lime in half.	Cut lime in half width-wise.			the person slices the Lime in half	Using the knife, she cuts the lime in half. 	The lime is cut in half.	Using knife, slice lime in half.	The lime is cut in half.	She cuts the lime in half.	She cut lime in half 	Cut lime in half.	She cut lime in half 	Woman slices the lime in half.	She cuts the lime in half.	She cuts the lime in half. 
+3043	3265	put lid	hand	lid	bowl,squeezer						the person cuts the Lime in half	the person cuts the Lime in half									She twisted lime on juicer			
+3329	5692	squeeze	hand	lime	squeezer																			
+5709	5892	squeeze	hand	lime	squeezer																			
+5934	6024	squeeze	hand	lime	squeezer																			
+6024	6085	add	hand	lime	bowl,squeezer		Place lime firmly on top of juicer and twist in a clockwise motion consistently until there in nothing left inside the lime.. Place remainder of lime in bowl.							Next, she juices the first half of the lime.		Place lime on juicer and twist thoroughly until all juice is extracted.						Woman presses and twist the lime against the juicer.		
+6134	7042	squeeze	hand	lime	squeezer																			
+7078	8136	squeeze	hand	lime	squeezer																			
+8176	8619	squeeze	hand	lime	squeezer																			
+8619	8668	add	hand	lime	bowl,squeezer	She twisted lime on juicer	Repeat the process for the second half of the lime.	She twisted lime on juicer	She twists and squeezes the cut lime against the juicer.	Press each lime half down and twist around the center of the juicer until all of the juice is in the juicer.				She then juices the other half of the lime. 	The lime is juiced.		Both halves of the lime are juiced.	She twists the limes to extract the juice.	She twisted lime on juicer	Press lime on juicer spike and twist.		Woman presses and twist the second half against the juicer.	She presses the cut lime halves against the juicer and twists and squeezes.	She juices the limes. 
+8768	8860	wash	hand	hand												Repeat with second half of lime								
+8860	8887	shake	hand	hand								the person juices the Lime in the manual juicer												
+8900	8923	shake	hand	hand		She washed hands		She washed hands			the person strains the Lime in the manual juicer		the person strains the Lime juice from the Lime halves in the manual juicer		The person washed their hands.		The person washed their hands.		She washed hands					
+8971	9080	wash	hand	knife																				
+9080	9170	wash	sponge	knife																				
+9170	9317	wash	hand	knife		She washed knife		She washed knife																
+9337	9390	shake	hand	knife			Wash and rinse your knife.									Mack the knife?			She washed knife					
+9423	9515	put in	hand	knife	,drawer						the person discards the Lime skins				The person washed the knife and put it away.		The person washed the knife and put it away.						She washes the knife and puts it away.	
+9599	9743	wash	hand	cutting board																				
+9745	9798	shake	hand	cutting board		She washed cutting board										Rinse off cutting board								
+9825	9882	open	hand		drawer					Rinse hands, knife and cutting board under water.									She washed cutting board					
+9892	9989	put in	hand	cutting board	,drawer		Wash off your cutting board and put it away.								The person washed the cutting board and put it away.		The person washed the cutting board and put it away.						She washes the cutting board and puts it away.	
+10042	10139	throw in garbage	hand	lime		She threw away lime scraps						the person discards the Lime skins		Next, she washes the knife as well as the cutting board and then discards the leftover parts of the lime. 		Put said knife and cutting board away. Discard lime slices								
+10176	10327	wash	hand	bowl																				
+10343	10434	wash	sponge	bowl																				
+10459	10651	wash	hand	bowl																				
+10651	10700	shake	hand	bowl		She washed bowl													She washed bowl					
+10744	10816	put in	hand	bowl	,drawer		Discard your peels in the trash and wash your bowl and put it away.		She gets a glass out of the cupboard.	Wash bowl.					The person discarded the scraps, washed the bowl and put it away.	Put any other miscellaneous tools away	The person discarded the scraps, washed the bowl and put it away.	She cleans up.				Woman cleans up after preparing the lime.		She cleans up. 
+10870	11339	take out	hand	glass	counter,cupboard	She took out glass							the person gets a glass					She gets out a glass.	She took out glass				She gets a glass out of the cupboard.	
+11387	11609	remove lid	hand	lid	squeezer									She retrieves a glass from the cupboard.										
+11609	11656	shake	hand	lid																				
+11678	11803	put lid	hand	lid	squeezer																			
+11835	12015	pour	squeezer	lime	glass				She pours the juice into the glass. 	Get glass and pour lime juice into glass.					The person removed a glass and poured in the juice.	Pour juice in cup.	The person removed a glass and poured in the juice.	She pours the juice into the glass.	She poured juice into glass	Pour juice from juicer into glass.		Woman puts lime juice in a glass.	She pours the juice into the glass.	She pours the juice into a glass.
+12065	12139	remove lid	hand	lid	squeezer								the person puts the Lime juice from the strainer into the glass											
+12208	12261	wash	hand	lid																				
+12261	12300	wash	hand	bowl																				
+12300	12433	wash	hand	lid							the person gets a glass and puts the Lime juice in it													
+12433	12791	wash	cleaning brush	lid																				
+12791	12861	wash	hand	lid																				
+12986	13034	wash	hand	bowl										She pours the lime juice into the glass and then washes the juicer. 										
+13034	13238	wash	sponge	bowl																				
+13253	13512	wash	hand	bowl																				
+13512	13580	shake	hand	bowl						Wash juicer.													She rinses and washes the juicer.	She cleans the juicer.
+13628	13682	put lid	hand	lid	squeezer													She cleans the juicer.						
+13688	13819	put in	hand	squeezer	,drawer		Pour your juice in a glass, wash your juicer and put it away and enjoy.								The person washed the juicer and put it away.		The person washed the juicer and put it away.					She finishes cleaning up after herself.		

@@ -1,0 +1,35 @@
+146	344	take out	hand	leek	counter,drawer	s21-d39_1_1	s21-d39_2_1	s21-d39_3_1	s21-d39_4_1	s21-d39_5_1	s21-d39_7_1	s21-d39_8_1	s21-d39_9_1	s21-d39_10_1	s21-d39_12_1	s21-d39_13_1	s21-d39_14_1			s21-d39_18_1	s21-d39_19_1
+345	435	take out	hand	cutting board	counter,drawer	s21-d39_1_2		s21-d39_3_2				s21-d39_8_2	s21-d39_9_2	s21-d39_10_2	s21-d39_12_2	s21-d39_13_2	s21-d39_14_2			s21-d39_18_2	s21-d39_19_2
+439	584	take out	hand	knife	drawer	s21-d39_1_3	s21-d39_2_2	s21-d39_3_3	s21-d39_4_2	s21-d39_5_2		s21-d39_8_3	s21-d39_9_3	s21-d39_10_3	s21-d39_12_3	s21-d39_13_3	s21-d39_14_3	s21-d39_15_1		s21-d39_18_3	s21-d39_19_3
+612	656	cut	knife	leek	cutting board														s21-d39_16_1		
+662	765	cut	knife	leek	cutting board			s21-d39_3_4					s21-d39_9_4		s21-d39_12_4			s21-d39_15_2		s21-d39_18_4	s21-d39_19_4
+769	842	move	hand	leek	counter,cutting board	s21-d39_1_4	s21-d39_2_3		s21-d39_4_3	s21-d39_5_3		s21-d39_8_4		s21-d39_10_4		s21-d39_13_4	s21-d39_14_4				
+882	949	open	hand		drawer																
+949	1032	take out	hand	pot	drawer,stove			s21-d39_3_5													s21-d39_19_5
+1032	1074	close	hand		drawer	s21-d39_1_5								s21-d39_10_5			s21-d39_14_5				
+1074	1117	remove lid	hand	lid	pot						s21-d39_7_2				s21-d39_12_5					s21-d39_18_5	
+1201	1394	fill	faucet	water	,pot	s21-d39_1_6		s21-d39_3_6							s21-d39_12_6		s21-d39_14_6				
+1394	1479	move	hand	pot	,stove					s21-d39_5_4	s21-d39_7_3	s21-d39_8_5		s21-d39_10_6						s21-d39_18_6	s21-d39_19_6
+1479	1545	turn on	hand	stove				s21-d39_3_7													
+1545	1597	change temperature	hand	stove																	s21-d39_19_7
+1605	1657	put lid	hand	lid	pot	s21-d39_1_7	s21-d39_2_4	s21-d39_3_8	s21-d39_4_4		s21-d39_7_4	s21-d39_8_6	s21-d39_9_5	s21-d39_10_7	s21-d39_12_7	s21-d39_13_5	s21-d39_14_7	s21-d39_15_3	s21-d39_16_2	s21-d39_18_7	
+1717	2620	slice	knife	leek	cutting board	s21-d39_1_8		s21-d39_3_9		s21-d39_5_5		s21-d39_8_7	s21-d39_9_6	s21-d39_10_8	s21-d39_12_8	s21-d39_13_6	s21-d39_14_8	s21-d39_15_4	s21-d39_16_3	s21-d39_18_8	s21-d39_19_8
+2725	2807	wash	hand	leek							s21-d39_7_5										
+2807	2836	shake	hand	leek		s21-d39_1_9		s21-d39_3_10													s21-d39_19_9
+2883	2913	wash	hand	leek																	
+2913	2927	shake	hand	leek											s21-d39_12_9						
+2964	2973	remove lid	hand	lid	pot																
+2973	2988	add	hand	leek	,pot																
+2988	3012	put lid	hand	lid	pot	s21-d39_1_10				s21-d39_5_6	s21-d39_7_6			s21-d39_10_9	s21-d39_12_10						s21-d39_19_10
+3124	3190	wash	hand	leek																	
+3190	3234	shake	hand	leek																	
+3273	3288	remove lid	hand	lid	pot																
+3288	3313	add	hand	leek	pot																
+3313	3342	put lid	hand	lid	pot		s21-d39_2_5	s21-d39_3_11	s21-d39_4_5			s21-d39_8_8	s21-d39_9_7	s21-d39_10_10		s21-d39_13_7	s21-d39_14_9	s21-d39_15_5	s21-d39_16_4	s21-d39_18_9	
+3395	3419	take out	hand	spice shaker	spice holder																
+3427	3461	screw	hand	spice shaker							s21-d39_7_7										
+3475	3485	remove lid	hand	lid	pot																
+3485	3528	spice	spice shaker	salt	pot													s21-d39_15_6			
+3528	3557	put lid	hand	lid	pot	s21-d39_1_11									s21-d39_12_11	s21-d39_13_8				s21-d39_18_10	
+3557	3638	screw	hand	spice shaker													s21-d39_14_10		s21-d39_16_5		s21-d39_19_11
+3660	3701	put in	hand	spice shaker	,spice holder		s21-d39_2_6		s21-d39_4_6	s21-d39_5_7		s21-d39_8_9. s21-d39_8_10	s21-d39_9_8	s21-d39_10_11							

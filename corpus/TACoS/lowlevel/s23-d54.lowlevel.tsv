@@ -1,0 +1,48 @@
+215	347	take out	hand	cutting board	counter,drawer
+350	461	take out	hand	knife	cutting board,drawer
+495	1229	take out	hand	mango	fridge
+1242	1300	open	hand		cupboard
+1412	1541	take out	hand	peeler	counter,drawer
+1546	1666	remove label	hand	mango	
+1716	1785	throw in garbage	hand	label	
+1785	1924	wash	hand	mango	
+1924	1963	shake	hand	mango	
+2083	2237	take out	hand	plate	,dish washer
+2262	2327	wash	hand	plate	
+2341	2571	wash	sponge	plate	
+2576	2770	wash	hand	plate	
+2909	4110	peel	peeler	mango	
+4160	4195	cut	knife	mango	cutting board
+4212	4234	scratch off	hand	mango	counter,knife
+4305	4518	cut	knife	mango	cutting board
+4583	4706	cut	knife	mango	cutting board
+4788	4932	cut	knife	mango	cutting board
+5020	5125	cut	knife	mango	cutting board
+5162	5688	cut	knife	mango	cutting board
+5790	5869	cut	knife	mango	cutting board
+5887	6473	cut	knife	mango	cutting board
+6522	6620	cut	knife	mango	cutting board
+6874	7207	cut	knife	mango	cutting board
+7207	7256	move	hand	stone	counter,cutting board
+7259	7336	move	hand	mango	cutting board
+7356	7502	slice	knife	mango	cutting board
+7525	7589	move	hand,knife	mango	cutting board,plate
+7595	7633	move	hand	mango	cutting board,plate
+7633	7679	move	hand	mango	cutting board
+7691	7803	slice	knife	mango	cutting board
+7827	7861	move	hand,knife	mango	cutting board,plate
+7871	7900	move	hand	mango	counter,plate
+7902	7948	move	hand	mango	cutting board
+7974	8127	slice	knife	mango	cutting board
+8144	8179	move	hand,knife	mango	cutting board,plate
+8246	8302	move	hand,knife	mango	cutting board,plate
+8302	8335	move	hand	mango	cutting board
+8344	8424	slice	knife	mango	cutting board
+8446	8493	move	hand,knife	mango	cutting board,plate
+8496	8543	move	hand	mango	cutting board,plate
+8634	8744	slice	knife	mango	cutting board
+8744	8835	move	hand	mango	cutting board
+8835	8957	slice	knife	mango	cutting board
+8989	9063	move	hand,knife	mango	cutting board,plate
+9149	9208	move	hand,knife	mango	cutting board,plate
+9240	9281	move	hand	mango	cutting board,plate

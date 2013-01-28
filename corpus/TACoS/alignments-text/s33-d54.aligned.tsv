@@ -1,0 +1,56 @@
+204	487	take out	hand	peeler	counter,drawer				She took out peeler				The person selects a peeler.	She gets a peeler.	The person gets out a vegetable peeler.	Took out tool		She took out peeler		The person got out a vegetable peeler.		The person gets out a vegetable peeler.
+522	753	take out	hand	mango	fridge		Get your peeler ready.. Get your mango from the fridge.		She took out mango				A mango is removed from the refrigerator.		The person gets out a mango.	She took out mango	the person gets a peeler	She took out mango		The person got out a mango.		The person gets out a mango.
+770	1076	take out	hand	plate	counter,cupboard			She gets a mango, peeler, and two plates. 	She took out two plates		She gets a peeler, a mango, and two plates. 		Two plates are removed for the mango.	She gets two plates and a mango.	The person gets out two plates.			She took out plates	She opens the drawer and gets out a peeler, gets a mango from the refrigerator, gets two plates from the cabinet, and places a mango on one of the plates.	The person got out two plates.		The person gets out two plates.
+1113	1157	close	hand		cupboard	The woman sets up her station by grabbing a peeler, some plates and a mango.. The woman tries to use the peeler on the mango but it doesn't work.	Get two plates on place on counter, placing the mango on one plate.					She gets out a peeler from the drawer, a mango from the refrigerator, and two plates from the cabinet.			The person tries to peel the mango with the peeler.	She took out dishes	the person gets 2 plates				A woman enters kitchen, removes a peeler from the drawer, a mango from the refrigerator, two plates from the cupboard and places them all on the counter top.	The person tries to peel the mango with the vegetable peeler.
+1385	1548	take out	hand	knife	drawer		Put the peeler down and grab a knife.		She took out knife	The person takes out two plates, a mango, and a paring knife.		She attempts to use the peeler on the mango and takes out a knife.	The person selects a knife.		The person gets out a knife.	She took out knife	the person gets a sharp knife	She took out knife		The person got out a pairing knife.	The woman begins to peel the mango with the peeler, stops and removes a knife from the drawer and opts to use the knife to peel the mango instead.	The person gets out a knife.
+1573	2763	peel	knife	mango																		
+2832	3613	peel	knife	mango		With a knife, the woman peels of the out skin of the mango.	Using your knife, remove all the peel from the mango.	She gets a knife and peels the mango. 	She peeled mango	The person uses the knife to peel the skin and puts the skin on one plate.	She gets a knife and peels the mango. 	She uses the knife to cut off the peel of the mango.	The mango is peeled over a plate.	She gets a knife and peels the mango.	The person peels the mango.	She peeled mango	the person peels off the skin of the Mango with the knife	She peeled mango	She attempts to use the peeler, but it seems difficult, so she gets out a knife and uses it to cut the skin off of the mango.	The person peeled the mango with the knife.	The woman peels the mango.	
+3658	4146	cut	knife	mango	plate																	The person peels the mango.
+4196	4577	cut	knife	mango	plate																	
+4577	4729	cut	knife	mango	plate													She sliced mango				
+4729	5581	cut	knife	mango	plate	The woman shaves off pieces of the mango around the large seed inside.	Cut the mango in pieces from around the seed.	She cuts away half of the mango. 	She sliced mango	The person cuts the mango away from the core in large chunks and puts it on the other plate.	She cuts the good parts from the pit. 	She cuts off the sides of the mango.	The mango flesh is sliced away from the seed on the other plate.		The person cuts chunks off the mango.	She cut mango into large chuncks			She cuts the sides off the mango until she reaches the core.	The person cut the flesh off the core.		The person cuts the mango into large pieces and a pit.
+5631	5897	take out	hand	plate	counter,cupboard				She took out plate	The person takes out another plate.	She gets a plate. 		Another plate is removed.		The person gets out a third plate.		the person cuts piece off of the Mango with the knife			The person got out a third plate.		The person gets out a third plate.
+5919	5943	move	hand	mango	plate		Get an additional plate.	She gets another plate and puts in on the counter. 														
+5947	6068	chop	knife	mango	plate																The woman peels the mango and removes another plate from the cupboard and places it on the counter top.	
+6089	6117	move	hand	mango	plate																	
+6122	6246	chop	knife	mango	plate																	
+6261	6293	move	hand	mango	plate																	
+6305	6317	chop	knife	mango	plate																	
+6337	6366	move	hand	mango	plate																	
+6376	6446	chop	knife	mango	plate																	
+6459	6489	move	hand	mango	plate																	
+6516	6535	move	hand	mango	plate																	
+6539	6579	move	hand	mango	plate																	
+6584	6731	chop	knife	mango	plate																	
+6751	6799	chop	knife	mango	plate																	
+6806	6835	move	hand	mango	plate																	
+6843	6958	chop	knife	mango	plate																	
+6977	7014	move	hand	mango	plate																	
+7020	7087	chop	knife	mango	plate																	
+7093	7114	move	hand	mango	plate																	
+7119	7260	chop	knife	mango	plate																	
+7265	7297	move	hand	mango	plate																	
+7302	7375	chop	knife	mango	plate																	
+7386	7406	move	hand	mango	plate																	
+7412	7436	chop	knife	mango	plate																	
+7441	7465	move	hand	mango	plate																	
+7471	7549	chop	knife	mango	plate																	
+7558	7591	move	hand	mango	plate																	
+7601	7666	chop	knife	mango	plate	On another plate, the woman chops the mango slices into smaller pieces.	Cut pieces of mango into smaller pieces on the third plate.		She cut up slices	The person cuts the chunks into smaller pieces on the new plate.		She gets out another plate and takes each piece of mango from the original plate and cuts it into smaller pieces on the new plate.	The person chops the pieces on the new plate. 				the person gets another plate		She takes each piece of mango from one plate and places it on the other plate, cutting it into smaller pieces.			The person chops up the large pieces of mango.
+7725	7912	cut	knife	mango	,plate																	
+7955	8105	cut	knife	mango	plate												the person dices the pieces of Mango					
+8132	9528	cut	knife	mango	,plate	The woman removes the last bits of flesh from the mango core.	Return to mango seed and cut off any additional pieces you may have missed.			The person uses the knife to cut the leftover meat from the core onto the second plate.		She cuts off the edges of the mango core onto the middle plate.	The seed is trimmed closer.									
+9586	9726	move	knife	mango	plate			She chops the mango and cuts away the good food from the other half . 		The person transfers the mango meat to the third plate.	She chops the mango and gets the last bits from the pit. 		The fruit is placed on the plate.	She chops the mango.	The person cuts the mango chunks into smaller pieces and puts them on the plate.	She sliced up mango			She takes the core and uses the knife to cut off pieces of mango from it onto the now empty plate, and then uses the knife to brush the pieces of mango onto the plate with the other pieces of mango.	The person diced the mango.	The woman carves the mango away from the core and dices it up on the third plate.	The person cuts a little more mango off the pit and adds it to the chopped pieces.
+9736	9817	move	hand	knife,plate	,sink							She pours the mango pieces on the middle plate onto the plate with the other pieces of mango.					the person cuts more piece of Manga from around the seed					
+9867	10016	wash	hand	plate																		
+10035	10113	wash	hand	knife																		
+10133	10170	wash	hand	hand						The person rinses the knife and second plate.			The plate and knife are washed.		The person rinses an empty plate and knife.							The person rinses the empty plate and the knife.
+10201	10251	move	hand	peeler	plate,sink							She washes the plate and knife in the sink and places the peeler in the sink.							She washes the now empty plate and knife in the sink and places them to the side.			
+10284	10504	throw in garbage	hand,plate	peel,stone						The person throws away the skin and core.			The scraps are discarded.		The person throws away the mango peel and pit.							The person throws away the peel and pit.
+10516	10610	wash	hand	plate																		
+10631	10677	wash	hand	peeler		The woman cleans her station by, throwing away the excess peeling, washing the extra plates, the knife, the peeler, and her hands.							The plate and peeler are washed.									
+10698	10736	wash	hand	hand							She cleans up. 	She disposes of the mango peels in the trash and washes off the plate.										
+10743	10765	shake	hand	hand																		The person rinses the other plate and the vegetable peeler.
+10765	10777	move	hand	sponge	,faucet										The person rinses the rest of the dishes.							
+10777	10823	dry	sponge	hand																		
+10823	10844	move	hand	sponge	,faucet		Discard seed and peel in the trash, clean your dishes and you are done.	She cleans up. 		The person rinses the first dish and her hands.		She dries off her hands.	The mango is ready.	She cleans up.					She places the peeler in the sink, disposes of the mango skin in the trash, and puts the plate and peeler to the side before wetting and drying her hands.	The person cleaned up.	The woman washes the plates, utensils and her hands.	

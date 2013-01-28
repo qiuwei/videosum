@@ -1,0 +1,61 @@
+242	656	take out	hand	lime	,fridge	s35-d40_1_1	s35-d40_2_1	s35-d40_3_1	s35-d40_4_1						s35-d40_11_1	s35-d40_12_1	s35-d40_13_1	s35-d40_14_1	s35-d40_15_1	s35-d40_16_1	s35-d40_17_1		s35-d40_19_1	s35-d40_20_1
+716	812	open	hand		drawer									s35-d40_10_1										
+864	956	wash	hand	lime																s35-d40_16_2	s35-d40_17_2			
+956	993	shake	hand	lime		s35-d40_1_2	s35-d40_2_2	s35-d40_3_2			s35-d40_6_1		s35-d40_8_1	s35-d40_10_2	s35-d40_11_2	s35-d40_12_2	s35-d40_13_2	s35-d40_14_2	s35-d40_15_2			s35-d40_18_1	s35-d40_19_2	s35-d40_20_2
+1027	1120	take out	hand	bowl	,drawer	s35-d40_1_3		s35-d40_3_3													s35-d40_17_3			
+1144	1272	shake	hand	bowl		s35-d40_1_4	s35-d40_2_3	s35-d40_3_4							s35-d40_11_3		s35-d40_13_3		s35-d40_15_3		s35-d40_17_4			
+1315	1336	shake	hand	hand			s35-d40_2_4							s35-d40_10_3		s35-d40_12_3								
+1391	1453	take out	hand	squeezer	,drawer				s35-d40_4_2			s35-d40_7_1			s35-d40_11_4		s35-d40_13_4				s35-d40_17_5			
+1464	1586	take out	hand	cutting board	counter,drawer	s35-d40_1_5		s35-d40_3_5	s35-d40_4_3						s35-d40_11_5		s35-d40_13_5		s35-d40_15_4		s35-d40_17_6			
+1603	1675	close	hand		drawer		s35-d40_2_5									s35-d40_12_4							s35-d40_19_3	
+1673	1849	take out	hand	knife	cutting board,drawer	s35-d40_1_6		s35-d40_3_6	s35-d40_4_4						s35-d40_11_6		s35-d40_13_6		s35-d40_15_5		s35-d40_17_7		s35-d40_19_4	
+1853	1918	close	hand		drawer		s35-d40_2_6						s35-d40_8_2	s35-d40_10_4				s35-d40_14_3		s35-d40_16_3				
+1991	2055	remove lid	hand	lid	squeezer						s35-d40_6_2	s35-d40_7_2				s35-d40_12_5								
+2055	2363	wash	hand	squeezer		s35-d40_1_7		s35-d40_3_7							s35-d40_11_7	s35-d40_12_6			s35-d40_15_6		s35-d40_17_8			
+2434	2598	shake	hand	squeezer			s35-d40_2_7			s35-d40_5_1							s35-d40_13_7					s35-d40_18_2		s35-d40_20_3
+2721	2789	move	hand	lid	bowl,cutting board																			
+2881	2971	cut	knife	lime	cutting board	s35-d40_1_8	s35-d40_2_8	s35-d40_3_8	s35-d40_4_5	s35-d40_5_2			s35-d40_8_3	s35-d40_10_5	s35-d40_11_8	s35-d40_12_7	s35-d40_13_8	s35-d40_14_4	s35-d40_15_7	s35-d40_16_4	s35-d40_17_9	s35-d40_18_3	s35-d40_19_5	s35-d40_20_4
+3043	3265	put lid	hand	lid	bowl,squeezer						s35-d40_6_3	s35-d40_7_3									s35-d40_17_10			
+3329	5692	squeeze	hand	lime	squeezer																			
+5709	5892	squeeze	hand	lime	squeezer																			
+5934	6024	squeeze	hand	lime	squeezer																			
+6024	6085	add	hand	lime	bowl,squeezer		s35-d40_2_9. s35-d40_2_10							s35-d40_10_6		s35-d40_12_8						s35-d40_18_4		
+6134	7042	squeeze	hand	lime	squeezer																			
+7078	8136	squeeze	hand	lime	squeezer																			
+8176	8619	squeeze	hand	lime	squeezer																			
+8619	8668	add	hand	lime	bowl,squeezer	s35-d40_1_9	s35-d40_2_11	s35-d40_3_9	s35-d40_4_6	s35-d40_5_3				s35-d40_10_7	s35-d40_11_9		s35-d40_13_9	s35-d40_14_5	s35-d40_15_8	s35-d40_16_5		s35-d40_18_5	s35-d40_19_6	s35-d40_20_5
+8768	8860	wash	hand	hand												s35-d40_12_9								
+8860	8887	shake	hand	hand								s35-d40_7_4												
+8900	8923	shake	hand	hand		s35-d40_1_10		s35-d40_3_10			s35-d40_6_4		s35-d40_8_4		s35-d40_11_10		s35-d40_13_10		s35-d40_15_9					
+8971	9080	wash	hand	knife																				
+9080	9170	wash	sponge	knife																				
+9170	9317	wash	hand	knife		s35-d40_1_11		s35-d40_3_11																
+9337	9390	shake	hand	knife			s35-d40_2_12									s35-d40_12_10			s35-d40_15_10					
+9423	9515	put in	hand	knife	,drawer						s35-d40_6_5				s35-d40_11_11		s35-d40_13_11						s35-d40_19_7	
+9599	9743	wash	hand	cutting board																				
+9745	9798	shake	hand	cutting board		s35-d40_1_12										s35-d40_12_11								
+9825	9882	open	hand		drawer					s35-d40_5_4									s35-d40_15_11					
+9892	9989	put in	hand	cutting board	,drawer		s35-d40_2_13								s35-d40_11_12		s35-d40_13_12						s35-d40_19_8	
+10042	10139	throw in garbage	hand	lime		s35-d40_1_13						s35-d40_7_5		s35-d40_10_8		s35-d40_12_12. s35-d40_12_13								
+10176	10327	wash	hand	bowl																				
+10343	10434	wash	sponge	bowl																				
+10459	10651	wash	hand	bowl																				
+10651	10700	shake	hand	bowl		s35-d40_1_14													s35-d40_15_12					
+10744	10816	put in	hand	bowl	,drawer		s35-d40_2_14		s35-d40_4_7	s35-d40_5_5					s35-d40_11_13	s35-d40_12_14	s35-d40_13_13	s35-d40_14_6				s35-d40_18_6		s35-d40_20_6
+10870	11339	take out	hand	glass	counter,cupboard	s35-d40_1_15							s35-d40_8_5					s35-d40_14_7	s35-d40_15_13				s35-d40_19_9	
+11387	11609	remove lid	hand	lid	squeezer									s35-d40_10_9										
+11609	11656	shake	hand	lid																				
+11678	11803	put lid	hand	lid	squeezer																			
+11835	12015	pour	squeezer	lime	glass				s35-d40_4_8	s35-d40_5_6					s35-d40_11_14	s35-d40_12_15	s35-d40_13_14	s35-d40_14_8	s35-d40_15_14	s35-d40_16_6		s35-d40_18_7	s35-d40_19_10	s35-d40_20_7
+12065	12139	remove lid	hand	lid	squeezer								s35-d40_8_6											
+12208	12261	wash	hand	lid																				
+12261	12300	wash	hand	bowl																				
+12300	12433	wash	hand	lid							s35-d40_6_6													
+12433	12791	wash	cleaning brush	lid																				
+12791	12861	wash	hand	lid																				
+12986	13034	wash	hand	bowl										s35-d40_10_10										
+13034	13238	wash	sponge	bowl																				
+13253	13512	wash	hand	bowl																				
+13512	13580	shake	hand	bowl						s35-d40_5_7													s35-d40_19_11	s35-d40_20_8
+13628	13682	put lid	hand	lid	squeezer													s35-d40_14_9						
+13688	13819	put in	hand	squeezer	,drawer		s35-d40_2_15								s35-d40_11_15		s35-d40_13_15					s35-d40_18_8		

@@ -1,0 +1,132 @@
+165	383	take out	hand	cauliflower	counter,cupboard
+422	523	take out	hand	knife	counter,drawer
+528	556	close	hand		drawer
+572	680	take out	hand	colander	counter,drawer
+689	932	take out	hand	bowl	counter,drawer
+1005	1079	cut	knife	cauliflower	counter
+1080	1111	add	hand	cauliflower	bowl,counter
+1120	1182	cut	knife	cauliflower	counter
+1185	1222	add	hand	cauliflower	bowl,counter
+1237	1285	cut	knife	cauliflower	counter
+1286	1333	add	hand	cauliflower	bowl,counter
+1348	1414	cut	knife	cauliflower	counter
+1445	1487	cut	knife	cauliflower	counter
+1490	1534	add	hand	cauliflower	bowl,counter
+1550	1606	cut	knife	cauliflower	counter
+1609	1631	add	hand	cauliflower	bowl,counter
+1657	1707	cut	knife	cauliflower	counter
+1729	1770	cut	knife	cauliflower	counter
+1772	1797	add	hand	cauliflower	bowl,counter
+1810	1868	cut	knife	cauliflower	counter
+1875	1899	add	hand	cauliflower	bowl,counter
+1918	1962	cut	knife	cauliflower	counter
+1972	1995	add	hand	cauliflower	bowl,counter
+2012	2052	cut	knife	cauliflower	counter
+2053	2078	add	hand	cauliflower	bowl,counter
+2091	2132	cut	knife	cauliflower	counter
+2135	2154	add	hand	cauliflower	bowl,counter
+2193	2229	cut	knife	cauliflower	counter
+2231	2245	add	hand	cauliflower	bowl,counter
+2277	2318	cut	knife	cauliflower	counter
+2322	2334	add	hand	cauliflower	bowl,counter
+2352	2386	cut	knife	cauliflower	counter
+2386	2401	add	hand	cauliflower	bowl,counter
+2418	2439	cut	knife	cauliflower	counter
+2440	2452	add	hand	cauliflower	bowl,counter
+2507	2530	take apart	hand	cauliflower	
+2532	2541	add	hand	cauliflower	bowl,counter
+2560	2583	cut	knife	cauliflower	counter
+2592	2638	add	hand	cauliflower	bowl,counter
+2672	2948	cut	knife	cauliflower	counter
+2949	2968	add	hand	,bowl	
+3039	3082	cut	knife	cauliflower	counter
+3086	3169	take apart	hand	cauliflower	counter
+3173	3189	add	hand	cauliflower	,bowl
+3209	3256	cut	knife	cauliflower	counter
+3268	3339	take apart	hand	cauliflower	counter
+3339	3367	purge	hand	cauliflower	,bowl
+3367	3423	purge	hand	cauliflower	,bowl
+3448	3466	move	hand	bowl	counter
+3503	3690	purge	knife	cauliflower	,bowl
+3691	3717	add	hand	cauliflower	,colander
+3733	3807	cut	knife	cauliflower	counter
+3813	3892	take apart	hand	cauliflower	,counter
+3897	4124	purge	knife	cauliflower	,bowl
+4128	4159	add	hand	cauliflower	,colander
+4172	4256	cut	knife	cauliflower	counter
+4270	4382	take apart	hand	cauliflower	counter
+4390	4437	cut	knife	cauliflower	counter
+4440	4469	take apart	hand	cauliflower	counter
+4485	4524	take apart	hand	cauliflower	,bowl
+4524	4566	add	hand	cauliflower	bowl,counter
+4566	4834	purge	knife	cauliflower	,bowl
+4834	4854	add	hand	cauliflower	,colander
+4887	4970	cut	knife	cauliflower	counter
+4974	4998	take apart	hand	cauliflower	counter
+5012	5085	add	hand	cauliflower	,colander
+5104	5172	cut	knife	cauliflower	counter
+5177	5233	take apart	hand	cauliflower	counter
+5292	5452	purge	knife	cauliflower	,bowl
+5451	5472	add	hand	cauliflower	,colander
+5522	5625	cut	knife	cauliflower	counter
+5631	5677	take apart	hand	cauliflower	,counter
+5681	5885	purge	knife	cauliflower	,bowl
+5890	5908	add	hand	cauliflower	,colander
+5936	5998	cut	knife	cauliflower	counter
+6007	6044	take apart	hand	cauliflower	counter
+6060	6089	purge	hand	cauliflower	,bowl
+6089	6182	purge	knife	cauliflower	,bowl
+6201	6227	add	hand	cauliflower	,colander
+6308	6357	cut	knife	cauliflower	counter
+6357	6413	add	hand	cauliflower	bowl,cauliflower
+6417	6479	cut	knife	cauliflower	counter
+6479	6518	add	hand	cauliflower	bowl,cauliflower
+6526	6593	cut	knife	cauliflower	counter
+6594	6731	take apart	hand	cauliflower	,counter
+6770	6928	purge	knife	cauliflower	,bowl
+6932	6954	add	hand	cauliflower	,colander
+7007	7079	cut	knife	cauliflower	counter
+7079	7134	take apart	hand	cauliflower	,counter
+7152	7195	purge	hand	cauliflower	,bowl
+7215	7341	purge	knife	cauliflower	,bowl
+7350	7390	add	hand	cauliflower	,colander
+7447	7512	cut	knife	cauliflower	counter
+7512	7585	take apart	hand	cauliflower	,bowl
+7585	7629	cut	knife	cauliflower	counter
+7629	7678	add	hand	cauliflower	bowl,cauliflower
+7678	7717	cut	knife	cauliflower	counter
+7717	7795	take apart	hand	cauliflower	,bowl
+7821	7890	cut	knife	cauliflower	counter
+7891	7935	take apart	hand	cauliflower	counter
+7940	7993	cut	knife	cauliflower	counter
+7999	8050	take apart	hand	cauliflower	counter
+8075	8676	purge	knife	cauliflower	,bowl
+8682	8720	add	hand	cauliflower	,colander
+8824	8863	cut	knife	cauliflower	counter
+8865	8908	add	hand	cauliflower	bowl,cauliflower
+8989	9049	add	hand	cauliflower	,colander
+9093	9112	cut	knife	cauliflower	counter
+9112	9202	purge	hand	cauliflower	,bowl
+9235	9354	purge	knife	cauliflower	,bowl
+9359	9392	add	hand	cauliflower	,colander
+9408	9449	cut	knife	cauliflower	counter
+9458	9488	take apart	hand	cauliflower	counter
+9507	9621	purge	knife	cauliflower	,bowl
+9652	9683	add	hand	cauliflower	,colander
+9706	9788	cut	knife	cauliflower	counter
+9796	9834	take apart	hand	cauliflower	counter
+9875	10017	purge	knife	cauliflower	,bowl
+10023	10062	add	hand	cauliflower	,colander
+10077	10111	cut	knife	cauliflower	counter
+10111	10145	take apart	hand	cauliflower	counter
+10150	10327	purge	knife	cauliflower	,bowl
+10332	10363	add	hand	cauliflower	,colander
+10434	10525	cut	knife	cauliflower	
+10531	10607	take apart	hand	cauliflower	
+10654	11290	purge	knife	cauliflower	,bowl
+11297	11335	add	hand	cauliflower	,colander
+11363	11812	purge	knife	cauliflower	,bowl
+11827	11865	add	hand	cauliflower	,colander
+11902	12084	gather	hand	garbage	bowl,counter
+12101	12409	throw in garbage	bowl	garbage	
+12426	12455	move	hand	sponge	sink

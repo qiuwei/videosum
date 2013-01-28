@@ -1,0 +1,162 @@
+s29-d42_2_1	He took out cutting board	s29-d42	247	369	broccoli	547
+s29-d42_2_2	He took out broccoli	419	894
+s29-d42_2_3	He took out knife	419	894
+s29-d42_2_4	He cut leaves off stem	s29-d42	974	1918	broccoli	1941
+s29-d42_2_5	He threw out stem	s29-d42	2039	2135	broccoli	2125
+s29-d42_2_6	He took out pot	s29-d42	2135	2221	broccoli	2385
+s29-d42_2_7	He put water in pot	s29-d42	2256	2813	broccoli	2815
+s29-d42_2_8	He put pot on stove	s29-d42	2919	2952	broccoli	2987
+s29-d42_2_9	He turned on stove	s29-d42	2974	3022	broccoli	3061
+s29-d42_2_10	He added salt	3041	3581
+s29-d42_2_11	He put lid on pot	3041	3581
+s29-d42_2_12	He threw away scraps	s29-d42	4174	4704	broccoli	4759
+s29-d42_2_13	He put broccoli in pot	s29-d42	4736	5946	broccoli	5883
+s29-d42_3_1	He gets a cutting board and broccoli.	s29-d42	247	894	broccoli	971
+s29-d42_3_2	He gets a knife and chops the heads off the broccoli.	s29-d42	974	1918	broccoli	1961
+s29-d42_3_3	He fills a pit with water and puts it on the stove.	s29-d42	2039	3022	broccoli	3073
+s29-d42_3_4	He salts the water.	s29-d42	3041	3581	broccoli	3657
+s29-d42_3_5	He cleans up while waiting for the water to heat.	s29-d42	4174	4926	broccoli	5017
+s29-d42_3_6	He puts the broccoli in the water.	s29-d42	5444	5946	broccoli	5859
+s29-d42_3_7	He cleans up.	s29-d42	6077	7844	broccoli	7847
+s29-d42_3_8	He gets out a plate and colander.	s29-d42	9273	15919	broccoli	15987
+s29-d42_3_9	He strains the broccoli.	s29-d42	15919	21309	broccoli	21455
+s29-d42_3_10	He rinses the broccoli and puts it on a plate.	s29-d42	21448	22096	broccoli	22223
+s29-d42_4_1	He took out cutting board	s29-d42	247	730	broccoli	577
+s29-d42_4_2	He took out broccoli	s29-d42	749	894	broccoli	977
+s29-d42_4_3	He chopped broccoli	s29-d42	974	1918	broccoli	2011
+s29-d42_4_4	He threw away scraps	s29-d42	2039	2135	broccoli	2143
+s29-d42_4_5	He took out pot	s29-d42	2135	2221	broccoli	2355
+s29-d42_4_6	He put water in pot	2256	2813
+s29-d42_4_7	He put water in pot	2256	2813
+s29-d42_4_8	He turned on stove	s29-d42	2919	3022	broccoli	3081
+s29-d42_4_9	He put salt in pot	3041	3581
+s29-d42_4_10	He put lid on pot	3041	3581
+s29-d42_4_11	He threw away scraps	s29-d42	4174	4704	broccoli	4759
+s29-d42_4_12	He put away salt	s29-d42	4736	4926	broccoli	4927
+s29-d42_6_1	He gets a cutting board and broccoli.	s29-d42	247	894	broccoli	959
+s29-d42_6_2	He cuts the heads off the broccoli and discards the rest.	s29-d42	974	2135	broccoli	2139
+s29-d42_6_3	He fills a pot with water and heats it on the stove.	s29-d42	2135	3022	broccoli	3147
+s29-d42_6_4	He season the water.	s29-d42	3041	3581	broccoli	3693
+s29-d42_6_5	He puts the broccoli in the pot.	s29-d42	5444	5946	broccoli	5931
+s29-d42_6_6	He cleans up while the broccoli is cooking.	s29-d42	6077	7844	broccoli	7839
+s29-d42_6_7	He pour the broccoli through a strainer.	s29-d42	9273	21309	broccoli	21463
+s29-d42_6_8	He rinse the broccoli and puts it on a plate.	s29-d42	21448	22096	broccoli	22215
+s29-d42_7_1	He gets the cutting board, broccoli, and a knife.	s29-d42	247	894	broccoli	1117
+s29-d42_7_2	He cuts the heads off the broccoli.	s29-d42	974	1918	broccoli	1983
+s29-d42_7_3	He puts water in the pot and starts heating it.	s29-d42	2039	3022	broccoli	3065
+s29-d42_7_4	He cleans the cutting board and knife.	s29-d42	6077	7805	broccoli	7819
+s29-d42_7_5	He strains the broccoli and water through a colander.	s29-d42	7805	21309	broccoli	21459
+s29-d42_7_6	He rinses the broccoli.	s29-d42	21448	21770	broccoli	21873
+s29-d42_7_7	He puts the broccoli on a plate.	s29-d42	21870	22096	broccoli	22229
+s29-d42_8_1	He took out cutting board	s29-d42	247	369	broccoli	561
+s29-d42_8_2	He took out broccoli	419	894
+s29-d42_8_3	He took out knife	419	894
+s29-d42_8_4	He cut broccoli off stem	s29-d42	974	1918	broccoli	1965
+s29-d42_8_5	He threw away stem	s29-d42	2039	2135	broccoli	2129
+s29-d42_8_6	He took out pot	s29-d42	2135	2221	broccoli	2379
+s29-d42_8_7	He put water in pot	2256	2813
+s29-d42_8_8	He put pot on stove	2256	2813
+s29-d42_8_9	He turned on stove	s29-d42	2919	3022	broccoli	3121
+s29-d42_8_10	He added salt to pot	3041	3581
+s29-d42_8_11	He put lid on pot	3041	3581
+s29-d42_9_1	the person gets a cutting board and a sharp knife	s29-d42	247	894	broccoli	1203
+s29-d42_9_2	the person separates the Broccoli from it's stem and discards the stem	s29-d42	974	2135	broccoli	2103
+s29-d42_9_3	the person gets a pot and fill it with water	s29-d42	2135	3022	broccoli	3003
+s29-d42_9_4	the person put the pot over the stove and heats the stove	s29-d42	3041	3420	broccoli	3253
+s29-d42_9_5	the person seasons the water with salt and covers the pot	s29-d42	3423	3581	broccoli	3893
+s29-d42_9_6	the person puts the Broccoli in the pot and covers it	s29-d42	3041	5946	broccoli	5971
+s29-d42_9_7	the person gets a fork	s29-d42	4174	7844	broccoli	8175
+s29-d42_9_8	the person brings the pot to a boil	s29-d42	9273	11835	broccoli	12299
+s29-d42_9_9	the person gets a plate and a metal strainer	s29-d42	12293	15919	broccoli	16023
+s29-d42_9_10	the person takes the Broccoli from the pot and drains the water in the metal stainer	s29-d42	15919	21638	broccoli	21609
+s29-d42_9_11	the person washes the Broccoli	21701	22096
+s29-d42_9_12	the person puts the Broccoli on the plate	21701	22096
+s29-d42_10_1	He took out cutting board	s29-d42	247	730	broccoli	599
+s29-d42_10_2	He took out broccoli	749	894
+s29-d42_10_3	He took out knife	749	894
+s29-d42_10_4	He chopped broccoli	974	2135
+s29-d42_10_5	He threw away stem	974	2135
+s29-d42_10_6	He took out pot	s29-d42	2135	2221	broccoli	2379
+s29-d42_10_7	He put water in pot	2256	2813
+s29-d42_10_8	He put pot on stove	2256	2813
+s29-d42_10_9	He turned on stove	s29-d42	2919	3022	broccoli	3051
+s29-d42_10_10	He put salt in pot	3041	3581
+s29-d42_10_11	He put lid on pot	3041	3581
+s29-d42_11_1	He gets the cutting board out of the cupboard.	s29-d42	247	730	broccoli	579
+s29-d42_11_2	He gets the broccoli out of the fridge.	749	894
+s29-d42_11_3	He gets a knife out of the drawer.	749	894
+s29-d42_11_4	He cuts the broccoli into separate florets.	s29-d42	974	2135	broccoli	2107
+s29-d42_11_5	He gets a pot out of the cupboard.	s29-d42	2135	2578	broccoli	2461
+s29-d42_11_6	He fills the pot with water.	2599	2813
+s29-d42_11_7	 He puts the pot on the stovetop.	2599	2813
+s29-d42_11_8	He turns on the stovetop.	s29-d42	2919	3022	broccoli	3041
+s29-d42_11_9	He adds salt to the water.	s29-d42	3041	3581	broccoli	3635
+s29-d42_11_10	He adds the broccoli to the heated water.	s29-d42	4174	5946	broccoli	5869
+s29-d42_11_11	He gets a plate out of the cupboard.	s29-d42	6077	15275	broccoli	15393
+s29-d42_11_12	He gets a strainer out of the cupboard.	s29-d42	15295	15919	broccoli	15971
+s29-d42_11_13	He strains the broccoli.	s29-d42	15919	21309	broccoli	21425
+s29-d42_11_14	He puts the broccoli on the plate.	s29-d42	21448	22096	broccoli	22199
+s29-d42_12_1	He took out cutting board	s29-d42	247	730	broccoli	627
+s29-d42_12_2	He took out broccoli	749	894
+s29-d42_12_3	He took out knife	749	894
+s29-d42_12_4	He cut up broccoli	s29-d42	974	1918	broccoli	2069
+s29-d42_12_5	He took out pot	s29-d42	2039	2221	broccoli	2379
+s29-d42_12_6	He put water in pot	s29-d42	2256	2813	broccoli	2825
+s29-d42_12_7	He turned on stove	s29-d42	2919	3022	broccoli	3173
+s29-d42_12_8	He added salt to pot	3041	3581
+s29-d42_12_9	He put lid on pot	3041	3581
+s29-d42_13_1	Using a cutting board remove broccoli florets from stem.	s29-d42	247	2221	broccoli	2181
+s29-d42_13_2	Fill a pot with water and bring it to a boil on the stove.	s29-d42	2256	3022	broccoli	3095
+s29-d42_13_3	Add some salt to the water as it's heating.	s29-d42	3041	3581	broccoli	3931
+s29-d42_13_4	Add broccoli florets to the boiling water and cover the pot.	s29-d42	4174	5946	broccoli	5943
+s29-d42_13_5	Stir the broccoli occasionally.	s29-d42	6077	9437	broccoli	9685
+s29-d42_13_6	Remove from heat and strain the broccoli in a colander.	s29-d42	11137	21638	broccoli	21565
+s29-d42_13_7	Rinse broccoli and serve on plate.	s29-d42	21701	22096	broccoli	22193
+s29-d42_14_1	He took out cutting board	s29-d42	247	730	broccoli	623
+s29-d42_14_2	He took out broccoli	749	894
+s29-d42_14_3	He took out knife	749	894
+s29-d42_14_4	He cut leaves	s29-d42	974	1918	broccoli	2061
+s29-d42_14_5	He threw out stem	s29-d42	2039	2135	broccoli	2123
+s29-d42_14_6	He took out pot	s29-d42	2135	2221	broccoli	2341
+s29-d42_14_7	He put water in pot	s29-d42	2256	2813	broccoli	2805
+s29-d42_16_1	He took out cutting board	s29-d42	247	369	broccoli	361
+s29-d42_16_2	He took out broccoli	s29-d42	419	730	broccoli	691
+s29-d42_16_3	He took out knife	s29-d42	749	894	broccoli	887
+s29-d42_16_4	He chopped broccoli	s29-d42	974	1741	broccoli	1817
+s29-d42_16_5	He threw away scraps	s29-d42	1840	1918	broccoli	1912
+s29-d42_16_6	He took out a pan	s29-d42	2039	2135	broccoli	2138
+s29-d42_16_7	He put pan on stove	s29-d42	2135	2708	broccoli	2671
+s29-d42_16_8	He turned on stove	s29-d42	2719	2813	broccoli	2823
+s29-d42_16_9	He put salt in pot	s29-d42	2919	3466	broccoli	3460
+s29-d42_16_10	He put lid on pan	s29-d42	3538	3581	broccoli	3624
+s29-d42_16_11	He threw out trash	s29-d42	4174	4557	broccoli	4568
+s29-d42_17_1	He took out cutting board	s29-d42	247	730	broccoli	675
+s29-d42_17_2	He took out broccoli	749	894
+s29-d42_17_3	He took out knife	749	894
+s29-d42_17_4	He cut off sem	s29-d42	974	1918	broccoli	2087
+s29-d42_17_5	He threw away stem	s29-d42	2039	2135	broccoli	2155
+s29-d42_17_6	He took out pot	s29-d42	2135	2578	broccoli	2435
+s29-d42_17_7	He put water in pot	s29-d42	2599	2813	broccoli	2867
+s29-d42_17_8	He turned on stove	s29-d42	2919	3022	broccoli	3149
+s29-d42_17_9	He added salt to pot	s29-d42	3041	3581	broccoli	3737
+s29-d42_18_1	The person got out a cutting board.	s29-d42	247	730	broccoli	593
+s29-d42_18_2	The person got out the broccoli.	s29-d42	749	894	broccoli	963
+s29-d42_18_3	The person cut the florets off the broccoli.	s29-d42	974	2135	broccoli	2113
+s29-d42_18_4	The person got out a pot and put water in it.	s29-d42	2135	2813	broccoli	2929
+s29-d42_18_5	The person turned on the stove.	s29-d42	2919	3022	broccoli	3065
+s29-d42_18_6	The person put salt in the water.	s29-d42	3041	3581	broccoli	3655
+s29-d42_18_7	The person got the water up to temperature.	s29-d42	4174	5721	broccoli	5791
+s29-d42_18_8	The person put the broccoli in the pot and covered it.	s29-d42	5763	5946	broccoli	5933
+s29-d42_18_9	The person cooked the broccoli.	s29-d42	6077	20769	broccoli	20893
+s29-d42_18_10	The person strained the broccoli in a colander.	s29-d42	20794	21309	broccoli	21453
+s29-d42_18_11	The person rinsed off the broccoli.	21448	22096
+s29-d42_18_12	The person put the broccoli on a plate.	21448	22096
+s29-d42_19_1	He gets out the required items, including the broccoli.	s29-d42	247	894	broccoli	1139
+s29-d42_19_2	He cuts up the broccoli and discards the rest.	s29-d42	974	2135	broccoli	2127
+s29-d42_19_3	He places a water filled pot on the stove and starts the stove.	s29-d42	2919	3022	broccoli	3067
+s29-d42_19_4	He salts the water.	s29-d42	3041	3581	broccoli	3661
+s29-d42_19_5	He places the broccoli in the pot after waiting for the water to heat up.	s29-d42	4608	5721	broccoli	5811
+s29-d42_19_6	He cleans up while the cooking is going on.	s29-d42	6077	7844	broccoli	7847
+s29-d42_19_7	He gets out a strainer and a plate.	s29-d42	9273	16164	broccoli	16047
+s29-d42_19_8	He removes the pot from the stove and strains the broccoli.	s29-d42	16164	21309	broccoli	21463
+s29-d42_19_9	He rinses the broccoli and places them on a plate.	s29-d42	21448	22096	broccoli	22257

@@ -1,0 +1,125 @@
+s28-d46_1_1	The person gets out a cutting board.	s28-d46	152	295	pineapple	293
+s28-d46_1_2	The person gets out a knife.	s28-d46	324	386	pineapple	381
+s28-d46_1_3	The person gets out a pineapple.	s28-d46	415	630	pineapple	611
+s28-d46_1_4	The person cuts off the bottom of the pineapple.	s28-d46	662	781	pineapple	797
+s28-d46_1_5	The person gets out a plate.	s28-d46	869	1167	pineapple	1167
+s28-d46_1_6	The person cuts the pineapple into slices.	s28-d46	1225	2236	pineapple	2246
+s28-d46_1_7	The person throws away the top of the pineapple.	s28-d46	2265	2385	pineapple	2382
+s28-d46_1_8	The person cuts the rind off each slice, cuts the slices into eighths and puts them on the plate	s28-d46	2416	8928	pineapple	8996
+s28-d46_1_9	The person gets out a bowl and pours some of the pieces into it.	s28-d46	9017	9551	pineapple	9550
+s28-d46_1_10	The person cuts up the last two slices of pineapple.	s28-d46	9618	10940	pineapple	10945
+s28-d46_2_1	He gets out a cutting board and a knife.	s28-d46	152	386	pineapple	402
+s28-d46_2_2	He sets a pineapple on the cutting board.	s28-d46	415	630	pineapple	650
+s28-d46_2_3	He slices the pineapple, then discards the top and bottom.	s28-d46	662	2385	pineapple	2384
+s28-d46_2_4	He gets a bowl to put what he's already cut into.	s28-d46	2416	9204	pineapple	9206
+s28-d46_2_5	He finishes the last of the chopping.	s28-d46	10947	10980	pineapple	11006
+s28-d46_3_1	He walked to the drawer, took out the cutting board and knife.	s28-d46	152	386	pineapple	380
+s28-d46_3_2	He walked to the pantry and took out a pineapple.	s28-d46	415	630	pineapple	620
+s28-d46_3_3	He cut the bottom of the pineapple, walked to the cabinet and took out a plate.	s28-d46	662	1167	pineapple	1182
+s28-d46_3_4	He sliced the whole pineapple, and then threw away the ends.	s28-d46	1225	2385	pineapple	2380
+s28-d46_3_5	He cut the peels of the pineapples, sliced them, and placed them on the plate.	s28-d46	2416	8928	pineapple	9024
+s28-d46_3_6	He went to the cabinet, took out a bowl, and place half of pineapple from the plate into the bowl.	s28-d46	9017	9551	pineapple	9542
+s28-d46_3_7	He finished cutting the peels off the pineapple, sliced them, and placed them in the bowl.	s28-d46	9229	10980	pineapple	11018
+s28-d46_4_1	The person takes out a cutting board from the drawer.	s28-d46	152	295	pineapple	300
+s28-d46_4_2	The person takes out a knife from the drawer.	s28-d46	324	386	pineapple	388
+s28-d46_4_3	The person takes a pineapple from the pantry.	s28-d46	415	630	pineapple	574
+s28-d46_4_4	The person procures a plate from the cabinet.	s28-d46	662	1167	pineapple	1160
+s28-d46_4_5	The person cuts the pineapples into slices.	s28-d46	1225	2236	pineapple	2300
+s28-d46_4_6	The person throws the bottom and top of the pineapple in the wastebin.	s28-d46	2265	2385	pineapple	2388
+s28-d46_4_7	The person cuts away the rinds from the pineapple slices and then chops it up and puts it on a plate.  Three quarters of the way through he realizes the plate is too small and gets a bowl from the pantry which he proceeds to fill as well.	s28-d46	9618	10980	pineapple	10990
+s28-d46_5_1	The person gets out a cutting board.	s28-d46	152	295	pineapple	294
+s28-d46_5_2	The person gets out a knife.	s28-d46	324	386	pineapple	394
+s28-d46_5_3	The person gets out a pineapple.	s28-d46	415	630	pineapple	634
+s28-d46_5_4	The person cuts off the bottom of the pineapple.	s28-d46	662	781	pineapple	774
+s28-d46_5_5	The person gets out a plate.	s28-d46	869	1167	pineapple	1168
+s28-d46_5_6	The person cuts the pineapple into slices and throws away the top and bottom.	s28-d46	1225	2385	pineapple	2382
+s28-d46_5_7	The person cuts the edge off of all but two of the slices, cuts the slices into eighths and puts them on the plate.	s28-d46	2416	8928	pineapple	9036
+s28-d46_5_8	The person gets out a bowl.	s28-d46	9017	9204	pineapple	9214
+s28-d46_5_9	The person scrapes some pineapple pieces into the bowl.	s28-d46	9229	9551	pineapple	9572
+s28-d46_5_10	The person cuts up the remaining pineapple slices and puts them in the bowl.	s28-d46	2416	10980	pineapple	11040
+s28-d46_7_1	He gets a cutting board and knife.	s28-d46	152	386	pineapple	394
+s28-d46_7_2	He gets the pineapple.	s28-d46	415	630	pineapple	628
+s28-d46_7_3	He gets a plate.	s28-d46	662	1167	pineapple	1168
+s28-d46_7_4	He slices the pineapple and throws away the top.	s28-d46	1225	2385	pineapple	2364
+s28-d46_7_5	For each slice, he removes the outside, slices it and puts it aside.	s28-d46	9618	10980	pineapple	10998
+s28-d46_8_1	He took out cutting board	s28-d46	152	295	pineapple	280
+s28-d46_8_2	He took out knife	s28-d46	324	386	pineapple	382
+s28-d46_8_3	He took out pineapple	s28-d46	415	630	pineapple	614
+s28-d46_8_4	He cut off bottom of pineapple	s28-d46	662	781	pineapple	786
+s28-d46_8_5	He took out plate	s28-d46	869	1167	pineapple	1124
+s28-d46_8_6	He sliced pineapple	s28-d46	1225	2236	pineapple	2244
+s28-d46_8_7	He threw out scraps	s28-d46	2265	2385	pineapple	2376
+s28-d46_8_8	He cut off pineapple skin	s28-d46	2416	8928	pineapple	9036
+s28-d46_9_1	He gets a knife and a cutting board.	s28-d46	152	386	pineapple	478
+s28-d46_9_2	He puts a pineapple on the cutting board.	s28-d46	415	630	pineapple	616
+s28-d46_9_3	He cuts off the end of the pineapple.	s28-d46	662	781	pineapple	870
+s28-d46_9_4	He gets a plate.	869	1167
+s28-d46_9_5	He cuts the pineapple.	869	1167
+s28-d46_9_6	He cuts off the skin of each slice.	s28-d46	1225	4269	pineapple	4380
+s28-d46_9_7	He cuts each slice into small pieces.	s28-d46	4327	5789	pineapple	5812
+s28-d46_10_1	He gets a cutting board and knife.	s28-d46	152	386	pineapple	394
+s28-d46_10_2	He gets a pineapple.	s28-d46	415	630	pineapple	644
+s28-d46_10_3	He gets a plate.	s28-d46	662	1167	pineapple	1204
+s28-d46_10_4	He slices the pineapple and discards the ends.	s28-d46	1225	2385	pineapple	2386
+s28-d46_10_5	He removes the skin from the slices and chops them up.	s28-d46	2416	10980	pineapple	11008
+s28-d46_11_1	The person gets out a cutting board.	s28-d46	152	295	pineapple	314
+s28-d46_11_2	The person gets out a knife.	s28-d46	324	386	pineapple	436
+s28-d46_11_3	The person gets a pineapple out of the cupboard.	s28-d46	415	630	pineapple	626
+s28-d46_11_4	The person cuts off the bottom of the pineapple.	s28-d46	662	781	pineapple	856
+s28-d46_11_5	The person gets out a white plate.	s28-d46	869	1167	pineapple	1176
+s28-d46_11_6	The person slices the pineapple into 9 slices.	s28-d46	1225	2236	pineapple	2282
+s28-d46_11_7	The person throws away the bottom and top of the pineapple.	s28-d46	2265	2385	pineapple	2410
+s28-d46_11_8	The person trims the skin off seven of the pineapple slices, cuts them into 8 triangles each and puts them on the plate.	s28-d46	2416	8928	pineapple	8996
+s28-d46_11_9	The person gets out a small bowl.	s28-d46	5835	9204	pineapple	9202
+s28-d46_11_10	The person transfers some of the pineapple from the plate to the bowl.	s28-d46	9229	9551	pineapple	9552
+s28-d46_11_11	The person finishes trimming and cutting the last two slices; he does not even core the pineapple!!!  Who eats the core??	s28-d46	9017	10980	pineapple	11064
+s28-d46_12_1	He took out cutting board	s28-d46	152	295	pineapple	314
+s28-d46_12_2	He took out knife	s28-d46	324	386	pineapple	386
+s28-d46_12_3	He took out pineapple	s28-d46	415	630	pineapple	563
+s28-d46_12_4	He cut off bottom of pineapple	s28-d46	662	781	pineapple	853
+s28-d46_12_5	He took out plate	s28-d46	869	1167	pineapple	1129
+s28-d46_12_6	He sliced pineapple	s28-d46	1225	2236	pineapple	2275
+s28-d46_12_7	He threw out pineapple scraps	s28-d46	2265	2385	pineapple	2385
+s28-d46_12_8	He cut up pineapple	s28-d46	2416	8928	pineapple	9037
+s28-d46_12_9	He put pineapple in bowl	s28-d46	9017	9551	pineapple	9557
+s28-d46_13_1	The person takes out a cutting board and knife.	s28-d46	152	386	pineapple	394
+s28-d46_13_2	The person takes out a pineapple and plate from the cupboard.	s28-d46	415	1167	pineapple	1240
+s28-d46_13_3	The person cuts the pineapple into circular slices from the bottom of the pineapple to the top.	s28-d46	1225	2236	pineapple	2306
+s28-d46_13_4	The person throws away the remaining stem of the fruit.	s28-d46	2265	2385	pineapple	2412
+s28-d46_13_5	The person cuts the skin off each slice and cuts each slice into 8 triangular pieces, putting the pieces on the plate until it is full.	s28-d46	2416	8928	pineapple	8976
+s28-d46_13_6	The person takes out a bowl and scoops about half of the pineapple pieces into the bowl.	s28-d46	9017	9551	pineapple	9560
+s28-d46_13_7	The person cuts the next slice in the same manner and puts the pieces in the bowl.	s28-d46	9618	10190	pineapple	10158
+s28-d46_13_8	The person cuts the skin off of the last slice and cuts it into rectangular chunks, then puts them in the bowl.	9618	10980
+s28-d46_13_9	The person begins to pick up the pieces of skin.	9618	10980
+s28-d46_14_1	She took out cutting board	s28-d46	152	295	pineapple	295
+s28-d46_14_2	He took out knife	s28-d46	324	386	pineapple	382
+s28-d46_14_3	He took out pineapple	s28-d46	415	630	pineapple	564
+s28-d46_14_4	He cut bottom of pineapple	s28-d46	662	781	pineapple	843
+s28-d46_14_5	He took out plate	s28-d46	869	1167	pineapple	1124
+s28-d46_14_6	He sliced pineapple	s28-d46	1225	2236	pineapple	2239
+s28-d46_14_7	He threw away scraps	s28-d46	2265	2385	pineapple	2362
+s28-d46_14_8	He diced up pineapple	s28-d46	2416	5930	pineapple	6071
+s28-d46_16_1	The person gets out a cutting board.	s28-d46	152	295	pineapple	293
+s28-d46_16_2	The person gets out a knife.	s28-d46	324	386	pineapple	387
+s28-d46_16_3	The person gets out a pineapple.	s28-d46	415	630	pineapple	615
+s28-d46_16_4	The person gets out a plate.	s28-d46	662	1167	pineapple	1178
+s28-d46_16_5	The person cuts the pineapple into slices.	s28-d46	1225	2236	pineapple	2262
+s28-d46_16_6	The person throws away the top and bottom of the pineapple.	s28-d46	2265	2385	pineapple	2383
+s28-d46_16_7	The person trims the edges off of each slice, cuts the slice into eighths and pus the pieces on the plate.	s28-d46	6128	8928	pineapple	8994
+s28-d46_16_8	The person gets out a bowl.	s28-d46	9017	9204	pineapple	9188
+s28-d46_16_9	The person scoops some pineapple pieces into the bowl.	s28-d46	9229	9551	pineapple	9553
+s28-d46_16_10	The person trims the last two slices, cuts them up and puts the pieces in the bowl.	s28-d46	10275	10980	pineapple	10996
+s28-d46_17_1	The man enters the kitchen and removes a cutting board and knife from the cabinet.	s28-d46	152	386	pineapple	389
+s28-d46_17_2	 The man then walk over to retrieve a pineapple.	s28-d46	415	630	pineapple	602
+s28-d46_17_3	The man uses the knife to slice off the end of the pineapple.	s28-d46	662	781	pineapple	786
+s28-d46_17_4	The man then walks over to get a plate from the cabinet.	s28-d46	869	1167	pineapple	1166
+s28-d46_17_5	 The man returns from the cabinet and begins to cut medium size slices from the pineapple until he reaches the top.	s28-d46	1225	2236	pineapple	2265
+s28-d46_17_6	 The man disposes the top of the pineapple in the trash.	s28-d46	2265	2385	pineapple	2373
+s28-d46_17_7	The man takes one slice of the pineapple at a time and carefully cuts off the rough ends, then dices it into eighths before moving the diced pieces to a plate.	s28-d46	2416	8928	pineapple	9018
+s28-d46_17_8	The man retrieves a bowl from the cabinet to put some of the diced pineapple pieces into because the plate is full.	s28-d46	9017	9551	pineapple	9557
+s28-d46_17_9	The man continues to cut off the edges of the remaining two slices of pineapple and dices them into eighths.	9618	10980
+s28-d46_17_10	 The man places the knife down and begins to clean up the scraps.	9618	10980
+s28-d46_18_1	Take out a cutting board, knife, and the pineapple.	s28-d46	152	630	pineapple	658
+s28-d46_18_2	Cut off the base of the pineapple 1/2 inch from the bottom and take out a plate.	s28-d46	662	1167	pineapple	1270
+s28-d46_18_3	Slice the pineapple into 1/2 inch disks starting from the bottom, and stopping just before the top.  Throw away the bottom and top.	s28-d46	1225	2385	pineapple	2410
+s28-d46_18_4	Cut around each of the pineapple disks to cut off the peel, then cut the disk into eight wedges like a pizza.	s28-d46	2416	3824	pineapple	3814

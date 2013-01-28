@@ -1,0 +1,69 @@
+137	191	open	hand		cupboard
+196	458	take out	hand	onion	,cupboard
+480	722	take out	hand	knife	,drawer
+751	806	open	hand		drawer
+806	835	move	hand	onion	,counter
+860	1811	peel	knife	onion	
+1812	1864	move	hand	onion	,sink
+1882	2842	peel	hand	onion	
+2849	2879	move	hand	onion	,sink
+2909	3250	take out	hand	cutting board	counter,drawer
+3256	3285	close	hand		drawer
+3307	3346	move	hand	onion	cutting board,sink
+3357	3571	cut	knife	onion	cutting board
+3582	3733	chop	knife	onion	cutting board
+3775	3832	cut	knife	onion	cutting board
+3849	4618	chop	knife	onion	cutting board
+4667	4778	slice	knife	onion	cutting board
+4804	5847	chop	knife	onion	cutting board
+5887	6039	take out	hand	pan	drawer,stove
+6088	6232	add	cutting board,knife	onion	cutting board,pan
+6249	6291	move	hand	onion	cutting board,pan
+6300	6348	chop	knife	onion	cutting board
+6355	6376	move	hand	onion	counter,cutting board
+6398	6430	move	hand	onion	cutting board,sink
+6439	6635	slice	knife	onion	cutting board
+6640	6665	move	hand	onion	counter,cutting board
+6675	6853	slice	knife	onion	cutting board
+6859	7930	chop	knife	onion	cutting board
+7948	8082	gather	hand	onion	cutting board
+8138	8283	slice	knife	onion	cutting board
+8292	8904	chop	knife	onion	cutting board
+8938	9042	throw in garbage	hand	onion	
+9095	9214	add	cutting board,knife	onion	cutting board,pan
+9217	9253	spread	knife	onion	pan
+9274	9371	move	hand	onion	cutting board,pan
+9431	9474	turn on	hand	stove	
+9508	10249	change temperature	hand	stove	
+10285	10382	take out	hand	bottle	,cupboard
+10394	10437	screw	hand	bottle	
+10452	10575	pour	bottle	oil	bottle,pan
+10599	10742	change temperature	hand	stove	
+10751	10807	screw	hand	bottle	
+10812	10910	put in	hand	bottle	,cupboard
+10935	11083	take out	hand	spatula	,drawer
+11106	11180	open	hand		drawer
+11185	11773	stir	spatula	onion	pan
+11846	11969	throw in garbage	hand,knife	onion	
+11990	12069	wash	hand	knife	
+12133	12203	pour	bottle	detergent	bottle,sponge
+12235	12312	wash	sponge	knife	
+12323	12712	wash	hand,sponge	knife	
+12718	12782	dry	sponge	knife	
+12816	13128	stir	spatula	onion	pan
+13177	13258	put in	hand	knife	,drawer
+13296	13409	hang up	hand	sponge	,faucet
+13613	13714	change temperature	hand	stove	
+13781	13823	change temperature	hand	stove	
+13909	15066	stir	spatula	onion	pan
+15307	15546	stir	spatula	onion	pan
+15837	17325	stir	spatula	onion	pan
+17340	17414	change temperature	hand	stove	
+17428	17959	stir	spatula	onion	pan
+17995	18117	change temperature	hand	stove	
+18160	18496	stir	spatula	onion	pan
+18589	18608	move	hand	cutting board	counter
+18626	18673	move	hand	cutting board	counter,sink
+18697	19162	wash	hand,sponge	spatula	
+19203	19641	wash	hand,sponge	cutting board	
+19796	19861	dry	towel	hand	

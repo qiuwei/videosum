@@ -1,0 +1,157 @@
+s23-d51_1_1	He takes a cutting board and butcher knife out of a drawer.	s23-d51	225	468	beans	463
+s23-d51_1_2	He takes a package of green beans out of the fridge.	s23-d51	468	912	beans	910
+s23-d51_1_3	He washes green beans in the sink.	s23-d51	920	2818	beans	2780
+s23-d51_1_4	He chops the beans into small pieces.	s23-d51	2818	5808	beans	5807
+s23-d51_1_5	He gets a plate out of the cupboard.	s23-d51	5808	6056	beans	6050
+s23-d51_1_6	He rinses the plate off under the tap.	s23-d51	6122	6235	beans	6241
+s23-d51_1_7	He puts the beans on to the plate.	s23-d51	6361	6738	beans	6763
+s23-d51_2_1	The person gets out a cutting board.	s23-d51	225	339	beans	361
+s23-d51_2_2	The person gets out a knife.	s23-d51	356	500	beans	521
+s23-d51_2_3	The person gets out a bowl.	s23-d51	500	696	beans	695
+s23-d51_2_4	The person gets out some beans.	s23-d51	737	2237	beans	2241
+s23-d51_2_5	The person rinses the beans.	s23-d51	2277	3060	beans	3065
+s23-d51_2_6	The person cuts off the tips of the beans and throws them away.	s23-d51	3149	4396	beans	4417
+s23-d51_2_7	The person chops up the beans.	s23-d51	4410	5808	beans	5829
+s23-d51_2_8	The person gets out a plate.	s23-d51	5808	6056	beans	6117
+s23-d51_2_9	The person rinses the plate.	s23-d51	6122	6235	beans	6299
+s23-d51_2_10	The person puts the beans on the plate.	s23-d51	6361	6738	beans	6773
+s23-d51_3_1	He took out cutting board	s23-d51	225	339	beans	335
+s23-d51_3_2	He took out knife	s23-d51	356	468	beans	483
+s23-d51_3_3	He took out bowl	s23-d51	468	696	beans	695
+s23-d51_3_4	He took out beans	s23-d51	737	912	beans	921
+s23-d51_3_5	He put back unused beans	s23-d51	920	2237	beans	2229
+s23-d51_3_6	He washed beans	s23-d51	2277	3060	beans	3089
+s23-d51_3_7	He cut off tips of beans	s23-d51	3149	4155	beans	4177
+s23-d51_3_8	He threw away tips	s23-d51	4284	4441	beans	4453
+s23-d51_3_9	He diced beans	s23-d51	4468	5851	beans	5847
+s23-d51_4_1	A men enters the kitchen, removes a cutting board, a knife, a bowl from the drawer placing the cutting board and knife on the counter and the bowl in the sink.	s23-d51	225	696	beans	729
+s23-d51_4_2	He retrieves a package of beans from the refrigerator, places a portion of the beans in the bowl and returns the rest to the refigerator.	s23-d51	737	2237	beans	2267
+s23-d51_4_3	He washes the beans in the sink and places them on the cutting board.	s23-d51	2277	3060	beans	3097
+s23-d51_4_4	He cuts both ends off of the green beans.	s23-d51	3149	4441	beans	4455
+s23-d51_4_5	He cuts the length of the green beans crosswise into bite size pieces.	s23-d51	4468	5851	beans	5897
+s23-d51_4_6	He gets a plate from the cupboard, rinses it in the sink and transfers the freshly cut beans from the cutting board to the plate.	s23-d51	5924	6738	beans	6827
+s23-d51_5_1	The man removes a cutting board and knife from the drawer and places them on the counter.	s23-d51	225	500	beans	507
+s23-d51_5_2	He removes a bowl from the drawer and places it in the sink.	s23-d51	500	696	beans	709
+s23-d51_5_3	He gets the vegetables from the refrigerator.	s23-d51	737	946	beans	939
+s23-d51_5_4	He places the vegetables in the bowl that is in the sink.	s23-d51	946	2043	beans	2067
+s23-d51_5_5	He returns the unused vegetables to the refrigerator.	s23-d51	2059	2237	beans	2235
+s23-d51_5_6	He rinses the vegetables in the sink.	s23-d51	2277	3060	beans	3069
+s23-d51_5_7	He cuts both ends off of all the vegetables.	s23-d51	3149	4155	beans	4167
+s23-d51_5_8	He puts the cuttings into the recycling bin.	s23-d51	4284	4396	beans	4409
+s23-d51_5_9	He slices all of the vegetables into small pieces.	s23-d51	4410	5851	beans	5855
+s23-d51_5_10	He gets a plate from the cabinet.	s23-d51	5924	6235	beans	6273
+s23-d51_5_11	He places all of the cut vegetables onto the plate.	s23-d51	6361	6738	beans	6821
+s23-d51_6_1	He gets a cutting board and knife.	s23-d51	225	468	beans	481
+s23-d51_6_2	He gets a bowl and the beans.	s23-d51	468	912	beans	925
+s23-d51_6_3	He selects other beans from another package.	s23-d51	920	2237	beans	2217
+s23-d51_6_4	He rinses the beans in the bowl.	s23-d51	2277	3060	beans	3077
+s23-d51_6_5	He cuts the ends from the beans and discards them.	s23-d51	3149	4396	beans	4405
+s23-d51_6_6	He chops the beans.	s23-d51	4410	5851	beans	5841
+s23-d51_6_7	He gets a plate and puts the beans on it.	s23-d51	5924	6738	beans	6741
+s23-d51_7_1	The person gets out a cutting board.	s23-d51	225	339	beans	361
+s23-d51_7_2	The person gets out a knife.	s23-d51	356	500	beans	485
+s23-d51_7_3	The person gets out a bowl.	s23-d51	500	696	beans	705
+s23-d51_7_4	The person gets out some beans and rinses them in the bowl.	s23-d51	737	3060	beans	3057
+s23-d51_7_5	The person cuts off the tips of the beans and throws them away.	s23-d51	3149	4441	beans	4437
+s23-d51_7_6	The person chops up the beans.	s23-d51	4468	5851	beans	5867
+s23-d51_7_7	The person gets out a plate.	s23-d51	5924	6056	beans	6105
+s23-d51_7_8	The person rinses the plate.	s23-d51	6122	6235	beans	6285
+s23-d51_7_9	The person puts the beans on the plate.	s23-d51	6361	6738	beans	6739
+s23-d51_8_1	the person gets a cutting board, sharp knife and a metal bowl	s23-d51	225	696	beans	811
+s23-d51_8_2	the person washes the Fresh Broad Beans in the metal bowl	s23-d51	737	3060	beans	3119
+s23-d51_8_3	the person cuts the ends off of the Fresh Broad Beans and discards them	s23-d51	3149	4441	beans	4451
+s23-d51_8_4	the person slices the Fresh Broad Beans	s23-d51	5924	6056	beans	6125
+s23-d51_8_5	the person gets a plate	s23-d51	6122	6235	beans	6361
+s23-d51_8_6	the person places the sliced Fresh Broad Beans on the plate	s23-d51	6361	6738	beans	6827
+s23-d51_9_1	Get out a cutting board, a knife, a bowl, and fresh broad beans.	s23-d51	225	946	beans	937
+s23-d51_9_2	Rinse/wash beans thoroughly with water.	s23-d51	946	2237	beans	2393
+s23-d51_9_3	Chop both ends off each bean, cutting two beans at a time.	s23-d51	2277	3660	beans	3687
+s23-d51_9_4	Discard ends of beans.	s23-d51	3660	4396	beans	4353
+s23-d51_9_5	Lay two beans out at a time, and cut into small pieces.	s23-d51	4410	4805	beans	4913
+s23-d51_9_6	Put beans on a plate, and enjoy!	s23-d51	4468	6738	beans	6697
+s23-d51_10_1	He goes into drawer and takes out a cutting board and knife.	s23-d51	225	500	beans	519
+s23-d51_10_2	He goes into another drawer and takes out a bowl and places it in the sink.	s23-d51	500	696	beans	713
+s23-d51_10_3	He goes to the refrigerator and takes out some beans.	s23-d51	737	946	beans	953
+s23-d51_10_4	He takes some beans out of the package and places them in the bowl.	s23-d51	946	1401	beans	1445
+s23-d51_10_5	He returns to the refrigerator and takes out another package of beans.	s23-d51	1420	1672	beans	1679
+s23-d51_10_6	He cuts open the package and takes out some beans and places them in the bowl.	s23-d51	1780	2043	beans	2105
+s23-d51_10_7	He goes to the refrigerator and puts the beans away.	s23-d51	2059	2237	beans	2219
+s23-d51_10_8	He goes to the sink and washes the beans.	s23-d51	2277	3060	beans	3085
+s23-d51_10_9	He places the beans on the cutting board and chops off the ends.	s23-d51	3149	4155	beans	4185
+s23-d51_10_10	He picks up the ends and throws them away and rinses his hands.	s23-d51	4284	4441	beans	4467
+s23-d51_10_11	He then dices the beans into small pieces.	s23-d51	4468	5851	beans	5899
+s23-d51_10_12	He walks to the cupboard and gets a plate and rinses it off.	s23-d51	4852	6235	beans	6283
+s23-d51_10_13	He picks up the beans and places them onto the plate.	s23-d51	6361	6738	beans	6827
+s23-d51_11_1	Takes cutting board out of drawer.	s23-d51	225	339	beans	353
+s23-d51_11_2	Takes knife out of drawer.	s23-d51	356	468	beans	481
+s23-d51_11_3	takes bowl out of drawer.	s23-d51	468	696	beans	707
+s23-d51_11_4	Takes beans out of refrigerator.	s23-d51	737	946	beans	943
+s23-d51_11_5	Washes beans in sink.	s23-d51	946	3060	beans	3059
+s23-d51_11_6	Chops the ends off of the beans.	s23-d51	3149	4155	beans	4185
+s23-d51_11_7	Puts bean ends in the trash.	s23-d51	4284	4396	beans	4401
+s23-d51_11_8	Slices up the beans into pieces.	s23-d51	4410	5851	beans	5839
+s23-d51_11_9	Places bean pieces on a plate.	s23-d51	5924	6738	beans	6753
+s23-d51_12_1	He took out cutting board	s23-d51	225	339	beans	346
+s23-d51_12_2	He took out knife	s23-d51	356	468	beans	480
+s23-d51_12_3	He took out bowl	s23-d51	468	696	beans	679
+s23-d51_12_4	He took out beans	s23-d51	737	912	beans	926
+s23-d51_12_5	He took out more beans	s23-d51	920	1672	beans	1673
+s23-d51_12_6	He put back unused beans	s23-d51	1780	2237	beans	2245
+s23-d51_12_7	He washed beans	s23-d51	2277	2961	beans	2995
+s23-d51_12_8	He cut off top of beans	s23-d51	2976	4135	beans	4144
+s23-d51_12_9	He threw away top of beans	s23-d51	4136	4396	beans	4424
+s23-d51_12_10	He diced beans	s23-d51	4410	5851	beans	5873
+s23-d51_12_11	He took out plate	s23-d51	5924	6056	beans	6097
+s23-d51_12_12	He put beans on plate	s23-d51	6122	6738	beans	6740
+s23-d51_13_1	The person gets out a cutting board.	s23-d51	225	339	beans	355
+s23-d51_13_2	The person gets out a knife.	s23-d51	356	500	beans	499
+s23-d51_13_3	The person gets out a bowl.	s23-d51	500	696	beans	691
+s23-d51_13_4	The person gets out some beans and rinses them in the bowl.	s23-d51	737	3060	beans	3091
+s23-d51_13_5	The person cuts off the tips of the beans and throws them away.	s23-d51	3149	4441	beans	4429
+s23-d51_13_6	The person chops up the beans.	s23-d51	4468	5851	beans	5839
+s23-d51_13_7	The person gets out a plate.	s23-d51	5924	6056	beans	6081
+s23-d51_13_8	The person rinses the plate.	s23-d51	6122	6235	beans	6309
+s23-d51_13_9	The person puts the beans on the plate.	s23-d51	6361	6738	beans	6753
+s23-d51_14_1	The man gets a cutting board, knife, and metal bowl from the drawers.	s23-d51	225	696	beans	689
+s23-d51_14_2	The man retrieves a pack of fresh broad beans from the refrigerator.	s23-d51	737	912	beans	923
+s23-d51_14_3	The man chooses what broad beans he wants and places them in the metal bowl.	s23-d51	920	2237	beans	2252
+s23-d51_14_4	He carefully rinses the beans in the sink.	s23-d51	2277	3060	beans	3078
+s23-d51_14_5	He takes two beans at a time and cuts off both ends of each one.	s23-d51	3149	4155	beans	4171
+s23-d51_14_6	He takes two beans at a time and finely dices them with the knife on the cutting board.	s23-d51	4284	5808	beans	5803
+s23-d51_14_7	He retrieves a plate from the cabinet, then rinses it in the sink before placing the finely diced beans on the plate.	5924	6738
+s23-d51_14_8	He ends by picking up the cutting board and knife from the counter.	5924	6738
+s23-d51_15_1	Take out your cutting board and place it onto the surface in front of you.	s23-d51	225	339	beans	344
+s23-d51_15_2	Locate the knife you will be cutting the broad beans with and place it onto the surface in front of you.	s23-d51	356	468	beans	480
+s23-d51_15_3	Find a mixing bowl and place it into the sink.	s23-d51	468	696	beans	712
+s23-d51_15_4	Take the fresh broad beans and place them into mixing bowl.	s23-d51	737	2237	beans	2303
+s23-d51_15_5	Run fresh broad beans under water.	s23-d51	2277	2818	beans	2847
+s23-d51_16_1	The person gets out a cutting board.	s23-d51	225	339	beans	358
+s23-d51_16_2	The person gets out a knife.	s23-d51	356	468	beans	470
+s23-d51_16_3	The person gets out a bowl.	s23-d51	468	696	beans	668
+s23-d51_16_4	The person gets out some beans and puts them in the bowl.	s23-d51	737	2043	beans	2132
+s23-d51_16_5	The person rinses the beans in the bowl.	s23-d51	2818	3060	beans	3062
+s23-d51_16_6	The person cuts off the tips of the beans.	s23-d51	3149	4155	beans	4181
+s23-d51_16_7	The person throws the tips of the beans away.	s23-d51	4284	4441	beans	4437
+s23-d51_16_8	The person cuts the beans into small pieces.	s23-d51	4468	5808	beans	5828
+s23-d51_16_9	The person gets out a plate.	s23-d51	5808	6056	beans	6101
+s23-d51_16_10	The person rinses the plate.	s23-d51	6122	6235	beans	6289
+s23-d51_16_11	The person puts the beans on the plate.	s23-d51	6361	6738	beans	6748
+s23-d51_17_1	The person sets up chopping board, knife and stainless steel bowl.	s23-d51	225	696	beans	709
+s23-d51_17_2	The person takes the broad beans out of fridge and places in bowl while checking for freshness.	s23-d51	737	2043	beans	2112
+s23-d51_17_3	The person vigorously washes the beans under running water.	s23-d51	2059	3060	beans	3051
+s23-d51_17_4	The person chops of both ends of each bean.	s23-d51	3149	4155	beans	4193
+s23-d51_17_5	The person chops the beans into 1/4 to 1/2 inch segments.	s23-d51	4284	5851	beans	5916
+s23-d51_17_6	The person places chopped beans on freshly rinsed plate.	s23-d51	5808	6738	beans	6742
+s23-d51_18_1	The person takes a cutting board from a drawer and puts it on the countertop.	s23-d51	225	339	beans	345
+s23-d51_18_2	The person takes a knife from the drawer.	s23-d51	356	500	beans	487
+s23-d51_18_3	The person takes a bowl from a drawer and places it in the sink.	s23-d51	500	696	beans	717
+s23-d51_18_4	The person takes a package of bean stalks from the fridge.	s23-d51	737	912	beans	919
+s23-d51_18_5	The person removes some of the bean stalks from the package and places them into the bowl in the sink.	s23-d51	920	1511	beans	1481
+s23-d51_18_6	The person puts the other package of bean stalks on the counter and removes a second package from the fridge.	s23-d51	1529	1672	beans	1627
+s23-d51_18_7	The person removes some bean stalks from the second package and places them into the bowl.	s23-d51	1780	2043	beans	2085
+s23-d51_18_8	The person places the second package back into the fridge.	s23-d51	2059	2237	beans	2247
+s23-d51_18_9	The person runs the sink into the bowl and washes the bean stalks.	s23-d51	2059	3060	beans	3065
+s23-d51_18_10	The person cuts the stems of each stalk on the cutting board.	s23-d51	3149	4155	beans	4205
+s23-d51_18_11	The person throws the removed stalks into the trash.	s23-d51	4284	4396	beans	4407
+s23-d51_18_12	The person dices the bean stalks on the cutting board.	s23-d51	4410	5851	beans	5903
+s23-d51_18_13	The person gets a plate from the cabinet and places the diced bean stalks upon it.	s23-d51	5924	6738	beans	6727

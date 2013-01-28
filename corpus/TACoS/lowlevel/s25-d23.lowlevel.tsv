@@ -1,0 +1,15 @@
+93	298	take out	hand	carrot	fridge
+348	478	take out	hand	cutting board	counter,drawer
+478	530	close	hand		drawer
+549	661	take out	hand	knife	cutting board,drawer
+743	911	wash	hand	carrot	
+982	1090	cut	knife	carrot	cutting board
+1164	1257	open	hand		drawer
+1679	1718	close	hand		drawer
+1746	1799	throw in garbage	hand	carrot	
+1854	2011	wash	hand	carrot	
+2011	2045	shake	hand	carrot	
+2083	2924	slice	knife	carrot	cutting board
+2924	2959	scratch off	hand	carrot	cutting board,knife
+3000	3696	slice	knife	carrot	cutting board
+3702	3775	scratch off	hand	carrot	cutting board,knife

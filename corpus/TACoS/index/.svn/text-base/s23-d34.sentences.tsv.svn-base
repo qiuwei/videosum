@@ -1,0 +1,142 @@
+s23-d34_1_1	He took out cutting board	s23-d34	211	339	ginger	345
+s23-d34_1_2	He took out knife	s23-d34	344	472	ginger	481
+s23-d34_1_3	He took out ginger	s23-d34	520	763	ginger	731
+s23-d34_1_4	He took out plate	s23-d34	784	891	ginger	930
+s23-d34_1_5	He cleaned plate	s23-d34	921	1129	ginger	1130
+s23-d34_1_6	He cut off piece of ginger	s23-d34	1140	1360	ginger	1445
+s23-d34_1_7	He put back leftover ginger	s23-d34	1373	1548	ginger	1566
+s23-d34_1_8	He washed ginger	s23-d34	1586	1999	ginger	2016
+s23-d34_1_9	He diced ginger	s23-d34	1999	4772	ginger	4786
+s23-d34_1_10	He put ginger on plate	s23-d34	4818	4922	ginger	4951
+s23-d34_2_1	A man enters the kitchen, removes a cutting board and a knife and places them on the counter.	s23-d34	211	472	ginger	501
+s23-d34_2_2	He removes the ginger from the pantry and places it on the cutting board.	s23-d34	520	763	ginger	835
+s23-d34_2_3	He takes a plate from the cupboard, rinses it in the sink and places in on the counter.	s23-d34	784	1176	ginger	1195
+s23-d34_2_4	He cuts off a portion of the ginger, returns the rest to the pantry and washes the usable portion.	s23-d34	1209	2093	ginger	2067
+s23-d34_2_5	He thinly slices then dices the ginger and transfers it from the cutting board to the plate.	s23-d34	4991	5058	ginger	5229
+s23-d34_4_1	Places cutting board and knife on counter top.	s23-d34	211	472	ginger	479
+s23-d34_4_2	Washes plate.	s23-d34	520	1129	ginger	1091
+s23-d34_4_3	Splits the item in half and returns the other half to the cupboard.	s23-d34	1140	1360	ginger	1377
+s23-d34_4_4	Washes the item.	s23-d34	1373	1999	ginger	2003
+s23-d34_4_5	Cuts the ends of the item and removes them.	s23-d34	1999	2201	ginger	2231
+s23-d34_4_6	Splits the item and begins slicing both halves.	s23-d34	2338	2671	ginger	2699
+s23-d34_4_7	Places the sliced items onto the plate.	s23-d34	2721	4922	ginger	4991
+s23-d34_5_1	Gather cutting board, knife, ginger root and plate.	s23-d34	211	472	ginger	509
+s23-d34_5_2	Soak plate in preparation of receiving diced ginger	s23-d34	520	1176	ginger	1165
+s23-d34_5_3	Cut ginger root in half and return one half to refrigerator	s23-d34	1209	1548	ginger	1491
+s23-d34_5_4	Wash remaining ginger root thoroughly	s23-d34	1586	1619	ginger	1757
+s23-d34_5_5	Using knife, remove edges from ginger root and cut the root in half	s23-d34	1619	2424	ginger	2429
+s23-d34_5_6	Place smooth side of root on the cutting board and cut thin slices of the root	s23-d34	2483	2671	ginger	2593
+s23-d34_5_7	Take the thin slices and cut them into small strips	s23-d34	2721	3230	ginger	3223
+s23-d34_5_8	Place the thin slices on the wet dish	s23-d34	3230	4772	ginger	4809
+s23-d34_6_1	He gets a cutting board.	s23-d34	211	339	ginger	337
+s23-d34_6_2	He gets a knife.	s23-d34	344	472	ginger	475
+s23-d34_6_3	He gets the ginger.	s23-d34	520	763	ginger	715
+s23-d34_6_4	He cuts off a piece of ginger and puts the rest away.	s23-d34	784	1548	ginger	1563
+s23-d34_6_5	He rinses the ginger.	s23-d34	1586	1999	ginger	2011
+s23-d34_6_6	He chops the ginger and puts it on a plate.	s23-d34	4818	4922	ginger	4973
+s23-d34_8_1	He gets out a cutting board and a knife from the drawers and gets out ginger and a plate from the cabinets.	s23-d34	211	891	ginger	937
+s23-d34_8_2	He washes the plate in the sink.	s23-d34	921	1176	ginger	1223
+s23-d34_8_3	He cuts off a piece of ginger and puts the rest back in the cupboard.	s23-d34	1209	1548	ginger	1581
+s23-d34_8_4	He washes the ginger in the sink and shakes it along with his hands to dry them off.	s23-d34	1586	2033	ginger	2057
+s23-d34_8_5	He chops small pieces of the ginger, chops the ginger into fine pieces, and uses the knife to pick them up and put them on the plate.	s23-d34	2101	5058	ginger	5229
+s23-d34_9_1	The person gets out a cutting board.	s23-d34	211	339	ginger	345
+s23-d34_9_2	The person gets out a knife.	s23-d34	344	472	ginger	473
+s23-d34_9_3	The person gets out some ginger.	s23-d34	520	763	ginger	751
+s23-d34_9_4	The person gets out a plate.	s23-d34	784	891	ginger	905
+s23-d34_9_5	The person rinses the plate.	s23-d34	921	1176	ginger	1161
+s23-d34_9_6	The person cuts off a piece of ginger.	s23-d34	1209	1360	ginger	1397
+s23-d34_9_7	The person puts the rest of the ginger away.	s23-d34	1373	1548	ginger	1577
+s23-d34_9_8	The person rinses the ginger.	s23-d34	1586	2033	ginger	2041
+s23-d34_9_9	The person chops up the ginger and puts it on the plate.	s23-d34	2033	4922	ginger	4925
+s23-d34_10_1	He gets a cutting board.	s23-d34	211	339	ginger	335
+s23-d34_10_2	She gets a knife.	s23-d34	344	472	ginger	461
+s23-d34_10_3	He gets the ginger.	s23-d34	520	763	ginger	691
+s23-d34_10_4	He cuts off a chunk of ginger.	s23-d34	784	1360	ginger	1395
+s23-d34_10_5	He puts the rest of the ginger away.	s23-d34	1373	1548	ginger	1557
+s23-d34_10_6	He rinses the ginger.	s23-d34	1586	2033	ginger	2017
+s23-d34_10_7	He chops the ginger and puts it on a plate.	s23-d34	4991	5058	ginger	5061
+s23-d34_11_1	He gets a cutting board and knife.	s23-d34	211	472	ginger	479
+s23-d34_11_2	He grabs some ginger.	s23-d34	520	763	ginger	775
+s23-d34_11_3	He cuts off a bit of ginger and puts the rest away.	s23-d34	784	1548	ginger	1569
+s23-d34_11_4	He rinses the ginger.	s23-d34	1586	2033	ginger	2035
+s23-d34_11_5	He chops the ginger and puts it on a plate.	s23-d34	2033	4922	ginger	4993
+s23-d34_12_1	He took out cutting board	s23-d34	211	339	ginger	338
+s23-d34_12_2	He took out knife	s23-d34	344	472	ginger	476
+s23-d34_12_3	He took out ginger	s23-d34	520	763	ginger	704
+s23-d34_12_4	He took out plate	s23-d34	784	891	ginger	901
+s23-d34_12_5	He washed plate	s23-d34	921	1129	ginger	1138
+s23-d34_12_6	He cut off piece of ginger	s23-d34	1140	1360	ginger	1394
+s23-d34_12_7	He put back unused ginger	s23-d34	1373	1548	ginger	1551
+s23-d34_12_8	He washed ginger	s23-d34	1586	2033	ginger	2020
+s23-d34_12_9	He chopped ginger	s23-d34	2033	3230	ginger	3233
+s23-d34_12_10	He put ginger on plate	s23-d34	2033	4922	ginger	4948
+s23-d34_13_1	The person takes out a cutting board.	s23-d34	211	339	ginger	355
+s23-d34_13_2	The person chooses a knife to use.	344	472
+s23-d34_13_3	The person opens cabinet.	344	472
+s23-d34_13_4	The person takes out piece of ginger.	s23-d34	520	763	ginger	757
+s23-d34_13_5	The person takes out a plate.	s23-d34	784	891	ginger	889
+s23-d34_13_6	The person washes the plate.	s23-d34	921	1129	ginger	1147
+s23-d34_13_7	The person cuts off a piece of the ginger.	s23-d34	1140	1360	ginger	1369
+s23-d34_13_8	The person returns a piece of ginger to the cabinet.	s23-d34	1373	1548	ginger	1543
+s23-d34_13_9	The person washes the remaining piece of ginger.	s23-d34	1586	2033	ginger	2017
+s23-d34_13_10	The person removes unwanted parts of ginger with knife.	s23-d34	2033	2201	ginger	2207
+s23-d34_13_11	The person slices the ginger.	s23-d34	2338	3004	ginger	3011
+s23-d34_13_12	The person chops the slices of ginger to a smaller size.	s23-d34	3039	4772	ginger	4757
+s23-d34_13_13	The person puts the chopped ginger on the plate.	s23-d34	3230	4922	ginger	4875
+s23-d34_13_14	The person throws away the unwanted pieces of ginger in trash.	s23-d34	4991	5058	ginger	5055
+s23-d34_14_1	The person gets out a cutting board.	s23-d34	211	370	ginger	364
+s23-d34_14_2	The person gets out a knife.	s23-d34	373	472	ginger	484
+s23-d34_14_3	The person gets out some ginger.	s23-d34	520	763	ginger	766
+s23-d34_14_4	The person gets out a plate.	s23-d34	784	891	ginger	928
+s23-d34_14_5	The person rinses the plate.	s23-d34	921	1129	ginger	1144
+s23-d34_14_6	The person cuts off a piece of ginger.	s23-d34	1140	1360	ginger	1361
+s23-d34_14_7	The person puts the rest of the ginger away.	s23-d34	1373	1548	ginger	1557
+s23-d34_14_8	The person rinses the ginger.	s23-d34	1586	2033	ginger	2048
+s23-d34_14_9	The person chops the ginger and puts it on the plate.	s23-d34	4818	4922	ginger	4963
+s23-d34_15_1	The person gets out a cutting board.	s23-d34	211	339	ginger	346
+s23-d34_15_2	The person gets out a knife.	s23-d34	344	472	ginger	485
+s23-d34_15_3	The person gets out some ginger.	s23-d34	520	763	ginger	766
+s23-d34_15_4	The person gets out a plate.	s23-d34	784	891	ginger	905
+s23-d34_15_5	The person rinses the plate.	s23-d34	921	1129	ginger	1132
+s23-d34_15_6	The person cuts off a piece of ginger.	s23-d34	1140	1360	ginger	1368
+s23-d34_15_7	The person puts the rest of the ginger back.	s23-d34	1373	1548	ginger	1562
+s23-d34_15_8	The person washes his hands.	s23-d34	1586	2033	ginger	2017
+s23-d34_15_9	The person chops up the ginger and puts it on the plate.	s23-d34	2033	4922	ginger	4926
+s23-d34_16_1	The man gets a cutting board out of the drawer and places it on the counter.	s23-d34	211	339	ginger	351
+s23-d34_16_2	The man gets a knife out of the drawer and places it on the cutting board.	s23-d34	344	472	ginger	488
+s23-d34_16_3	The man gets the ginger out of the cupboard.	s23-d34	520	763	ginger	768
+s23-d34_16_4	The man gets a plate out of the cupboard.	s23-d34	784	891	ginger	930
+s23-d34_16_5	The man rinses the plate.	s23-d34	921	1129	ginger	1114
+s23-d34_16_6	The man cuts off a piece of the ginger.	s23-d34	1140	1360	ginger	1378
+s23-d34_16_7	The man places the rest of the ginger in the cupboard.	s23-d34	1373	1548	ginger	1582
+s23-d34_16_8	The man washes the ginger, scrubbing it well.	s23-d34	1586	1999	ginger	2009
+s23-d34_16_9	The man trims two small knots off of the ginger.	s23-d34	1999	2201	ginger	2213
+s23-d34_16_10	The man minces the ginger.	s23-d34	2338	4772	ginger	4842
+s23-d34_16_11	The man places the minced ginger on the plate.	s23-d34	2033	4922	ginger	4924
+s23-d34_17_1	The person gets out a cutting board	s23-d34	211	370	ginger	359
+s23-d34_17_2	The person gets out a large knife.	s23-d34	373	472	ginger	499
+s23-d34_17_3	The person fetches his ginger.	s23-d34	520	763	ginger	728
+s23-d34_17_4	The person gets a plate from the cabinent	s23-d34	784	891	ginger	907
+s23-d34_17_5	The person rinses the plate with water.	s23-d34	921	1129	ginger	1129
+s23-d34_17_6	The person rinses the ginger in water.	s23-d34	1140	1999	ginger	2013
+s23-d34_17_7	The person cuts the ginger into slices.	s23-d34	1999	3004	ginger	3049
+s23-d34_17_8	The person dices the slices of ginger.	s23-d34	3039	4772	ginger	4834
+s23-d34_17_9	The person scoops the diced ginger onto the plate.	s23-d34	4818	4922	ginger	4922
+s23-d34_18_1	The person takes a cutting board out from a drawer.	s23-d34	211	370	ginger	369
+s23-d34_18_2	The person takes a knife from a drawer and places it onto the cutting board.	s23-d34	373	472	ginger	491
+s23-d34_18_3	The person gets some ginger from the pantry.	s23-d34	520	763	ginger	733
+s23-d34_18_4	The person gets a plate from the cabinet.	s23-d34	784	891	ginger	921
+s23-d34_18_5	The person washes the plate in the sink.	s23-d34	921	1176	ginger	1197
+s23-d34_18_6	The person cuts the ginger in halves and places on segment back into the pantry.	s23-d34	1209	1548	ginger	1583
+s23-d34_18_7	The person rinses the remaining portion of ginger in the sink.	s23-d34	1586	2033	ginger	2037
+s23-d34_18_8	The person removes the ends of the ginger with the knife.	s23-d34	2033	2201	ginger	2265
+s23-d34_18_9	The person chops up the ginger and puts it on the plate.	s23-d34	4818	4922	ginger	4871
+s23-d34_19_1	He took out cutting board	s23-d34	211	339	ginger	351
+s23-d34_19_2	He took out knife	s23-d34	344	472	ginger	469
+s23-d34_19_3	He took out ginger	s23-d34	520	763	ginger	747
+s23-d34_19_4	He took out plate	s23-d34	784	891	ginger	931
+s23-d34_19_5	He washed plate	s23-d34	921	1129	ginger	1133
+s23-d34_19_6	He put back extra ginger	s23-d34	1140	1548	ginger	1559
+s23-d34_19_7	He washed ginger	s23-d34	1586	2033	ginger	2023
+s23-d34_19_8	He cut off end of ginger	s23-d34	2033	2201	ginger	2263
+s23-d34_19_9	He chopped ginger	s23-d34	2338	3230	ginger	3247

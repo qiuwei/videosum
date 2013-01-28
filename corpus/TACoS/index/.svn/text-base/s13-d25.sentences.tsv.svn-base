@@ -1,0 +1,130 @@
+s13-d25_1_1	The person takes the loaf of bread out of the cupboard.	s13-d25	237	508	bread	520
+s13-d25_1_2	The person gets a plate out of the cupboard.	s13-d25	578	861	bread	877
+s13-d25_1_3	The person unwraps the loaf of bread.	s13-d25	904	1330	bread	1321
+s13-d25_1_4	The person takes out a bread knife from the drawer.	s13-d25	1357	1518	bread	1545
+s13-d25_1_5	While holding the loaf with one hand, the person slices off the end of the loaf using the bread knife.	s13-d25	1560	1788	bread	1812
+s13-d25_1_6	The person takes out a cutting board from the drawer, and puts the loaf (and piece of bread) onto it.	s13-d25	1865	2024	bread	2036
+s13-d25_1_7	The person finishes his first cut, and slices a second piece of bread from the end of the loaf.	s13-d25	2071	2520	bread	2526
+s13-d25_1_8	The person places the pieces of bread onto the plate.	s13-d25	2591	2702	bread	2717
+s13-d25_1_9	The person puts the wrapping back onto the bread and picks it up.	s13-d25	2715	2899	bread	2949
+s13-d25_2_1	The boy gets out the bread and sets it on the counter.	s13-d25	237	508	bread	525
+s13-d25_2_2	The boy gets out a plate and places it on the counter.	s13-d25	578	861	bread	863
+s13-d25_2_3	The boy takes the bread out of the package.	s13-d25	904	1330	bread	1349
+s13-d25_2_4	The boy takes the knife out of the drawer.	s13-d25	1357	1518	bread	1535
+s13-d25_2_5	The boy slices a piece of bread.	s13-d25	1560	1788	bread	1863
+s13-d25_2_6	The boy takes out the cutting board and places the bread on it.	s13-d25	1865	2024	bread	2021
+s13-d25_2_7	The boy slices two pieces of bread.	s13-d25	2071	2520	bread	2533
+s13-d25_2_8	The boy places the sliced bread on the plate.	s13-d25	2591	2672	bread	2679
+s13-d25_2_9	The boy puts the bread back into the package.	s13-d25	2676	2899	bread	2949
+s13-d25_3_1	The person takes a loaf of bread from the pantry.	s13-d25	237	508	bread	429
+s13-d25_3_2	The person procures a plate from the cabinet.	s13-d25	578	861	bread	861
+s13-d25_3_3	The person opens the package of bread.	s13-d25	904	1330	bread	1409
+s13-d25_3_4	The person takes out a knife from the drawer.	s13-d25	1357	1518	bread	1535
+s13-d25_3_5	The person takes out a cutting board from the drawer.	s13-d25	1560	1959	bread	1989
+s13-d25_3_6	The person cuts two slices of bread from the loaf.	s13-d25	1977	2520	bread	2603
+s13-d25_3_7	The person sets the slices of bread on the plate.	s13-d25	2591	2702	bread	2705
+s13-d25_5_1	The person gets out a loaf of bread in plastic wrap.	s13-d25	237	508	bread	541
+s13-d25_5_2	The person gets out a plate.	s13-d25	578	861	bread	851
+s13-d25_5_3	The person unwraps the bread.	s13-d25	904	1330	bread	1361
+s13-d25_5_4	The person gets out a knife.	s13-d25	1357	1518	bread	1525
+s13-d25_5_5	The person starts cutting the bread.	s13-d25	1560	1788	bread	1831
+s13-d25_5_6	The person gets out a wooden plate.	s13-d25	1865	1959	bread	1995
+s13-d25_5_7	The person puts the bread on the wooden plate.	s13-d25	1977	2024	bread	2043
+s13-d25_5_8	The person cuts two slices of bread and puts them on the plate.	s13-d25	2071	2672	bread	2679
+s13-d25_5_9	The person wraps the bread back up.	s13-d25	2715	2899	bread	2911
+s13-d25_6_1	The person places a loaf of bread on the counter.	s13-d25	237	508	bread	525
+s13-d25_6_2	The person places a plate on the counter.	s13-d25	578	861	bread	851
+s13-d25_6_3	The person opens the package of bread.	s13-d25	904	1330	bread	1357
+s13-d25_6_4	The person takes a knife out of the drawer.	s13-d25	1357	1518	bread	1537
+s13-d25_6_5	The person begins to slice the bread.	s13-d25	1560	1788	bread	1863
+s13-d25_6_6	The person places the loaf of bread on a cutting board.	s13-d25	1865	2024	bread	2037
+s13-d25_6_7	The person finishes slicing two pieces of bread from the loaf.	s13-d25	2071	2520	bread	2511
+s13-d25_6_8	The person places the bread on the plate.	s13-d25	2591	2702	bread	2691
+s13-d25_6_9	The person reseals the bread's package.	2676	2899
+s13-d25_6_10	Video ends.	2676	2899
+s13-d25_7_1	The person gets out a loaf of bread in plastic wrap.	s13-d25	237	508	bread	505
+s13-d25_7_2	The person gets out a plate.	s13-d25	578	861	bread	839
+s13-d25_7_3	The person unwraps the bread.	s13-d25	904	1330	bread	1353
+s13-d25_7_4	The person gets out a knife.	s13-d25	1357	1518	bread	1515
+s13-d25_7_5	The person starts to slice the bread.	s13-d25	1560	1788	bread	1787
+s13-d25_7_6	The person gets out a wooden plate.	s13-d25	1865	1959	bread	1983
+s13-d25_7_7	The person cuts off two slices of bread and puts them on the plate.	s13-d25	1977	2672	bread	2683
+s13-d25_7_8	The person wraps the bread back up.	s13-d25	2715	2899	bread	2889
+s13-d25_8_1	He took out bread	s13-d25	237	508	bread	459
+s13-d25_8_2	He took out plate	s13-d25	578	861	bread	791
+s13-d25_8_3	He opened bread	s13-d25	904	1330	bread	1345
+s13-d25_8_4	He took out knife	s13-d25	1357	1518	bread	1561
+s13-d25_8_5	He took out cutting board	s13-d25	1560	1959	bread	1979
+s13-d25_8_6	He sliced bread	s13-d25	1977	2520	bread	2529
+s13-d25_10_1	He gets out a loaf of bread from the cabinet.	s13-d25	237	508	bread	511
+s13-d25_10_2	He gets out a plate from the cabinet.	s13-d25	578	861	bread	885
+s13-d25_10_3	He removes the cover from the loaf of bread.	s13-d25	904	1330	bread	1417
+s13-d25_10_4	He gets out a knife and slices off a piece of bread from the loaf of bread.	s13-d25	1357	1788	bread	1843
+s13-d25_10_5	He gets a cutting board from the drawer and places the loaf of bread on top of it.	s13-d25	1865	2024	bread	2047
+s13-d25_10_6	He cuts the first slice further and cuts off another slice of bread.	s13-d25	2071	2520	bread	2577
+s13-d25_10_7	He picks up the pieces of bread and places them on the plate.	s13-d25	2591	2702	bread	2701
+s13-d25_10_8	He puts the cover back on the bread.	s13-d25	2676	2899	bread	2949
+s13-d25_11_1	Take out a loaf of bread and a plate.	s13-d25	237	861	bread	833
+s13-d25_11_2	Tear off the packaging to access the loaf.	s13-d25	904	1330	bread	1425
+s13-d25_11_3	Take out a long serrated knife.	s13-d25	1357	1518	bread	1629
+s13-d25_11_4	Take out a cutting board, put the bread on it and cut it into slices using a sawing motion with the knife.	s13-d25	2591	2622	bread	2621
+s13-d25_11_5	Put the slices of bread on the plate and re-wrap the loaf.	s13-d25	2715	2899	bread	2889
+s13-d25_12_1	He took out bread	s13-d25	237	508	bread	457
+s13-d25_12_2	He took out plate	s13-d25	578	861	bread	799
+s13-d25_12_3	He took out knife	s13-d25	904	1518	bread	1533
+s13-d25_12_4	He took out cutting board	s13-d25	1560	1959	bread	1963
+s13-d25_12_5	He sliced bread	s13-d25	1977	2520	bread	2598
+s13-d25_13_1	He grabs a loaf of bread.	s13-d25	237	508	bread	427
+s13-d25_13_2	He grabs a plate.	s13-d25	578	861	bread	867
+s13-d25_13_3	He opens the loaf of bread.	s13-d25	904	1330	bread	1349
+s13-d25_13_4	He gets a knife.	s13-d25	1357	1518	bread	1499
+s13-d25_13_5	He gets a cutting board and cuts two slices.	s13-d25	1560	2520	bread	2525
+s13-d25_13_6	He puts the slices on a plate.	s13-d25	1560	2702	bread	2693
+s13-d25_14_1	The person gets out a loaf of bread in plastic wrap.	s13-d25	237	508	bread	533
+s13-d25_14_2	The person gets out a plate.	s13-d25	578	861	bread	868
+s13-d25_14_3	The person unwraps the bread.	s13-d25	904	1330	bread	1356
+s13-d25_14_4	The person gets out a knife.	s13-d25	1357	1518	bread	1524
+s13-d25_14_5	The person starts to cut the bread.	s13-d25	1560	1788	bread	1805
+s13-d25_14_6	The person gets out a wooden plate.	s13-d25	1865	1959	bread	1982
+s13-d25_14_7	The person puts the bread on the wooden plate.	s13-d25	1977	2024	bread	2026
+s13-d25_14_8	The person cuts off two slices of bread and puts them on the first plate.	s13-d25	2591	2672	bread	2680
+s13-d25_14_9	The person wraps the rest of the bread back up.	s13-d25	2646	2899	bread	2935
+s13-d25_15_1	Get out the loaf of bread.	s13-d25	237	508	bread	527
+s13-d25_15_2	Get out a serving dish.	s13-d25	578	861	bread	857
+s13-d25_15_3	If needed, open plastic or paper covering bread.	s13-d25	904	1330	bread	1364
+s13-d25_15_4	Get out a sharp bread knife.	s13-d25	1357	1518	bread	1551
+s13-d25_15_5	Get out a cutting board.	s13-d25	1560	1959	bread	1967
+s13-d25_15_6	Slice desired amount of bread into 1" thick slices.	s13-d25	1977	2520	bread	2583
+s13-d25_15_7	Arrange sliced bread on dish.	s13-d25	2591	2702	bread	2722
+s13-d25_15_8	Cover remaining bread with existing plastic/paper.	s13-d25	2715	2899	bread	2949
+s13-d25_16_1	He gets a loaf of bread out from the pantry and places it on the counter.	s13-d25	237	508	bread	532
+s13-d25_16_2	He gets a plate out from the cupboard.	s13-d25	578	861	bread	891
+s13-d25_16_3	He opens the container of the loaf of bread.	s13-d25	904	1518	bread	1450
+s13-d25_16_4	He gets out a knife and makes a slice in the loaf of bread.	s13-d25	1560	1788	bread	1838
+s13-d25_16_5	He gets out a round cutting board and places the bread on top of it.	s13-d25	1865	2024	bread	2035
+s13-d25_16_6	He pushes the knife in deeper to the previous and cut and removes the bread's covering from that region.	s13-d25	2071	2206	bread	2306
+s13-d25_16_7	He finishes cutting two slices and he places them on the plate.	s13-d25	2071	2702	bread	2712
+s13-d25_16_8	He puts the cover over the bread.	s13-d25	2676	2899	bread	2949
+s13-d25_17_1	The person gets out a loaf of bread in plastic wrap.	s13-d25	237	508	bread	517
+s13-d25_17_2	The person gets out a plate.	s13-d25	578	861	bread	850
+s13-d25_17_3	The person unwraps the bread.	s13-d25	904	1330	bread	1353
+s13-d25_17_4	The person gets out a knife.	s13-d25	1357	1518	bread	1521
+s13-d25_17_5	The person starts cutting the bread.	s13-d25	1560	1788	bread	1817
+s13-d25_17_6	The person gets out a wooden plate.	s13-d25	1865	1959	bread	1988
+s13-d25_17_7	The person puts the bread on the wooden plate.	s13-d25	1977	2024	bread	2033
+s13-d25_17_8	The person cuts two slices of bread and puts them on the first plate.	s13-d25	2591	2672	bread	2681
+s13-d25_17_9	The person wraps the rest of the bread back up.	s13-d25	2715	2899	bread	2901
+s13-d25_18_1	The person got a loaf of bread from the pantry.	s13-d25	237	508	bread	543
+s13-d25_18_2	The person got a plate from the cabinet.	s13-d25	578	861	bread	853
+s13-d25_18_3	The person opened the bread packaging.	s13-d25	904	1330	bread	1399
+s13-d25_18_4	The person got a knife from the drawer.	s13-d25	1357	1518	bread	1547
+s13-d25_18_5	The person got a cutting board from the drawer.	s13-d25	1560	1959	bread	1979
+s13-d25_18_6	The person used the bread knife to cut two slices of bread from the loaf.	s13-d25	2304	2622	bread	2607
+s13-d25_18_7	The person set the bread slices onto the plate.	s13-d25	2646	2702	bread	2747
+s13-d25_18_8	The person rewrapped the loaf of bread in its package.	s13-d25	2715	2899	bread	2949
+s13-d25_19_1	He took out bread	s13-d25	237	508	bread	441
+s13-d25_19_2	He took out plate	s13-d25	578	861	bread	801
+s13-d25_19_3	He took out knife	s13-d25	904	1518	bread	1543
+s13-d25_19_4	He took out cutting board	s13-d25	1560	2024	bread	2007
+s13-d25_19_5	He sliced bread	s13-d25	2071	2520	bread	2549
+s13-d25_19_6	He put bread on plate	s13-d25	2071	2702	bread	2805

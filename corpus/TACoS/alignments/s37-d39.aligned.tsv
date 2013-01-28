@@ -1,0 +1,47 @@
+210	500	take out	hand	leek	counter,fridge	s37-d39_1_1	s37-d39_2_1	s37-d39_3_1	s37-d39_4_1	s37-d39_5_1	s37-d39_6_1	s37-d39_7_1	s37-d39_10_1	s37-d39_11_1	s37-d39_13_1	s37-d39_14_1	s37-d39_15_1	s37-d39_17_1	s37-d39_18_1	s37-d39_19_1	s37-d39_20_1
+513	623	take out	hand	cutting board	counter,drawer	s37-d39_1_2							s37-d39_10_2	s37-d39_11_2	s37-d39_13_2			s37-d39_17_2		s37-d39_19_2	
+623	678	close	hand		drawer			s37-d39_3_2			s37-d39_6_2						s37-d39_15_2				
+684	789	take out	hand	knife	cutting board,drawer	s37-d39_1_3	s37-d39_2_2	s37-d39_3_3. s37-d39_3_4	s37-d39_4_2	s37-d39_5_2	s37-d39_6_3	s37-d39_7_2	s37-d39_10_3	s37-d39_11_3	s37-d39_13_3	s37-d39_14_2	s37-d39_15_3	s37-d39_17_3	s37-d39_18_2	s37-d39_19_3	s37-d39_20_2
+840	1111	wash	hand	leek		s37-d39_1_4	s37-d39_2_3		s37-d39_4_3	s37-d39_5_3	s37-d39_6_4		s37-d39_10_4	s37-d39_11_4	s37-d39_13_4	s37-d39_14_3	s37-d39_15_4	s37-d39_17_4	s37-d39_18_3	s37-d39_19_4	s37-d39_20_3
+1162	1253	cut	knife	leek	cutting board							s37-d39_7_3									
+1253	1287	move	hand	leek	cutting board			s37-d39_3_5								s37-d39_14_4					
+1354	2582	chop	knife	leek	cutting board																
+2582	2613	move	hand	leek	counter,cutting board	s37-d39_1_5			s37-d39_4_4		s37-d39_6_5			s37-d39_11_5		s37-d39_14_5	s37-d39_15_5	s37-d39_17_5		s37-d39_19_5	
+2613	2668	scratch off	hand	leek	cutting board,knife								s37-d39_10_5								
+2668	2719	move	hand	leek	cutting board		s37-d39_2_4			s37-d39_5_4		s37-d39_7_4			s37-d39_13_5						s37-d39_20_4
+2815	2952	take out	hand	pan	drawer,stove	s37-d39_1_6		s37-d39_3_6					s37-d39_10_6		s37-d39_13_6		s37-d39_15_6	s37-d39_17_6			
+2963	3328	turn on	hand	stove																	
+3336	3520	change temperature	hand	stove		s37-d39_1_7					s37-d39_6_6	s37-d39_7_5	s37-d39_10_7	s37-d39_11_6		s37-d39_14_6	s37-d39_15_7	s37-d39_17_7	s37-d39_18_4	s37-d39_19_6	
+3581	3712	take out	hand	bottle	,cupboard								s37-d39_10_8		s37-d39_13_7						
+3731	3799	screw	hand	bottle																	
+3799	3904	pour	bottle	oil	pan	s37-d39_1_8	s37-d39_2_5	s37-d39_3_7	s37-d39_4_5			s37-d39_7_6	s37-d39_10_9			s37-d39_14_7		s37-d39_17_8		s37-d39_19_7	s37-d39_20_5
+3911	3980	screw	hand	bottle						s37-d39_5_5	s37-d39_6_7			s37-d39_11_7	s37-d39_13_8		s37-d39_15_8				
+4021	4101	open	hand		drawer																
+4101	4201	take out	hand	spatula	drawer			s37-d39_3_8					s37-d39_10_10		s37-d39_13_9						
+4240	4961	spread	spatula	oil	pan	s37-d39_1_9					s37-d39_6_8		s37-d39_10_11	s37-d39_11_8		s37-d39_14_8	s37-d39_15_9	s37-d39_17_9	s37-d39_18_5		
+4983	5092	add	hand	leek	cutting board,pan																
+5092	5194	stir	spatula	leek	pan																
+5255	5354	add	hand,knife	leek	cutting board,pan			s37-d39_3_9													
+5354	5383	scratch off	hand	leek	knife,pan																
+5392	5447	gather	hand,knife	leek	cutting board																
+5447	5530	add	hand,knife	leek	cutting board,pan																
+5578	5643	add	hand,knife	leek	cutting board,pan																
+5643	5664	scratch off	hand	leek	knife,pan				s37-d39_4_6												
+5665	5716	add	hand	leek	cutting board,pan	s37-d39_1_10	s37-d39_2_6			s37-d39_5_6		s37-d39_7_7		s37-d39_11_9	s37-d39_13_10	s37-d39_14_9		s37-d39_17_10		s37-d39_19_8	s37-d39_20_6
+5716	6388	stir	spatula	leek	pan	s37-d39_1_11					s37-d39_6_9			s37-d39_11_10		s37-d39_14_10	s37-d39_15_10		s37-d39_18_6		
+6422	6460	take out	hand	spice shaker	spice holder																
+6535	6577	screw	hand	spice shaker																	
+6587	6645	spice	spice shaker	salt	pan	s37-d39_1_12		s37-d39_3_10													
+6645	6703	screw	hand	spice shaker																	
+6710	6748	screw	hand	spice shaker																	
+6748	6815	spice	spice shaker	spice	pan			s37-d39_3_11				s37-d39_7_8									
+6853	6891	spice	spice shaker	spice	pan	s37-d39_1_13			s37-d39_4_7							s37-d39_14_11				s37-d39_19_9	
+6897	6945	screw	hand	spice shaker			s37-d39_2_7			s37-d39_5_7	s37-d39_6_10			s37-d39_11_11	s37-d39_13_11			s37-d39_17_11			s37-d39_20_7
+6956	7784	stir	spatula	leek	pan	s37-d39_1_14					s37-d39_6_11			s37-d39_11_12		s37-d39_14_12	s37-d39_15_11	s37-d39_17_12	s37-d39_18_7	s37-d39_19_10	
+7816	8034	take out	hand	plate	counter,cupboard						s37-d39_6_12			s37-d39_11_13	s37-d39_13_12		s37-d39_15_12	s37-d39_17_13			
+8040	8134	stir	spatula	leek	pan			s37-d39_3_12													
+8134	8198	change temperature	hand	stove																	
+8214	8342	stir	spatula	leek	pan																
+8383	8409	move	hand	bottle	counter																
+8425	8968	move	spatula	leek	pan,plate	s37-d39_1_15	s37-d39_2_8	s37-d39_3_13	s37-d39_4_8	s37-d39_5_8	s37-d39_6_13	s37-d39_7_9		s37-d39_11_14			s37-d39_15_13	s37-d39_17_14		s37-d39_19_11	s37-d39_20_8
+8977	9105	arrange	spatula	leek	plate										s37-d39_13_13	s37-d39_14_13		s37-d39_17_15	s37-d39_18_8	s37-d39_19_12	

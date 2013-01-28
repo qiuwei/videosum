@@ -1,0 +1,105 @@
+s27-d45_1_1	The person gets out a pepper.	s27-d45	255	829	pepper	814
+s27-d45_1_2	The person gets out a plate, changes his mind, puts it back and gets out a cutting board.	s27-d45	836	1147	pepper	1114
+s27-d45_1_3	The person gets out a knife.	s27-d45	1149	1413	pepper	1417
+s27-d45_1_4	The person rinses the pepper.	s27-d45	1413	1676	pepper	1691
+s27-d45_1_5	The person cuts off the top of the pepper.	s27-d45	2002	2115	pepper	2159
+s27-d45_1_6	The person uses the knife to hollow out the pepper.	s27-d45	2123	3521	pepper	3534
+s27-d45_1_7	The person scrapes the insides of the pepper into his hand and throws them away.	s27-d45	3526	4604	pepper	4637
+s27-d45_2_1	The person gets out a pepper.	s27-d45	255	829	pepper	825
+s27-d45_2_2	The person gets out a cutting board.	s27-d45	836	1147	pepper	1131
+s27-d45_2_3	The person gets out a knife.	s27-d45	1149	1465	pepper	1451
+s27-d45_2_4	The person rinses the pepper.	s27-d45	1491	1676	pepper	1697
+s27-d45_2_5	The person cuts off the top of the pepper.	s27-d45	2002	2115	pepper	2123
+s27-d45_2_6	The person hollows out the pepper.	s27-d45	2123	3521	pepper	3569
+s27-d45_2_7	The person throws away the insides of the pepper.	s27-d45	3526	4604	pepper	4617
+s27-d45_3_1	He took out pepper	s27-d45	255	829	pepper	793
+s27-d45_3_2	He took out cutting board	s27-d45	836	1147	pepper	1145
+s27-d45_3_3	He took out knife	s27-d45	1149	1413	pepper	1431
+s27-d45_3_4	He washed pepper	s27-d45	1413	1612	pepper	1657
+s27-d45_3_5	He cut off top of pepper	s27-d45	1640	2115	pepper	2139
+s27-d45_3_6	He removed middle of pepper	s27-d45	2123	3246	pepper	3313
+s27-d45_3_7	He threw away scraps	s27-d45	3257	4604	pepper	4617
+s27-d45_4_1	He gets a bell pepper from the fridge.	s27-d45	255	948	pepper	941
+s27-d45_4_2	He gets a cutting board.	s27-d45	954	1147	pepper	1105
+s27-d45_4_3	He gets a knife.	s27-d45	1149	1413	pepper	1437
+s27-d45_4_4	He scoops out the inside of the pepper.	s27-d45	1413	2115	pepper	2661
+s27-d45_4_5	He throws away the inside of the pepper.	s27-d45	2123	3903	pepper	4431
+s27-d45_5_1	He goes to the refrigerator and takes out a red pepper from the draw.	s27-d45	255	829	pepper	737
+s27-d45_5_2	He goes to the draw and takes out a cutting board and knife and places it on the counter.	s27-d45	836	1465	pepper	1471
+s27-d45_5_3	He picks up the red pepper and washes it in the sink and shakes it dry.	1491	1676
+s27-d45_5_4	He puts the red pepper on the cutting board.	1491	1676
+s27-d45_5_5	He cuts off the top of the pepper and scrapes out the insides of the pepper.	s27-d45	2002	3521	pepper	3569
+s27-d45_5_6	He scrapes the insides of the pepper into his hand and picks some more waste out of the inside of the pepper.	s27-d45	3526	3903	pepper	4393
+s27-d45_5_7	He throw the waste inside hand away in the trash.	s27-d45	4395	4604	pepper	4611
+s27-d45_6_1	A pepper is removed from the refrigerator.	s27-d45	255	829	pepper	813
+s27-d45_6_2	The person removed a cutting board.	s27-d45	836	1147	pepper	1143
+s27-d45_6_3	The person selected a knife.	s27-d45	1149	1465	pepper	1457
+s27-d45_6_4	The pepper is washed.	s27-d45	1491	1676	pepper	1705
+s27-d45_6_5	The top of the pepper is cut off.	s27-d45	2002	2115	pepper	2119
+s27-d45_6_6	The seeds and ribs are removed.	s27-d45	2123	3521	pepper	3543
+s27-d45_6_7	The scraps are discarded.	4395	4604
+s27-d45_6_8	The pepper is ready.	4395	4604
+s27-d45_9_1	The man begins by selecting a red pepper from the fridge.	s27-d45	255	829	pepper	767
+s27-d45_9_2	He then retrieves a cutting board and a small knife.	s27-d45	836	1465	pepper	1529
+s27-d45_9_3	Next, he rinses the pepper in water.	s27-d45	1491	1676	pepper	1727
+s27-d45_9_4	He then uses the knife to cut the top off the pepper and gut the insides of it.	s27-d45	2002	3903	pepper	3815
+s27-d45_9_5	Finally, he discards the inside of the pepper.	s27-d45	3526	4604	pepper	4713
+s27-d45_10_1	The person procures a pepper from the fridge.	255	829
+s27-d45_10_2	The person sets the pepper on the countertop.	255	829
+s27-d45_10_3	The person takes out a cutting board from the drawer.	s27-d45	836	1147	pepper	1137
+s27-d45_10_4	The person takes out a knife from the drawer.	s27-d45	1149	1465	pepper	1447
+s27-d45_10_5	The person washes the pepper in the sink.	s27-d45	1491	1676	pepper	1699
+s27-d45_10_6	The person cuts off the top of the pepper and then carves out the seeds.	s27-d45	2002	3521	pepper	3557
+s27-d45_10_7	The person throws the seeds into the wastebin.	s27-d45	4395	4604	pepper	4617
+s27-d45_11_1	The person gets out a pepper.	s27-d45	255	829	pepper	845
+s27-d45_11_2	The person gets out a cutting board.	s27-d45	836	1197	pepper	1197
+s27-d45_11_3	The person gets out a knife.	s27-d45	1197	1465	pepper	1445
+s27-d45_11_4	The person rinses the pepper.	s27-d45	1491	1676	pepper	1691
+s27-d45_11_5	The person cuts off the top of the pepper.	s27-d45	2002	2115	pepper	2127
+s27-d45_11_6	The person hollows the pepper out.	s27-d45	2123	3521	pepper	3547
+s27-d45_11_7	The person throws away the insides of the pepper.	s27-d45	3526	4604	pepper	4591
+s27-d45_12_1	Get a fresh red bell pepper from the refrigerator.	s27-d45	255	829	pepper	827
+s27-d45_12_2	Prepare by grabbing a large cutting board and small paring knife.	s27-d45	836	1413	pepper	1427
+s27-d45_12_3	Rinse the pepper with water and shake it dry.	s27-d45	1413	1612	pepper	1613
+s27-d45_12_4	Cut off the cap of the pepper, remove the seeds and white fleshy insides with your knife.	s27-d45	1640	3521	pepper	3539
+s27-d45_12_5	Be sure to clean your work station by throwing away the removed parts of the pepper.	s27-d45	3526	4604	pepper	4610
+s27-d45_13_1	The man prepares a pepper, a cuttingboard, and a small knife.	s27-d45	255	1465	pepper	1483
+s27-d45_13_2	He rinses off the pepper and places it on the cuttingboard.	s27-d45	1491	1676	pepper	1919
+s27-d45_13_3	he slices the top of the pepper away.	s27-d45	2002	2115	pepper	2185
+s27-d45_13_4	He uses the knife to hollow the pepper of it's seeds and insides.	s27-d45	2123	3655	pepper	3639
+s27-d45_13_5	He discards the inner materials of the pepper.	s27-d45	3526	4604	pepper	4677
+s27-d45_14_1	The man grabs a fresh red bell pepper out of the refrigerator.	s27-d45	255	829	pepper	747
+s27-d45_14_2	The man grabs a satisfactory cutting board.	s27-d45	836	1197	pepper	1184
+s27-d45_14_3	The man grabs a knife.	s27-d45	1197	1465	pepper	1465
+s27-d45_14_4	The man rinses the red bell pepper.	s27-d45	1491	1612	pepper	1598
+s27-d45_14_5	The man hollows out the red bell pepper.	s27-d45	1640	3903	pepper	4380
+s27-d45_14_6	The man properly disposes of the hollowed bits of the red bell pepper.	s27-d45	3659	4604	pepper	4589
+s27-d45_15_1	The person got out a pepper.	s27-d45	255	829	pepper	747
+s27-d45_15_2	The person got out a cutting board.	s27-d45	836	1197	pepper	1184
+s27-d45_15_3	The person got out a knife.	s27-d45	1197	1465	pepper	1455
+s27-d45_15_4	The person washed the pepper.	s27-d45	1491	1676	pepper	1703
+s27-d45_15_5	The person cut the top of the pepper off.	s27-d45	2002	2115	pepper	2208
+s27-d45_15_6	The man cut out the seeds of the pepper.	s27-d45	2123	3246	pepper	3297
+s27-d45_15_7	The man threw away the seeds/waste.	s27-d45	4395	4604	pepper	4745
+s27-d45_16_1	The person takes a pepper out from the refrigerator.	s27-d45	255	631	pepper	610
+s27-d45_16_2	The person takes a chopping board out of the drawer.	s27-d45	633	1147	pepper	1150
+s27-d45_16_3	The person takes out a knife from another drawer.	s27-d45	1149	1413	pepper	1435
+s27-d45_16_4	The person washes the pepper.	s27-d45	1413	1612	pepper	1618
+s27-d45_16_5	The person cuts off the top of the pepper.	s27-d45	1640	2115	pepper	2127
+s27-d45_16_6	The person removes the seeds from the pepper and discards them.	s27-d45	3257	4604	pepper	4612
+s27-d45_18_1	The person takes the red pepper out of the refridgerator	s27-d45	255	829	pepper	743
+s27-d45_18_2	The person takes out a rectangular cutting board and places it on the counter	s27-d45	836	1147	pepper	1143
+s27-d45_18_3	The person takes out a small knife	s27-d45	1149	1465	pepper	1455
+s27-d45_18_4	The person rinses the red pepper	s27-d45	1491	1676	pepper	1789
+s27-d45_18_5	The person cuts off the top part of the red pepper	s27-d45	2002	2115	pepper	2119
+s27-d45_18_6	The person hollows out the contents of the main portion of the red pepper	s27-d45	2123	3246	pepper	3281
+s27-d45_18_7	The person scrapes out a portion of the top part of the red pepper	s27-d45	3257	3521	pepper	3561
+s27-d45_18_8	The person throws away the scooped out portions of the red pepper	s27-d45	2123	4604	pepper	4597
+s27-d45_19_1	He took out pepper	s27-d45	255	829	pepper	759
+s27-d45_19_2	He took out cutting board	s27-d45	836	948	pepper	953
+s27-d45_19_3	He took out second cutting board	s27-d45	954	1147	pepper	1125
+s27-d45_19_4	He took out knife	s27-d45	1149	1465	pepper	1443
+s27-d45_19_5	He washed pepper	s27-d45	1491	1612	pepper	1599
+s27-d45_19_6	He cut off top of pepper	s27-d45	1640	2115	pepper	2127
+s27-d45_19_7	He cut out middle of pepper	s27-d45	2123	3246	pepper	3155
+s27-d45_19_8	He threw away middle of pepper	s27-d45	3526	4604	pepper	4613

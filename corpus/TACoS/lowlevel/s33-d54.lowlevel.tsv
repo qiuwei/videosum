@@ -1,0 +1,56 @@
+204	487	take out	hand	peeler	counter,drawer
+522	753	take out	hand	mango	fridge
+770	1076	take out	hand	plate	counter,cupboard
+1113	1157	close	hand		cupboard
+1385	1548	take out	hand	knife	drawer
+1573	2763	peel	knife	mango	
+2832	3613	peel	knife	mango	
+3658	4146	cut	knife	mango	plate
+4196	4577	cut	knife	mango	plate
+4577	4729	cut	knife	mango	plate
+4729	5581	cut	knife	mango	plate
+5631	5897	take out	hand	plate	counter,cupboard
+5919	5943	move	hand	mango	plate
+5947	6068	chop	knife	mango	plate
+6089	6117	move	hand	mango	plate
+6122	6246	chop	knife	mango	plate
+6261	6293	move	hand	mango	plate
+6305	6317	chop	knife	mango	plate
+6337	6366	move	hand	mango	plate
+6376	6446	chop	knife	mango	plate
+6459	6489	move	hand	mango	plate
+6516	6535	move	hand	mango	plate
+6539	6579	move	hand	mango	plate
+6584	6731	chop	knife	mango	plate
+6751	6799	chop	knife	mango	plate
+6806	6835	move	hand	mango	plate
+6843	6958	chop	knife	mango	plate
+6977	7014	move	hand	mango	plate
+7020	7087	chop	knife	mango	plate
+7093	7114	move	hand	mango	plate
+7119	7260	chop	knife	mango	plate
+7265	7297	move	hand	mango	plate
+7302	7375	chop	knife	mango	plate
+7386	7406	move	hand	mango	plate
+7412	7436	chop	knife	mango	plate
+7441	7465	move	hand	mango	plate
+7471	7549	chop	knife	mango	plate
+7558	7591	move	hand	mango	plate
+7601	7666	chop	knife	mango	plate
+7725	7912	cut	knife	mango	,plate
+7955	8105	cut	knife	mango	plate
+8132	9528	cut	knife	mango	,plate
+9586	9726	move	knife	mango	plate
+9736	9817	move	hand	knife,plate	,sink
+9867	10016	wash	hand	plate	
+10035	10113	wash	hand	knife	
+10133	10170	wash	hand	hand	
+10201	10251	move	hand	peeler	plate,sink
+10284	10504	throw in garbage	hand,plate	peel,stone	
+10516	10610	wash	hand	plate	
+10631	10677	wash	hand	peeler	
+10698	10736	wash	hand	hand	
+10743	10765	shake	hand	hand	
+10765	10777	move	hand	sponge	,faucet
+10777	10823	dry	sponge	hand	
+10823	10844	move	hand	sponge	,faucet

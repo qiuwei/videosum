@@ -1,0 +1,32 @@
+247	581	take out	hand	cucumber	counter,fridge
+588	631	open	hand		drawer
+647	797	take out	hand	cutting board	counter,drawer
+797	844	close	hand		drawer
+851	894	open	hand		drawer
+919	1064	take out	hand	knife	counter,drawer
+1079	1350	wash	hand	cutting board	
+1358	1483	wash	hand	knife	
+1488	1682	wash	hand	cucumber	
+1702	1716	move	hand	cutting board	counter
+1722	1803	cut	knife	cucumber	cutting board
+1856	1955	cut	knife	cucumber	cutting board
+1974	2328	slice	knife	cucumber	cutting board
+2328	2378	move	hand	cucumber	cutting board
+2382	2727	slice	knife	cucumber	cutting board
+2727	2765	scratch off	hand	cucumber	cutting board,knife
+2827	3007	throw in garbage	hand	cucumber	
+3060	3118	open	hand		drawer
+3133	3173	open	hand		drawer
+3176	3240	open	hand		drawer
+3248	3303	open	hand		drawer
+3303	3356	open	hand		drawer
+3438	3653	take out	hand	plate	counter,cupboard
+3691	3810	wash	hand	plate	
+3810	3872	shake	hand	plate	
+3929	3961	move	hand	knife	counter,cutting board
+4021	4075	move	hand	cucumber	cutting board,plate
+4119	4193	move	hand	cucumber	cutting board,plate
+4229	4318	move	hand	cucumber	cutting board,plate
+4341	4378	move	hand	cucumber	cutting board,plate
+4385	4516	wash	hand	knife	
+4542	4741	wash	hand	cutting board	

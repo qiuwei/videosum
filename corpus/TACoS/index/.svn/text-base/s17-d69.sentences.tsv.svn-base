@@ -1,0 +1,162 @@
+s17-d69_1_1	He took out a pan	s17-d69	224	358	egg	313
+s17-d69_1_2	He took out an egg	s17-d69	418	732	egg	730
+s17-d69_1_3	He took out a cup	s17-d69	841	1014	egg	1003
+s17-d69_1_4	He took out a fork	s17-d69	1016	1210	egg	1191
+s17-d69_1_5	He cracked the egg	s17-d69	1237	1428	egg	1443
+s17-d69_1_6	He added salt	s17-d69	1480	1904	egg	1926
+s17-d69_1_7	He scrambled the egg	s17-d69	1921	2939	egg	2970
+s17-d69_1_8	He washed his hands	s17-d69	3044	3189	egg	3191
+s17-d69_1_9	He turned on stove	s17-d69	3217	3603	egg	3600
+s17-d69_1_10	He put oil in the pan	s17-d69	3673	4045	egg	4056
+s17-d69_1_11	He spread the oil	s17-d69	4099	4592	egg	4584
+s17-d69_1_12	He poured egg into pan	s17-d69	4759	5766	egg	5800
+s17-d69_2_1	A man enters the kitchen, removes a frying pan from the drawer and places it on the stove.	s17-d69	224	358	egg	374
+s17-d69_2_2	He retrieves on egg from the refrigerator and places it on the kitchen counter.	s17-d69	418	732	egg	834
+s17-d69_2_3	He retrieves a coffee cup from the cupboard and a fork from the drawer placing them both on the counter.	s17-d69	841	1210	egg	1212
+s17-d69_2_4	He cracks the egg into the coffee cup, throws the shells into the trash and seasons the eggs.	s17-d69	1237	2303	egg	2350
+s17-d69_2_5	Using the fork, he wisks the eggs in the coffee cup.	s17-d69	2374	2939	egg	2982
+s17-d69_2_6	He washes his hands, turns on the stove, gets the oil from the pantry, adds some oil to the pan and returns the oil to the pantry.	s17-d69	3044	4392	egg	4450
+s17-d69_2_7	He adds the eggs to the pan and puts the coffee cup in the sink.	s17-d69	5822	5919	egg	5958
+s17-d69_2_8	He gets a bowl of herbs from the pantry and add some to the eggs in the pan.	s17-d69	6001	7809	egg	7890
+s17-d69_2_9	He returns the bowl of herbs to the pantry.	s17-d69	7822	8403	egg	8470
+s17-d69_2_10	He retrieves a plate from the cupboard and sets it on the counter.	s17-d69	8507	9439	egg	9516
+s17-d69_4_1	The man takes out an egg.	s17-d69	224	732	egg	786
+s17-d69_4_2	The man takes out a cup and a fork.	s17-d69	841	1210	egg	1258
+s17-d69_4_3	The man cracks the egg and places the insides into the cup.	s17-d69	1237	1662	egg	1674
+s17-d69_4_4	He adds salt to the cup.	s17-d69	1670	2022	egg	2004
+s17-d69_4_5	He adds pepper to the cup.	s17-d69	2037	2262	egg	2276
+s17-d69_4_6	The man whisks the egg in the cup.	s17-d69	2270	2939	egg	2974
+s17-d69_4_7	The man prepares the pan by turning on heat and adding oil.	s17-d69	3044	4392	egg	4456
+s17-d69_4_8	He continues to whisk the egg.	s17-d69	4444	5313	egg	5360
+s17-d69_4_9	The man adds the egg to the pan.	s17-d69	5401	5766	egg	5868
+s17-d69_4_10	The man adds herbs to the egg.	s17-d69	4444	8226	egg	8310
+s17-d69_4_11	The man takes out a plate, knife and fork.	s17-d69	8237	9888	egg	9938
+s17-d69_4_12	The man removes the egg from the pan.	s17-d69	11674	12228	egg	12228
+s17-d69_5_1	Got out all of the cooking utensils	s17-d69	224	1210	egg	1242
+s17-d69_5_2	Prepared egg in mug, including adding spices	s17-d69	1237	2939	egg	2962
+s17-d69_5_3	Set temperature on stove for pan.	s17-d69	3044	3603	egg	3632
+s17-d69_5_4	Added oil to pan.	s17-d69	3673	4045	egg	4056
+s17-d69_5_5	Placed egg mixture into pan.	s17-d69	4099	5766	egg	5822
+s17-d69_5_6	Sprinkled ingredient on cooking egg mixture	s17-d69	5822	8226	egg	8250
+s17-d69_5_7	Takes now cooked eggs out of pan and onto plate	s17-d69	8237	12170	egg	12170
+s17-d69_7_1	He gets out a pan.	s17-d69	224	358	egg	386
+s17-d69_7_2	He gets an egg, a cup, and a fork.	s17-d69	418	1210	egg	1186
+s17-d69_7_3	He cracks the egg.	s17-d69	1237	1428	egg	1422
+s17-d69_7_4	He seasons the egg.	s17-d69	1480	2188	egg	2230
+s17-d69_7_5	He scrambles the egg.	s17-d69	2202	2939	egg	2980
+s17-d69_7_6	He turns on the stove and adds oil to the pan.	s17-d69	3044	4158	egg	4188
+s17-d69_7_7	He adds the egg to the pan.	s17-d69	4182	5766	egg	5784
+s17-d69_7_8	He adds herbs to the eggs.	s17-d69	5822	8226	egg	8264
+s17-d69_7_9	He puts the egg on the plate.	s17-d69	12170	12228	egg	12204
+s17-d69_8_1	Takes skillet out and puts on stove.	s17-d69	224	358	egg	370
+s17-d69_8_2	Takes an egg out of the refrigerator.	s17-d69	418	732	egg	686
+s17-d69_8_3	Takes a cup out of the cabinet.	s17-d69	841	1014	egg	994
+s17-d69_8_4	Cracks open the egg into the cup.	s17-d69	1016	1428	egg	1452
+s17-d69_8_5	Adds some seasoning to the egg mixture.	s17-d69	1480	2188	egg	2206
+s17-d69_8_6	Turns on the stove.	s17-d69	2202	3603	egg	3644
+s17-d69_8_7	Adds some oil to the skillet.	s17-d69	3673	4268	egg	4268
+s17-d69_8_8	Pours egg mixture into skillet.	s17-d69	4303	5766	egg	5786
+s17-d69_8_9	Takes a bowl out of the cabinet.	s17-d69	5822	7809	egg	7788
+s17-d69_8_10	Adds some ingredients from the bowl to the eggs.	s17-d69	7822	8226	egg	8294
+s17-d69_8_11	Takes a plate out of the cabinet.	s17-d69	8237	9439	egg	9456
+s17-d69_8_12	Puts the eggs on the plate.	s17-d69	8237	12228	egg	12216
+s17-d69_9_1	The person gets out a frying pan and puts it on the stove.	s17-d69	224	358	egg	346
+s17-d69_9_2	The person gets out an egg.	s17-d69	418	732	egg	720
+s17-d69_9_3	The person gets out a cup.	s17-d69	841	1014	egg	1020
+s17-d69_9_4	The person gets out a fork.	s17-d69	1016	1210	egg	1182
+s17-d69_9_5	The person cracks the egg into the cup.	s17-d69	1237	1428	egg	1446
+s17-d69_9_6	The person throws away the eggshell.	s17-d69	1480	1554	egg	1574
+s17-d69_9_7	The person adds salt and pepper to the egg and stirs it.	s17-d69	1627	2939	egg	2966
+s17-d69_9_8	The person turns on the stove.	s17-d69	3044	3603	egg	3622
+s17-d69_9_9	The person adds oil to the frying pan.	s17-d69	3673	4392	egg	4408
+s17-d69_9_10	The person pours the egg into the frying pan.	s17-d69	4444	5766	egg	5844
+s17-d69_9_11	The person gets out a wooden spatula.	s17-d69	5822	7041	egg	7040
+s17-d69_9_12	The person adds some kind of herb to the egg.	s17-d69	7525	8403	egg	8384
+s17-d69_9_13	The person gets out a plate.	s17-d69	8507	9439	egg	9420
+s17-d69_9_14	The person gets out a knife and fork.	s17-d69	9657	9888	egg	10014
+s17-d69_9_15	The person scrapes the egg onto the plate.	s17-d69	9657	12228	egg	12214
+s17-d69_10_1	The person takes out a pan and places it on the stove range.	s17-d69	224	358	egg	362
+s17-d69_10_2	The person takes out an egg.	s17-d69	418	732	egg	734
+s17-d69_10_3	The person takes out a cup.	s17-d69	841	1014	egg	1018
+s17-d69_10_4	The person takes out a fork.	s17-d69	1016	1210	egg	1180
+s17-d69_10_5	The person cracks the egg into the cup.	s17-d69	1237	1428	egg	1436
+s17-d69_10_6	The person adds salt and pepper to the egg.	s17-d69	1480	2188	egg	2198
+s17-d69_10_7	The person uses the fork to scramble the egg.	s17-d69	2202	2939	egg	2946
+s17-d69_10_8	The person turns on the range and adds olive oil to the pan.	s17-d69	3044	4158	egg	4224
+s17-d69_10_9	The person pours the eggs into the pan.	s17-d69	4182	5766	egg	5778
+s17-d69_10_10	The person adds chopped herbs to the eggs.	s17-d69	5822	8226	egg	8238
+s17-d69_10_11	The person takes out a plate.	s17-d69	8237	9439	egg	9456
+s17-d69_10_12	The person transfers the cooked egg onto the plate.	11674	12228
+s17-d69_10_13	The person is done.	11674	12228
+s17-d69_11_1	He gets a pan and an egg.	s17-d69	224	732	egg	750
+s17-d69_11_2	He gets a spoon and a cup.	s17-d69	841	1210	egg	1222
+s17-d69_11_3	He breaks the egg into the cup and discards the shell.	s17-d69	1237	1554	egg	1556
+s17-d69_11_4	He seasons the egg.	s17-d69	1627	2188	egg	2224
+s17-d69_11_5	He scrambles the egg.	s17-d69	2202	2939	egg	2966
+s17-d69_11_6	He adds oil to a pan.	s17-d69	3044	4268	egg	4298
+s17-d69_11_7	He adds the egg to the pan and puts the cup in the sink.	s17-d69	5822	6064	egg	6076
+s17-d69_11_8	He adds herbs to the eggs and then puts them away.	s17-d69	6909	8403	egg	8334
+s17-d69_11_9	He takes the eggs off the heat and places them on a plate.	s17-d69	8507	12170	egg	12184
+s17-d69_12_1	Prepare a pan for cooking.	s17-d69	224	358	egg	340
+s17-d69_12_2	Crack one egg and pour it into a cup.	s17-d69	418	1210	egg	1270
+s17-d69_12_3	Put a little bit of pepper (and salt, as well) into the cup with the egg.	s17-d69	1237	2116	egg	2141
+s17-d69_12_4	Mix together the contents in the cup.	s17-d69	2128	2303	egg	2390
+s17-d69_12_5	Pour a small amount of oil into the pan.	s17-d69	2374	3981	egg	4001
+s17-d69_12_6	Pour the contents of the cup into the hot pan.	s17-d69	3990	5313	egg	5423
+s17-d69_12_7	Patiently wait as the egg cooks.	s17-d69	4303	6064	egg	6446
+s17-d69_12_8	Next, pour spices on top of the cooked egg.	s17-d69	6909	8105	egg	8163
+s17-d69_12_9	Using a spatula, carefully push the cooked egg onto a plate.	s17-d69	8109	12170	egg	12156
+s17-d69_13_1	The man removes a frying pan from the drawer and places it on the stove.	s17-d69	224	358	egg	392
+s17-d69_13_2	He removes an egg from the refrigerator.	s17-d69	418	732	egg	788
+s17-d69_13_3	He gets a cup and fork and places them on the counter.	s17-d69	841	1210	egg	1228
+s17-d69_13_4	He cracks the egg open into the cup and discards the shell in the recycling bin.	s17-d69	1237	1554	egg	1562
+s17-d69_13_5	He adds spices to the egg in the cup.	s17-d69	1627	2188	egg	2232
+s17-d69_13_6	He uses the fork to scramble the egg in the cup.	s17-d69	2202	2939	egg	2956
+s17-d69_13_7	He turns on the burner under the frying pan.	s17-d69	3044	3603	egg	3620
+s17-d69_13_8	He adds a bit of oil to the frying pan.	s17-d69	3673	4268	egg	4268
+s17-d69_13_9	While waiting for the frying pan to heat up, he stirs the eggs some more.	s17-d69	4303	5313	egg	5354
+s17-d69_13_10	He pours the scrambled egg into the heated frying pan.	s17-d69	5401	5766	egg	5846
+s17-d69_13_11	He adds some chopped greens to the egg in the frying pan.	s17-d69	5401	8226	egg	8248
+s17-d69_13_12	He removes a plate from the cabinet and places it on the counter while the egg continues cooking.	s17-d69	8237	9439	egg	9436
+s17-d69_13_13	When the egg is done cooking, he transfers the egg from the frying pan to the plate.	s17-d69	9657	12170	egg	12176
+s17-d69_14_1	The person gets a skillet, an egg, a cup and a fork.	s17-d69	224	1210	egg	1220
+s17-d69_14_2	The person cracks the egg, empties the contents in a cup and discards the shell.	s17-d69	1237	1554	egg	1589
+s17-d69_14_3	The person seasons the egg.	s17-d69	1627	2262	egg	2241
+s17-d69_14_4	The person stirs the egg with the fork.	s17-d69	2270	2939	egg	2968
+s17-d69_14_5	The person turns the heat on under the skillet.	s17-d69	3044	3603	egg	3622
+s17-d69_14_6	The person adds oil to the skillet.	s17-d69	3673	4268	egg	4234
+s17-d69_14_7	The person pours the egg into the skillet.	s17-d69	4303	5766	egg	5866
+s17-d69_14_8	The person gets a spatula.	s17-d69	5822	7041	egg	7101
+s17-d69_14_9	The person adds additional seasoning to the cooking egg.	s17-d69	7525	8226	egg	8283
+s17-d69_14_10	The person gets a plate, a fork and a knife.	s17-d69	8237	9888	egg	9893
+s17-d69_14_11	The person turns off the heat.	s17-d69	11674	11738	egg	11798
+s17-d69_14_12	The person uses the spatula to move the cooked egg from the skillet to the plate.	s17-d69	9657	12228	egg	12224
+s17-d69_16_1	The person gets out a frying pan and puts it on the stove.	s17-d69	224	358	egg	382
+s17-d69_16_2	The person gets an egg out of the fridge.	s17-d69	418	732	egg	842
+s17-d69_16_3	The person gets out a small cup and a fork.	s17-d69	841	1210	egg	1224
+s17-d69_16_4	the person cracks the egg in the cup, adds salt and pepper and then stirs it up with the fork.	s17-d69	1237	2939	egg	2966
+s17-d69_16_5	The person rinses their hands and then turns on the burner.	s17-d69	3044	3603	egg	3626
+s17-d69_16_6	The person gets out oil, adds some to the pan and then swirls it around in the pan.	s17-d69	3673	4592	egg	4634
+s17-d69_16_7	The person waits a few moments for the pan to heat, then adds the egg to the pan and adjusts the burner temperature.	5822	6064
+s17-d69_16_8	The person stares at the cooking egg.	5822	6064
+s17-d69_16_9	The person gets out a spatula and then continues to stare at the egg some more.	s17-d69	6909	7550	egg	7554
+s17-d69_16_10	The person gets out some chives and adds them to the egg and then puts it away.	s17-d69	7600	8403	egg	8476
+s17-d69_16_11	The person keeps staring and waiting for the egg to cook.	s17-d69	8507	9142	egg	9190
+s17-d69_16_12	The person gets out a white plate and does a few head bobs.	s17-d69	9192	9439	egg	9722
+s17-d69_16_13	The person gets out a fork and knife, then waits forever for the egg to be done.	s17-d69	9657	11738	egg	11802
+s17-d69_16_14	The person puts the omelette on the plate. (NOT scrambled eggs, fyi.)	s17-d69	12170	12228	egg	12306
+s17-d69_17_1	He took out pan	s17-d69	224	358	egg	338
+s17-d69_17_2	He took out egg	s17-d69	418	732	egg	741
+s17-d69_17_3	He took out cup	s17-d69	841	1014	egg	1042
+s17-d69_17_4	He took out fork	s17-d69	1016	1210	egg	1211
+s17-d69_17_5	He cracked egg	s17-d69	1237	1428	egg	1463
+s17-d69_17_6	He threw out shell	s17-d69	1480	1554	egg	1546
+s17-d69_17_7	He added salt	s17-d69	1627	1904	egg	1939
+s17-d69_17_8	He added pepper	s17-d69	1921	2188	egg	2218
+s17-d69_17_9	He mixed egg	s17-d69	2202	2939	egg	2973
+s17-d69_17_10	He washed hands	s17-d69	3044	3189	egg	3214
+s17-d69_17_11	He turned on stove	s17-d69	3217	3603	egg	3631
+s17-d69_17_12	He took out oil	s17-d69	3673	3873	egg	3937
+s17-d69_17_13	He put oil in pan	s17-d69	3911	4268	egg	4238
+s17-d69_17_14	He put away oil	s17-d69	4303	4392	egg	4422
+s17-d69_17_15	He poured egg in pan	s17-d69	4444	5766	egg	5794

@@ -1,0 +1,97 @@
+294	456	take out	hand	cutting board	counter,drawer
+478	502	close	hand		drawer
+520	624	take out	hand	knife	cutting board,drawer
+624	662	close	hand		drawer
+699	1005	take out	hand	plastic bag	counter,fridge
+1035	1326	take out	hand	plate	counter,cupboard
+1441	1503	cut	knife	plastic bag	
+1515	1655	remove from package	hand	broccoli	plastic bag
+1671	1734	cut	knife	plastic bag	
+1756	2265	remove from package	hand	broccoli	plastic bag,plate
+2276	2425	throw in garbage	hand	plastic bag	
+2563	2947	wash	hand	broccoli	
+2947	3027	shake	hand	broccoli	
+3027	3077	move	hand	broccoli	,cutting board
+3096	3247	cut	knife	broccoli	cutting board
+3276	3324	move	hand	broccoli	cutting board,plate
+3358	3450	cut	knife	broccoli	cutting board
+3456	3509	cut	knife	broccoli	cutting board
+3541	3659	cut	knife	broccoli	cutting board
+3694	3827	take out	hand	plate	cupboard
+3848	4031	wash	hand	plate	
+4043	4077	shake	hand	plate	
+4163	4295	cut	knife	broccoli	cutting board
+4299	4324	move	hand	broccoli	cutting board,plate
+4343	4783	cut	knife	broccoli	cutting board
+4792	4818	move	hand	broccoli	cutting board,plate
+4827	5026	cut	knife	broccoli	cutting board
+5037	5061	move	hand	broccoli	cutting board,plate
+5077	5095	move	hand	broccoli	cutting board,plate
+5133	5174	cut	knife	broccoli	cutting board
+5178	5194	move	hand	broccoli	cutting board,plate
+5200	5418	cut	knife	broccoli	cutting board
+5477	5501	move	hand	broccoli	cutting board,plate
+5513	5550	cut	knife	broccoli	cutting board
+5546	5572	move	hand	broccoli	cutting board,plate
+5589	5647	cut	knife	broccoli	cutting board
+5639	5667	move	hand	broccoli	cutting board,plate
+5714	5739	cut	knife	broccoli	cutting board
+5744	5767	move	hand	broccoli	cutting board,plate
+5825	6042	cut	knife	broccoli	cutting board
+6050	6070	move	hand	broccoli	cutting board,plate
+6075	6109	cut	knife	broccoli	cutting board
+6122	6140	move	hand	broccoli	cutting board,plate
+6158	6324	cut	knife	broccoli	cutting board
+6326	6341	move	hand	broccoli	cutting board,plate
+6354	6421	move	hand	broccoli	cutting board,plate
+6425	6554	cut	knife	broccoli	cutting board
+6554	6583	move	hand	broccoli	cutting board,plate
+6651	6768	cut	knife	broccoli	cutting board
+6768	6792	move	hand	broccoli	cutting board,plate
+6799	6848	move	hand	broccoli	cutting board,plate
+6883	6910	cut	knife	broccoli	cutting board
+6934	6956	move	hand	broccoli	cutting board,plate
+6987	7072	cut	knife	broccoli	cutting board
+7072	7138	cut	knife	broccoli	cutting board
+7138	7197	cut	knife	broccoli	cutting board
+7246	7345	cut	knife	broccoli	cutting board
+7361	7387	move	hand	broccoli	cutting board,plate
+7413	7466	cut	knife	broccoli	cutting board
+7466	7491	move	hand	broccoli	cutting board,plate
+7497	7587	move	hand	broccoli	cutting board,plate
+7653	7693	cut	knife	broccoli	cutting board
+7706	7789	cut	knife	broccoli	cutting board
+7816	7852	cut	knife	broccoli	cutting board
+7853	7924	move	hand	broccoli	cutting board,plate
+7929	7967	move	hand	broccoli	cutting board,plate
+7970	8054	move	hand	broccoli	cutting board,plate
+8060	8148	move	hand	broccoli	cutting board,plate
+8190	8317	cut	knife	broccoli	cutting board
+8317	8385	cut	knife	broccoli	cutting board
+8391	8451	cut	knife	broccoli	cutting board
+8467	8520	cut	knife	broccoli	cutting board
+8524	8610	cut	knife	broccoli	cutting board
+8633	8723	cut	knife	broccoli	cutting board
+8723	8802	cut	knife	broccoli	cutting board
+8953	9024	move	hand	broccoli	cutting board,plate
+9080	9156	move	hand	broccoli	cutting board,plate
+9176	9279	move	hand	broccoli	cutting board,plate
+9300	9354	move	hand	plate	counter
+9410	9454	move	hand	broccoli	cutting board,plate
+9489	9563	move	hand,knife	broccoli	cutting board,plate
+9612	9795	throw in garbage	hand,plate	broccoli	
+9858	10077	wash	hand	plate	
+10077	10109	shake	hand	plate	
+10151	10298	wash	hand	knife	
+10372	10757	wash	hand	cutting board	
+10757	10796	shake	hand	cutting board	
+10914	11059	throw in garbage	hand	garbage	
+11059	11097	move	hand	towel	,hook
+11134	11250	dry	towel	knife	
+11261	11324	put in	hand	knife	,drawer
+11367	11486	dry	towel	cutting board	
+11497	11562	put in	hand	cutting board	,drawer
+11584	11770	dry	towel	plate	
+11791	11872	put in	hand	plate	,cupboard
+11914	12078	clean	towel	counter	
+12192	12272	hang up	hand	towel	,hook

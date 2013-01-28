@@ -1,0 +1,46 @@
+230	564	take out	hand	mango	fridge
+566	633	remove label	hand	mango	
+633	733	move	hand	label	,counter
+751	925	throw in garbage	hand	label	
+1011	1243	take out	hand	cutting board	counter,drawer
+1246	1294	move	hand	mango	counter,cutting board
+1329	1418	wash	hand	mango	
+1418	1480	shake	hand	mango	
+1623	1794	take out	hand	knife	drawer
+1826	2023	cut	knife	mango	cutting board
+2023	2163	take apart	hand	mango	
+2246	2641	cut	knife	mango	cutting board
+2641	3300	cut	knife	mango	cutting board
+3303	3434	cut	knife	mango	cutting board
+3463	3565	cut	knife	mango	cutting board
+3565	3873	slice	knife	mango	cutting board
+3884	4491	chop	knife	mango	cutting board
+4695	4774	open	hand		cupboard
+4793	5094	take out	hand	bowl	counter,cupboard
+5239	5643	cut	knife	mango	cutting board
+5692	5889	chop	knife	mango	cutting board
+5889	6068	chop	knife	mango	cutting board
+6068	6190	cut	knife	mango	cutting board
+6190	6295	chop	knife	mango	cutting board
+6353	6544	cut	knife	mango	cutting board
+6544	6638	chop	knife	mango	cutting board
+6676	6759	chop	knife	mango	cutting board
+6830	6944	throw in garbage	hand	stone	
+7009	7029	open	hand		cupboard
+7065	7309	take out	hand	plate	counter,cupboard
+7536	7591	move	hand	garbage	bowl,cutting board
+7614	7698	move	knife	mango	cutting board,plate
+7775	8235	chop	knife	mango	cutting board
+8292	9028	move	knife	mango	cutting board,plate
+9571	9647	take out	hand	spice shaker	spice holder
+9661	9699	screw	hand	spice shaker	
+9740	9821	spice	spice shaker	salt	plate
+9826	9901	screw	hand	spice shaker	
+9907	9943	put in	hand	spice shaker	,spice holder
+9943	9988	take out	hand	spice shaker	spice holder
+10015	10087	screw	hand	spice shaker	
+10115	10283	spice	spice shaker	pepper	plate
+10286	10366	screw	hand	spice shaker	
+10372	10431	put in	hand	spice shaker	,spice holder
+10481	10705	take out	hand	fork	drawer,plate
+10725	10861	throw in garbage	hand	garbage	

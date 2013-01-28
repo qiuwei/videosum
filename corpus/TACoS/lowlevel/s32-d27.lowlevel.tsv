@@ -1,0 +1,110 @@
+311	362	open	hand		cupboard
+366	670	take out	hand	onion,plastic bag	,cupboard
+699	754	throw in garbage	hand	plastic bag	
+867	1355	wash	hand	onion	
+1441	1557	wash	hand	hand	
+1585	1620	dry	sponge	hand	
+1647	1713	open	hand		drawer
+1726	1856	take out	hand	cutting board	counter,drawer
+1904	2099	take out	hand	chef knife	,drawer
+2137	2222	wash	hand	chef knife	
+2295	2347	cut ends off	chef knife	onion	cutting board
+2361	2585	take apart	hand	onion	onion,sink
+2699	2733	peel	chef knife	onion	
+2761	3191	peel	hand	onion	
+3203	3261	peel	chef knife	onion	
+3290	3487	peel	hand	onion	
+3500	3685	wash	hand	onion	
+3693	3726	shake	hand	onion	
+3810	4515	cut	chef knife	onion	
+4623	4841	cut	chef knife	onion	cutting board
+4990	5183	cut	chef knife	onion	cutting board
+5242	5547	chop	chef knife	onion	cutting board
+5633	7133	chop	chef knife	onion	cutting board
+7173	7226	scratch off	hand	onion	chef knife,cutting board
+7296	7380	wash	hand	hand	
+7530	7585	wash	hand	hand	
+7595	7624	dry	sponge	hand	
+7627	7663	shake	hand	hand	
+7676	7702	dry	sponge	hand	
+7708	7735	shake	hand	hand	
+7784	7830	open	hand		cupboard
+7881	8044	take out	hand	bowl	,drawer
+8118	8630	move	chef knife	onion	bowl,cutting board
+8652	8707	scratch off	hand	onion	bowl,chef knife
+8754	8945	fill	faucet	water	bowl
+8989	9023	dry	sponge	hand	
+9028	9064	shake	hand	hand	
+9092	9149	open	hand		cupboard
+9160	9392	open	hand		cupboard
+9443	9468	take out	hand	spice shaker	,spice holder
+9501	9556	screw	hand	spice shaker	
+9569	10031	spice	spice shaker	salt	bowl,spice shaker
+10066	10427	spice	spice shaker	salt	bowl,spice shaker
+10438	10478	screw	hand	spice shaker	
+10493	10525	put in	hand	spice shaker	spice holder
+10567	10960	stir	hand	onion	bowl
+11018	11228	fill	faucet	water	bowl
+11248	11630	pour	bowl	water	bowl,sink
+11682	11910	fill	faucet	water	bowl
+11934	12447	pour	bowl	water	bowl,sink
+12610	12688	wash	hand	hand	
+12702	12747	dry	hand	hand	
+12754	12795	shake	hand	hand	
+12801	12841	shake	bowl	onion	bowl
+12854	12897	dry	hand	hand	
+12954	13048	throw in garbage	hand	garbage	
+13125	13285	take out	hand	pan	,drawer
+13331	13444	wash	hand	pan	
+13452	13542	pour	hand	water	pan,sink
+13558	13580	dry	sponge	pan	
+13630	13748	turn on	hand	stove	
+13756	13818	change temperature	hand	stove	
+13994	14241	take out	hand	plastic box	counter,fridge
+14249	14410	take out	hand	spatula	,drawer
+14456	14566	wash	hand	spatula	
+14576	14665	shake	hand	spatula	
+14711	14808	remove lid	hand	lid	counter,plastic box
+14838	14873	move	hand	plastic box	counter
+14949	15218	wash	hand,sponge	chef knife	
+15231	15272	shake	hand	chef knife	
+15316	15439	cut	chef knife	butter	plastic box
+15563	15614	add	chef knife	butter	pan,plastic box
+15731	15757	move	spatula	butter	pan
+15779	15949	spread	pan	butter	pan
+15959	16209	move	spatula	butter	pan
+16383	16404	take out	hand	spice shaker	,spice holder
+16415	16433	screw	hand	spice shaker	
+16438	16475	spice	spice shaker	salt	bowl,spice shaker
+16473	16494	screw	hand	spice shaker	
+16499	16563	put in	hand	spice shaker	spice holder
+16616	16787	add	spatula	onion	bowl,pan
+16779	16897	stir	spatula	onion	pan
+16990	17017	add	chef knife	butter	pan,plastic box
+17076	17129	stir	spatula	onion	pan
+17140	17413	add	spatula	onion	bowl,pan
+17442	17839	stir	spatula	onion	pan
+17884	17969	stir	spatula	onion	pan
+18222	18299	change temperature	hand	stove	
+18361	18513	take out	hand	spice shaker	,spice holder
+18526	18586	screw	hand	spice shaker	
+18592	18710	spice	spice shaker	spice	pan,spice shaker
+18723	18761	screw	hand	spice shaker	
+18771	18798	put in	hand	spice shaker	spice holder
+18857	19094	stir	spatula	onion	pan
+19104	19141	change temperature	hand	stove	
+19152	19669	stir	spatula	onion	pan
+19743	19809	change temperature	hand	stove	
+19845	19884	move	hand	chef knife	
+19901	19960	put lid	hand	lid	counter,plastic box
+19976	20017	move	hand	bowl	counter,sink
+20038	20170	put in	hand	plastic box	,fridge
+20323	20518	stir	spatula	onion	pan
+20522	20651	turn on	hand	stove	
+20659	20740	stir	spatula	onion	pan
+20785	20983	take out	hand	plate	,cupboard
+21067	21120	wash	hand	plate	
+21146	21179	shake	hand	plate	
+21205	21277	dry	towel	plate	
+21459	22084	add	spatula	onion	pan,plate
+22237	22276	move	hand	plate	counter

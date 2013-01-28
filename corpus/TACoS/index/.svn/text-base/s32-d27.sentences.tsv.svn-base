@@ -1,0 +1,206 @@
+s32-d27_1_1	She takes out an onion and washes it.	s32-d27	311	1620	onion	1678
+s32-d27_1_2	She takes out a cutting board and knife.	s32-d27	1647	2222	onion	2252
+s32-d27_1_3	She peels the onion.	s32-d27	2295	3726	onion	3770
+s32-d27_1_4	She minces the onion.	s32-d27	3810	7380	onion	7411
+s32-d27_1_5	She puts the minced onion into a bowl.	s32-d27	7530	8707	onion	8703
+s32-d27_1_6	She adds water to the bowl.	s32-d27	8754	9149	onion	9124
+s32-d27_1_7	She adds salt to the bowl.	s32-d27	9160	10478	onion	10486
+s32-d27_1_8	She strains the water from the bowl.	s32-d27	10493	11630	onion	11675
+s32-d27_1_9	She takes out a frying pan and puts it on the burner.	s32-d27	11682	13818	onion	13978
+s32-d27_1_10	She adds a small amount of butter to the pan.	s32-d27	13994	15614	onion	15700
+s32-d27_1_11	She adds the onions to the pan and stirs them.	s32-d27	15731	17129	onion	17173
+s32-d27_1_12	She pours the browned onions onto a plate.	s32-d27	17140	22084	onion	22191
+s32-d27_2_1	She grabs an onion.	s32-d27	311	1355	onion	1121
+s32-d27_2_2	She gets a knife and cutting board.	s32-d27	1441	2347	onion	2423
+s32-d27_2_3	She removes the skin.	s32-d27	2361	3726	onion	4039
+s32-d27_2_4	She minces the onion.	s32-d27	3810	7585	onion	7603
+s32-d27_2_5	She puts the onion in a bowl.	s32-d27	7595	9023	onion	9007
+s32-d27_2_6	She puts water in the bowl.	s32-d27	9028	9149	onion	9257
+s32-d27_2_7	She salts the water.	s32-d27	9160	10960	onion	10767
+s32-d27_2_8	She mixes it up and drains the water.	s32-d27	11018	12795	onion	12797
+s32-d27_2_9	She puts a pan on the stove and puts butter in it.	s32-d27	12801	15949	onion	15943
+s32-d27_2_10	She puts the onions in the pot.	s32-d27	15959	17839	onion	17763
+s32-d27_2_11	She seasons the onions.	s32-d27	17884	19094	onion	19035
+s32-d27_2_12	She ends the cooking and puts the onions on a plate.	s32-d27	22237	22276	onion	22397
+s32-d27_3_1	The person gets out an onion and rinses it.	s32-d27	311	1856	onion	1917
+s32-d27_3_2	The person gets out a cutting board.	s32-d27	1904	2099	onion	2135
+s32-d27_3_3	The person gets out a knife and rinses it.	s32-d27	2137	2585	onion	2565
+s32-d27_3_4	The person peels, rinses, and cuts up the onion.	s32-d27	2699	7585	onion	7605
+s32-d27_3_5	The person gets out a bowl and scoops the onion pieces into it.	s32-d27	7595	9023	onion	9013
+s32-d27_3_6	The person adds salt and pepper to the onion pieces and rinses them.	s32-d27	9028	13048	onion	13055
+s32-d27_3_7	The person gets out a frying pan and rinses it.	s32-d27	13125	13818	onion	13881
+s32-d27_3_8	The person puts the pan on the stove and turns it on.	s32-d27	13994	14241	onion	14169
+s32-d27_3_9	The person gets out some butter and a wooden spatula.	s32-d27	14249	14665	onion	14695
+s32-d27_3_10	The person rinses the spatula and the knife, then puts butter in the frying pan.	s32-d27	14711	15949	onion	16003
+s32-d27_3_11	The person waits for the butter to melt, puts the onion and some more butter in the pan and stirs.	s32-d27	15959	18299	onion	18317
+s32-d27_3_12	The person adds some kind of spice and keeps stirring.	s32-d27	18361	20170	onion	20125
+s32-d27_3_13	The person puts away the butter.	s32-d27	20323	20518	onion	20465
+s32-d27_3_14	The person gets out a plate and rinses it.	s32-d27	20522	21277	onion	21503
+s32-d27_3_15	The person scoops the onion onto the plate.	s32-d27	19104	22276	onion	22427
+s32-d27_6_1	An onion is removed from a cabinet, rinsed and partially peeled.	s32-d27	311	1856	onion	1869
+s32-d27_6_2	The person removed a cutting board and a knife.	s32-d27	1904	2347	onion	2397
+s32-d27_6_3	The onion is peeled and rinsed.	s32-d27	2361	3726	onion	3977
+s32-d27_6_4	The onion is cut partway through.	3810	5547
+s32-d27_6_5	The onion is sliced across the cuts.	3810	5547
+s32-d27_6_6	The pieces are chopped.	s32-d27	5633	7380	onion	7499
+s32-d27_6_7	Hands are washed and a bowl is removed.	s32-d27	7530	8044	onion	8331
+s32-d27_6_8	The pieces are put in the bowl and water is added.	s32-d27	8118	9149	onion	9259
+s32-d27_6_9	Seasoning is added and the onions are rinsed and drained.	s32-d27	9160	12897	onion	12883
+s32-d27_6_10	A frying pan is selected, rinsed and placed on the stove.	s32-d27	12954	14241	onion	14201
+s32-d27_6_11	Butter is removed from the refrigerator and added to the pan.	s32-d27	14249	15949	onion	15945
+s32-d27_6_12	The onions are added to the pan.	s32-d27	15959	17839	onion	17733
+s32-d27_6_13	A plate is removed.	17884	21277
+s32-d27_6_14	The onions are seasoned and cooked.	17884	21277
+s32-d27_6_15	The onions are placed on a plate.	s32-d27	21459	22276	onion	22429
+s32-d27_7_1	An onion is removed from a cabinet and rinsed.	s32-d27	311	1713	onion	1739
+s32-d27_7_2	The person removed a cutting board and a knife.	s32-d27	1726	2347	onion	2403
+s32-d27_7_3	The onion is peeled, rinsed and cut partway through.	s32-d27	2361	4841	onion	4837
+s32-d27_7_4	The onion is sliced across the cuts.	s32-d27	4990	5547	onion	5839
+s32-d27_7_5	The pieces are finely chopped.	s32-d27	5633	7380	onion	7499
+s32-d27_7_6	Hands are washed and a bowl is removed.	s32-d27	7530	8044	onion	8327
+s32-d27_7_7	The pieces are put in the bowl and water is added.	s32-d27	8118	9149	onion	9257
+s32-d27_7_8	Seasoning is added and the onions are rinsed and drained.	s32-d27	9160	12795	onion	12811
+s32-d27_7_9	A frying pan is selected, rinsed and placed on the stove.	s32-d27	12801	14241	onion	14213
+s32-d27_7_10	Butter is removed from the refrigerator, a spatula is chosen, the knife is washed and butter is added to the pan.	s32-d27	14249	15949	onion	15943
+s32-d27_7_11	The butter is melted and the onions are added to the pan.	s32-d27	15959	17129	onion	17177
+s32-d27_7_12	More butter and onions are added to the pan.	s32-d27	17140	17839	onion	17763
+s32-d27_7_13	The onions are seasoned and cooked.	s32-d27	17884	20170	onion	20139
+s32-d27_7_14	The butter is put away, the onions are stirred and a plate is removed.	s32-d27	20323	21277	onion	21275
+s32-d27_7_15	The plate is rinsed and the onions are placed on the plate.	s32-d27	21459	22276	onion	22437
+s32-d27_8_1	She gets an onion.	s32-d27	311	754	onion	1087
+s32-d27_8_2	She gets a cutting board and knife.	s32-d27	867	2347	onion	2443
+s32-d27_8_3	She peels the onion.	s32-d27	2361	3726	onion	3997
+s32-d27_8_4	She minces the onion.	s32-d27	3810	7585	onion	7605
+s32-d27_8_5	She gets a bowl and puts the onion in it.	s32-d27	7595	9023	onion	9013
+s32-d27_8_6	She puts water in the bowl.	s32-d27	9028	9392	onion	9291
+s32-d27_8_7	She salts the water.	s32-d27	9443	10960	onion	10765
+s32-d27_8_8	She stirs the bowl, rinses the contents, and drains the water.	s32-d27	11018	12795	onion	12803
+s32-d27_8_9	She gets a pan and puts butter in it.	s32-d27	12801	15949	onion	15927
+s32-d27_8_10	She adds all the onion to the pan.	s32-d27	15959	17839	onion	17773
+s32-d27_8_11	She seasons the onion.	s32-d27	17884	19094	onion	19029
+s32-d27_8_12	She puts the onions on a plate.	s32-d27	21459	22276	onion	22413
+s32-d27_9_1	The woman begins by selecting an onion from the cupboard.	s32-d27	311	754	onion	1087
+s32-d27_9_2	She then rinses the onion with water and begins to peel the skin.	s32-d27	867	1856	onion	1927
+s32-d27_9_3	She retrieves a cutting board and a large knife.	s32-d27	1904	2347	onion	2413
+s32-d27_9_4	Using the knife, she cuts the end off and then peels the rest of the skin.	s32-d27	2361	3726	onion	3859
+s32-d27_9_5	Next, she scores the onion several times without cutting the whole way through.	s32-d27	3810	4841	onion	4869
+s32-d27_9_6	She then scores the onion in the other direction.	4990	5547
+s32-d27_9_7	Next, she slices the onion creating small pieces.	4990	5547
+s32-d27_9_8	She then further chops the onion until it is finely diced.	s32-d27	5633	7585	onion	7563
+s32-d27_9_9	She gets out a metal bowl and places all the onions in the bowl and then fills the bowl halfway full with water.	s32-d27	7595	9392	onion	9317
+s32-d27_9_10	Next, she adds salt to the onion and water mixture before draining off the water.	s32-d27	9443	11910	onion	11987
+s32-d27_9_11	She then gets out a saute pan and heats it on the stove top places a small square of butter in the pan.	s32-d27	11934	16494	onion	16499
+s32-d27_9_12	She adds the onions to the pan and another small square of butter.	s32-d27	16499	17413	onion	17349
+s32-d27_9_13	She adds a bit of spice to the onions and continues stirring them.	s32-d27	17442	19141	onion	19367
+s32-d27_9_14	Finally, she places the sauteed onions on a small white plate.	s32-d27	19104	22276	onion	22403
+s32-d27_10_1	She took out onion	s32-d27	311	754	onion	953
+s32-d27_10_2	She washed onion	s32-d27	867	1713	onion	1699
+s32-d27_10_3	She took out cutting board	s32-d27	1726	2099	onion	2145
+s32-d27_10_4	She took out knife	s32-d27	2137	2347	onion	2371
+s32-d27_10_5	She washed knife	s32-d27	2361	2585	onion	2529
+s32-d27_10_6	She peeled onion	2699	3726
+s32-d27_10_7	She washed onion	2699	3726
+s32-d27_10_8	She diced onion	s32-d27	3810	7585	onion	7567
+s32-d27_11_1	The woman pulls out the onion.	s32-d27	311	754	onion	1097
+s32-d27_11_2	The woman rinses the onion and takes out a cutting board.	s32-d27	867	2222	onion	2295
+s32-d27_11_3	The woman peels the outer layer of the onion.	s32-d27	2295	3726	onion	4045
+s32-d27_11_4	The woman dices the onion.	s32-d27	3810	7585	onion	7587
+s32-d27_11_5	The woman places the onion pieces into a bowl and adds water.	s32-d27	7595	9392	onion	9395
+s32-d27_11_6	The woman seasons the onion pieces.	s32-d27	9443	11228	onion	11283
+s32-d27_11_7	She rinses the onion.	s32-d27	11248	13285	onion	13215
+s32-d27_11_8	The woman adds butter to a pan.	s32-d27	13331	15949	onion	15967
+s32-d27_11_9	The woman adds the onions to the pan and stirs them.	s32-d27	15959	17413	onion	17443
+s32-d27_11_10	The woman seasons the onions and continues to stir them.	s32-d27	17442	21277	onion	21625
+s32-d27_11_11	She moves the onions onto the plate.	s32-d27	19152	22276	onion	22821
+s32-d27_12_1	Take out a cutting board and a knife.	s32-d27	311	2347	onion	2368
+s32-d27_12_2	Peel the skin off of the onion.	s32-d27	2361	3685	onion	3638
+s32-d27_12_3	Wash the onion.	s32-d27	3693	3726	onion	3728
+s32-d27_12_4	Mince the onion.	s32-d27	3810	7585	onion	7558
+s32-d27_12_5	Pour the onion pieces into a bowl.	s32-d27	7595	8707	onion	8738
+s32-d27_12_6	Add water to the bowl.	s32-d27	8754	9023	onion	9038
+s32-d27_12_7	Add salt to the bowl.	s32-d27	9028	10525	onion	10548
+s32-d27_12_8	Strain the water from the onions.	s32-d27	10567	11630	onion	11728
+s32-d27_12_9	Take out a frying pan and put it over the burner.	s32-d27	11682	13818	onion	13908
+s32-d27_12_10	Add butter to the pan.	s32-d27	13994	16475	onion	16478
+s32-d27_12_11	Add the onions to the pan.	s32-d27	16473	17129	onion	17108
+s32-d27_12_12	Brown the onions and serve them onto a plate.	s32-d27	17140	21277	onion	21718
+s32-d27_13_1	The person gets out an onion and rinses it.	s32-d27	311	2099	onion	2011
+s32-d27_13_2	The person gets out a cutting board and a knife.	s32-d27	2137	2347	onion	2391
+s32-d27_13_3	The person rinses the knife.	s32-d27	2361	2585	onion	2559
+s32-d27_13_4	The person peels and chops up the onion.	s32-d27	2699	7585	onion	7567
+s32-d27_13_5	The person gets out a bowl and puts the onion in it.	s32-d27	7595	8945	onion	8929
+s32-d27_13_6	The person adds water and salt to the bowl, rinses and drains the onions.	s32-d27	8989	12795	onion	12819
+s32-d27_13_7	The person gets out a frying pan, rinses it, puts it on the stove and turns it on.	s32-d27	12801	14241	onion	14131
+s32-d27_13_8	The person gets out some butter.	s32-d27	14249	14566	onion	14527
+s32-d27_13_9	The person gets out a wooden spatula and rinses it.	s32-d27	14576	14873	onion	14987
+s32-d27_13_10	The person puts butter in the frying pan.	s32-d27	14949	15949	onion	15913
+s32-d27_13_11	The person puts the onions in the frying pan.	s32-d27	15959	17839	onion	17781
+s32-d27_13_12	The person stirs the onions while they cook.	s32-d27	17884	20983	onion	21019
+s32-d27_13_13	The person gets out a plate and rinses it.	s32-d27	21067	21277	onion	21487
+s32-d27_13_14	The person puts the onions on the plate.	s32-d27	21459	22276	onion	22421
+s32-d27_14_1	The woman takes out an onion.	s32-d27	311	1355	onion	1123
+s32-d27_14_2	The woman washes the onion.	s32-d27	1441	1856	onion	1879
+s32-d27_14_3	She cuts off the top with a knife.	s32-d27	1904	2585	onion	2713
+s32-d27_14_4	The woman peels the onion.	s32-d27	2699	3726	onion	4053
+s32-d27_14_5	The woman dices the onion into small pieces.	s32-d27	3810	7585	onion	7565
+s32-d27_14_6	The woman adds the onion to a bowl and adds water.	s32-d27	7595	9149	onion	9249
+s32-d27_14_7	The woman adds salt and then mixes it into the bowl with her hand.	s32-d27	9160	11228	onion	11281
+s32-d27_14_8	The woman rinses the onion.	s32-d27	11248	13048	onion	13101
+s32-d27_14_9	The woman adds butter to a pan.	s32-d27	13125	15949	onion	15985
+s32-d27_14_10	She adds the onions to the pan.	s32-d27	15959	17839	onion	17769
+s32-d27_14_11	The woman stirs the onions as they cook.	s32-d27	17884	21277	onion	21767
+s32-d27_14_12	She places them onto a plate.	s32-d27	21459	22276	onion	22505
+s32-d27_15_1	girl takes out a shallot from the fridge and washes it.	s32-d27	311	1355	onion	1313
+s32-d27_15_2	she gets out a cutting board and a knife and washes it.	s32-d27	1441	2347	onion	2425
+s32-d27_15_3	She peels the onion.	s32-d27	2361	3726	onion	3783
+s32-d27_15_4	She slices the onion but not all the way through.	s32-d27	3810	5183	onion	5299
+s32-d27_15_5	Then she chopt it into little pieces.	s32-d27	5242	5547	onion	6165
+s32-d27_16_1	She took out onion	s32-d27	311	754	onion	957
+s32-d27_16_2	She washed onion	s32-d27	867	1856	onion	1895
+s32-d27_16_3	She took out cutting board	s32-d27	1904	2099	onion	2137
+s32-d27_16_4	She took out knife	s32-d27	2137	2347	onion	2407
+s32-d27_16_5	She washed knife	2361	2585
+s32-d27_16_6	She cut off top of onion	2361	2585
+s32-d27_16_7	She peeled onion	2699	3726
+s32-d27_16_8	She washed onion	2699	3726
+s32-d27_16_9	She cut slits in onion	s32-d27	3810	4841	onion	4827
+s32-d27_17_1	She gets an onion.	s32-d27	311	754	onion	891
+s32-d27_17_2	 She gets a cutting board and knife.	s32-d27	867	2347	onion	2439
+s32-d27_17_3	She peels the onion.	2361	3726
+s32-d27_17_4	She rinses the onion.	2361	3726
+s32-d27_17_5	She chops the onion.	s32-d27	5633	7380	onion	7513
+s32-d27_17_6	She puts the onion in a bowl.	s32-d27	7595	8945	onion	8921
+s32-d27_17_7	She adds water to the bowl.	s32-d27	8989	9149	onion	9255
+s32-d27_17_8	She salts the water.	s32-d27	9160	10525	onion	10741
+s32-d27_17_9	She rinses the onions and drains the water.	s32-d27	10567	12795	onion	12777
+s32-d27_17_10	She adds butter to a heating pan.	s32-d27	12801	15949	onion	15937
+s32-d27_17_11	She adds the onion to the pan.	s32-d27	15959	17129	onion	17217
+s32-d27_17_12	She seasons the onions.	s32-d27	17140	19094	onion	19027
+s32-d27_17_13	She turns off the heat.	s32-d27	19104	20983	onion	20965
+s32-d27_17_14	She puts the onions on a plate.	s32-d27	21459	22276	onion	22343
+s32-d27_18_1	person gets out onion	s32-d27	311	754	onion	969
+s32-d27_18_2	person washes onion	s32-d27	867	1856	onion	1945
+s32-d27_18_3	person gets out cutting board	s32-d27	1904	2222	onion	2219
+s32-d27_18_4	person gets out knife	s32-d27	2295	2347	onion	2433
+s32-d27_18_5	person peels off outer layer of onion	s32-d27	2361	3726	onion	4033
+s32-d27_18_6	person dices onion	s32-d27	4990	7585	onion	7563
+s32-d27_18_7	person puts salt on onion	s32-d27	7530	10960	onion	10795
+s32-d27_18_8	person gets out pan	s32-d27	11018	13542	onion	13567
+s32-d27_18_9	person gets out butter	s32-d27	13558	14566	onion	14589
+s32-d27_18_10	person puts small slice of butter into pan	s32-d27	14576	15949	onion	15977
+s32-d27_18_11	person puts diced onion into pan	s32-d27	15959	16897	onion	16967
+s32-d27_18_12	person puts slice of butter in pan	s32-d27	16990	17413	onion	17359
+s32-d27_18_13	person puts onions onto plate	s32-d27	21459	22276	onion	22405
+s32-d27_19_1	She took out onion	s32-d27	311	754	onion	973
+s32-d27_19_2	She washed onion	s32-d27	867	1713	onion	1699
+s32-d27_19_3	She washed hands	s32-d27	1726	1856	onion	1897
+s32-d27_19_4	She took out cutting board	s32-d27	1904	2099	onion	2153
+s32-d27_19_5	She took out knife	s32-d27	2137	2347	onion	2443
+s32-d27_19_6	She washed knife	s32-d27	2361	2585	onion	2543
+s32-d27_19_7	She peeled onion	s32-d27	2699	3726	onion	3799
+s32-d27_19_8	She diced onion	s32-d27	3810	7585	onion	7571
+s32-d27_19_9	She washed hands	s32-d27	7595	7830	onion	7941
+s32-d27_19_10	She took out bowl	s32-d27	7881	8630	onion	8391
+s32-d27_19_11	She put onion in bowl	s32-d27	8652	9023	onion	9025
+s32-d27_19_12	She washed onion	s32-d27	9028	9392	onion	9291
+s32-d27_19_13	She added salt to onion	s32-d27	9443	10525	onion	10531

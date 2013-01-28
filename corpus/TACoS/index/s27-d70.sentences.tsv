@@ -1,0 +1,164 @@
+s27-d70_1_1	He took out orange	s27-d70	251	837	orange	786
+s27-d70_1_2	He took out cutting board	s27-d70	847	1138	orange	1169
+s27-d70_1_3	He took out knife	s27-d70	1138	1389	orange	1384
+s27-d70_1_4	He cut orange in half	s27-d70	1389	1581	orange	1594
+s27-d70_1_5	He took out juicer	s27-d70	1682	2141	orange	2094
+s27-d70_1_6	He twisted orange on juicer	s27-d70	2192	4835	orange	4855
+s27-d70_1_7	Removed orange from top of juicer	s27-d70	5292	6182	orange	6089
+s27-d70_1_8	He took out cup	s27-d70	6255	6516	orange	6453
+s27-d70_1_9	He poured juice into cup	s27-d70	6518	6947	orange	6967
+s27-d70_1_10	He added sugar to cup	s27-d70	7100	7749	orange	7791
+s27-d70_2_1	The person procures an orange from the fridge.	s27-d70	251	837	orange	825
+s27-d70_2_2	The person takes out a cutting board from the drawer.	s27-d70	847	1200	orange	1173
+s27-d70_2_3	The person takes out a knife from the drawer.	s27-d70	1200	1389	orange	1381
+s27-d70_2_4	The person cuts the orange in half.	s27-d70	1389	1581	orange	1627
+s27-d70_2_5	The person takes out a juice strainer from the drawer.	s27-d70	1682	2141	orange	2131
+s27-d70_2_6	The person grinds each half into the juice strainer with his palm.	s27-d70	2192	4835	orange	4861
+s27-d70_2_7	The person takes out a spoon from the drawer.	s27-d70	5292	5422	orange	5377
+s27-d70_2_8	The person throws the peels into the wastebin and uses the spoon to scoop out the pulp.	s27-d70	5596	6182	orange	6101
+s27-d70_2_9	The person takes a glass from the cupboard.	s27-d70	6255	6516	orange	6437
+s27-d70_2_10	The person pours the juice from the strainer into the glass.	s27-d70	6518	6947	orange	6959
+s27-d70_2_11	The person takes a package of sugar from the pantry.	s27-d70	7100	7366	orange	7295
+s27-d70_2_12	The person takes out a spoon from the drawer, scoops some sugar into the glass, stirs it with the juice, and returns the package to the pantry.	s27-d70	7805	8080	orange	8093
+s27-d70_3_1	The person takes an orange from the fridge.	s27-d70	251	837	orange	791
+s27-d70_3_2	The person takes out a cutting board from the drawer.	s27-d70	847	1138	orange	1137
+s27-d70_3_3	The person takes out a knife from the drawer.	s27-d70	1138	1389	orange	1377
+s27-d70_3_4	The person chops the orange in half on the cutting board.	s27-d70	1389	1581	orange	1591
+s27-d70_3_5	The person takes out a juice strainer from the drawer.	s27-d70	1682	2141	orange	2153
+s27-d70_3_6	The person grinds on half of the orange into the juice strainer with his palm.	s27-d70	2192	3538	orange	3725
+s27-d70_3_7	The person grinds the second orange half into the juice strainer.	s27-d70	3720	4835	orange	4911
+s27-d70_3_8	The person takes a spoon from the drawer.	s27-d70	5292	5422	orange	5529
+s27-d70_3_9	The person uses the spoon to scoop the pulp from the strainer into the trash.	s27-d70	5596	6182	orange	6131
+s27-d70_3_10	The person take a glass from the cupboard.	s27-d70	6255	6556	orange	6553
+s27-d70_3_11	The person pours the juice from the strainer into the glass.	s27-d70	6639	6947	orange	6981
+s27-d70_3_12	The person takes some sugar from the pantry.	s27-d70	7100	7412	orange	7449
+s27-d70_3_13	The person takes a spoon from the pantry and scoops some sugar into the glass of juice and stirs it.	s27-d70	7431	7749	orange	7765
+s27-d70_3_14	The person returns the package of sugar to the pantry.	s27-d70	7307	8080	orange	8079
+s27-d70_4_1	He took out orange	s27-d70	251	837	orange	785
+s27-d70_4_2	He took out cutting board	s27-d70	847	1138	orange	1135
+s27-d70_4_3	He took out knife	s27-d70	1138	1389	orange	1379
+s27-d70_4_4	He cut orange in half	s27-d70	1389	1581	orange	1593
+s27-d70_4_5	He took out juicer	s27-d70	1682	2141	orange	2125
+s27-d70_4_6	He twisted orange on juicer	s27-d70	2192	4835	orange	4879
+s27-d70_4_7	He took out spoon	s27-d70	5292	5422	orange	5409
+s27-d70_4_8	He threw away orange	s27-d70	5596	5687	orange	5739
+s27-d70_4_9	He took out glass	s27-d70	5768	6516	orange	6505
+s27-d70_4_10	He poured juice in glass	s27-d70	6518	6814	orange	6835
+s27-d70_5_1	An orange is removed from the refrigerator.	s27-d70	251	837	orange	833
+s27-d70_5_2	The person selects a cutting board and knife.	s27-d70	847	1420	orange	1409
+s27-d70_5_3	The orange  is cut in half.	s27-d70	1517	1581	orange	1603
+s27-d70_5_4	The person removes a juicer.	s27-d70	1682	2141	orange	2155
+s27-d70_5_5	One half of the orange is juiced.	s27-d70	2192	3538	orange	3565
+s27-d70_5_6	The other half of the orange is juiced.	s27-d70	3720	4835	orange	4845
+s27-d70_5_7	The orange peels are discarded.	s27-d70	5292	5687	orange	5699
+s27-d70_5_8	The orange pulp is discarded.	s27-d70	5768	6182	orange	6175
+s27-d70_5_9	A glass is removed from the cabinet.	s27-d70	6255	6516	orange	6511
+s27-d70_5_10	The juice is poured in the glass.	s27-d70	6892	6947	orange	6975
+s27-d70_5_11	Sugar is retrieved from the cabinet.	s27-d70	7100	7366	orange	7331
+s27-d70_5_12	Sugar is added to the glass with a spoon.	s27-d70	7307	7749	orange	7833
+s27-d70_5_13	The sugar is returned to the cabinet.	7805	8080
+s27-d70_5_14	Juice is ready.	7805	8080
+s27-d70_6_1	The man takes out an orange.	s27-d70	251	837	orange	859
+s27-d70_6_2	The man takes out a knife and a cutting board.	s27-d70	847	1420	orange	1453
+s27-d70_6_3	The man slices the orange in half.	s27-d70	1517	1581	orange	1675
+s27-d70_6_4	The man pushes and twist the orange halves into the juicer.	s27-d70	1682	4835	orange	4889
+s27-d70_6_5	The man pours the juice into the glass.	s27-d70	6518	6947	orange	7015
+s27-d70_6_6	He adds sugar to the glass.	s27-d70	7805	8080	orange	8123
+s27-d70_7_1	He gets an orange.	s27-d70	251	837	orange	757
+s27-d70_7_2	He gets a cutting board and knife.	s27-d70	847	1389	orange	1393
+s27-d70_7_3	He cuts the orange in half.	s27-d70	1389	1581	orange	1609
+s27-d70_7_4	He gets out a juicer.	s27-d70	1682	2141	orange	2147
+s27-d70_7_5	He juices the orange.	s27-d70	2192	4835	orange	4867
+s27-d70_7_6	He pours the juice into a glass.	s27-d70	5292	6814	orange	6877
+s27-d70_7_7	He adds sugar to the glass and stirs.	s27-d70	5292	7749	orange	7791
+s27-d70_8_1	He gets an orange.	s27-d70	251	837	orange	773
+s27-d70_8_2	He gets a cutting board and knife.	s27-d70	847	1420	orange	1417
+s27-d70_8_3	He halves the orange.	s27-d70	1517	1581	orange	1599
+s27-d70_8_4	He gets a juicer.	s27-d70	1682	2141	orange	2147
+s27-d70_8_5	He juices the orange.	s27-d70	2192	4835	orange	5123
+s27-d70_8_6	He discards the orange.	s27-d70	5292	5687	orange	5689
+s27-d70_8_7	He grabs a glass and puts the juice in it.	s27-d70	5768	6814	orange	6837
+s27-d70_8_8	He adds sugar to the glass and stirs.	s27-d70	6892	7749	orange	7771
+s27-d70_9_1	The man begins by selecting an orange from the fridge.	s27-d70	251	837	orange	811
+s27-d70_9_2	He then takes out a knife and a wooden cutting board.	s27-d70	847	1420	orange	1423
+s27-d70_9_3	Next, he uses the knife to cut the orange in half.	s27-d70	1517	1581	orange	1645
+s27-d70_9_4	He then takes out a juicer and juices the first half of the orange.	s27-d70	1682	3538	orange	3549
+s27-d70_9_5	He juices the second half of the orange.	s27-d70	3720	4835	orange	4843
+s27-d70_9_6	Next, he discards the used orange peels as well as some of the pulp.	s27-d70	5292	6182	orange	6153
+s27-d70_9_7	After retrieving a glass from the cupboard, he pours the juice into the glass.	s27-d70	6892	6947	orange	7133
+s27-d70_9_8	Next, he adds a spoonful of sugar to the juice.	s27-d70	7100	8080	orange	8001
+s27-d70_10_1	He grabs an orange.	s27-d70	251	837	orange	775
+s27-d70_10_2	He gets a knife and cutting board.	s27-d70	847	1389	orange	1399
+s27-d70_10_3	He cuts the orange in half.	s27-d70	1389	1581	orange	1597
+s27-d70_10_4	He juices the orange.	s27-d70	1682	4835	orange	4891
+s27-d70_10_5	He pours the juice into a glass.	s27-d70	5292	6814	orange	6843
+s27-d70_10_6	He adds sugar to the glass and stirs.	s27-d70	6255	7749	orange	7795
+s27-d70_11_1	The man begins by selecting an orange from the fridge.	s27-d70	251	837	orange	809
+s27-d70_11_2	He then retrieves a large knife and a wooden cutting board.	s27-d70	847	1420	orange	1417
+s27-d70_11_3	Next, he uses the knife to cut the orange in half.	s27-d70	1517	1581	orange	1665
+s27-d70_11_4	After getting out the juicer, he juices the first orange half.	s27-d70	1682	3538	orange	3561
+s27-d70_11_5	He then juices the second half of the orange.	s27-d70	3720	4835	orange	4871
+s27-d70_11_6	Next, he discards the orange peels and some of the waste pulp.	s27-d70	5292	6182	orange	6175
+s27-d70_11_7	He retrieves a glass from the cupboard and pours the orange juice into the glass.	s27-d70	6892	6947	orange	7069
+s27-d70_11_8	Finally, he adds a spoonful of sugar to the orange juice.	s27-d70	7805	7891	orange	7951
+s27-d70_12_1	The person gets out an orange.	s27-d70	251	837	orange	833
+s27-d70_12_2	The person gets out a plate.	s27-d70	847	1138	orange	1141
+s27-d70_12_3	The person gets out a knife.	s27-d70	1138	1389	orange	1385
+s27-d70_12_4	The person cuts the orange in half on the plate.	s27-d70	1389	1581	orange	1588
+s27-d70_12_5	The person gets out a juicer.	s27-d70	1682	2141	orange	2136
+s27-d70_12_6	The person puts each orange half on the juicer, pushes down and twists repeatedly until no more juice comes out.	s27-d70	2192	4835	orange	4836
+s27-d70_12_7	THe person gets out a spoon.	s27-d70	5292	5422	orange	5421
+s27-d70_12_8	The person throws the orange rinds away.	s27-d70	5596	5687	orange	5696
+s27-d70_12_9	The person uses the spoon to scrape pulp out of the juicer into the trash.	s27-d70	5768	6182	orange	6118
+s27-d70_12_10	The person gets out a glass.	s27-d70	6255	6516	orange	6508
+s27-d70_12_11	The person pours the juice from the juicer into the glass.	s27-d70	6255	6947	orange	6991
+s27-d70_12_12	The person gets out some sugar and another spoon.	s27-d70	7100	7516	orange	7537
+s27-d70_12_13	The person scoops sugar into the juice and stirs it.	s27-d70	7532	7749	orange	7797
+s27-d70_12_14	The person puts away the sugar.	s27-d70	7894	8080	orange	8061
+s27-d70_13_1	An orange is removed from the refrigerator.	s27-d70	251	837	orange	801
+s27-d70_13_2	The person selects a cutting board.	s27-d70	847	1138	orange	1133
+s27-d70_13_3	 The person selects a knife.	s27-d70	1138	1389	orange	1381
+s27-d70_13_4	The orange is cut in half.	s27-d70	1389	1581	orange	1583
+s27-d70_13_5	The person removed a juicer.	s27-d70	1682	2141	orange	2129
+s27-d70_13_6	One half of the orange is juiced.	s27-d70	2192	3538	orange	3557
+s27-d70_13_7	The other half of the orange is juiced.	s27-d70	3720	4835	orange	4845
+s27-d70_13_8	A spoon is removed.	s27-d70	5292	5422	orange	5393
+s27-d70_13_9	The orange peels and pulp are discarded.	s27-d70	5596	6182	orange	6169
+s27-d70_13_10	A glass is removed from the cabinet.	s27-d70	6255	6516	orange	6503
+s27-d70_13_11	The juice is poured in the glass.	s27-d70	6518	6947	orange	6967
+s27-d70_13_12	Sugar is retrieved from the cabinet.	s27-d70	7100	7366	orange	7329
+s27-d70_13_13	A spoon is removed.	s27-d70	7307	7516	orange	7523
+s27-d70_13_14	Sugar is added to the glass.	s27-d70	7532	7749	orange	7755
+s27-d70_13_15	The sugar is returned to the cabinet.	s27-d70	7805	8080	orange	8063
+s27-d70_14_1	He took out orange	s27-d70	251	837	orange	779
+s27-d70_14_2	He took out cutting board	s27-d70	847	1138	orange	1143
+s27-d70_14_3	He took out knife	s27-d70	1138	1389	orange	1377
+s27-d70_14_4	He cut orange in half	s27-d70	1389	1581	orange	1624
+s27-d70_14_5	He took out juicer	s27-d70	1682	2141	orange	2075
+s27-d70_14_6	He twisted orange on juicer	s27-d70	2192	4835	orange	4931
+s27-d70_14_7	He took out spoon	s27-d70	5292	5422	orange	5413
+s27-d70_14_8	He threw out orange scraps	s27-d70	5596	5687	orange	5663
+s27-d70_14_9	He took out glass	s27-d70	5768	6516	orange	6477
+s27-d70_14_10	He poured juice into cup	s27-d70	6518	6947	orange	6951
+s27-d70_15_1	He gets an orange from the refrigerator and a cutting board and knife from drawers.	s27-d70	251	1420	orange	1423
+s27-d70_15_2	He cuts the orange in half.	s27-d70	1517	1581	orange	1713
+s27-d70_15_3	He gets out a juicer and uses it take all of the juice from the two halves of the orange.	s27-d70	1682	4835	orange	5065
+s27-d70_15_4	He throws away the orange peels in the trash can.	s27-d70	5292	5687	orange	5715
+s27-d70_15_5	He gets rid of waste from the top of the juicer that is left over.	s27-d70	5768	6182	orange	6196
+s27-d70_15_6	He goes to the cabinet and gets out a glass.	s27-d70	6255	6556	orange	6564
+s27-d70_15_7	He pours the juice from the juicer into the glass.	s27-d70	6518	6947	orange	7179
+s27-d70_15_8	He gets sugar from the cabinet and pours a spoonful into the juice and mixes it in with a spoon.	s27-d70	7100	8080	orange	8216
+s27-d70_16_1	Remove orange from fridge.	s27-d70	251	837	orange	773
+s27-d70_16_2	Gather cutting board and knife on counter.	s27-d70	847	1389	orange	1404
+s27-d70_16_3	Cut orange in half.	s27-d70	1389	1581	orange	1577
+s27-d70_16_4	Put juicer on counter and hold steady with one hand.	1682	2141
+s27-d70_16_5	Push orange half onto juicer spike.	1682	2141
+s27-d70_16_6	Press orange half with heel of palm and rotate orange on spike.	s27-d70	2192	4835	orange	4835
+s27-d70_16_7	Spoon pulp from juicer into trash.	s27-d70	5292	6182	orange	6099
+s27-d70_16_8	Pour juice into glass.	s27-d70	6639	6947	orange	6944
+s27-d70_16_9	Add spoon full of sugar and stir.	s27-d70	7100	7749	orange	7751
+s27-d70_18_1	A man enters the kitchen, removes an orange from the refrigerator and places it on the counter.	s27-d70	251	837	orange	853
+s27-d70_18_2	The man removes a cutting board and knife from the drawer and cuts the orange in two.	s27-d70	847	1581	orange	1625
+s27-d70_18_3	The man removes a juice press from the drawer and presses one half of the orange on the juice press releasing the juice of the orange.	s27-d70	1682	3538	orange	3583
+s27-d70_18_4	The man repeats the previous action with the second half of the orange.	s27-d70	3720	4835	orange	4873
+s27-d70_18_5	The man removes a spoon from the drawers, scoops the orange pulp out of the juicer and throws it away with the orange peels.	s27-d70	5292	6182	orange	6209

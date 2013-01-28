@@ -1,0 +1,68 @@
+206	355	take out	hand	bowl	counter,drawer
+447	486	close	hand		drawer
+500	802	take out	hand	knife	counter,drawer
+808	847	close	hand		drawer
+854	1196	take out	hand	peeler	counter,drawer
+1204	1242	close	hand		drawer
+1268	1345	pour	faucet	water	bowl
+1414	1644	take out	hand	ginger	cupboard
+1698	2330	wash	hand	ginger	bowl
+2352	2407	throw in garbage	hand	peel	
+2417	2481	open	hand		drawer
+2488	2597	take out	hand	cutting board	counter,drawer
+2627	2953	wash	hand	ginger	bowl
+3021	4033	peel	peeler	ginger	
+4063	4207	move	hand	peel	bowl,side peeler
+4224	4690	wash	hand	peeler	
+4716	4868	peel	peeler	ginger	
+4873	4899	move	hand	peel	bowl,side peeler
+4918	5632	peel	peeler	ginger	
+5639	5689	move	hand	peel	bowl,side peeler
+5698	5780	move	hand	peel	bowl,counter
+5799	5932	peel	peeler	ginger	
+5939	6045	move	hand	peel	bowl,side peeler
+6069	6172	peel	peeler	ginger	
+6178	6269	move	hand	peel	bowl,side peeler
+6282	6609	peel	peeler	ginger	
+6615	6724	move	hand	peel	bowl,side peeler
+6765	6808	move	hand	peel	bowl,counter
+6814	6900	move	hand	peel	bowl,side peeler
+6914	8701	peel	peeler	ginger	
+8752	8890	cut	knife	ginger	
+8989	9476	wash	hand,knife	ginger	
+9974	10497	move	hand	peel	bowl,sink
+10537	10813	throw in garbage	bowl,hand	peel	
+10862	11101	clean	hand	sink	
+11111	11165	wash	hand	peeler	
+11170	11398	clean	hand	sink	
+11500	11571	throw in garbage	hand	garbage	
+11577	11627	open	hand		drawer
+11638	11706	put in	hand	peeler	,drawer
+11723	11804	put in	hand	knife	counter,drawer
+11820	11979	take out	hand	flat grater	drawer
+12267	13505	grate	flat grater	ginger	bowl
+13571	13628	scratch off	hand	ginger	bowl,flat grater
+13653	14798	grate	flat grater	ginger	bowl
+14804	15320	scratch off	hand	ginger	bowl,flat grater
+15438	15807	wash	hand	flat grater	
+15809	15922	move	hand	ginger	bowl,counter
+15985	16040	dry	sponge	flat grater	
+16074	16157	open	hand		drawer
+16164	16212	close	hand		drawer
+16234	16271	open	hand		drawer
+16288	16370	put in	hand	flat grater	,drawer
+16378	16448	put in	hand	cutting board	counter,drawer
+16474	16518	take out	hand	spice shaker	spice holder
+16524	16546	screw	hand	spice shaker	
+16569	16671	spice	spice shaker	spice	bowl
+16683	16741	screw	hand	spice shaker	
+16749	16768	put in	hand	spice shaker	,spice holder
+16778	16804	take out	hand	spice shaker	spice holder
+16804	16837	screw	hand	spice shaker	
+16851	16886	spice	spice shaker	spice	bowl
+16889	16932	screw	hand	spice shaker	
+16937	16962	put in	hand	spice shaker	,spice holder
+16971	17013	take out	hand	spice shaker	spice holder
+17022	17079	put in	hand	spice shaker	,spice holder
+17089	17159	take out	hand	teaspoon	drawer
+17165	17584	mix	teaspoon	ginger,spice	bowl

@@ -1,0 +1,179 @@
+The TACoS Corpus
+
+This file is part of the TACoS Corpus (the Saarbrücken Corpus of Textually Annotated Cooking Scenes), and contains a description of content and format of the corpus data.
+If you use this corpus for some kind of publication, please cite:
+
+@article{tacos:regnerietal:tacl,
+	Author = {Regneri, Michaela and Rohrbach, Marcus and Wetzel, Dominikus and Thater, Stefan and Schiele, Bernt and Pinkal, Manfred}, 
+	Journal = {Transactions of the Association for Computational Linguistics (TACL)},
+	Title = {Grounding Action Descriptions in Videos},
+	Year = {in press}}                    
+	
+This corpus is available from: http://www.coli.uni-saarland.de/projects/smile/page.php?id=tacos
+
+
+The videos of the TACoS corpus, the low-level annotations and the extracted visual features are part of the "MPII Composites" corpus. MPII Composites is described in the following paper:
+
+@inproceedings{rohrbach12eccv,
+	Author = {Rohrbach, Marcus and Regneri, Michaela and Andriluka, Micha and Amin, Sikandar and Pinkal, Manfred and Schiele, Bernt},
+	Booktitle = {Proceedings of ECCV 2012},  
+	Title = {Script Data for Attribute-based Recognition of Composite Activities},
+	Year = {2012}}
+
+The complete MPII Composites data is available from: http://www.d2.mpi-inf.mpg.de/mpii-composites .
+
+==========================================================================================================================================================
+
+Files and Formats: 
+All text files are 'tab separated values' (*.tsv), without a title row. (There are no tabulators in the texts that are non-separators) 
+We explain the content of the different columns below.
+ 
+
+----------------------------------------------------------------------------------------------------------------------------
+
+task-video-index.tsv: 
+
+This file contains a unique id for each kitchen task and lists all videos of the corpus 
+with their respective tasks. 
+
+Format:   id	vegetable	video-1	video-2	video-3	...
+
+* "id" is the task id. Each kitchen task is marked by a unique id.
+* "vegetable" is the vegetable that's prepared in the specific task.
+* "video-1..." is the list of videos in the corpus for the specific tasks. 
+ ** The video titles all follow the same pattern: s[xx]-d[yy], with "xx" and "yy" being two-digit numbers.
+    The "yy" number after "d" is identical to the associated kitchen task that's also given in the "id"  
+    column. 
+ ** The "xx" number after s marks the person ('subject') acting in the video, and is not further 
+    used in this corpus.
+* There are either 4 or 5 videos in the video list; each row contains 7 columns, 
+  with the last one being possibly empty.
+
+----------------------------------------------------------------------------------------------------------------------------       
+
+
+index.tsv and index/[video-id].sentences.tsv : 
+
+The index files all sentences in the (aligned part of the) corpus, along with their videos, adjusted start- and endframes
+and the original end annotation. index.tsv contains all sentences; the files in the "index" folder are splitted by video ids.
+
+Format: sentence-id	sentence	video	startframe	endframe	vegetable	annotated end 
+
+* "sentence-id" is an unique id for each sentence. It is canonically created in the following format:
+  [video-id]_[sequence no]_[event no] E.g. "s21-d35_16_2" is the second event of the 16th sequence we
+  collected for video s21-d35.
+* "sentence": the sentence in plain text.
+* "video": the video id, extracted for convenience.
+* "startframe" and "endframe": start and end of the event in the video, measured in frames.
+  For details on how those numbers were derived, please check section 3.3 in the above cited paper.
+* "vegetable": the vegetable prepared in the video
+* "annotated end": for completeness, we note the end frame for the action annotated by MTurkers in this 
+   column. The given start and end frames are computed based on this annotated end frame, using the
+   "MPII Composites" low-level annotation, given in the "lowlevel" folder.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+asim.tsv:
+
+This file contains the action description similarity gold standard used in the above cited paper. All action descriptions 
+were annotated by three native speakers of English. They were asked to judge the similarity of the given actions on a scale 
+from 1 ("dissimilar") to 5 ("the same or nearly the same"). Please check the above sited paper, Section 4, for details.
+
+Format: 
+id	sentence-1-id	sentence-1	vegetable-1	startframe-1	endframe-1	sentence-2-id	sentence-2	vegetable-2	startframe-2	endframe-2	annotator-1	annotator-2	annotator-2	average   
+
+("vegetable", "startframe" and "endframe" can also be retrieved by checking the row starting with the sentence id in "index.tsv", and are just 
+repeated for convenience.)
+
+* "id" is an identifier for the action description pair.
+* "sentence-1-id" and "sentence-2-id" are the sentence ids of the two given sentences. The plain text 
+  of the sentences can be retrieved from the "index.tsv" file.
+* "vegetable-1" and "vegetable-2" are the vegetables prepared in the video that was the stimulus for
+  the annotated action descriptions. Those vegetables were also shown to the annotators.
+* "startframe-1" and "startframe-2" are the start frames for the action described by the sentences                                                                                    
+* "endframe-1" and "endframe-2" are the end frames for the action              
+* "annotator-1", "annotator-2" and "annotator 3" are the values given by the three annotators
+* "average" is simply the average of the three annotator columns
+
+----------------------------------------------------------------------------------------------------------------------------
+
+alignments/[video-id].alignment.tsv :              
+
+Those files contain the low-level activity annotation of MPII composites and the aligned textual action descriptions. 
+There is one file for each video. One NL sequence (coming from the same MTurker) is one column. 
+There can be up to 20 NL sequences in a file, but  mostly there will be fewer than that. Each line has the same number of columns; 
+empty spaces between tabs indicate that there is no event aligned with the respective low-level activity.
+Low-level participants (tools, patient, places) can be empty.
+
+Format:
+start	end	ll-action	ll-tool(s)	ll-patient(s)	ll-location(s)	NL-sequence-1	NL-sequence-2 ....
+
+* start / end are the time frames for the low-level activity
+* ll-action is the action from the low-level activity
+* ll-tool(s) is a list of tools from the low-level annotation. If there is more than 1, they are 
+  separated by commas (",").
+* ll-patient(s) is the manipulated object of the low-level activity. It is very often the vegetable /
+  ingredient. In rare cases, there is more than one patient, the list is separated by commas then.
+* ll-location(s) can denote different types of places: If there is a comma in that column, the location of the patient changes
+  during the activity. The string before the comma denotes the source location of the movement, and the string after the comma is the target location. 
+  ("fridge, counter" means that something is moved from the fridge to the counter). Either one of the strings can be empty (but preceded or followed
+  by a comma), which means that either source or target is not specified. If there is no comma at all, the location of the patient might or might
+  not change during the action. In either case, the patient is initially in the given location.
+* NL-sequence-1 etc. are the (sentence ids of) the textual descriptions of the videos, given by the MTurkers. The 
+  sentences are always aligned with the last low-level action in the time interval they describe.
+  E.g. if an action corresponds to three low-level activities, it will be aligned with the 
+  last of the three, and the fields of the column aligned with the first two low-level activities
+  will be empty.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+lowlevel/[video-id].lowlevel.tsv and paraphrases/[video-id].paraphrases.tsv:
+
+Those files are partial copies of the alignment files. The *.lowlevel.tsv files are copies of the first 4 columns of the 
+alignment files, and *.paraphrases.tsv-files contain the respective natural language sequences.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+alignments-text/[video-id].alignment.tsv :    
+
+Those files have the same format and content as the files in the "alignments/" folder, only with plain text sentences
+instead of sentence ids. Those files are meant to provide a human-readable version of the TACoS corpus.      
+
+==========================================================================================================================================================
+
+Material not included in this package:
+The videos and the visual features need to be downloaded separately. We provide a short description of the files and 
+their URLs below.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+Videos 
+
+All videos contained in the corpus are *.avi files. Individual frames as JPEG-images are also available as part of 
+the MPII Composite corpus.
+
+The 127 videos are retrievable from http://datasets.d2.mpi-inf.mpg.de/tacos/videos.zip  (11 GB). 
+The video names follow the pattern s[xx]-d[yy].avi, with "xx" and "yy" being
+two-digit numbers, where "yy" is the associated kitchen task and "xx" is the id of the person/subject 
+(cf. the descriptions for task-video-index.tsv)
+
+----------------------------------------------------------------------------------------------------------------------------
+
+Visual features (not included in this package)
+
+All are stored in Matlab matrixes.
+They are extracted features on the video segments as defined in asim.tsv.
+The complete set of features for all videos is contained in the MPII Composites corpus, available from
+http://www.d2.mpi-inf.mpg.de/mpii-composites 
+
+http://datasets.d2.mpi-inf.mpg.de/tacos/videoFeatMat.mat  (41 MB)
+size 16000x1800: featureSize x video-segments
+The features described as "Visual raw features" in the paper.
+
+http://datasets.d2.mpi-inf.mpg.de/tacos/attributeFeatMat.mat  (<1 MB)
+size 218x1800: featureSize x videoSegments
+The classifier output as feature matrix, described under "Visual classifiers".
+
+The video-segments correspond to the segments defined in asim.tsv. The segments are ordered: The first
+900 are the segments for sentence-1 (from pair 1-900), and the second 900 are the segments for sentence-2 (from pair 1-900).
+

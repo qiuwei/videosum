@@ -1,0 +1,28 @@
+186	358	take out	hand	bowl	counter,cupboard
+401	692	take out	hand	egg	,fridge
+724	1084	take out	hand	teaspoon	,drawer
+1122	1386	tap	teaspoon	egg	
+1386	1630	peel	teaspoon	egg	
+1658	1747	peel	hand	egg	
+1747	1809	peel	teaspoon	egg	
+1809	1882	peel	hand	egg	
+1882	2142	peel	teaspoon	egg	
+2142	2274	peel	hand	egg	
+2543	3195	open egg	hand	egg white	bowl
+3268	3355	tap	teaspoon	egg	
+3376	3540	take apart	hand	egg	
+3609	3672	take apart	hand	egg	
+3723	3863	add	eggshell	egg white	bowl,eggshell
+3863	4010	add	teaspoon	yolk	bowl,eggshell
+4066	4126	move	hand	teaspoon	,sink
+4257	4358	throw in garbage	hand	eggshell	
+4371	4401	wash	hand	hand	
+4401	4431	shake	hand	hand	
+4496	4594	throw in garbage	hand	garbage	
+4605	4654	wash	hand	hand	
+4669	4718	wash	hand	teaspoon	
+4723	4747	shake	hand	teaspoon	
+4760	4834	put in	hand	teaspoon	,drawer
+4841	4932	clean	hand	counter	
+4932	4968	wash	hand	hand	
+4968	4998	shake	hand	hand	

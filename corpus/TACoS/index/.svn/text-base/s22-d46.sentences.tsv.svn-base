@@ -1,0 +1,181 @@
+s22-d46_1_1	Person cuts top of pineapple off.	s22-d46	231	1749	pineapple	1738
+s22-d46_1_2	Person throws away top of pineapple.	s22-d46	1785	1875	pineapple	1850
+s22-d46_1_3	Person cuts off the bottom of pineapple.	1975	2141
+s22-d46_1_4	Person throws away bottom of pineapple.	1975	2141
+s22-d46_1_5	Person puts pineapple upside down.	s22-d46	2196	2235	pineapple	2280
+s22-d46_1_6	Person slices down middle cutting pineapple in half.	s22-d46	2303	2622	pineapple	2563
+s22-d46_1_7	Person puts half of pineapple on it's side, rind side up.	s22-d46	2682	2951	pineapple	3311
+s22-d46_1_8	Person cuts pineapple into slices from side(top) to side(bottom).	s22-d46	3340	4337	pineapple	4304
+s22-d46_1_9	Person puts plate on counter.	s22-d46	4371	4651	pineapple	4654
+s22-d46_1_10	Person cuts the rind off the pineapple slices and places the inner pineapple on plate.	s22-d46	4702	9361	pineapple	9354
+s22-d46_1_11	Person throws away rinds.	s22-d46	9436	9533	pineapple	9523
+s22-d46_1_12	Person takes knife to other half of the pineapple.	s22-d46	9543	9620	pineapple	9690
+s22-d46_1_13	Person cuts the second half of the pineapple into slices from top to bottom.	s22-d46	9665	10696	pineapple	10680
+s22-d46_1_14	Person cuts the rinds off the slices from the second half of pineapple putting them on plate.	s22-d46	10731	14496	pineapple	14516
+s22-d46_2_1	A woman enters the kitchen, removes a cutting board from the drawer and places it on the counter.	s22-d46	231	485	pineapple	543
+s22-d46_2_2	She retrieves a pineapple from the cupboard and places it on the cutting board.	s22-d46	545	782	pineapple	851
+s22-d46_2_3	Using the knife, she cuts the grocery tag off of the pineapple and throws the tag in the trash.	s22-d46	827	1343	pineapple	1415
+s22-d46_2_4	She cuts the top off of the pineapple and throws it in the trash.	s22-d46	1556	1875	pineapple	1923
+s22-d46_2_5	She cuts the bottom of off the pineapple and throws it in the trash.	s22-d46	1975	2235	pineapple	2253
+s22-d46_2_6	She sets the pineapple upright on its end and cuts it in two down the center.	s22-d46	2303	2622	pineapple	2615
+s22-d46_2_7	She thinly slices one half of the pineapple crosswise and then retrieves a plate from the cupboard.	s22-d46	2682	4651	pineapple	4771
+s22-d46_2_8	She cuts the rind off of each individual slice of pineapple, places the pineapple on the plate and throws the rinds in the trash.	s22-d46	4702	9533	pineapple	9557
+s22-d46_2_9	She cuts the rind off of each individual slice of pineapple from the second half of the pineapple and places them on the plate.	s22-d46	14545	14659	pineapple	14841
+s22-d46_3_1	The person gets out a cutting board.	s22-d46	231	485	pineapple	475
+s22-d46_3_2	The person gets out a pineapple.	s22-d46	545	782	pineapple	773
+s22-d46_3_3	The person gets out a knife.	s22-d46	827	1085	pineapple	1091
+s22-d46_3_4	The person cuts off the price tag, top and bottom of the pineapple and throws them away.	s22-d46	1085	2235	pineapple	2281
+s22-d46_3_5	The person cuts the pineapple in half.	s22-d46	2303	2622	pineapple	2613
+s22-d46_3_6	The person gets out another knife.	s22-d46	2682	2951	pineapple	2971
+s22-d46_3_7	The person cuts one half of the pineapple into slices.	s22-d46	3340	4337	pineapple	4327
+s22-d46_3_8	The person gets out a plate.	s22-d46	4371	4651	pineapple	4641
+s22-d46_3_9	The person cuts off the rind of each pineapple slice and puts the slices on the plate.	s22-d46	4702	9361	pineapple	9375
+s22-d46_3_10	The person throws away the rinds.	s22-d46	9436	9533	pineapple	9577
+s22-d46_3_11	The person slices up the other pineapple half.	s22-d46	9543	10696	pineapple	10709
+s22-d46_3_12	The person cuts off the rind of each pineapple slice and puts the slices on the plate.	s22-d46	10731	14496	pineapple	14517
+s22-d46_4_1	She walked to the drawer and took out a cutting board.	s22-d46	231	485	pineapple	531
+s22-d46_4_2	she went to the pantry, took out a pineapple, and brought it to the table.	s22-d46	545	782	pineapple	783
+s22-d46_4_3	She took out a knife, cut off the tag, and threw it away.	s22-d46	827	1203	pineapple	1291
+s22-d46_4_4	She cut of the top of the pineapple and threw it away.	s22-d46	1242	1875	pineapple	1855
+s22-d46_4_5	She cut off the bottom of the pineapple and threw that away.	s22-d46	1975	2235	pineapple	2217
+s22-d46_4_6	She cut the pineapple in half.	s22-d46	2303	2622	pineapple	2725
+s22-d46_4_7	She sliced one half of the pineapple.	s22-d46	2682	4337	pineapple	4471
+s22-d46_4_8	She went to the cabinets, took out a plate, and placed it on the counter.	s22-d46	4371	4651	pineapple	4695
+s22-d46_4_9	She used a pearing knife to remove the skin of the slices and placed the slices on the plate.	s22-d46	4702	9361	pineapple	9383
+s22-d46_4_10	She threw the Scraps away.	s22-d46	9436	9533	pineapple	9533
+s22-d46_4_11	She sliced and peeled the remaining pineapple.	s22-d46	9543	14659	pineapple	14739
+s22-d46_5_1	Get out your cutting board, knife and pineapple.	s22-d46	231	1085	pineapple	1091
+s22-d46_5_2	Cut the top and bottom of the pineapple off horizontally.	s22-d46	1085	2141	pineapple	2163
+s22-d46_5_3	Discard the top and bottom pieces.	s22-d46	2196	2235	pineapple	2241
+s22-d46_5_4	Cut pineapple in half down the middle, length-wise.	s22-d46	2303	2622	pineapple	2637
+s22-d46_5_5	Cut into thin slices, width-wise.	s22-d46	2682	4337	pineapple	4455
+s22-d46_5_6	Cut the rind off the thin slices.	s22-d46	4371	9315	pineapple	9337
+s22-d46_5_7	Cut the slices and rind of the other half of the pineapple.	s22-d46	14545	14659	pineapple	14807
+s22-d46_6_1	She gets a cutting board.	s22-d46	231	485	pineapple	481
+s22-d46_6_2	She gets a pineapple and a knife.	s22-d46	545	1085	pineapple	1055
+s22-d46_6_3	She cuts off the top and the bottom of the pineapple.	s22-d46	1085	2141	pineapple	2155
+s22-d46_6_4	She cuts the pineapple in half.	s22-d46	2196	2622	pineapple	2603
+s22-d46_6_5	She slices the first half of the pineapple, then cuts off and discards the skin.	s22-d46	2682	9533	pineapple	9519
+s22-d46_6_6	She slices and removes the skin from the other half.	s22-d46	9543	14496	pineapple	14511
+s22-d46_7_1	Take out a cutting board and a pineapple.	s22-d46	231	782	pineapple	859
+s22-d46_7_2	Take out a large knife and cut off and discard the pineapple tag.	s22-d46	827	1343	pineapple	1347
+s22-d46_7_3	Cut off and discard the top and bottom of the pineapple.	s22-d46	1556	2235	pineapple	2329
+s22-d46_7_4	Slice the pineapple in half lengthwise and take out a small knife.	s22-d46	2303	2951	pineapple	3035
+s22-d46_7_5	Lay the pineapple half flat and cut thin semicircles with the large knife.	s22-d46	3340	4337	pineapple	4389
+s22-d46_7_6	Take out a large plate and use the small knife to cut the peel off of each pineapple semicircle, then put the pieces on the plate.	s22-d46	4371	9361	pineapple	9449
+s22-d46_7_7	Discard the peel and repeat the cutting and peeling process for the other pineapple half.	s22-d46	9543	14659	pineapple	14687
+s22-d46_8_1	She took out cutting board	s22-d46	231	438	pineapple	431
+s22-d46_8_2	She took out pineapple	s22-d46	438	782	pineapple	787
+s22-d46_8_3	She took out knife	s22-d46	827	1085	pineapple	1083
+s22-d46_8_4	She cut off top of pineapple	s22-d46	1085	1749	pineapple	1779
+s22-d46_8_5	She cut off bottom of pineapple	s22-d46	1785	2141	pineapple	2213
+s22-d46_8_6	She cut pineapple in half	s22-d46	2196	2622	pineapple	2759
+s22-d46_8_7	She took out second knife	s22-d46	2682	2951	pineapple	2957
+s22-d46_8_8	She took out plate	s22-d46	3340	4651	pineapple	4535
+s22-d46_8_9	She cut off skin of pineapple	s22-d46	4702	9315	pineapple	9333
+s22-d46_9_1	A woman enters the kitchen removes a cutting board from the drawer and places it on the counter.	s22-d46	231	485	pineapple	531
+s22-d46_9_2	She removes a knife from the drawer, cuts the tag off of the pineapple and throws the tag in the trash.	s22-d46	545	1343	pineapple	1399
+s22-d46_9_3	She cuts the top and the bottom off of the pineapple and throws them in the trash.	s22-d46	1556	2235	pineapple	2257
+s22-d46_9_4	She sets the pineapple upright on its end and cuts it into two halves.	s22-d46	2303	2622	pineapple	2667
+s22-d46_9_5	She slices one half of the pineapple crosswise, retrieves a plate from the cupboard and places it on the counter.	s22-d46	2682	4651	pineapple	4663
+s22-d46_9_6	She removes the rind from each individual pineapple slice, placing the slices on the plate and the rinds in the trash.	s22-d46	9327	9533	pineapple	9573
+s22-d46_9_7	She cuts the other half of the pineapple into slices crosswise.	s22-d46	9543	10696	pineapple	10703
+s22-d46_9_8	She removes the rind from each individual pineapple slice from the second half of the pineapple.	s22-d46	9327	14659	pineapple	14841
+s22-d46_10_1	Takes out a cutting board.	s22-d46	231	438	pineapple	449
+s22-d46_10_2	Takes out a pineapple from the cabinet.	s22-d46	438	782	pineapple	743
+s22-d46_10_3	Takes out a knife from the drawer.	s22-d46	827	1085	pineapple	1057
+s22-d46_10_4	Cuts off the ends of the pineapple.	s22-d46	1085	2141	pineapple	2187
+s22-d46_10_5	Slices the pineapple in half.	s22-d46	2196	2622	pineapple	2585
+s22-d46_10_6	Slices up the first half of the pineapple.	s22-d46	2682	4337	pineapple	4329
+s22-d46_10_7	Takes out a plate from the cabinet.	s22-d46	4371	4651	pineapple	4593
+s22-d46_10_8	Peels the first half of the pineapple and places on a plate.	s22-d46	4702	9361	pineapple	9381
+s22-d46_10_9	Slices up the second half of the pineapple.	s22-d46	9436	10696	pineapple	10725
+s22-d46_10_10	Peels the second half and places on a plate.	s22-d46	14545	14659	pineapple	14651
+s22-d46_11_1	A woman enters the kitchen, removes a cutting board from the drawer, a pineapple from the pantry and sets them both on the counter.	s22-d46	231	782	pineapple	787
+s22-d46_11_2	She removes a knife from the drawer, cuts the tag off of the pineapple and throws the tag into the trash.	s22-d46	827	1343	pineapple	1421
+s22-d46_11_3	She cuts the top and the bottom off of the pineapple and throws them in the trash.	s22-d46	1556	1875	pineapple	1955
+s22-d46_11_4	She sets the pineapple up on its end and cuts into two halves down the center.	s22-d46	1975	2622	pineapple	2689
+s22-d46_11_5	She slices one half of the pineapple crosswise, retrieves a plate from the cupboard and places it on the counter.	s22-d46	2682	4651	pineapple	4659
+s22-d46_11_6	she removes the rinds from each individual pineapple slice, places them on the plate and throws the rinds into the trash.	s22-d46	4702	9533	pineapple	9565
+s22-d46_11_7	The slices the other half of the pineapple crosswise, removes the rinds from the each individual piece and places them on the plate.	s22-d46	9436	14659	pineapple	14841
+s22-d46_12_1	The person removes the fruit label.	s22-d46	231	1203	pineapple	1252
+s22-d46_12_2	The person chops off and discard the top of the pineapple.	s22-d46	1242	1875	pineapple	1864
+s22-d46_12_3	The person chops off and discard the bottom of the pineapple.	s22-d46	1975	2235	pineapple	2229
+s22-d46_12_4	The person slices the pineapple in half.	s22-d46	2303	2622	pineapple	2632
+s22-d46_12_5	The person slices one of the pineapple half into smaller slices.	s22-d46	2682	4337	pineapple	4339
+s22-d46_12_6	The person peels the skin off the small pineapple slices and discards them.	s22-d46	4702	9533	pineapple	9547
+s22-d46_12_7	The person slices the second pineapple half into smaller slices.	s22-d46	9543	10696	pineapple	10709
+s22-d46_12_8	The person peels the skin off the small pineapple slices.	s22-d46	10731	14659	pineapple	14842
+s22-d46_13_1	The person places a cutting board and a pineapple on the counter.	s22-d46	231	782	pineapple	863
+s22-d46_13_2	The person uses a carving knife to remove the top and bottom from the pineapple.	s22-d46	827	2141	pineapple	2185
+s22-d46_13_3	The person slices the pineapple in half axially.	s22-d46	2196	2622	pineapple	2611
+s22-d46_13_4	The person uses the carving knive to cut one of the halves into quarter-inch lateral slices.	s22-d46	2682	4337	pineapple	4371
+s22-d46_13_5	The person places a plate on the counter.	s22-d46	4371	4651	pineapple	4715
+s22-d46_13_6	The person uses a paring knife to remove the outer peel from each lateral slice, placing it on the plate when complete.	s22-d46	4371	9361	pineapple	9461
+s22-d46_13_7	The person discards the outer peels.	s22-d46	9436	9533	pineapple	9567
+s22-d46_13_8	The person repeats the previous process (slice, peel, remove to plate) with the second half of the pineapple.	s22-d46	9543	14496	pineapple	14547
+s22-d46_14_1	She took out cutting board	s22-d46	231	438	pineapple	434
+s22-d46_14_2	She took out pineapple	s22-d46	438	782	pineapple	755
+s22-d46_14_3	She took out knife	s22-d46	827	1085	pineapple	1081
+s22-d46_14_4	She cut off tag	s22-d46	1085	1203	pineapple	1188
+s22-d46_14_5	She threw out tag	s22-d46	1242	1343	pineapple	1352
+s22-d46_14_6	She cut off top of pineapple	s22-d46	1556	1749	pineapple	1754
+s22-d46_14_7	She threw out top of pineapple	s22-d46	1785	1875	pineapple	1872
+s22-d46_14_8	She cut off bottom of pineapple	s22-d46	1975	2141	pineapple	2157
+s22-d46_14_9	She threw out bottom of pineapple	s22-d46	2196	2235	pineapple	2218
+s22-d46_14_10	She cut pineapple in half	s22-d46	2303	2622	pineapple	2600
+s22-d46_14_11	She took out knife	s22-d46	2682	2951	pineapple	2955
+s22-d46_14_12	She sliced pineapple	s22-d46	3340	4337	pineapple	4334
+s22-d46_14_13	She took out plate	s22-d46	4371	4651	pineapple	4585
+s22-d46_14_14	She cut skin off pineapple	s22-d46	4702	9361	pineapple	9374
+s22-d46_15_1	She opens a drawer to get out a cutting board, takes a pineapple out of the cabinet, and gets a knife out of a drawer.	s22-d46	231	1085	pineapple	1102
+s22-d46_15_2	She cuts the pineapple's tag off and throws it in the trash can.	s22-d46	1085	1343	pineapple	1386
+s22-d46_15_3	She uses the knife to cut the leaves off the top and throws them in the trash can, leaving the drawer with the trash can in it open.	s22-d46	1556	1875	pineapple	1973
+s22-d46_15_4	She cuts the bottom off the pineapple, throwing it in the trash, and then cuts the remaining portion of the pineapple in half, from top to bottom.	s22-d46	1975	2622	pineapple	2659
+s22-d46_15_5	She opens the drawer and gets out another knife and then lays one half of the pineapple face up on the counter and the other one face down on the cutting board.	s22-d46	2682	3376	pineapple	3466
+s22-d46_15_6	She slices the pineapple on the cutting board into pieces.	s22-d46	3413	4337	pineapple	4469
+s22-d46_15_7	She goes to the cabinet and gets out a plate.	s22-d46	4371	4651	pineapple	4760
+s22-d46_15_8	She takes each pieces of pineapple that is on the cutting board, cuts off the rough outside, places the inner portion on the plate, and finally, when she is done, throws away all of the exterior sides that she has cut off into the trash can.	s22-d46	9436	9533	pineapple	9578
+s22-d46_15_9	She does the same to the other side and eats a piece of pineapple.	s22-d46	10731	14659	pineapple	14842
+s22-d46_16_1	She took out cutting board	s22-d46	231	438	pineapple	446
+s22-d46_16_2	She took out pineapple	s22-d46	438	782	pineapple	821
+s22-d46_16_3	She took out knife	s22-d46	827	1085	pineapple	1083
+s22-d46_16_4	She cut off tag	s22-d46	1085	1203	pineapple	1192
+s22-d46_16_5	She cut off top of pineapple	s22-d46	1242	1749	pineapple	1750
+s22-d46_16_6	She threw away bottom of pineapple	s22-d46	1785	2235	pineapple	2225
+s22-d46_16_7	She cut pineapple in half	s22-d46	2303	2622	pineapple	2623
+s22-d46_16_8	She took out second knife	s22-d46	2682	2951	pineapple	2958
+s22-d46_16_9	She sliced pineapple	s22-d46	3340	4337	pineapple	4369
+s22-d46_16_10	She took out plate	s22-d46	4371	4651	pineapple	4592
+s22-d46_16_11	She peeled skin off pineapple	s22-d46	4702	9315	pineapple	9323
+s22-d46_17_1	Get a cutting board ready.	s22-d46	231	438	pineapple	440
+s22-d46_17_2	Get your pineapple, knife, and cut off the tag on pineapple.	s22-d46	438	1203	pineapple	1173
+s22-d46_17_3	Slice off the top leafy bit of the pineapple and discard.	s22-d46	1242	1875	pineapple	1888
+s22-d46_17_4	Slice off the hard bottom of the pineapple and discard.	s22-d46	1975	2235	pineapple	2258
+s22-d46_17_5	Slice pineapple halfway vertically.	s22-d46	2303	2622	pineapple	2692
+s22-d46_17_6	Find a pearing knife to cut the hard skin off of the sides of the pineapple.	s22-d46	2682	2951	pineapple	2995
+s22-d46_17_7	Slice one half of the pineapple horizontally into half-inch slices and use the pearing knife to peel the hard skin off.	s22-d46	4702	9533	pineapple	9566
+s22-d46_17_8	Slice the remaining half pineapple horizontally into half-inch slices and cut off the hard skin.	s22-d46	9543	14659	pineapple	14842
+s22-d46_18_1	The person takes out a cutting board.	s22-d46	231	438	pineapple	459
+s22-d46_18_2	The person gets a pineapple from the pantry.	s22-d46	438	782	pineapple	797
+s22-d46_18_3	The person takes a large knife from the drawer.	s22-d46	827	1085	pineapple	1113
+s22-d46_18_4	The person cuts the tag from the pineapple and places it into the trash.	s22-d46	1085	1343	pineapple	1333
+s22-d46_18_5	The person cuts the fronds off the top of the pineapple and places it into the garbage.	s22-d46	1556	1875	pineapple	1937
+s22-d46_18_6	The person cuts the pineapple into halves.	s22-d46	1975	2622	pineapple	2637
+s22-d46_18_7	The person gets a small knife from the drawer.	s22-d46	2682	2951	pineapple	2961
+s22-d46_18_8	The person slices one half of the pineapple into strips, gets a plate from the cupboard, and then peels the rind of the pineapple half and places the segment onto the plate.	s22-d46	9327	9361	pineapple	9355
+s22-d46_18_9	The person takes the rind from the first half and throws them in the garbage.	s22-d46	4702	9533	pineapple	9557
+s22-d46_18_10	The person cuts the other half of the pineapple into sections with the large knife, then uses the smaller knife to remove the rind and place the sections onto the plate.	s22-d46	9543	14496	pineapple	14549
+s22-d46_19_1	She took out cutting board	s22-d46	231	438	pineapple	453
+s22-d46_19_2	She took out pineapple	s22-d46	438	782	pineapple	789
+s22-d46_19_3	She took out knife	s22-d46	827	1085	pineapple	1085
+s22-d46_19_4	She cut tag off pineapple	s22-d46	1085	1203	pineapple	1183
+s22-d46_19_5	She threw away tag	s22-d46	1242	1343	pineapple	1343
+s22-d46_19_6	She cut off pineapple top	s22-d46	1556	1749	pineapple	1755
+s22-d46_19_7	She cut off bottom of pineapple	s22-d46	1785	2141	pineapple	2179
+s22-d46_19_8	She cut pineapple in half	s22-d46	2196	2622	pineapple	2693
+s22-d46_19_9	She took out small knife	s22-d46	2682	2951	pineapple	2963
+s22-d46_19_10	She sliced pineapple	s22-d46	3340	4337	pineapple	4321
+s22-d46_19_11	She took out plate	s22-d46	4371	4651	pineapple	4597
+s22-d46_19_12	She cut off pineapple skin	s22-d46	3340	9361	pineapple	9369
+s22-d46_19_13	She threw away skin	s22-d46	9436	9533	pineapple	9551
